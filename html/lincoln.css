@@ -1,9 +1,10 @@
 @import "highlight.css";
 
 /* link colors to match header */
-a { color:  #02023a; }
+a:link { color:  #02023a; }
 a:visited { color: #660000; }
-a:hover { background: #ebebeb; }
+a:link:hover { background: #ebebeb; }
+/* note: color & background is for links only, not anchors */
 
 body {
      text-align:center;
