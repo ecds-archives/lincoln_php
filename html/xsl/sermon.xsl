@@ -72,8 +72,15 @@
 <xsl:template match="pb">
     <hr class="pb"/>
   <p class="pagebreak"> 
-    Page <xsl:value-of select="@n"/>
-  </p> 
+    <a>	<!-- anchor to jump to a specific page -->
+      <xsl:attribute name="name">page<xsl:value-of select="@n"/></xsl:attribute>
+      Page <xsl:value-of select="@n"/>
+   </a>
+    </p> 
+</xsl:template>
+
+<xsl:template match="lb">
+  <br/>
 </xsl:template>
 
 <!--
