@@ -43,7 +43,11 @@ $conditions = array();
 if ($kw) {
     if ($mode == "exact") {
         array_push($conditions, "tf:containsText(\$a, '$kw')");
-    } else {
+    }
+    if ($mode == "synonym") {
+        array_push($conditions, "tf:containsText(\$a, tf:synonym('$kw'))");
+    }
+    else {
         foreach ($kwarray as $k){
             $term = ($mode == "phonetic") ? "tf:phonetic('$k')" : "'$k'";
             array_push($conditions, "tf:containsText(\$a, $term)");
@@ -96,10 +100,12 @@ $tamino->getXqueryCursor();
 
 $xsl_file = "search.xsl";
 
+
 // pass search terms into xslt as parameters 
 // (xslt passes on terms to browse page for highlighting)
 $term_list = implode("|", $myterms);
 $xsl_params = array("term_list"  => $term_list);
+
 
 
 print '<div class="content">';
