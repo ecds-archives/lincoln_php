@@ -28,7 +28,7 @@
 
 <xsl:template match="bibl">
  <p>
-  <a><xsl:attribute name="href">sermon.php?id=<xsl:value-of select="../@id"/><xsl:if test="$term_string != 0"><xsl:value-of select="$term_string"/></xsl:if></xsl:attribute>
+  <a><xsl:attribute name="href">sermon.php?id=<xsl:value-of select="../@id"/><xsl:value-of select="$term_string"/></xsl:attribute>
   <xsl:value-of select="title"/></a><br/>
   <xsl:value-of select="author"/>. <xsl:value-of select="pubPlace"/>, <xsl:value-of select="date"/>.
  </p>
