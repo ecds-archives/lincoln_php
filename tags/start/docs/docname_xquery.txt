@@ -1,0 +1,32 @@
+declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
+declare namespace xs = "http://www.w3.org/2001/XMLSchema"
+declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
+for $q in input()/TEI.2
+let $docname := tf:getDocname(xf:root($q))
+let $id := tf:getInoId(xf:root($q))
+let $time := tf:getLastModified(xf:root($q))
+return <TEI.2>
+<docName>{$docname}</docName>
+<lastModified>{$time}</lastModified>
+<id>{$id}</id>
+</TEI.2>
+
+
+THE FOLLOWING QUERY WORKS TO CHECK IF A PARTICULAR FILE EXISTS
+
+declare namespace
+tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
+declare namespace xs = "http://www.w3.org/2001/XMLSchema"
+declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
+for $q in input()/TEI.2
+let $docname := tf:getDocname(xf:root($q))
+let $id := tf:getInoId(xf:root($q))
+let $time := tf:getLastModified(xf:root($q))
+where $docname eq 'woolley.xml'
+return <TEI.2>
+<docName>{$docname}</docName>
+<lastModified>{$time}</lastModified>
+<id>{$id}</id>
+</TEI.2>
+
+
