@@ -3,21 +3,37 @@ a { color:  #02023a; }
 a:visited { color: #660000; }
 a:hover { background: #ebebeb; }
 
+body {
+     text-align:center;
+     }
+     
+div.content
+    {
+    text-align:left;
+    }
+
+h1 { font-family: Book Antiqua; color: #660000; }
+h2 { font-family: Book Antiqua; color: #000033; font-stretch: narrower;}
+
 span.author { font-weight: bold; }
-li.sermon { list-style-type: circle; padding-left: 15; text-indent: -15px; }
+li.sermon { list-style-type: circle; padding-left: 15px; text-indent: -15px; }
 
 /* styles for the header and footer */
-div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; }
+div.header, div.footer { text-align: center; width: 800px; /*665px;*/ margin: auto; }
 div.header { border: 3px solid #02023a;} 
-div.header h1 { font-family: Book Antiqua; font-size: 36pt; color: #660000; margin: -1; }
-div.header h2 { font-family: Book Antiqua; font-size: 13pt; color: #000033; margin: -4; font-stretch: narrower;}
+div.header h1 { font-size: 36pt; margin: -1px; }
+div.header h2 { font-size: 13pt; margin: -4px; }
 div.header a { text-decoration: none; padding-right: 1px; padding-left: 1px; }
-div.header img { float: left; } 
-div.header p {margin: 0; }
+div.header img { float: left;} 
+div.header p {margin: 0px; }
 div.header p.links,div.footer p.links { border-top: 2px solid #000033; margin: 5px; text-align: center; vertical-align: middle; font-size: 90%; color: #000033;}
-div.header p#nav { width: 45%; }
+div.header p#nav { width: 50%;}
 div.header p#resources {clear: left;}
-div.footer p#nav { border: none }
+div.footer p#nav-foot { border: none }
 
+/*styles for the index page */
+
+
+div#overview {margin: 1in; margin-top:0.5in;}
 
 
