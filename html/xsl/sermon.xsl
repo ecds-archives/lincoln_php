@@ -58,9 +58,9 @@
    <xsl:attribute name="src"><xsl:value-of
 	select="concat($graphicsPrefix, @entity,$graphicsSuffix)"/></xsl:attribute>
    <!-- display text if images are not turned on -->
-   <xsl:attribute name="alt"><xsl:value-of select="figDesc"/></xsl:attribute>
+   <xsl:attribute name="alt"><xsl:value-of select="normalize-space(figDesc)"/></xsl:attribute>
    <!-- show text on mouse-over (in some browsers) -->
-   <xsl:attribute name="title"><xsl:value-of select="figDesc"/></xsl:attribute>
+   <xsl:attribute name="title"><xsl:value-of select="normalize-space(figDesc)"/></xsl:attribute>
   </xsl:element> <!-- img -->
   </xsl:element> <!-- a -->
  </p> 
