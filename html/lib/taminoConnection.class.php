@@ -11,6 +11,9 @@ class taminoConnection {
   var $coll;
   // whether or not to display debugging information
   var $debug;
+
+  // basedir (xsl files should be in xsl directory under this)
+  var $basedir;
   
   // these variables used internally
   var $base_url;
@@ -37,12 +40,15 @@ class taminoConnection {
     $this->coll = $argArray['coll'];
     $this->debug = $argArray['debug'];
 
+    // if basedir is passed in, use that; otherwise, use current directory
+    $this->basedir = $argArray['basedir'] ?  $argArray['basedir'] : getcwd ();
+
     $this->base_url = "http://$this->host/tamino/$this->db/$this->coll?";
 
-    // variables for highlighting search terms
-    $this->begin_hi[0]  = "<span class='term1'><b>";
-    $this->begin_hi[1] = "<span class='term2'><b>";
-    $this->begin_hi[2] = "<span class='term3'><b>";
+    // strings for highlighting search terms 
+    for ($i = 0; $i < 4; $i++) {
+      $this->begin_hi[$i]  = "<span class='term" . ($i + 1) . "'><b>";
+    }
     $this->end_hi = "</b></span>";
   }
 
@@ -51,12 +57,13 @@ class taminoConnection {
   function xquery ($query, $position = NULL, $maxdisplay = NULL) {
     $myurl = $this->base_url . "_xquery=" . $this->encode_xquery($query);
     if (isset($position) && isset($maxdisplay)) {
-      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague";
+      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague&_encoding=utf-8";
     }
     if ($this->debug) {
       print "DEBUG: In function taminoConnection::xquery, url is $myurl.<p>";
     }
 
+    
     $this->xmlContent = file_get_contents($myurl);
     if ($this->debug) {
       $copy = $this->xmlContent;
@@ -65,21 +72,40 @@ class taminoConnection {
       print "DEBUG: in taminoConnection::xquery, xmlContent is <pre>$copy</pre>"; 
     }
 
-    $length = strlen($this->xmlContent);
-    if ($length < 50000) {
-      // phpDOM can only handle xmlContent within certain size limits
-      $this->xml = new XML($this->xmlContent);
-      if (!($this->xml)) {        ## call failed
-	print "TaminoConnection xquery Error: unable to retrieve xml content.<br>";
-      }
-      $error = $this->xml->getTagAttribute("ino:returnvalue", 
+    if ($this->xmlContent) {		// if xquery was successful
+      $length = strlen($this->xmlContent);
+      if ($length < 500000) {
+        // phpDOM can only handle xmlContent within certain size limits
+        $this->xml = new XML($this->xmlContent);
+        if (!($this->xml)) {        ## call failed
+  	print "TaminoConnection::xquery Error: unable to retrieve xml content, or result size is too large.<br>";
+        }
+        $error = $this->xml->getTagAttribute("ino:returnvalue", 
 					   "ino:response/ino:message");
+      } else {
+        // not really a tamino error.... might have unexpected results
+        $this->xml = 0;
+        $error = 0;
+      }
+
+      if (!($error)) {    // tamino Error code (0 = success)
+       $this->getXQueryCursor();
+      } else if ($error == "8306") {	    // invalid cursor position (also returned when there are no matches)
+        $this->count = $this->position = $this->quantity = 0;
+        if ($debug) {
+  	print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
+        }
+      } else if ($error) {
+         $this->count = $this->position = $this->quantity = 0;
+         print "<p>Error: failed to retrieve contents.<br>";
+         print "(Tamino error code $error)</p>";
+      }
+
     } else {
-      // not really a tamino error.... might have unexpected results
-      $this->xml = 0;
-      $error = 0;
+      print "<p><b>Error:</b> unable to access database.</p>";
+      $error = -1;
     }
-   return $error;
+    return $error;	// return tamino error code, in case user wants to check it
   }
 
 
@@ -111,7 +137,7 @@ class taminoConnection {
     }
 
     $length = strlen($this->xmlContent);
-    if ($length < 150000) {
+    if ($length < 200000) {
       // phpDOM can only handle xmlContent within certain size limits
       $this->xml = new XML($this->xmlContent);
       if (!($this->xml)) {        ## call failed
@@ -133,6 +159,10 @@ class taminoConnection {
      $string = preg_replace("/\s+/", " ", $string);
      // convert spaces to their hex equivalent
      $string = str_replace(" ", "%20", $string);
+     // convert ampersand & # within xquery (e.g., for unicode entities) to hex
+     $string = str_replace("&", "%26", $string);
+     $string = str_replace("#", "%23", $string);
+
      return $string;
    }
 
@@ -168,7 +198,8 @@ class taminoConnection {
 
        $result = $this->xml->getBranches("ino:response", "xq:result");
        if ($result) {
-         $this->count = $this->findNode($result[0], "total");
+	 //$this->count = $this->findNode("total", $result[0]);
+		  $this->count = $this->findNode("total");
        }
        
      } else {
@@ -178,7 +209,11 @@ class taminoConnection {
 
    // get content of an xml node by name when the path is unknown
    // FIXME: should this really be a taminoConnection class function?
-   function findNode ($node, $name) {
+   function findNode ($name, $node = NULL) {
+     if ($node == NULL){	// by default, search xq:result
+       $branch = $this->xml->getBranches("ino:response", "xq:result");
+       $node = $branch[0];
+     }
      $result = $node->getTagContent($name);
      if ($result) {	// found it
        return $result;
@@ -186,7 +221,7 @@ class taminoConnection {
        $branches = $node->getBranches();
        for ($i = 0; isset($branches[$i]); $i++) {
 	 // recurse on each branch 
-	 $result = $this->findNode($branches[$i], $name);
+	 $result = $this->findNode($name, $branches[$i]);
 	 if ($result) { return $result; }
        }
        // if we get through all the branches without returning, then return 0
@@ -196,25 +231,29 @@ class taminoConnection {
    
 
    // transform the tamino XML with a specified stylesheet
-   function xslTransform ($xsl_file, $xsl_params = NULL) { 
-     // create xslt handler
-     $xh = xslt_create();
-     // specify file base so that xsl includes will work
-     // Note: last / on end of fileBase is important!
-     $fileBase = 'file://' . getcwd () . "/xsl/";
-     //  print "file base is $fileBase<br>";
-     xslt_set_base($xh, $fileBase);
+   function xslTransform ($xsl_file, $xsl_params = NULL) {
+     if ($this->xmlContent) {	// xquery succeeded, there is xml to process
+       // create xslt handler
+       $xh = xslt_create();
+       // specify file base so that xsl includes will work
+       // Note: last / on end of fileBase is important!
+       $fileBase = "file://$this->basedir/xsl/";
+       //  print "file base is $fileBase<br>";
+       xslt_set_base($xh, $fileBase);
 
-     $args = array('/_xml' => $this->xmlContent);
-     $this->xsl_result = xslt_process($xh, 'arg:/_xml', $xsl_file, NULL, $args, $xsl_params);
+       $args = array('/_xml' => $this->xmlContent);
+       $this->xsl_result = xslt_process($xh, 'arg:/_xml', $xsl_file, NULL, $args, $xsl_params);
      
-     if ($this->xsl_result) {
-       // Successful transformation
-     } else {
-       print "Transformation failed.<br>";
-       print "Error: " . xslt_error($xh) . " (error code " . xslt_errno($xh) . ")<br>";
+       if ($this->xsl_result) {
+         // Successful transformation
+       } else {
+         print "Transformation failed.<br>";
+         print "Error: " . xslt_error($xh) . " (error code " . xslt_errno($xh) . ")<br>";
+       }
+       xslt_free($xh);
+     } else {	// xquery failed, no xml to process
+       if ($debug) { print "<p><b>Warning:</b> XML content unavailable to transform.</p>"; }
      }
-     xslt_free($xh);
    }
 
    function printResult ($term = NULL) {
@@ -235,8 +274,9 @@ class taminoConnection {
      for ($i = 0; (isset($term[$i]) && ($term[$i] != '')); $i++) {
        // replace tamino wildcard (*) with regexp -- 1 or more word characters 
        $_term = str_replace("*", "\w+", $term[$i]);
-     // Note: regexp is constructed to avoid matching/highlighting the terms in a url 
-       $this->xsl_result = preg_replace("/([^=|']\b)($_term)(\b)/i",
+     // Note: regexp is constructed to avoid matching/highlighting the terms in a url or img tag
+       // FIXME: breaking words at end of tag (</h4>, </li>... )
+       $this->xsl_result = preg_replace("/([^=|']\b)($_term)(\b[^\.])/i",
 	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $this->xsl_result);
      }
    }
