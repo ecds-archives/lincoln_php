@@ -1,0 +1,1259 @@
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt n=" The Uniter and Liberator of America">
+            <title>  The Uniter and
+Liberator of America </title>
+            <author>Haven, Gilbert</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck
+Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>1996 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact the Director, 
+Pitts Theology Library, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>1999</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Lincoln
+Sermons Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Haven,
+Gilbert. The Uniter and Liberator of America. A Memorial Discourse on
+the Character and Career of Abraham Lincoln: Delivered in the North
+Russell Street M. E. Church, Boston, Sunday, April 23, 1865.  Boston:
+James P. Magee, No. 5 Cornhill. 1865.  </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text derives from the Special Collections 
+of Pitts Theology Library, Emory University, and is produced in 
+collaboration with the Lewis H. Beck Center a, the Emory 
+Preservation Office, and Pitts Theology Library.</p>
+            <p>TRANSCRIBER: Lewis H. Beck Center and Emory University 
+Preservation Office.</p>
+            <p>PRODUCER:  BookLab, Inc., 1606 Headway Circle, 
+Suite 100, Austin, TX 78754</p>
+            <p>CAPTURE DEVICE: XEROX DocuImage 620S flatbed scanner</p>
+            <p>CAPTURE DETAILS: Scanner software: XEROX ScanTool 
+version 4.2.3; no gamma correction; images are all bitonal.</p>
+            <p>CHANGE HISTORY: Using the Adobe Photoshop Batch Processor, 
+we interpolated  the original TIFF files to 8-bit grays, 
+and altered the resolution to 144 dpi, producing screen 
+images twice the original size.  We then saved them in 
+JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
+            <p>RESOLUTION: 600 ppi</p>
+            <p>COMPRESSION: Resolution 144 per inch with Constrain 
+Properties to 72 per inch.</p>
+            <p>SOURCE: Original documents.</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>1999</date>
+            <respStmt>
+               <name>Scott Ellis</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 id="haven.001" n="The Uniter and Liberator of America" type="text">
+            <head> 
+               <bibl> 
+                  <title>The Uniter and
+Liberator of America</title> 
+                  <date>Sunday, April 23, 1865</date>
+                  <pubPlace>North Russell Street M. E. Church, Boston</pubPlace>
+                  <author>Haven, Gilbert</author> 
+                  <imprint>
+                     <pubPlace>Boston</pubPlace>
+                     <publisher>James P. Magee</publisher>
+                     <date>1865</date>
+                  </imprint>
+               </bibl> 
+            </head>
+            <p>
+               <figure entity="haven1">
+                  <figDesc>1st page of Gilbert Haven's The
+Uniter and Liberator of America.</figDesc>
+               </figure>
+            </p>
+            <p>THE UNITER AND LIBERATOR OF AMERICA.</p>
+            <p>A</p>
+            <p>MEMORIAL DISCOURSE</p>
+            <p>ON THE</p>
+            <p>CHARACTER AND CAREER</p>
+            <p>OF</p>
+            <p>ABRAHAM LINCOLN:</p>
+            <p>DELIVERED IN THE</p>
+            <p>NORTH RUSSELL STREET M.E. CHURCH, BOSTON,</p>
+            <p>SUNDAY, APRIL 28, 1865,</p>
+            <p>BY</p>
+            <p>GILBERT HAVEN.</p>
+            <p>"A laborer with moral virtues girt, <lb/>With spiritual graces, like
+a glory, crowned."</p>
+            <p>BOSTON:</p>
+            <p>JAMES P. MAGEE, NO. 5 CORNHILL.</p>
+            <p>1865.</p>
+            <pb n="2"/>
+            <p>
+               <figure entity="haven2">
+                  <figDesc>2nd page of
+Gilbert Haven's The Uniter and Liberator of
+America.</figDesc>
+               </figure>
+            </p>
+            <p>AT the close of the morning service in the North Russell Street
+Methodist Episcopal Church, Sunday, April 23, the undersigned was
+solicited to take the chair; whereupon, on motion, it was unanimously
+voted by the congregation to request the pastor, Rev. Mr. Haven, to
+furnish a copy of the discourse just delivered, on the character and
+career of President Lincoln, for publication.</p>
+            <p>
+               <lb/>JOHN H. COLLINS.<lb/>
+BOSTON, May 1, 1865.</p>
+            <p>Cambridge Press.</p>
+            <p>DAKIN AND METCALF.</p>
+            <pb n="3"/>
+            <p>
+               <figure entity="haven3">
+                  <figDesc>3rd page of
+Gilbert Haven's The Uniter and Liberator of
+America.</figDesc>
+               </figure>
+            </p>
+            <div2 id="haven.002" n="SERMON" type="sermon">
+               <head>SERMON.</head>
+               <epigraph>
+                  <p>Thy gentleness hath made me great. Ps. xviii. 35.</p>
+                  <p>He saved others, himself he cannot save. Matt. xxvii. 42.</p>
+                  <p>All nations shall call him blessed. Ps. lxxii. 17.</p>
+               </epigraph>
+               <p>The appalling deed of the last Good Friday begins to put on
+the fixed lineaments of the past. As that face and form, then so full
+of life, are frozen in death, so he who animated them is fast becoming
+solidified and shapen in the unchanging marble of history.</p>
+               <p>Still standing in the horrible shadow, how can we carve the
+features of the immortal dead? The chisel shakes in our trembling
+hand. The rain of sorrow blinds our eyes. In the ghastly darkness, we
+but faintly discern the spiritual form that has so suddenly been
+struck from its earthly home and has forever vanished from the eyes of
+man. He, who but yesterday was the centre of all human observation;
+whose every word, as he himself declared but three nights before his
+death, was in no unimportant sense a national decree; from whom were
+the issues of life and death to the imperious leaders of the rebellion
+and their too willing subjects; upon whose course foreign potentates
+fastened watchful eyes, and foreign peoples were yet more intent; the
+foremost man in all the world;--now lies he low in his bloody
+shroud. A nation weeps around his bier. The world bemoans his
+fate. Never before did so wide and bitter a cry pierce the
+skies. Never before were the heads of so many millions, waters, and
+their eyes fountains
+<pb n="4"/>
+                  <figure entity="haven4">
+                     <figDesc>4th page of Gilbert Haven's
+The Uniter and Liberator of America.</figDesc>
+                  </figure>
+of tears, weeping day and night for the slain of the daughter of their
+people. The great day of the Church has become yet more solemn in the
+annals of America. Let not the fifteenth of April be considered the
+day of his death, but let Good Friday be its anniversary. For then the
+fatal blow was struck. He died to the conscious world ere the day had
+died. We should make it a movable fast, and ever keep it beside the
+cross and the grave of our blessed Lord, in whose service and for
+whose gospel he became a victim and a martyr.</p>
+               <p>That crime I cannot dwell upon in such an hour. The
+criminal is not the object of my revenge. Justice will demand his
+death,--to whom no less would it be a mercy; for it would shut him
+from the sight of the race he had dishonored and the earth he had
+polluted, and cast him into the congenial fellowship of his spiritual
+and eternal companions in rebellion and in sin. Not the awful
+transgressor nor his crime, not even the gigantic abomination of which
+this deed was the natural and inevitable fruit, shall becloud the
+hour. Let us look the rather upon him whose earthly work is done; not
+upon his form, laid out in   "long-stretching death," that is slowly
+moving amid tearful myriads, through mighty cities, by the side of
+inland seas, across yet vaster seas of billowy or level green, to its
+beloved home in the heart of the land, fit resting-place for him who
+shall ever live in the heart of the nation: but upon the features of
+his life, that we may learn why he grew to such a height, and how we
+may, in our humbler sphere, attain an equal perfection.</p>
+               <p>The Character and Career of Abraham Lincoln will therefore
+be the appropriate subject of our mournful meditations. These are
+harmoniously united. His career was but the flowering of his
+character,--his character the seed and germ of his
+career. Extraordinary circumstances gave that nature a fulness of
+opportunity for its development such as has most rarely, probably
+never before, fallen to the lot of man; but they did not make the
+man. The
+<pb n="5"/>
+                  <figure entity="haven5">
+                     <figDesc>5th page of Gilbert Haven's
+The Uniter and Liberator of America.</figDesc>
+                  </figure>
+most fruitful ground does not create the character of the seed it
+multiplies. It imparts a possibility of richness and fulness that
+inferior earths cannot afford. Still their own nature abides, and the
+oak is an oak, the ivy an ivy, in the richest as well as in the
+poorest soils.</p>
+               <p>His character was as complete when wrapped in the vesicle
+of his early privacy as in the grand uplifts of its wonderful
+consummations. As a child, a youth, an industrious, studious, obscure
+workman, a lawyer, politician, and statesman of Illinois, he displayed
+the peculiar qualities which in his higher sphere bore such abundant
+fruit. His first speech was as brief, as witty, as compact, as
+simple-minded and as good-natured as his last.</p>
+               <p>For these traits he is not to be praised. He was created in
+the frame of soul that he ever exhibited. For their culture he alone
+merits eulogy.</p>
+               <p>God needs various workmen for his varied work. And as a
+wise master-builder uses a great variety of material for his manifold
+edifice, and works this material into a yet greater variety of forms,
+that the whole may be a unit of perfection; so does the Divine
+Master-builder in his infinitely grander structures of soul, erected
+on earth for time and for eternity.</p>
+               <p>The stately cathedral has its messy stone, lying in huge
+boulders under its visible foundations, rising in shapen blocks to its
+roof and pinnacles, carved in daintiest delicacy around its pillars,
+doors, and altar. This solid earth it lightens with graceful forms of
+wood, as though the heart of oak blossomed like the gentlest flower
+into fragrant beauty. These are yet more relieved by tints that flush
+the cold face of stone with life, and this vitality puts on its
+highest expression in the scenes, sacred and divine, into which the
+walls change under the touch of the great masters, as the shapely face
+of death becomes radiant with life and love under the inspiration of
+its Creator.</p>
+               <pb n="6"/>
+               <p>
+                  <figure entity="haven6">
+                     <figDesc>6th page of
+Gilbert Haven's The Uniter and Liberator of
+America.</figDesc>
+                  </figure>
+               </p>
+               <p>Thus does God build up the nation and the world. Thus does
+He use every style of character, every quality of spirit in His
+sublime cathedral of man, which He is patiently and persistently
+erecting, in truth and love, out of a redeemed and regenerated
+humanity, on the earth and in the heavens.</p>
+               <p>I. What, then, were the traits of soul which this eminent
+agent in the plan divine received from God and faithfully, usefully,
+and rewardfully developed?</p>
+               <p>1. We should only respond to the sentiment of every heart,
+hostile or friendly, when we place at the foundation of his character,
+honesty. This was his familiar appellation in obscurity. It has been
+none the less so in the greatness of his exaltation. Yet it fails to
+express the whole idea which it strives to embody. That is the rude,
+ungainly trunk, which, despite its rough exterior, is both the
+upholder and the nourisher of all the attractions that rejoice above
+it. It branches out in graceful boughs, with their rustling robes of
+green. It turns under the smiles of spring into an orb of odorous
+flowers. It depends in an autumn ripeness of golden fruit.</p>
+               <p>Honesty in him was not the calculating wisdom of the world
+as shown in its favorite and unworthy employment of that word. It was
+not from selfish policy that he was honest. Such honesty is really
+most dishonorable. It meant in him its true and original
+signification. It was sincerity, simplicity, impartiality, honor; in
+fine, the scriptural conception of this nature, guilelessness. If ever
+a man lived of whom it could be said he was without guile, that man
+was Abraham Lincoln. Look down as deep as you may into his profound
+nature, you will see that it is clear as a moteless fountain. It may
+seem to be shallow, it is so pure; and yet a second sight convinces
+you that though your eyes are sounding deeply, they touch not the
+bottom. As you look skywards on a clear day, you first fancy that you
+sweep the whole depth of the
+<pb n="7"/>
+                  <figure entity="haven7">
+                     <figDesc>7th page of Gilbert Haven's
+The Uniter and Liberator of America.</figDesc>
+                  </figure>
+dome with your glance; a second and more penetrating gaze shows you
+that you have only caught its lowest outlines. As it rises heights
+above heights, you exclaim,--</p>
+               <lg type="stanza">
+                  <l>"The <hi rend="italic">chasm</hi> of sky above my head</l>
+                  <l>Is
+Heaven's profoundest azure,</l>
+                  <l>	. . . . . an <hi rend="italic">abyss</hi>
+                  </l>
+                  <l>In which the everlasting stars
+abide."</l>
+               </lg>
+               <p>Thus do you gaze into this pellucid nature. It is as simple
+and open as a child's, yet you cannot penetrate it; not because it
+interposes barriers to your gaze, but because your vision fails. It is
+none the less clear because it is so deep. Could you look farther, you
+would find the same nature, honest, unselfish, childlike; "an
+Israelite indeed, in whom is no guile."</p>
+               <p>The soul of this characteristic is absence of
+selfishness. That is the root of guile. Though not without the
+temptations common to all men, he was remarkably free from this
+propensity. This freedom from self-seeking is the more noticeable in
+contrast with the characters of most great men. Milton declares
+ambition "the last infirmity of noble minds." This passion implies a
+subtle love of self, and frequently mars the most exalted
+natures. Only one President before him seemed almost utterly free from
+it. Jefferson talked indifference, but was a ceaseless schemer and
+mover of political wires while professedly absorbed in his laboratory,
+study, and farm. Adams, Franklin, Jackson, Clay, were men of great
+parts, but a sense of their necessity to the movements of the nation
+gave to their strength the weakness of men. Their personality was to
+them an <hi rend="italic">essential</hi> element in the events of their
+age. Not so with Washington and Lincoln. They were the priests placed
+over the abyss divine. The breath of God bore them onward in the
+accomplishment of his purposes. They were his willing servants, but
+servants only. They were
+<pb n="8"/>
+                  <figure entity="haven8">
+                     <figDesc>8th page of Gilbert Haven's
+The Uniter and Liberator of America.</figDesc>
+                  </figure>
+not necessary to his success. Each looked forward to the hour when the
+Master should take from them the harness and allow them to repose
+peacefully in the quiet of their homes. Each felt that others had
+greater wisdom than they. Each bent his ear kindly to hear what their
+more creative minds should say. Each sincerely sought the truth. Other
+men of might feel that they have the truth. They do not seek it. It
+comes to them. It is an inspiration. They must declare it or die. "Woe
+is me," cry Phillips and Everett, cry Sumner and Beecher, cry Greeley
+and Weed, "if I preach not that which I feel stirring within me." The
+President had no such call. He waited to hear their words. In
+sincerity of heart he deliberated, decided, acted.</p>
+               <p>This trait gave him that slowness of action, which was not
+unlike the stammering of Moses. He must hear the voice thrice ere he
+obeyed it. He must consider as he cannot create, deliberate as he does
+not divine.</p>
+               <p>2. But this guilelessness of heart and impartiality of
+judgment were joined to great faithfulness in adhering to the truths
+he had espoused. His step was as firm as it was careful. Having done
+all, he stood. Hampden's motto might properly have been his,--<hi rend="italic">Nulla vestigia retrorsum</hi>. No step did he ever take
+backward. Men of ideas often fail when those ideas are born into
+actual life, and the Herods rise up for their destruction. They are
+bold in the closet and the forum, but timid in the field. Demosthenes
+was not only the greatest orator of Athens, he was her greatest
+democrat; none of her men of might equalled him in courageous defence
+of, and adhesion to, her central doctrine. And yet when she must
+sustain her idea at Chaeronea, he fled before the legions of monarchy,
+and denied in shame the faith for which he had so valiant--a Roman in
+the forum, but not at the front.</p>
+               <pb n="9"/>
+               <p>
+                  <figure entity="haven9">
+                     <figDesc>9th page of
+Gilbert Haven's The Uniter and Liberator of
+America.</figDesc>
+                  </figure>
+               </p>
+               <p>So have been many idealists and reformers. Their shields
+have been thrown away when the enemy assailed them. Such are not the
+most renowned. They have the strength of soul both to create and to
+sustain. Socrates, Huss, Luther, Paul, could fight as well as
+speak,--die as heroically as they lived. Still this faithfulness is
+more sure to be revealed in those who accept the truth in full view of
+the perils it involves. Who takes the oath of allegiance before the
+enemy's guns, will be apt to abide by it in the succeeding
+charge. Lincoln believed in these truths from the beginning. But he
+did not embrace them as objects of duty till he saw the whites of the
+enemy's eyes, as they were rushing upon him to his evident
+destruction. Then, seizing them as if they were, as they were, loaded
+cannon, he henceforth used them steadily and valiantly in repelling
+and discomfiting his foe.</p>
+               <p>This trait was the more necessary in the tremendous
+fluctuation of popular feeling and current events. When the waves
+roared and were troubled, when the mountains shook with the swelling
+thereof, it was well for the nation that one held the helm who steered
+carefully, but calmly and steadily; who, if he did not hasten, did not
+go back; if he did not so soon as we prayed make the desired haven,
+never ran his vessel back upon tile breakers we had passed. His
+faithfulness was one of his most admirable and most necessary
+traits.</p>
+               <p>3. We should be unjust to his character if we shrank from
+noticing his playfulness. In common with many superior minds, he was
+as sportful as a lamb. He liked a good story better than a great
+honor. No one ever more enjoyed</p>
+               <lg type="stanza">
+                  <l>"Jests and youthful jollity, </l>
+                  <l>Quips and cranks and
+wanton wiles,</l>
+                  <l>Nods and becks and wreathed smiles,</l>
+                  <l>Sport that wrinkled care derides,</l>
+                  <l>And laughter holding both
+his sides."</l>
+               </lg>
+               <pb n="10"/>
+               <p>
+                  <figure entity="haven10">
+                     <figDesc>10th page of
+Gilbert Haven's The Uniter and Liberator of
+America.</figDesc>
+                  </figure>
+               </p>
+               <p>A merry twinkle ever sat in his eyes. Ever when saddest
+with sorrow, a ray of this sunlight played on their salt
+drops. Napoleon, Luther, Socrates, Cicero, Caesar, Wesley, Franklin,
+Webster, many great men, were of this nature. A jest-book attributed
+to Cicero was current in Rome long after his death. Caesar was ever
+pointing his speech with these glittering specialties. Napoleon was
+full of mirth and jokes, even on the night before Waterloo. Their
+bon-mots were as brilliant as their battles. Lincoln, next to
+Franklin, if next, was the most famous jester of America. Each of
+these ever used a witty story to point an argument; and many was the
+laughable word uttered by the great diplomat of the Revolution, that
+did the people of that sad hour good like a medicine.</p>
+               <p>This playfulness was not unmanliness. It was the relief of
+an intensely overstrained nature,--the pleasant bloom of childhood
+dancing on the brow of age,--the reminiscence of the past, and
+prophecy of the future, that kept his heart green and juicy amid the
+furnace of fire, heated seven times hotter than ever before, where he
+was called of God to walk. It was an important element in his
+career. Without it, neither he nor the people could have walked
+erect. Those mirthful, melancholic stories creeping out on the top of
+great disasters, like light playing over graves, relieved the people
+in their terrific gloom. Not that he did not weep. No president ever
+wept so much. Not that he did not soberly gird himself to his fearful
+responsibilities. None ever wrought so patiently and persistently. But
+by a pleasantry he lightened his and our bursting hearts that would
+otherwise have sunk like lead in the mighty waters. His most famous
+story had in it the whole point of the controversy. Secretary Seward's
+more statesman-like declaration of the same necessity is hardly
+remembered,--that, having been elected President of the United States,
+he must
+<pb n="11"/>
+                  <figure entity="haven11">
+                     <figDesc>11th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+be acknowledged as such by all the States; Lincoln's had not a little
+to do with his triumph.</p>
+               <p>4. His integrity was remarkable. In fact, all the traits we
+have mentioned, save perhaps the last, may be summed up in the one
+word,--Integrity. Here is his honesty, his simplicity, his
+impartiality, his steadfastness. He was an integer--a unit. His soul
+was one. There was no disunion there,--no conflict there. Its surface
+might be tossed, not its depths. He had doubts as to what policy to
+pursue, and often changed it with the changing moment; but never, did
+he doubt his country, his cause, himself. It was the spinal column,
+that supported not him alone but the whole land. To it, as to a mighty
+tower, the people fled and felt that they were safe. Thousands of
+millions passed through his hand; no itching palm caught the most
+soiled fragment of the tiniest currency. He assumed the errors, even
+the asserted peculations, of his subordinates as his own. The country
+smiled, but laid not the assumed sin to his charge. Its faith in his
+rectitude was unbounded. The most envenomed shafts were never aimed at
+that mark. Here, at least, his bitterest foes confessed that he was
+invulnerable.</p>
+               <p>5. But even this was not the seat of his strength. That lay
+in his love. His gentleness made him great. Sincere, honorable,
+faithful, true, he might have been, and yet not beloved. Franklin was
+as mirthful, Washington as incorruptible, Adams as just, yet for none
+of them did the people shed such floods of tears. Children and
+graybeards, man and woman, slave and freeman, beggar and prince, all
+poured forth their tributary tides of woe. "Behold how they loved
+him!" will all Europe say, as they hear this exceeding bitter
+wailing. It was because he loved them. The condition of the highest
+love is essential here. We loved him because he first loved us. He was
+the first President of the United States who seemed to carry in his
+warm-
+<pb n="12"/>
+                  <figure entity="haven12">
+                     <figDesc>12th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+est heart the heart of all the people. The pertinacious, cold-blooded
+leech of an office-seeker did not feel that he was answered in the
+selfish spirit which inspired his zeal. There was a fatherly affection
+even in the refusal. The bitter secessionist, even the relentless
+rebel, found only gentleness and love in his eye and voice and
+grasp. They were constrained to feel that they had become prodigals
+from, nay enemies to, a most tender and still affectionate father.</p>
+               <p>If these selfish or hostile men found such a welcome, how
+much more did the loyal. The most degraded slave felt the warm clasp
+of that paterna1 hand as a benediction. The most garrulous griefs were
+poured into a sympathetic ear. His most patient heart allowed every
+head to lie upon its broad, soft pillow. The people felt the
+throbbings of that heart warmly beating for them, and, like a tired
+child on its mother's bosom, sank confidently to rest.</p>
+               <p>Far more than his sagacious judgment, incorruptible
+integrity, and playful humor, did his deep affection for the nation
+support and carry us through this darkest night of our history. It is
+not his mother's knowledge of what is best for him, not her lightsome
+nature, not her unceasing faithfulness, that makes the sick child
+commit himself so confidently to her arms. It is her love that makes
+him trustful. Her judgment may err, strength may yield, joy may flee,
+but love never faileth. Many waters cannot quench it nor floods drown
+it. His greatest weakness only increases its strength. His dying makes
+it live forever.</p>
+               <p>So has the nation rested in his loving arms. She knew that
+his judgment was often at fault, however carefully he exercised it;
+that sometimes even his strength of purpose almost trembled under the
+fearful pressure to which it was subjected; that his pleasant smile
+became sadness, and the sunny wrinkles were channels for many
+tears. He had never spoken confidently of success. The mighty struggle
+he feared might result disastrously; the sick na-
+<pb n="13"/>
+                  <figure entity="haven13">
+                     <figDesc>13th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+tion might die; but dying or living she felt that he loved her. That
+quality of his soul was undiminished. Nay, it was the soul's self and
+grew the stronger when all else grew weaker.</p>
+               <p>Never did a great people so universally recognize and repay
+such love in its ruler. Never did a ruler so love his people. Cromwell
+loved religion first; Wellington, duty; England was the second in
+their heart; her people, last. Napoleon loved himself, not France;
+Caesar, power, not Rome; Washington, the right and the country more
+than its people. All the great leaders of the revolution, all the
+great living leaders, reformatory, civil, and military, are devoted to
+the idea that controls them: this to liberty, that to union; this,
+America's glory, that, her destiny; this, philanthropy, that, piety;
+this, justice, that, honor; this, empire, that, prosperity. Not one of
+them can in a peculiar, profound, and personal sense be said to love
+the American people. That grace they want. Not that they do not love
+the nation; far from it. All have, all do; but it is a general, not a
+special regard; an affection that reveals itself in other forms than
+mere love. Not so with our great President. He held every one in his
+heart of hearts; he felt a deep and individual regard for each and
+all; he wept over the nation's dead boys at Gettysburg as heartily as
+over his own dead boy at Washington. Their death, more than his own
+child's, was the means of bringing him into an experimental
+acquaintance with Christ. That sorrow wrought in him a godly sorrow,
+which has become a joy forever.</p>
+               <p>Here then may we properly conclude his portraiture. It
+arises, like that of Him in whose image he and all of us are made,
+into the heights of love. Without profanity we may say Abraham Lincoln
+is love. By that nature will the future hail him. A John among the
+disciples, he, of all our public men, the most truly possessed and
+expressed the nature of his Lord and Master. Without revenge, without
+malice, without hardness or bitterness of
+<pb n="14"/>
+                  <figure entity="haven14">
+                     <figDesc>14th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+heart, he held loyal and disloyal, grave and master, black and white,
+rebel soldier and rebel leader, in his equal love. Had his dying lips
+been allowed to utter one sentence, we think it would have been the
+dying words of Christ; and for his assassin he would have prayed,
+"Father, forgive him, for he knows not what he does."</p>
+               <p>It was for this trait that such mourning bows the land; for
+this are the streets of his funereal journey lined thick with weeds of
+sorrow, thicker with mourning multitudes; for this do the subdued eyes
+of millions of strong, cool men,</p>
+               <lg type="stanza">
+                  <l>"Albeit unused to the melting mood,</l>
+                  <l>Drop tears as fast as the Arabian trees</l>
+                  <l>Their medicinal gum."</l>
+               </lg>
+               <p>It was for this preeminently that the despised race, free
+or slave, pour forth their most piteous lamentations. Their tears of
+joy but yesterday are almost tears of blood to-day. He was the first
+President that took one of them kindly by the hand; the first that
+acknowledged their equal right with every other citizen to his
+official recognition. He was not merely their military liberator,
+breaking their bonds only because he could thus deliver himself from
+his enemies; but he was their friend and their father, carrying them
+in the same paternal arms in which he bore the rest of his
+children. Well may they cry out, as they see him thus suddenly leap
+into a chariot of fire and ascend to his reward, "My father! my
+father!" Well may they bewail because of him!</p>
+               <p>For this do ten thousand steeples knell their pathetic
+minor, while all listening hearts, as never before, beat
+responsive:</p>
+               <lg type="stanza">
+                  <l>"Keeping time, time, time,</l>
+                  <l>In a sort of Runic rhyme</l>
+                  <l>To the throbbing of the bells,</l>
+                  <l> Of the bells, bells, bells,</l>
+                  <l>To the sobbing of the bells:</l>
+               </lg>
+               <pb n="15"/>
+               <p>
+                  <figure entity="haven15">
+                     <figDesc>15th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+               </p>
+               <lg type="stanza">
+                  <l>Keeping time, time, time</l>
+                  <l>To the rolling of the bells,</l>
+                  <l>Of the bells, bells, bells,</l>
+                  <l>To the tolling of the bells,</l>
+                  <l>Of the bells, bells, bells, bells,</l>
+                  <l>Bells, bells, bells,</l>
+                  <l>To the moaning and the groaning of the
+bells."</l>
+               </lg>
+               <p>Thus stands forth the character of this great man: of
+unblanched and unbending soul; without selfishness, yet full of
+feeling; without pride, yet ever regardful of the dignities of his
+position; without ambition, yet ascending to the topmost heights of
+sovereignty, and absorbing into himself more than dictatorial, far
+more than imperial and kingly powers, without the least malice, yet
+waging the bloodiest of wars; without boastful bitterness, yet making
+myriads of his enemies lick the dust; whose most loving heart ever
+irrigated, yet never drowned, his wise brain, making that, which is
+often in others a verdureless summit, in him a well-watered garden,
+full of choicest life.</p>
+               <p>Such was the nature of him to whom the heart of the people
+has gone out as never before to any ruler. They revered Washington,
+they respected Adams, they believed Jefferson, they admired Jackson,
+they loved Lincoln. God's gentleness had made him great.</p>
+               <p>II. How this character revealed itself in his career, there
+is no need that I should relate unto you. The details of that life
+will be the theme for many a historian. Irvings will yet arise who
+will devote their most graceful pen to the portraiture of this second
+Washington. Carlyles will make the splendor of their genius glow
+around the head of this greater than Frederic or Cromwell. Napoleons
+will make him a more faithful study and model than Caesar. With every
+luxury of art and wealth shall the grand career of the cabin-boy of
+Kentucky, the Uniter and Liberator of America, stand in the libraries
+of kings and statesmen, in
+<pb n="16"/>
+                  <figure entity="haven16">
+                     <figDesc>16th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+humbler shape and larger love, on the shelves of all their people
+whose future that life both illustrated and assured.</p>
+               <p>1. Two dangers threatened the land when he assumed the
+reins of government,--disunion and slavery. The Scylla and Charybdis
+were on either side of the tossed and leaky vessel, when he took the
+helm. Fierce broke the waves on the rocky Scylla of disunion; fiercely
+did the Charybdian sands of slavery threaten to suck the ship in their
+shifting and ceaseless maelstr&#x00F6;m. Both in influence invaded the
+whole land. A great party in the North supported disunion under the
+specious phrases of State sovereignty and no coercion; while all the
+land alike hated the slave and his kindred, and refused to touch, in
+the least, the iniquity or its victims. The President shared the
+feelings of the last, if not the sentiments of the first. His
+predecessor yet occupying the seat of government, if government it
+might be called which he had ceased to govern, was calling on the
+people to fast and pray, that the wayward sisters might return. Great
+men carried monstrous petitions wrapped in the powerless American flag
+and laid them before Congress, entreating that body to consent to the
+nationalizing of slavery by giving it the best half of our territory
+and all our constitution. The most widely circulated paper in the land
+declared for the Montgomery constitution, and had its rebel rag
+already to fling to the breeze when Fort Sumter should be attacked,
+the nation utterly cowed, the government overthrown, and Jefferson
+Davis made president of the twenty-seven Confederate States of
+America,--New England alone being excluded from the general
+league. She might be permitted, if she chose, to retain the belittled
+title of the United States, with its plucked eagle and lowered
+flag,--the Switzerland of America,--safe only in the contempt of her
+tyrannous neighbors, wide ruling the continent.</p>
+               <p>Beneath all this turbulence was the crowded dungeon of
+slavery. Its imprisoned millions toiled and suffered, and sighed and
+prayed,
+<pb n="17"/>
+                  <figure entity="haven17">
+                     <figDesc>17th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+and saw visions and dreamed dreams such as the despised Galileans saw
+in Jerusalem when prelate and Pilate, ignorant and scornful, were
+seeking, by reconciliation and compromises, the union of the God of
+the Hebrews with the idols of Rome. What cared we for these? "Touch
+slavery where it is?" Never! "Free the slaves?" "Hang him who dreams
+that dream." "Up with John Brown and his crazy gang, who fancied
+himself the Moses of this abominable Israel."--How that first martyr
+but now welcomed the last to the rest and reward of the faithful!
+Brothers in this service, they shal1 be brothers in heavenly fruition
+and eternal renown.--"Abolish slavery instantly and forever?"
+"Impossible. The slaves will cut their master's throats, will invade
+the North and expel our laboring population, will be the vagabonds of
+the continent."</p>
+               <p>Thus warred the elements.</p>
+               <lg type="stanza">
+                  <l>"Who shall calm the angry storm?</l>
+                  <l>Who the mighty task perform</l>
+                  <l>And bid the raging tumult cease?"</l>
+               </lg>
+               <p>We pay no unwarranted eulogy to President Lincoln when we
+declare that the peculiar qualities of his nature adapted him to this
+especial work. We well understand that God was beneath and above all
+this chaos, breaking the grievous yoke of his children and moving this
+unwilling nation into higher spheres of life and duty. But he works
+ever through instruments, and as we properly study the relation of the
+human nature of Moses, of David, of Paul, to the work he laid upon
+them, so may we that of our leader to what he was set to do.</p>
+               <p>(1.) We see how admirably that nature was fitted for its
+first and most important work,--the uniting the North. Whatever other
+duties should arise ere the gigantic task was completed, the first
+duty evidently was to make the loyal States one. They were weakened by
+the severing of Southern ties. The whole structure
+<pb n="18"/>
+                  <figure entity="haven18">
+                     <figDesc>18th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+rocked to its base. North-western, Pacific, Central, and North-eastern
+confederacies were projected. Even cities threatened to assume their
+independence. The Mayor of New York publicly declared that no troops
+should pass through her streets, no cannon leave her wharves for the
+coercion of the rebellious States. Unless we could be united, the
+whole was lost. There was otherwise no fulcrum upon which to plant the
+lever of emancipation,--no means of staying the movement of disunion;
+while to secure the Union was to destroy slavery, as every rebel
+knew. Therefore this must be done.</p>
+               <p>His conciliatory character, joined with his perfect
+simplicity and integrity, was the centre around which the Union
+sentiment rallied. The people felt that they could trust him with
+their liberties, for he would not abuse the trust. The hostile party
+found it hard to complain of so paternal a despot. They might rave at
+his acts, but not at him. They saw that the salvation of the country
+was his first and last concern; that he had no private or party ends
+to serve, but only those of God, his country's, and truth's. He
+addressed them kindly and generously, as in his letter to the
+democrats of New York,--being, we presume, the first great ruler in
+this or any land who wrote letters to his people as frankly as to his
+family. He thus brought many of their leaders to his side, so that in
+his army and in his cabinet, as well as in less prominent but hardly
+less important fields, many of these earnest foes of his party became
+his warmest supporters. General Butler and General Dix, Senator
+Dickinson and Edward Everett, Secretary Stanton and Senator Douglas,
+with thousands of others, gave him their earnest and cordial
+support.</p>
+               <p>His conciliatory nature is strikingly seen in the
+composition of his first cabinet. It contained all of his rivals for
+the nomination, with one exception, that of General Banks, and he
+would undoubtedly have had the bureau for New England, had he not taken
+<pb n="19"/>
+                  <figure entity="haven19">
+                     <figDesc>19th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+up his residence in the West. Such a combination of independent and
+leading minds, rivals of each other and their head, has never been
+seen in this land since the first cabinet of Washington, which
+embraced in it three rivals of each other, if not of him,--three
+favorites of the nation for his chair; two of whom sat in it, and the
+constitution was modified solely that the third could also,--an event
+which might have happened but for his assassination by Aaron Burr.</p>
+               <p>This course had the desired effect. The country rallied
+round so gentle a leader, and the union of the yet undismembered
+fragments was secured. The feeling of the land found expression in its
+chief, and the various orders and mighty number of traitors yet with
+us were compelled by popular sentiment, and sometimes by popular
+violence, to conform to the general will.</p>
+               <p>(2.) Then came the second step,--the conciliation of the
+border. Each side essayed this work. Their sympathies and their sins
+inclined them to the rebels, their instincts and obligations to the
+nation. The presence of our army constrained its Eastern edge to our
+side, the influence of ideas, its Western. The line swayed low in the
+centre, and Kentucky became the battle-ground of this
+sentiment. Slowly and surely the truth prevailed there. Against their
+prejudices, their education, their habits, their institutions, they
+ranged themselves under the flag.</p>
+               <p>The openly rebellious region must be reduced only with
+arms. How these fluctuated, and how they triumphed only when fortified
+with the other and greater idea of the war, history will faithfully
+show. Here his nature had no chance to exert its
+influence. Generalship, not statesmanship, was what that work
+demanded. It was, however, beginning to do so when his career
+closed. He had other material than a discontented North or a divided
+border to operate upon, and might have failed as completely there as
+he had succeeded wonderfully before. Through his armies there, through
+<pb n="20"/>
+                  <figure entity="haven20">
+                     <figDesc>20th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+himself here, he had closed up the hideous rent secession had made,
+and beheld North and South, East and West, again and forever, one. He
+was the uniter of America.</p>
+               <p>2. But a still greater danger, duty, and glory were before
+him. We were an enslaved as well as a sundered people. The sighing of
+the captive had upheaved the nation from its foundations. The closing
+quotation of Mr. Sumner's first speech against our national sin was
+being awfully fulfilled: "Beware of the groans of the wounded souls;
+oppress not to the utmost a single heart; for a solitary sigh has
+power to overset a whole world." We disregarded those sighs, not
+solitary, but multitudinous and perpetual as the heavings of the sea,
+and we were fast reeling to our downfall. To be set aright, this
+dungeon must be opened. Its millions of innocent captives must go
+free. This people must be our people, their God our God. How terrible
+this task! It is ever easier to conquer our judgment than our
+prejudice. We surrender our reason sooner than our heart. We hated, we
+despised, we detested, the black man. We preferred slavery, with all
+its horrors, to immediate and unconditional emancipation. So did
+Mr. Lincoln. But God is greater than man, and to our martyred leader's
+eternal honor shall it ever be said, God found him willing in the day
+of his power. How slowly these steps were taken, how reluctantly, how
+unbelievingly even, we all know. Yet taken they were. Like Jacob,
+having so many feeble ones to carry, he must needs travel slowly, yet
+he moved forward. Every day found him farther than before.</p>
+               <p>Conciliation was his favorite feeling and policy. But that
+cannot be adjusted to this most embittering duty. It must stand aside
+for a season, and deeper traits must be brought into service. His
+sense of right, the backbone of his nature, which alone made him
+strong in the fearful strife, saw that there was no other path than
+this. His training and his feelings
+<pb n="21"/>
+                  <figure entity="haven21">
+                     <figDesc>21st page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+shrank from the negro; his desire to shun distracting elements made
+him shrink from him yet the more; but duty said, "Go forward!
+Pronounce the decree of emancipation! Let my people go! Take them by
+your official hand and recognize them as yours!" And he obeyed.</p>
+               <p>There was another great conciliator by his side, the head
+of his armies, the worshipped of the land. He heard the like voice,
+but refused to listen. Reconciliation and emancipation he declared
+were impossible. He had the ear and the heart of the President. He
+warned him, he threatened, he besought. Kentucky begged him to
+desist. He would mar all her prospects of Union if he pursued that
+course. The influential half of Missouri entreated. Many wise friends
+from the North entreated. He hesitated till disaster overwhelmed the
+chief adviser of this delay, till the volunteer inspiration had gone
+out in blood, and the suggestion of a draft was met with scowls and
+threats of defiance from every quarter. The ship was lying on her
+beam-ends. All God's waves and billows were going over her. The rocks
+of anarchy were thrusting their sharp fangs into her. Only the
+throwing overboard of this demon can save her. He clung to the idol
+yet a little, and made one more prayer to its worshippers to come into
+the ship and save their god. They heard and jeered. They had a better
+craft, built for the sole worship of their deity. They entered no
+amalgamating vessel of freedom and slavery. He kept his word. Slavery
+was tumbled into the bottomless gulf. The waves roared and hissed the
+fiercer. Disunion broke its bands among us, and raged in the streets
+of Northern cities. But all in vain. The ship of State began to right
+itself. The voice of Christ calmed the sea. The rocks of disunion were
+submerged, and the quicksands of slavery disappeared forever from the
+view. The slave became a man, a warrior,--will soon be a citizen, and,
+merged in the currents of society, be lost in the indistinguishable
+throng that,
+<pb n="22"/>
+                  <figure entity="haven22">
+                     <figDesc>22nd page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+from all nations and lands, rejoice in the common blood and name of
+America.</p>
+               <p>Thus will he stand forth in all coming time. To him was
+decreed the greatest honor history has conferred on man. His sole peer
+is the father of our country; and he is not his superior. Alike in
+many traits of character, alike in many points of career, they will
+share together the reverent gratitude of succeeding generations. Their
+statues will rise in every city, before every eye. The one delivered
+the nation from the yoke of vassalage to a once paternal, but then
+tyrannical power; the other released her from the deadlier grasp of a
+once fraternal, but then far more tyrannical dominion. The one
+organized her embryotic communities into States and a nation. The
+other reorganized these belligerent republics into a solid and
+perpetual union. The one liberated three millions of his own race from
+foreign despotism; the other liberated another people than his
+own--four millions of bound and bleeding victims--from a despotism
+infinitely more horrible. The influence of both shall go forth for the
+redemption and regeneration of all lands. The whole world shal1 sit
+rejoicingly at the feet of Washington and Lincoln. Happy, proud
+America! that from her soil sprang, over her soil reigned, in her soil
+sleep, the two creators and redeemers, under God, of her land and of
+the world.</p>
+               <p>We will not dwell upon the defects in this character; for
+the service it was set to do, it was fully competent: from other
+service God has mercifully relieved it. As his prototype failed to see
+and to carry out the full workings of the principle he
+inaugurated,--as another Virginian was to be the perfecter of the
+doctrine of democracy which God intended should here have complete
+expression, and the great leader was removed so that his influence
+might not embarrass this movement of Providence,--even so may this
+second Washington have been summoned to his reward, in order that the
+perfection of that democracy may the more speedily
+<pb n="23"/>
+                  <figure entity="haven23">
+                     <figDesc>23rd page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+hasten forward. It could not perhaps have been done before. The
+country had been so reduced by previous theories of State rights and
+of long submission to an oligarchy of human flesh, that it could not
+instantly know, much less discharge, its full duty. The web of the new
+era might have been rent, had it been then subjected to severer
+strain. But this crime has made its lace iron,--the Northern iron and
+the steel,--and we shall henceforth be strong enough, we hope just
+enough, to confer equal citizenship upon all the nation. We must not
+only nor chiefly punish the rebellious leaders. This may be our
+primary, though not our principal duty. The loyal freedman must have
+his full rights as a man. For this is the new President raised up;
+not, as most say, to be the juster judge, but to be the truer
+democrat. The last involves the first. The conditions of the rebel and
+his former slave, excepting slavery, must be reversed. No citizenship
+for the rebel leader; perfect citizenship for his slave. No land for
+the chiefs of the rebellion, homesteads for his loyal
+bondmen. Expatriation, which was urged upon the negro, not three years
+ago, must be enforced upon his master. The African had no rights these
+would respect. These must have none the nation will respect. Outlawed,
+homeless, exiled, let these once mighty rulers of the land thus
+expiate their crime of treason, while their victims take their homes
+and their crowns. The first shall be last, and the last, first.</p>
+               <p>Whatever be the fate of the rebel, the enfranchisement of
+the negro alone can renew that land. We have found that our salvation
+could not be effected without the aid of their bullet. We shall yet
+find that it cannot be preserved without the aid of their ballot. It
+is impossible to hang, banish, or disfranchise the half a million
+former aristocrats of the South. Neither confiscation of their lands
+nor emancipation of their slaves can annihilate their power. They
+cannot thus be prevented from vaulting into authority again. The white
+serfs who have so faithfully fought their battles will assuredly
+<pb n="24"/>
+                  <figure entity="haven24">
+                     <figDesc>24th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+honor their military commanders with civic power. What can make and
+keep them powerless? Negro suffrage. Nothing less, nothing more. Set
+the four millions of the freedmen over against the six millions of
+white peasantry, and let them grapple. We shall soon see who are the
+real men of that region. These loyal masses will see to it that the
+disloyal tyrants do not trouble the nation farther. They will be the
+owners of the soil, and the masters of their masters. They shall rule
+over their oppressors, and preserve thus the liberty, the unity, the
+peace of America.</p>
+               <p>To this consistent and complete democracy the new Jefferson
+is summoned. If true to his principles, and triumphant over the base
+prejudices of birth and breeding, he will shine by the side of his
+forerunner, equal in service, gratitude, and fame. We trust that he
+will be thus faithful, and that we shall grow as steadily after the
+divine pattern in the healthful sunshine of a hastening peace as in
+the fearful midnight of the most bloody of wars.</p>
+               <p>Let us not be blinded from higher duties by our just
+vengeance against the assassin. His sin will quickly find him
+out. That sin no death can adequately punish. Yet Booth is but a babe
+in iniquity compared with Lee. The assassin never reigns in history by
+the side of the rebellious chief. He has secured a horrible
+notoriety. With Clytemnestra the assassinator of Agamemnon, king of
+men; with Ravaillac, who slew the best king that France ever knew;
+with "him who fired Ephesian's dome;" with the murderers of our
+Lord,--he shall hang forever on the gibbet of infamy.</p>
+               <p>Yet he was but the dagger's point; Lee is its polished
+handle; slavery the force that drove it home. Shall we wreak our
+vengeance on the bullet, and let him that fired it go free? The
+miserable felon assassinated our leader. The yet unharmed general
+attempted to assassinate the nation. We have been wrestling in his
+murderous clutch for four years, and received innumerable
+<pb n="25"/>
+                  <figure entity="haven25">
+                     <figDesc>25th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+stabs in our attempts to prevent our destruction. Is the nation less
+than one of its citizens? Shall we fawn upon her would-be murderer,
+and tear his, in our rage, into a thousand atoms? Nay, he too is a
+murderer. Not alone of the hundreds of thousands whom he has slain in
+battle, but of the multitudes that he has starved to death in his
+prisons. He has ridden daily under the walls of these charnel-houses
+where they were perishing for a crust of bread, and never relented for
+an instant at the piteous moanings that almost made the walls to
+groan. When the bony arm of one of our boys was thrust between the
+bars, he not daring to put his face there, knowing that the sentinel's
+bullet would strike him dead, and a poor slave-woman thrusts a crust
+of bread into his hand, that sentinel's bullet instantly spatters her
+brains upon the sidewalk. And that guard was a soldier of Robert
+E. Lee, a traitor colonel of the army of the United States, who,
+despite of his barbarities to our men in the field, our captured
+soldiers and these lowly creatures, whom we are, by the command of
+God, especially required to protect, dwells among us unharmed, almost
+in honor. What was the miserable actor's crime to his? Let us do
+justice to the greatest traitors in our hand, as we shall to him if
+Providence shall place him in our power.</p>
+               <p>But whether we are firm or feeble, God will make both to
+praise him. How marvellous are His ways! Out of unspeakable crimes He
+has revealed his glory. Out of the violence of the slave-master has
+come liberty to all he held in bondage; out of the attempted murderers
+of the nation, a more perfect nationality; out of the successful
+murder of its head, a sterner justice, a more thorough and speedy
+regeneration. Thus has it been most strangely verified before all
+nations, and in the experience of these transgressors, that</p>
+               <lg type="stanza">
+                  <l>"Power to the Oppressors of the world is
+given,</l>
+                  <l>A might of which they dream not. Oh, the curse,</l>
+               </lg>
+               <pb n="26"/>
+               <p>
+                  <figure entity="haven26">
+                     <figDesc>26th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+               </p>
+               <lg type="stanza">
+                  <l>To be the awakener of divinest thoughts,</l>
+                  <l>Father and Founder of exerted deeds,</l>
+                  <l>And to whole nations, bound in servile straits,</l>
+                  <l>The liberal Donor of capacities</l>
+                  <l>More than heroic! This to be, nor yet</l>
+                  <l>Have sense of one connatural wish, nor yet</l>
+                  <l>Deserve the least return of human thanks;</l>
+                  <l>Winning no recompense but deadly hate</l>
+                  <l>With pity mixed, astonishment with scorn."</l>
+               </lg>
+               <p>Such is the fate of Davis, Lee, and Booth. Living or dead,
+among men or devils, they have the painful consciousness of having
+been the unwilling instruments of the very ends they strove to
+frustrate. They have united, liberated, fraternized America, and yet
+are and ever shall be linked with Pharaoh, and Judas, and Caiaphas,
+and Pilate, the most execrated and execrable of men.</p>
+               <p>Thus have all things worked together for our good, so far
+as we have loved God. From the beginning has he held us in his
+hand. He has ever prevented our sins from destroying us. Good and evil
+were in our earliest history, as in our latest. Raleigh and the
+slave-trade gave their contrary impress to Virginia; the pilgrims and
+persecution to Massachusetts; Huguenots and slavery to South Carolina;
+the Dutch greed of gain and love of liberty to New York. The wheat and
+the tares have grown together until now. Yet always has he been
+guarding the wheat from utter spoliation. He has eliminated the evil,
+and educed the good; he has made our sins and our sufferings go hand
+in hand, our penitence and our progress; he has changed New England
+intolerance into firmness for the right, New York greediness of wealth
+into rivers of beneficence. He will change Virginia slave-trade into
+righteous traffic, and South Carolina slavery into the grandest
+liberty of this continent. The conscientious contraries shall also
+become a harmonious whole. The Huguenot of Carolina and the Puritan of
+New England, the Catholic of Mary-
+<pb n="27"/>
+                  <figure entity="haven27">
+                     <figDesc>27th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+land and Episcopalian of Virginia, the Quaker of Pennsylvania and
+Dutch Protestant of New York, the Baptist of Rhode Island and
+Methodist of the prairies, shall yet form, not the broad, but the true
+church of our Lord and Saviour Jesus Christ, on whose divine
+foundation the nation shall stand in perpetual unity, holiness, and
+love. Thus may we learn to more perfectly confide in His guidance and
+grace who has so wonderfully revealed His constant presence in our
+planting and our growth, and who has shown here, as elsewhere in His
+kingdom,</p>
+               <lg type="stanza">
+                  <l>"That many things, having full
+reference</l>
+                  <l>To one consent, may work contrariously;</l>
+                  <l>As many arrows, loosed several ways,</l>
+                  <l>Come to one mark, as many ways meet in one
+town,</l>
+                  <l>As many fresh streams meet in one salt sea,</l>
+                  <l>As many lives close in the dial's centre,</l>
+                  <l>So may a thousand actions, once afoot,</l>
+                  <l>End in one purpose."</l>
+               </lg>
+               <p>Let us then show our grief for our loss by greater
+faithfulness to the cause for which he died. The grandeur of this
+cause, in its past, present, and future, was remarkably revealed in
+his most memorable word and most memorable deed, with which his career
+was properly crowned. The last inaugural is that word,--the entry into
+Richmond, the deed. That word is the most truthful, humble, and
+Christian, that a ruler ever addressed to his people. There is the
+clearest recognition of the divine will, the humblest prostration
+before His offended goodness, the amplest confession of the
+righteousness of His punishments, the largest beneficence to his own
+most deadly foes.</p>
+               <p>How sadly it prophesies his own fate! His too must be of
+the blood which God requires from the sword to repay that drawn by the
+lash, for two hundred years, from the shrinking flesh of His innocent
+children.</p>
+               <pb n="28"/>
+               <p>
+                  <figure entity="haven28">
+                     <figDesc>28th page of
+Gilbert Haven's The Uniter and Liberator of
+America.</figDesc>
+                  </figure>
+               </p>
+               <p>His dying speech from the national throne will be read with
+wet eyes by our children's children. As the farewell address of
+Washington will ever be cherished by the nation, much more will this
+more profound and pathetic confession of our sins, more resolute
+expression of our duty and purpose to eradicate them, be admiringly
+read by remotest generations. It lacks no element of perfection. So
+short that he that runs may read it; so simple that the most childish
+can understand it; so statesmanlike in its enunciation of principles
+that the rulers of the world can profitably study it; so religious
+that the most pious can find in it the holiest nutriment; so
+philanthropic that largest souls can grow larger in its air; so
+clement that the hardest heart cannot but melt in its perusal,--it is
+the consummate dower of executive orations. Jeremiah could not wish it
+more penitential, Ezekiel more resolute, John more affectionate.*</p>
+               <p>It was a worthy requiem. He sung his swan's song, sad,
+sacred, solemn, sweet. The voice of the ages from David to Christ went
+wailing through the strain. It will yet be, as it should be, the most
+popular and powerful word of America.</p>
+               <p>But if the last inaugural was his litany, the advent into
+Richmond was his jubilate. No picture of the war will be so frequently
+painted. It was in extraordinary agreement with his whole life and
+character, in extraordinary disagreement with that of every other
+eminent ruler. Here was a more than emperor, who for four years had
+waged severest war with a portion of his own people that</p>
+               <note type="foot" anchored="yes">
+                  <p>*The "London Spectator" truly says of him
+and it,--"He has persevered through all obstacles, without ever giving
+way to anger, or despondency, or exultation, or popular annoyance, or
+sectarian fanaticism, or caste prejudice, visibly growing in force of
+character, in self-possession and in magnanimity, till in his last
+short message of the Fourth of March we can detect no longer the rude
+and illiterate mould of a village lawyer's thought, but find it
+replaced by a grasp of principle, a dignity of manner, and a solemnity
+of purpose which would have been unworthy neither of Hampden nor of
+Cromwell, while his gentleness and generosity of feeling towards his
+foes are almost greater than we should expect of either of them."</p>
+               </note>
+               <pb n="29"/>
+               <p>
+                  <figure entity="haven29">
+                     <figDesc>29th page of
+Gilbert Haven's The Uniter and Liberator of
+America.</figDesc>
+                  </figure>
+               </p>
+               <p>had made this their capital. Under many generals had he essayed its
+capture. Blood had flowed around it like water. Yet it had still
+proudly resisted the whole strength of his armies. At length, after
+bloodiest encounters and almost a year of siege, it had fallen into
+his hands. How should he take possession of his prize? How have all
+conquerors exulted over such a conquest? When Charles the Bold
+captured Liege, he compelled its citizens to batter down a new
+entrance in their walls, through which he marches in triumphant pomp
+and scorn. When Louis the Great's and David's generals reduced a
+rebellious city, they sent for their royal masters to take stately
+possession. Our grand monarch is near by when his great general, as
+great as their greatest, has won for him the long-coveted prize, and
+all the country is aflame with joy. Does he enter it in royal state?
+He sends a grand deputation to take formal possession of rescued
+Sumter. He himself walks up the streets of the capital of the
+rebellion attended by twelve marines and half-a-dozen officers and
+friends, without music or banners, or military or civic
+pomp. Thousands of unshackled slaves dance around him in an
+uncontrollable ecstasy of delight. They look upon the face of their
+deliverer. To them it shines like that of Moses as he descended from
+the mount. Like the lame man unchained of his life-long fetters of
+infirmity, they precede and follow this to them chief of Christ's
+apostles, walking and leaping and praising God. They too have been
+unchained of life-long fetters, that have made them sit at the
+beautiful gate of the temple of knowledge and liberty, powerless to
+move, hopeless of salvation.</p>
+               <p>Their sneering master and mistress (such, thank God, no
+longer!) scowl from their windows upon him and the tumultuous crowd of
+beggared blacks that throng him, as Saul's daughter did upon the
+rejoicing David, despising him in their hearts. They do not mar his
+calm content nor the delight of the noisy escort who guide 
+<pb n="30"/>
+                  <figure entity="haven30">
+                     <figDesc>30th page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+the ruler both of them and of their masters to the residence of the
+fled usurper. He is indifferent to their contempt, and only regards
+the wonderful salvation of which he has been the chosen instrument,
+but which Jesus of Nazareth has alone effected.</p>
+               <p>As Christ entered into Jerusalem, the city that above all
+others hated, rejected, and should soon slay him, attended by those,
+but now lame and blind and deaf and leprous, whom he had cured, so did
+this, his servant, enter the city that above all others hated and
+rejected him, and would soon be the real if not intentional cause of
+his death, attended by thousands who had been saved from worse
+maladies than these, out of whom, in a moment, legions of devils that
+had long possessed them had been instantly and forever expelled by the
+same Divine Redeemer, through his appointed word. "Behold thy king
+cometh, meek," is most beautifully true here and now. The haughty
+tyrant is gone, the loving father is come. Well may their glad hearts
+dance for joy. Well may the air ring with their jubilant
+hallelujahs. Well may the paternal President feel the comfort and
+strength of the hour. The blessings of those that were ready to perish
+came upon him. His work draws near its close. The North is united, the
+rebel subdued, the slave set free. His cup is full. He can well
+exclaim, "Now, Lord, lettest thou thy servant depart in peace, for
+mine eyes have seen thy salvation and the glory of thy people
+Israel."</p>
+               <p>How near that departure was! This was his Palm Sunday. Ten
+days elapse and he follows his Divine Master, through like bloody
+hands, to a like glorious eternity.</p>
+               <p>Thus did our king enter his strong city. Thus did he
+triumph over his Philistia. The story wil1 be wrought in song and
+canvas, over the world and adown the ages, as the most beautiful and
+most rare expression of a Christian triumph. John Brown's last act,
+the kissing of the slave-child, will be one with Abraham Lincoln's
+last walk up the streets of Richmond, attended by ten thousand of
+<pb n="31"/>
+                  <figure entity="haven31">
+                     <figDesc>31st page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+his emancipated worshippers. With such a word as the inaugural and
+such a deed as this, we may truly feel that his life was rounded to a
+perfect close. He could properly hear the voice of the Master, saying,
+"It is enough; come up higher! Thou hast been faithful over a few
+things, I will make thee ruler over many things. Enter thou into the
+joy of thy Lord."</p>
+               <p>His work is done. Ours is yet unfinished. His place in
+history and in heaven is sure. Ours is yet to win. We shall show our
+admiration for him more by completing his work, than by standing too
+long gazing steadfastly into the heavens whither he has ascended.</p>
+               <p>As he constantly moved forward with the advancing hour, so
+must we. To pause where he stopped is to go backward. Let us keep step
+with God in every path of Christian and patriotic duty, enlarging the
+bounds and upbuilding the walls of the kingdom of Christ by our faith,
+our zeal, our love. Then shall we best express our sorrow over him who
+fell so untimely, yet so timely, and become, if not, like him, a
+martyr, at least a witness for and a worker with our God. Then shall
+we be a sharer of his labor and his reward. What a reward it is to him
+whose most peaceful nature was compelled to most stormy and repulsive
+service! How ineffably sweet must be the quiet and repose of the banks
+of the river of life, after this dark and bloody night of earth and
+time! There he rests from his labors, and his works--how many and how
+mighty!--do follow him and shall forever follow. There he worships the
+Chief of the martyrs,--whose form like his was pierced by the
+murderous stroke, whose soul like his was bowed with sorrows not his
+own, whose life like his was given for the redemption of others than
+himself,--with whom he may feel himself made one, in that final
+confession of his enemies, "He saved others, himself he cannot save;"
+as he is also one in forgiving them for their atrocious deed. Before
+that Saviour does he, thoughtless of self, bow in bliss and gratitude
+<pb n="32"/>
+                  <figure entity="haven32">
+                     <figDesc>32nd page of Gilbert
+Haven's The Uniter and Liberator of America.</figDesc>
+                  </figure>
+unknown to earthly hearts. Through His infinitely greater service and
+sacrifice has he, a poor slave of sin and hell, found everlasting
+redemption and equal citizenship with the unfallen angels of God. Let
+us, like him, though with eyes dimmed by tears and time, gaze, in
+faith, on the illustrious martyr of the universe, our Saviour, our
+Redeemer, our God. Let us consecrate ourselves, soul, body, and
+spirit, to that divinest purpose, for whose establishment He poured
+out His soul unto death, and to whose completion He has allowed so
+many of His disciples to feebly but gratefully follow Him afar off, in
+like sacrifice of themselves upon the altar of their faith,--assured
+that, under His supervision, despite the seeming triumphs of men and
+devils, that cause is steadily advancing to its earthly and eternal
+consummation.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,584 @@
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt n="The Death of President Lincoln">
+            <title>  The Death of
+President Lincoln </title>
+            <author>Dix, Rev. Morgan</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck
+Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>1996 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact the Director, 
+Pitts Theology Library, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>1999</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Lincoln
+Sermons Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl> Dix,
+Rev. Morgan. The Death of President Lincoln.  A Sermon Preached in
+Saint Paul's Chapel, New York, on Wednesday, April 19, 1865.
+Cambridge: Printed at the Riverside Press.  1865.  </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text derives from the Special Collections 
+of Pitts Theology Library, Emory University, and is produced in 
+collaboration with the Lewis H. Beck Center a, the Emory 
+Preservation Office, and Pitts Theology Library.</p>
+            <p>TRANSCRIBER: Lewis H. Beck Center and Emory University Preservation Office.</p>
+            <p>PRODUCER:  BookLab, Inc., 1606 Headway Circle, Suite 100, Austin, TX 78754</p>
+            <p>CAPTURE DEVICE: XEROX DocuImage 620S flatbed scanner</p>
+            <p>CAPTURE DETAILS: Scanner software: XEROX ScanTool version 4.2.3; no gamma correction; images are all bitonal.</p>
+            <p>CHANGE HISTORY: Using the Adobe Photoshop Batch Processor, we interpolated  the original TIFF files to 8-bit grays, and altered the resolution to 144 dpi, producing screen images twice the original size.  We then saved them in JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
+            <p>RESOLUTION: 600 ppi</p>
+            <p>COMPRESSION: Resolution 144 per inch with Constrain Properties to 72 per inch.</p>
+            <p>SOURCE: Original documents.</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>1999</date>
+            <respStmt>
+               <name>Scott Ellis</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 id="dix.001" n="The Death of President Lincoln" type="text">
+            <head> 
+               <bibl> 
+                  <title>The Death of
+President Lincoln</title> 
+                  <date>April 19, 1865</date> 
+                  <pubPlace>Saint
+Paul's Chapel, New York</pubPlace> 
+                  <author>Dix, Rev. Morgan</author>
+                  <imprint>
+                     <pubPlace>Cambridge</pubPlace>
+                     <publisher>The Riverside
+Press</publisher>
+                     <date>1865</date>
+                  </imprint> 
+               </bibl> 
+            </head>
+            <p>
+               <figure entity="dix1">
+                  <figDesc>1st page of Rev. Morgan Dix's The
+Death of President Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p>The Death of President Lincoln.</p>
+            <p>A SERMON</p>
+            <p>PREACHED IN SAINT PAUL'S CHAPEL, NEW YORK, ON</p>
+            <p>WEDNESDAY,
+APRIL 19, 1865.</p>
+            <p>BY THE</p>
+            <p>REVD. MORGAN DIX, S.T.D.,</p>
+            <p>RECTOR OF TRINITY
+CHURCH.</p>
+            <p>PRINTED BY ORDER OF THE VESTRY.</p>
+            <p>CAMBRIDGE:</p>
+            <p>PRINTED AT THE RIVERSIDE PRESS.</p>
+            <p>1865.</p>
+            <pb n="2"/>
+            <p>
+               <figure entity="dix2">
+                  <figDesc>2nd page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <pb n="3"/>
+            <p>
+               <figure entity="dix3">
+                  <figDesc>3rd page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p>RESOLUTIONS</p>
+            <p>ADOPTED BY THE VESTRY OF TRINITY CHURCH.</p>
+            <p>UPON receiving the news of the assassination of the
+President, the Vestry assembled, on the call of the Rector of the
+Parish, at 3 o'clock, P. M., on Saturday, April 15th, and adopted,
+unanimously, the following preamble and resolutions:-</p>
+            <p>WHEREAS, on the evening of the 14th day of April, 1865,
+being Good Friday, by an assassin as yet unknown, the venerated and
+beloved President of the United States, Abraham Lincoln, was suddenly
+assaulted and slain; and whereas the announcement of that appalling
+crime has just been made to this community, filling all hearts with a
+grief, astonishment, and indignation which cannot be described; and
+whereas this Vestry has been called together by the Rector, to take
+such action as in their judgment may seem fit and becoming;
+therefore,-</p>
+            <p>
+               <hi rend="italic">Resolved</hi>, That this Vestry, as sharers
+in the common distress and affliction, unite in the public lamentation
+over the untimely death of the honored Chief Magistrate of the Union,
+and shocked beyond measure at the intelligence which has just been
+received, remain without words adequate to express their sorrow.</p>
+            <p>
+               <hi rend="italic">Resolved</hi>, That we recognize in this
+calamitous event one of those visitations, permitted by Almighty God,
+before which</p>
+            <pb n="4"/>
+            <p>
+               <figure entity="dix4">
+                  <figDesc>4th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p>RESOLUTIONS.</p>
+            <p>a nation can but bow in silence and awe, with the prayer that they
+may be overruled for the good of our country.</p>
+            <p>
+               <hi rend="italic">Resolved</hi>, That while we regard the act
+by which our beloved country has thus been, through indescribable
+malice and fury, plunged into the deepest addiction, as one of those
+crimes of which no language can adequately paint the atrocity, of
+which the history of Europe has not for many centuries furnished a
+parallel, of which our own history has thus far furnished no example,
+and than which no history furnishes a more detestable and infamous act
+to the view, we cannot but hold it to have been dictated by the spirit
+which, from the commencement of our national troubles, has sympathized
+with the enemies of the public peace, and aided and abetted the
+rebellion, now, as we trust, subdued; a spirit whose tendencies and
+essential character had previously been manifested in the July riots
+in this city, in 1863, in the attempt to destroy this city by
+incendiarism, in November last, and in the systematic outrages
+inflicted on our captured soldiers in the prisons of the South.</p>
+            <p>
+               <hi rend="italic">Resolved</hi>, That this Vestry hereby
+record their tribute of respect to the memory of the late President
+with profound sorrow for his loss, recognizing in him a singleness of
+purpose, an honesty of intention, an ardent patriotism, a fidelity to
+duty, and a growing mastery of the circumstances of his position,
+which enabled him, under Providence, to fulfil and bring to successful
+completion a work almost unprecedented for difficulty; and that in his
+removal, at the moment in which the labors of his last four years had
+culminated in the triumph of the national authority and the evident
+approach of the blessings of peace, we see the completion of a career
+which the nation will ever look back to with thankfulness, and hold in
+affectionate and tender remembrance.</p>
+            <p>
+               <hi rend="italic">Resolved</hi>, That the Rector be requested
+to take order that the churches of this parish be draped in mourning,
+in token of our sympathy with the distress and anguish which have been
+caused throughout the length and breadth of the land</p>
+            <pb n="5"/>
+            <p>
+               <figure entity="dix5">
+                  <figDesc>5th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p>RESOLUTIONS.</p>
+            <p>by the murder of our venerated and beloved Chief Magistrate.</p>
+            <p>
+               <hi rend="italic">Resolved</hi>, That the Rector be
+authorized to give such publication to the above Resolutions as he may
+deem expedient; also <hi rend="italic">Resolved</hi>, That an attested
+copy of the same be sent to the family of the deceased, and to the
+Department of State at Washington.</p>
+            <p>On Wednesday, April 19th, 1865, in compliance with the
+recommendation of the National Government, funeral solemnities were
+held, at 12 o'clock meridian, throughout the United States, in honor
+of the late President. The following Sermon was preached in St. Paul's
+Chapel on that occasion.</p>
+            <pb n="6"/>
+            <p>
+               <figure entity="dix6">
+                  <figDesc>6th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <div2 id="dix.002" n="SERMON" type="sermon">
+               <head>SERMON.</head>
+               <epigraph>
+                  <p>"He that ruleth over men must be just, ruling in the fear
+of God. And he shall be as the light of the morning, when the sun
+riseth, even a morning without clouds; as the tender grass springing
+out of the earth by clear shining after rain."-2 SAMUEL xxiii. 3,
+4.</p>
+               </epigraph>
+               <p>THESE were the last words of David. He spake them as he saw
+the time drawing near when he must go the way of all the earth; they
+were the last song of the Psalmist. Each man knows best the law of his
+own profession; he, as a ruler, knew what a ruler ought to be, and
+delivered his judgment on that subject before he died. The sentence on
+his own performances he left his Lord to utter; but the general law by
+which he ought to have guided his course, he was moved so to state and
+express in the moment in which the rod of empire was about to be taken
+from his relaxing hand.</p>
+               <p>Those words of David, the ancient king, may be most aptly
+used as proper to a description of the dead President. We assemble
+to-day on an occasion without a precedent in our past history. There
+has been, on this side of the world, no sorrow like our sorrow, so far
+as we can read back the history of the men who have dwelt
+here. Regarded in its cause and in its manner of manifestation, it
+stands beyond</p>
+               <pb n="7"/>
+               <p>
+                  <figure entity="dix7">
+                     <figDesc>7th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON.</p>
+               <p>comparison in its awful grandeur. By that act, to which the sober
+judgment of mankind has awarded the crown in degrees of atrocious
+crime; by that deed, of which language fails to paint the infamy; by
+that sin, against which Christian civilization cries out as involving
+the reversal of all progress towards good, and as throwing back
+mankind into the slough of barbarism, the act, the crime, the sin of
+murderous assassination, a man has been laid low, who held in his
+hands the destinies of twenty-five millions of his countrymen, and to
+whom they were at that moment looking with growing confidence in his
+honesty of purpose, his integrity of character, and his ability to do
+his duty in that position unto which it had pleased God to call
+him. And we are gathered together to mourn and weep with all those
+millions over a bereavement which every lover of his country feels to
+be personal to himself. There is a great cry throughout the land; it
+seems as though there was not a house where there is not one
+dead. Some few words would I reverently speak at this hour, when,
+perhaps, a solemn silence might better suit the occasion.</p>
+               <p>And first, of him who has been wrested from us by the
+murderer's hand. That sanguinary fiend, that nocturnal demon of the
+darkness of this world, thought to have done him a harm when he lifted
+up the weapon against his life. How short-sighted are the calculations
+of the wicked one! That act has been, not the destruction, but the
+immortalizing of the venerated and beloved victim. When or where, at
+any time, in any age, has a man gone to his grave as this ruler of the
+land is going to his, this</p>
+               <pb n="8"/>
+               <p>
+                  <figure entity="dix8">
+                     <figDesc>8th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON.</p>
+               <p>hour? Who ever saw or dreamed of a manifestation of sorrow, of
+anguish, of interest, of devotion to one human being like that which
+this hour is revealing? Unforced, unasked, the result of no national
+edict, of no proclamation by authority, it is the simple, unaffected,
+real demonstration of the heart of this great family of freemen. There
+is a grandeur in this scene with which no occurrence hitherto can
+compare. Let the bloodstained felon, wherever he be now skulking, mark
+what he has done. He thought to spread dismay and confusion through
+the land. He has but lifted a veil which lay upon the great national
+heart, and shown the world its greatest strength and glory, in its
+tenderness, its veneration for goodness, its magnificent collectedness
+and self-control. His infamous deed has made stronger than ever the
+people whom he hates; stronger, as they are stronger who have been
+knit together by the bond of a common affliction. The sound of the
+funeral hymn, now sternly ascending over the whole land, bespeaks a
+compactness, a concentration, a mutual devotion, which, up to this
+hour, lacked the lever of development and the cause of expression;
+this funeral wail has in it the music of a coming era, through which
+the dead of to-day shall walk in spirit, canonized and glorified in
+the undying love and veneration of coming ages. Just as the French
+look back to the good Henry IV., and love him for the fate which
+brutal passion inflicted, so will the American people, to their
+remotest generations, speak tenderly and reverently of that good, that
+honest, that kindly-hearted man, their sixteenth President.</p>
+               <pb n="9"/>
+               <p>
+                  <figure entity="dix9">
+                     <figDesc>9th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON.</p>
+               <p>"He that ruleth over man must be just, ruling in the fear of God."
+How fairly do these words describe him. Who was just, if he was not?
+or who, if we may read the man's inmost heart from his words, did ever
+rule more conscientiously in the fear of God? Honesty and his name
+were synonymous; and now that he is dead, what more could he ask, what
+nobler record, than that he was proverbially the honest man? And then,
+how tender-hearted; men thought at last almost too much so, but let us
+rather think of that grand, Christ-like trait with thankfulness, that
+it beamed forth so brightly from his person at the last. When they
+struck him down he was meditating how to do them good; his last
+official acts were acts of kindness and leniency, so marked as to
+excite, in some quarters, alarm; in him they murdered their best
+friend; his heart was full of plans of conciliation at the moment when
+they aimed at it their execrable blow. That is enough for every lover
+of peace to make him look, with moistened eyes, at that untimely
+grave. There lieth one who, so far as we can judge, bore no ill-will
+to any creature that lives; who, as he said himself when they told him
+that he was reelected, felt sorry to triumph over any one; who was
+seeking, in those his last few days, to find how he might soften to
+the enemies of his country the circumstances of their late disastrous
+defeats,--how he could save them mortification and humiliation,--how
+much he could safely give them back of that which they had forfeited,
+who would, I think, have pardoned, if it came to the last, even the
+chief man of the insur-</p>
+               <pb n="10"/>
+               <p>
+                  <figure entity="dix10">
+                     <figDesc>10th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON.</p>
+               <p>gents; who would have had the blood of no one on his hands; and
+who, if he knew in those last hours what had happened to him, and who
+had done it, would, I verily believe, have prayed for his murderer,
+and been ready to do what no one else can do--forgive him. Oh, if
+there be a crime more foul, more base, more abominable, than that
+which has been done on that unostentatious, wise, kindhearted,
+friendly man, let it be named, that we may see in the scale of
+wickedness one degree below any yet known! The people know of nothing
+worse, and, therefore, is he lamented as none was ever lamented for by
+them unto this day.</p>
+               <p>Whither can the assassin fly? Whither, that the justice of
+Heaven shall not fell him? Whither, that the arm of the government
+cannot lay hold of him? This is a case in which there need be no
+impatience, no hurry. The retribution may be deferred; but it will
+come. The whole earth has not a place where he cannot be known and
+followed and found. The government does not exist which dare refuse to
+give him up, if he be within its limits. Only one part of the world is
+there to-day where he can breathe and walk abroad in safety--in those
+parts of this country still in an insurgent condition, and not yet
+reached by our armies. But around that lessening region the circle
+hourly contracts. He shall not long have shelter there; the years at
+last shall bring him into our hands, if the months and the days do not
+do it sooner. There is small consolation in the thought; the evil
+cannot be repaired. But that man owes a debt to the nation, and sooner
+or later the hour of</p>
+               <pb n="11"/>
+               <p>
+                  <figure entity="dix11">
+                     <figDesc>11th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON.</p>
+               <p>its payment wil1 come. Meanwhile we have but to be patient and
+follow.</p>
+               <p>Among the thoughts which come upon the mind at such a
+moment as this, is one of which I will briefly and dispassionately
+speak. One consequence of this ghastly crime will be, and is already,
+that an entire population is put on trial before the bar of the
+opinion of mankind. It has been urged by many--by most--that this act
+of assassination is but the natural result of a social condition to
+which such acts seem properly to belong. It is said that the moral and
+social tone, temper and spirit of the Southern people are such that
+acts of infamy like this might naturally be expected from them. But
+there are others who cannot consent to such a view of the case; who
+claim for Southern civilization a higher tone, a better spirit; who
+maintain that its principles are the principles of Christianity, and
+that the moral condition of the people is not below that of the rest
+of civilized mankind. To that opinion your preacher has adhered. He
+could not feel that a whole people could have been so brutalized, so
+degraded, as it has been represented that they are. But now the thing
+is to be determined --the truth is to be made plain--in the red and
+bloody light of this cruel and diabolical outrage. There can be no
+escape from this test, nor any evasion of the issue. By the calm,
+concurrent, and deliberate judgment of civilized and enlightened
+nations, assassination is held to be a crime--an act which no
+circumstances can excuse. That was not the Pagan view. The change in
+opinion on this point has come with the</p>
+               <pb n="12"/>
+               <p>
+                  <figure entity="dix12">
+                     <figDesc>12th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON.</p>
+               <p>acceptance of the teachings of Jesus Christ, and with the spread of
+His religion through the world. To defend assassination is no more
+possible in this age than to defend suicide; no more possible on
+Christian principles; it is classed among those frightful enormities
+with which lower civilizations teem, and to which men are more or less
+prone in proportion to their higher or lower position in the scale of
+advancement. Hence we have heard, wherever this deed has been made
+known beyond our borders, a cry of horror, a cry of detestation from
+all official mouths--from all who could speak for constituencies. We
+have heard that cry from those who have never been on our side, and
+who do not yet alter their feelings concerning us; but as men, and as
+Christians, they think it due to their manhood and their faith to
+express, in language not to be misunderstood, their horror at the
+sudden appearance of that barbarian shape, the political assassin,
+amid the lights of this age. For two hundred and fifty-five years such
+a dire shape has not emerged from the outer darkness to alarm and
+astound the world. Since A. D. 1610, no ruling sovereign of a mighty
+people has actually thus been hurried out of the world. Have we not,
+therefore, in this event a test which no ingenuity can evade of the
+real temper, tone, and quality of that community with which we have
+been forced into contention? We wait to hear what they wil1 say. They
+must speak, and the whole world wil1 listen to every word they
+utter. He who invaded the family circle of the President and did him
+to death; he who, with a dastardly cowardice which</p>
+               <pb n="13"/>
+               <p>
+                  <figure entity="dix13">
+                     <figDesc>13th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON.</p>
+               <p>must simply be pronounced immense, entered the chamber of that sick
+and helpless man, the Secretary of State, and stabbed him in his
+bed,--these wretches knew not all that they did; for among the results
+of those ferocious actions was this,--that they have arraigned the
+whole Southern people before the bar of the opinion of mankind, and
+put them on trial at that august tribunal. The judgment is set, and
+the books are opened; Christian civilization waits attentively to hear
+them speak. There is but one thing to do, if they would stand in this
+audit. To denounce the act, to join in the common cry against the
+outrage done to God, to man, to Christ, to the age; to disclaim any
+responsibility for it; to shrink back from the bloody actors in that
+murder; to say, We, too, are Christians, civilized beings, men; we
+abhor as much as you can a deed like this; charge it not on us; it is
+the work of desperadoes for whom we are not accountable: think not of
+us as though we would excuse or defend a crime fit only for a
+barbarous zone, and from which, with the enlightened world, and as
+acceptors of the principles of Christianity, we equally with
+yourselves revolt in disgust and horror. Such must be their answer, if
+their claims be true. And would to God it might come back to us from
+the other side in unmistakable terms,--a full, clear, hearty, manly
+voice,--assuring us that the weapons of their warfare are and ever
+will be those of honorable, though, as we deem, mistaken, men, and not
+the poisoned chalice, the midnight torch, the secret dagger, the
+muffled pistol. Then might good come even of this awful catas-</p>
+               <pb n="14"/>
+               <p>
+                  <figure entity="dix14">
+                     <figDesc>14th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON.</p>
+               <p>trophe. We, loving the dead as we do, they, horrorstricken at his
+murder, might yet join hands over his bloody grave, and ask
+forgiveness of God and of each other in whatsoever, all through these
+years, we have done amiss. Would to God it might be so; the blood of
+the martyr might indeed make fertile the ground of that country, all
+parts of which he loved. But I fear, I tremble lest it should be
+otherwise, lest we shall hear some quite different voice, perhaps a
+brutal cry of approval, perhaps a glorifying of the act even more
+monstrous than the deed itself; for he who could calmly and in cold
+blood justify it must be at heart like those who did it; and if that
+sullen response should come, if those assassins should be received as
+heroes, their crime applauded, their persons admired, the judgment of
+mankind defied,--if such should be the answer, then, of a truth, must
+the heart grow heavier than it is now, and a thoughtful man must ask
+himself, "What are those people? What is their normal state? What are
+their thoughts--their principles? What cause has been at work to keep
+them back behind the rest of the world, to depress them, to hold them
+at the old heathen positions, at the old standpoints of Paganism, to
+keep them blind while all the rest of the world sees? What is that
+civilization which appropriates and glories in deeds like this, which
+calls the midnight murderer a hero, the stealthy killer of the old,
+the sick, the defenceless, a demigod? Is it a work of this age? or is
+it a thing of the past? Is it a system which rests on Gospel
+principles and Christian ideas? or is it a remnant</p>
+               <pb n="15"/>
+               <p>
+                  <figure entity="dix15">
+                     <figDesc>15th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMON</p>
+               <p>of hard old Roman Paganism and an ally and friend of the Thugs? And
+can there be peace while any vestige remains of those peculiarities,
+whatever they may be, which make that system what it is, and, under
+it, debase and distort those people from the very form of man?"
+Brethren, it is with indescribable anxiety that many are now waiting
+for the response of the Southern people to these atrocious murders
+which have been committed in their name. We will not think the worst
+until all hope is gone; we will yet hope against hope. But if it must
+be so, then, indeed, will it seem as if all hope were at an end--as if
+all that has been said were just--as if the charges hitherto made had
+not been rash; and, so far as defence of that community is regarded,
+impartial lips must be silent henceforth.</p>
+               <p>A few words in conclusion. I return to my subject, to him
+whose memory we honor today, for whom we make loud and bitter
+lamentation. But he is beyond the reach of our cry; he is not,
+however, beyond that of our praise. His name is with us--in our
+households, on our national annals, on the roll of the world's
+prominent men, and in the heart of a great nation while that nation
+shall endure. I do not enumerate his amazing successes in guiding the
+ship of state through as heavy a storm as ever beat and blew; in
+leading us to conclusions of the most wonderful character, as official
+commander-in chief of the power of the nation; in emancipating from
+the fetters of slavery an entire race of human beings. Let the
+historian write of all these things in his account of that remarkable
+man. Let me rather repeat the</p>
+               <pb n="16"/>
+               <p>
+                  <figure entity="dix16">
+                     <figDesc>16th page of
+Rev. Morgan Dix's The Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>SERMONS</p>
+               <p>words of King David, spoken concerning the just ruler that ruleth
+in the fear of God:--For "he shall be as the light of the morning when
+the sun riseth, even a morning without clouds; as the tender grass
+springing out of the earth by clear shining after rain." To him, with
+wonderful accuracy, as we trust, may these words be applied. The
+rebellion is nearly over; the sun of peace will soon, we trust, be
+bright over all the land, and a new and grand era is commencing for
+our country. But the good and honest President will ever stand there,
+in the memory of the people, surrounded with the light of that morning
+in which, just as it was rising upon us, he was called to his rest;
+and his name will be, in the hearts of the American people, as green,
+as fresh, and as pleasant as is to the eyes the tender grass springing
+out of the earth by clear shining after the rain. Alas! that rain was
+the rain of his own blood--the blood of his active brain, of his
+generous heart; but there is already a great and clear shining upon
+the earth where that red shower fell; and, while the lights of
+martyrdom and sacrifice shall continue to shine, they will rest on
+that venerable place, and glow there, like sacred fires, from
+generation to generation.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>
