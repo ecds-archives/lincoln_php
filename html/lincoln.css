@@ -16,12 +16,13 @@ div.content
 
 h1 { font-family: Book Antiqua; color: #660000; }
 h2 { font-family: Book Antiqua; color: #000033; font-stretch: narrower;}
-
-span.author { font-weight: bold; }
+span.star {font-weight: bold;}
+span.author { font-weight: bold; font-size:200%;}
 li.sermon { list-style-type: circle; padding-left: 15px; text-indent: -15px; }
 
 /* styles for the header and footer */
-div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }
+div.header, div.footer { text-align: center; width: 665px; margin: auto; }
+/*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
 div.header { border: 3px solid #02023a;} 
 div.header h1 { font-size: 36pt; margin: -1px; }
 div.header h2 { font-size: 13pt; margin: -4px; }
@@ -33,11 +34,11 @@ div.header p#nav { width: 50%;}
 div.header p#resources {clear: left;}
 div.footer p#nav { border: none }
 p.clear { clear: left; }
+
 div.footer p#nav-foot { border: none }
 
 /*styles for the index page */
 
 
 div#overview {margin: 1in; margin-top:0.5in;}
-
 
