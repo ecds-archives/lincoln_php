@@ -9,14 +9,14 @@ li.sermon { list-style-type: circle; padding-left: 15; text-indent: -15px; }
 /* styles for the header and footer */
 div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; }
 div.header { border: 3px solid #02023a;} 
-div.header h1 { font-family: Book Antiqua; font-size: 36pt; color: #660000; margin: -5; }
+div.header h1 { font-family: Book Antiqua; font-size: 36pt; color: #660000; margin: -1; }
 div.header h2 { font-family: Book Antiqua; font-size: 13pt; color: #000033; margin: -4; font-stretch: narrower;}
 div.header a { text-decoration: none; padding-right: 1px; padding-left: 1px; }
 div.header img { float: left; } 
 div.header p {margin: 0; }
 div.header p.links,div.footer p.links { border-top: 2px solid #000033; margin: 5px; text-align: center; vertical-align: middle; font-size: 90%; color: #000033;}
 div.header p#nav { width: 45%; }
-div.header p#resources {}
+div.header p#resources {clear: left;}
 div.footer p#nav { border: none }
 
 
