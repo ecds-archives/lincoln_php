@@ -1,0 +1,182 @@
+Query to return Title, Author for poetry only, sorted by author and title. 
+
+for $a in input()/TEI.2/teiHeader
+let $b := $a//titleStmt
+let $c := $a//profileDesc/creation/rs[@type='genre']
+where $c='poetry'
+return $b
+sort by (author, title)
+
+
+Query to return Title, Author and Document date - still problematic because it returns date in strange format and also lists all the dates in the document. 
+for $a in input()/TEI.2
+let $b := $a/teiHeader//titleStmt
+let $c := $a//docDate
+return 
+<titleStmt>
+{$b/author} 
+{$b/title} 
+{$c}
+</titleStmt> 
+sort by (author)
+
+
+http://tamino/passthru/servlet/transform/tamino/EWWRP/wwrp?_xquery=
+for $a in input()/TEI.2/teiHeader 
+let $b := $a//titleStmt 
+let $c := $a//profileDesc/creation/rs[@type='genre']
+where $c='prose'
+return $b  
+sort by (author, title)
+&_xslsrc=xsl:stylesheet/contents.xsl
+
+http://tamino/passthru/servlet/transform/tamino/EWWRP/wwrp?_xquery=
+for $a in input()/TEI.2/teiHeader 
+let $b := $a//titleStmt 
+return $b  
+sort by (author, title)
+&_xslsrc=xsl:stylesheet/contents.xsl
+
+Working Contents query that returns titles, sorted by author -- click on authorfor list of titles.   
+http://tamino/passthru/servlet/transform/tamino/EWWRP/wwrp?_xquery=for%20$a%20in%20input()/TEI.2/teiHeader%20let%20$b%20:=%20$a//titleStmt%20return%20$b%20%20sort%20by%20(author,%20title)&_xslsrc=xsl:stylesheet/contents.xsl
+
+XQL query to delete a particular file on tamino. Always check to see if it is only bringing up that record or not and then delete it.
+First, view the record to make sure it is the correct file. 
+http://vip.library.emory.edu/tamino/EWWRP/wwrp?_xql=TEI.2//titleStmt/author[@n='Harper,%20Frances%20Ellen%20Watkins']
+Then, to view the entire file -- use the following query with the square bracket moved to the end of the root elementand the . removed
+http://vip.library.emory.edu/tamino/EWWRP/wwrp?_xql=TEI.2[//titleStmt/author/@n='Harper, Frances Ellen Watkins']
+Go to the http://beckptolemy --> tamino interactive interface and copy the query into the delete box and press delete. 
+
+
+Query for Woman's Advocate and Woman's Era Contents -- div1 through div2
+for $a in input()/TEI.2
+where $a/teiHeader/fileDesc/titleStmt/title="The Woman's Advocate"
+return <group>
+{for $t in $a/:text/group/:text
+ return <text>
+ {$t/@id} 
+ {$t/@n}
+ {for $b in $t//div1
+ return <div1>
+ {$b/@id}
+ {$b/@n}
+ {$b/@type}
+{for $c in $b/div2
+ return <div2>
+ {$c/@id}
+ {$c/@n}
+ {$c/@type}
+ {$c/docDate}
+ </div2>}
+ </div1>}
+ </text>}
+ </group>
+
+
+same as above through div4 -- much slower
+for $a in input()/TEI.2
+where $a/teiHeader/fileDesc/titleStmt/title="The Woman's Advocate"
+return <group>
+{for $t in $a/:text/group/:text
+ return <text>
+ {$t/@id} 
+ {$t/@n}
+ {for $b in $t//div1
+ return <div1>
+ {$b/@id}
+ {$b/@n}
+ {$b/@type}
+{for $c in $b/div2
+ return <div2>
+ {$c/@id}
+ {$c/@n}
+ {$c/@type}
+ {$c/docDate}
+{for $d in $c/div3
+ return <div3>
+ {$d/@id}
+ {$d/@n}
+ {$d/@type}
+ {$d/docAuthor}
+{for $e in $d/div4
+ return <div4>
+ {$e/@id}
+ {$e/@n}
+ {$e/@type}
+ {$e/docAuthor}
+ </div4>}
+ </div3>}
+ </div2>}
+ </div1>}
+ </text>}
+ </group>
+
+Working query for The Woman's Era -- different structure from The Advocate -- only text/body not text/group/text/body
+
+for $a in input()/TEI.2
+where $a/teiHeader/fileDesc/titleStmt/title="The Woman's Era"
+return <text>
+ {for $b in $a/:text/body/div1
+ return <div1>
+ {$b/@id}
+ {$b/@n}
+ {$b/@type}
+{for $c in $b/div2
+ return <div2>
+ {$c/@id}
+ {$c/@n}
+ {$c/@type}
+ {$c/docDate}
+{for $d in $c/div3
+ return <div3>
+ {$d/@id}
+ {$d/@n}
+ {$d/@type}
+ {$d/docAuthor}
+ </div3>}
+ </div2>}
+ </div1>}
+ </text>
+
+Working Query for getting issue number, article and any further divisions within.
+
+for $a in input()/TEI.2
+where $a/teiHeader/fileDesc/titleStmt/title="The Woman's Advocate"
+return <text>
+ {for $b in $a/:text/group/:text/body//div2
+ return <div2>
+ {$b/@id} 
+ {$b/@n}
+ {$b/@type}
+ {$b/docDate} 
+{for $c in $b/div3
+ return <div3>
+ {$c/@id}
+ {$c/@n}
+ {$c/@type}
+ {$c/docAuthor}
+ {for $d in $c/div4
+ return <div4>
+ {$d/@id}
+ {$d/@n}
+ {$d/@type}
+ {$d/docAuthor}
+ </div4>}
+ </div3>}
+ </div2>}
+ </text>
+
+Working query for genre -- here Native American but could work for any
+<value-of-select> case -- Caucasian, African American
+
+for $a in input()/TEI.2
+let $b := $a/teiHeader/fileDesc/titleStmt
+where $a/teiHeader/profileDesc/creation/rs="Native American"
+return <titlestmt>
+{$b/title}
+{$b/author/@n}
+</titlestmt>
+
+
+
+
