@@ -13,25 +13,29 @@ include("header.html");
 $id = $_GET['id'];
 $terms = $_GET['term'];
 
-$args = array('host' => "vip.library.emory.edu",
-		'db' => "LINCOLN",
-	      	'coll' => 'sermons',
-	        'debug' => false);
-$tamino = new xmlDbConnection($args);
+$args = array('host' => "bohr.library.emory.edu",
+	      'port' => "8080",
+	      'db' => "lincoln",
+	      'dbtype' => "exist",
+	      'debug' => false);
+$exist = new xmlDbConnection($args);
 
-$query = 'for $div in input()/TEI.2/:text/body/div1
+/* tamino query
+ $query = 'for $div in input()/TEI.2/:text/body/div1
 where $div/@id = "' . $id . '"
 return $div';
+*/
+$query = 'for $div in //div1[@id = "' . $id . '"] return $div';
 $xsl_file = "sermon.xsl";
 
-$tamino->xquery($query);
+$exist->xquery($query);
 
 print '<div class="content">
           <h2>Sermon</h2>';
-$tamino->highlightInfo($terms);
+$exist->highlightInfo($terms);
 
-$tamino->xslTransform($xsl_file);
-$tamino->printResult($terms);
+$exist->xslTransform($xsl_file);
+$exist->printResult($terms);
 
 print "<p class='clear'>&nbsp;</p>";
 print "</div>";
