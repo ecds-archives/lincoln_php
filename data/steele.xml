@@ -121,7 +121,7 @@ ALBANY ST.</p>
             <p>1865.</p>
             <pb n="2"/>
             <p>
-               <figure entity="steele1">
+               <figure entity="steele2">
                   <figDesc>1st page of
 Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                </figure>
@@ -166,12 +166,13 @@ worthy of study and admiration as that of President Lincoln.</p>
             <p>RICHARD
 H. STEELE.</p>
             <pb n="4"/>
-            <p>
+<!-- blank page -->
+<!--            <p>
                <figure entity="steele4">
                   <figDesc>4th page of
 Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                </figure>
-            </p>
+            </p> -->
             <pb n="5"/>
             <p>
                <figure entity="steele5">
