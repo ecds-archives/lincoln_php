@@ -96,9 +96,11 @@ $tamino->getXqueryCursor();
 
 $xsl_file = "search.xsl";
 
-// pass terms into xslt as parameters 
-// (needed to pass along in link to browse page for highlighting)
-$xsl_params = array("term"  => $term, "term2" => $term2);
+// pass search terms into xslt as parameters 
+// (xslt passes on terms to browse page for highlighting)
+$term_list = implode("|", $myterms);
+$xsl_params = array("term_list"  => $term_list);
+
 
 print '<div class="content">';
 print "<p>Found " . $tamino->count . " matching sermons.</p>";
