@@ -56,9 +56,7 @@ class xmlDbConnection {
     $this->xpath =& $this->xmldb->xpath;
 
     // variables for highlighting search terms
-    $this->begin_hi[0]  = "<span class='term1'>";
-    $this->begin_hi[1] = "<span class='term2'>";
-    $this->begin_hi[2] = "<span class='term3'>";
+    // begin highlighting variables are now defined when needed, according to number of terms
     $this->end_hi = "</span>";
   }
 
@@ -117,6 +115,16 @@ class xmlDbConnection {
 
    }
 
+   // create <span> tags for highlighting based on number of terms
+   function defineHighlight ($num) {
+     $this->begin_hi = array();
+    // strings for highlighting search terms 
+    for ($i = 0; $i < $num; $i++) {
+      $this->begin_hi[$i]  = "<span class='term" . ($i + 1) . "'>";
+    }
+   }
+
+
    // get the content of an xml node by name when the path is unknown
    function findNode ($name, $node = NULL) {
      // this function is for backwards compatibility... 
@@ -145,12 +153,18 @@ class xmlDbConnection {
      // Note: regexp is constructed to avoid matching/highlighting the terms in a url 
        $str = preg_replace("/([^=|']\b)($_term)(\b)/i",
 	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
+       // special case when term is at the beginning of string
+       $str = preg_replace("/(^)($_term)(\b)/i",
+	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
+
      }
      return $str;
    }
 
    // highlight text in the xml structure
    function highlightXML ($term) {
+     // if span terms are not defined, define them now
+     if (!(isset($this->begin_hi))) { $this->defineHighlight(count($term)); }
      $this->highlight_node($this->xsl_result, $term);
    }
 
@@ -168,6 +182,8 @@ class xmlDbConnection {
    
    // print out search terms, with highlighting matching that in the text
    function highlightInfo ($term) {
+     // if span terms are not defined, define them 
+     if (!(isset($this->begin_hi))) { $this->defineHighlight(count($term)); }
      if (isset($term[0])) {
        print "<p align='center'>The following search terms have been highlighted: ";
        for ($i = 0; isset($term[$i]); $i++) {
