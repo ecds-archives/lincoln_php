@@ -3,7 +3,7 @@ include("config.php");
 
 html_head("Search Results");
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 
 print "<body>";
 
@@ -15,7 +15,7 @@ $args = array('host' => "vip.library.emory.edu",
 		'db' => "LINCOLN",
 	      	'coll' => 'sermons',
 	        'debug' => false );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 // search terms
 $kw = $_GET["keyword"];
@@ -96,7 +96,7 @@ $sort = 'sort by (author)';
 
 $query = "$declare $for $let $where $return $sort";
 $tamino->xquery($query); 
-$tamino->getXqueryCursor();
+$tamino->getCursor();
 
 $xsl_file = "search.xsl";
 

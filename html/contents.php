@@ -2,7 +2,7 @@
 
 include("config.php");
 html_head("Contents", "lincoln.css");
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 
 print "<body>";
 
@@ -12,7 +12,7 @@ $args = array('host' => "vip.library.emory.edu",
 		'db' => "LINCOLN",
 	      	'coll' => 'sermons',
 	        'debug' => false );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 /*
 $query = 'for $a in input()/TEI.2/:text/body/div1 
@@ -26,13 +26,7 @@ return <div> {$auth}
 {for $div1 in $body/div1 return <div1>{$div1/@id}{$div1/head/bibl}</div1> } </div> sort by (author)'; 
 $xsl_file = "contents.xsl";  
 
-$rval = $tamino->xquery($query);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-} 
-
+$tamino->xquery($query);
 
 print '<div class="content">  
           <h2>Contents</h2>';
