@@ -6,13 +6,18 @@
 	xmlns:xq="http://metalab.unc.edu/xq/">
 
 
+<!-- search terms for highlighting.  Should be in format:
+     term1|term2|term3|term4  -->
+<xsl:param name="term_list"/>
 
-<xsl:param name="term">0</xsl:param>
-<xsl:param name="term2">0</xsl:param>
-<xsl:param name="term3">0</xsl:param>
-
-<!-- construct string to pass search term values to browse via url -->
-<xsl:variable name="term_string"><xsl:if test="$term != 0">&amp;term[]=<xsl:value-of select="$term"/></xsl:if><xsl:if test="$term2 != 0">&amp;term[]=<xsl:value-of select="$term2"/></xsl:if><xsl:if test="$term3 != 0">&amp;term[]=<xsl:value-of select="$term3"/></xsl:if></xsl:variable>
+<!-- generate an addendum to the url, in the form of:
+     &term[]=string1&term[]=string2 etc. 
+     This string should be appended to the browse (sermon.php)  url.  -->
+<xsl:variable name="term_string">
+  <xsl:call-template name="highlight-params">
+    <xsl:with-param name="str"><xsl:value-of select="$term_list"/></xsl:with-param>
+  </xsl:call-template>
+</xsl:variable>
 
 <xsl:output method="html"/>  
 
@@ -30,5 +35,25 @@
 </xsl:template>
 
 <xsl:template match="total"/>
+
+
+<xsl:template name="highlight-params">
+  <xsl:param name="str"/>
+  <xsl:choose>
+    <xsl:when test="contains($str, '|')">
+       <xsl:text>&amp;term[]=</xsl:text><xsl:value-of select="substring-before($str, '|')"/>
+       <xsl:call-template name="highlight-params">
+         <xsl:with-param name="str"><xsl:value-of select="substring-after($str, '|')"/></xsl:with-param>
+       </xsl:call-template>
+    </xsl:when>
+    <xsl:when test="string-length($str) = 0">
+  	<!-- empty string or not set; do nothing -->
+    </xsl:when>
+    <xsl:otherwise>
+       <xsl:text>&amp;term[]=</xsl:text><xsl:value-of select="$str"/>
+    </xsl:otherwise>
+  </xsl:choose>
+
+</xsl:template>
 
 </xsl:stylesheet>
