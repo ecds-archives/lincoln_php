@@ -1,10 +1,14 @@
 body { margin-left: 100; }
-
-p.pageimage { margin-left: -75; }
-p.pagebreak { margin-left: -75; }
-
-hr.pb {  float: right; width: 100%; } 
+body {margin-right: 100; }
+p.headings {margin-top: 0;}
+p.headings {margin-bottom: 1;}
+p.href {font-size: 0;}
 img { float: left; } 
+p.urefs {margin-top: 2;}
+p.urefs {margin-bottom:2;}
+p.urefs {margin-left: 200;}
+p.lrefs {margin-top: 2;}
+
 
 
 
