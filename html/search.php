@@ -11,11 +11,12 @@ include("header.html");
 
 $id = $_GET['id'];
 
-$args = array('host' => "vip.library.emory.edu",
-		'db' => "LINCOLN",
-	      	'coll' => 'sermons',
-	        'debug' => false );
-$tamino = new xmlDbConnection($args);
+$args = array('host' => "bohr.library.emory.edu",
+	      'port' => "8080",
+	      'db' => "lincoln",
+	      'dbtype' => "exist",
+	        'debug' => false);
+$exist = new xmlDbConnection($args);
 
 // search terms
 $kw = $_GET["keyword"];
@@ -25,62 +26,85 @@ $date = $_GET["date"];
 $place= $_GET["place"];
 $mode= $_GET["mode"];
 
-
+// arrays are not needed for eXist searching
 $kwarray = processterms($kw);
-$ttlarray=processterms($title);
-$autharray=processterms($author);
-$darray=processterms($date);
-$plarray=processterms($place);
+$ttlarray = processterms($title);
+$autharray = processterms($author);
+$darray = processterms($date);
+$plarray = processterms($place);
 
-
+/* tamino query
 $declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
 $for = ' for $a in input()/TEI.2/:text/body/div1';
-$let = 'let $b :=$a/head/bibl';
+$let = 'let $b := $a/head/bibl';
+*/
+
+$for = 'for $a in //div1';
+$let = 'let $b := $a/head/bibl';
 
 $conditions = array();
 
 //Working queries. format: $where = "where tf:containsText(\$a, '$kw')";
 if ($kw) {
     if ($mode == "exact") {
-        array_push($conditions, "tf:containsText(\$a, '$kw')");
+	array_push($conditions, "contains(., '$kw')"); 
+      //        array_push($conditions, "tf:containsText(\$a, '$kw')");
+	//     array_push($conditions, "contains(\$a, '$kw')");
     }
     if ($mode == "synonym") {
-        array_push($conditions, "tf:containsText(\$a, tf:synonym('$kw'))");
+      // dictionary for synonyms not set up in tamino; not supported in exist (AFAIK)
+      //        array_push($conditions, "tf:containsText(\$a, tf:synonym('$kw'))");
     }
     else {
-        foreach ($kwarray as $k){
+	array_push($conditions, ". &= '$kw'"); 
+      //       array_push($conditions, "near(\$a, '$kw')");
+	// eXist doesn't do a phonetic search  (AFAIK)
+      /*   foreach ($kwarray as $k){
             $term = ($mode == "phonetic") ? "tf:phonetic('$k')" : "'$k'";
             array_push($conditions, "tf:containsText(\$a, $term)");
         }
+      */
     }
 }
 if ($title) {
-        foreach ($ttlarray as $t){
+  array_push($conditions, "head/bibl/title &= '$title'");
+//array_push($conditions, "where contains(\$b/title'$t']");
+  /*        foreach ($ttlarray as $t){
         array_push($conditions, "tf:containsText(\$b/title, '$t') ");
-    }
+	} */
 }
 if ($author) {
-        foreach ($autharray as $a){
+  array_push($conditions, "head/bibl/author &= '$author'");
+  /*        foreach ($autharray as $a){
         array_push($conditions, "tf:containsText(\$b/author, '$a') ");
     }
+  */
 }
 if ($date) {
-        foreach ($darray as $d){    
+  array_push($conditions, "head/bibl/date &= '$date'");
+  /*        foreach ($darray as $d){    
             array_push ($conditions, "tf:containsText(\$b/date, '$d') ");
     }
+  */
 }
 if ($place) {
+  array_push($conditions, "head/bibl/pubPlace &= '$place'");
+  /*
     foreach ($plarray as $p){
     array_push ($conditions, "tf:containsText(\$b/pubPlace, '$p') ");
     }
+  */
 }
+
+// create the filter from conditions
 foreach ($conditions as $c) {
     if ($c == $conditions[0]) {
-        $where= "where $c";
+	$filter = "[$c";
     } else {
-        $where.= " and $c";
-            }
+        $filter .= " and $c";
+    }
 }
+$filter .= "]";
 
 //have to take each individual keyword into an array.
 $myterms = array();
@@ -91,12 +115,17 @@ if ($date) {$myterms = array_merge($myterms, $darray); }
 if ($place) {$myterms = array_merge($myterms, $plarray); }
 
 
-$return = ' return <div1> {$a/@id} {$b} ' . "<total>{count($for $let $where return \$a)}</total>" . '</div1>';
-$sort = 'sort by (author)';
+/* tamino query
+ $return = ' return <div1> {$a/@id} {$b} ' . "<total>{count($for $let $where return \$a)}</total>" . '</div1>';
+   $sort = 'sort by (author)'; */
+$return = 'return <div1>{$a/@id}{$b}<total>' . "{count($for $let $where return \$a)}</total></div1>";
+$order = 'order by $b/author'; 
 
-$query = "$declare $for $let $where $return $sort";
-$tamino->xquery($query); 
-$tamino->getCursor();
+// tamino $query = "$declare $for $let $where $return $sort";
+//$query = "$for $let $order $where $return";
+$query = "$for$filter $let $return";
+$exist->xquery($query); 
+$exist->getCursor();
 
 $xsl_file = "search.xsl";
 
@@ -109,10 +138,12 @@ $xsl_params = array("term_list"  => $term_list);
 
 
 print '<div class="content">';
-print "<p>Found " . $tamino->count . " matching sermons.</p>";
-$tamino->xslTransform($xsl_file, $xsl_params);
-$tamino->highlightInfo($myterms);
-$tamino->printResult($myterms);
+print "<p>Found " . $exist->count . " matching sermon";
+if ($exist->count != 1) { print "s"; }
+print ".</p>";
+$exist->xslTransform($xsl_file, $xsl_params);
+$exist->highlightInfo($myterms);
+$exist->printResult($myterms);
 print '</div>';
 
 //Function that takes multiple terms separated by white spaces and puts them into an array
