@@ -1,6 +1,10 @@
 <?php
 
+include("config.php");
+html_head("Contents", "lincoln.css");
 include_once("lib/taminoConnection.class.php");
+
+print "<body>";
 
 include("header.html");
 
