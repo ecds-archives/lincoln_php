@@ -45,11 +45,9 @@ class taminoConnection {
 
     $this->base_url = "http://$this->host/tamino/$this->db/$this->coll?";
 
-    // strings for highlighting search terms 
-    for ($i = 0; $i < 4; $i++) {
-      $this->begin_hi[$i]  = "<span class='term" . ($i + 1) . "'><b>";
-    }
-    $this->end_hi = "</b></span>";
+    // begin_hi will be an array of span tags like <span class='term1'>
+    // this will be defined later, based on number of terms
+    $this->end_hi = "</span>";
   }
 
   // send an xquery to tamino & get xml result
@@ -264,9 +262,20 @@ class taminoConnection {
 
    }
 
+
+   // create <span> tags based on number of terms
+   function defineHighlight ($num) {
+     $this->begin_hi = array();
+    // strings for highlighting search terms 
+    for ($i = 0; $i < $num; $i++) {
+      $this->begin_hi[$i]  = "<span class='term" . ($i + 1) . "'>";
+    }
+   }
+
    // Highlight the search strings within the xsl transformed result.
    // Takes an array of terms to highlight.
    function highlight ($term) {
+     if (!(isset($this->begin_hi))) { $this->defineHighlight(count($term)); }
      // note: need to fix regexps: * -> \w* (any word character)
       // FIXME: how best to deal with wild cards?
 
@@ -284,6 +293,7 @@ class taminoConnection {
    // print out search terms, with highlighting matching that in the text
    function highlightInfo ($term) {
      if (isset($term[0])) {
+       if (!(isset($this->begin_hi))) { $this->defineHighlight(count($term)); }
        print "<p align='center'>The following search terms have been highlighted: ";
        for ($i = 0; isset($term[$i]); $i++) {
 	 print "&nbsp; " . $this->begin_hi[$i] . "$term[$i]$this->end_hi &nbsp;";
