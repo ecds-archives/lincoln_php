@@ -11,11 +11,12 @@ print "<body>";
 include("header.html");
 
 $id = $_GET['id'];
+$terms = $_GET['term'];
 
 $args = array('host' => "vip.library.emory.edu",
 		'db' => "LINCOLN",
 	      	'coll' => 'sermons',
-	        'debug' => false );
+	        'debug' => false);
 $tamino = new taminoConnection($args);
 
 $query = 'for $div in input()/TEI.2/:text/body/div1
@@ -31,14 +32,16 @@ if ($rval) {       // tamino Error code (0 = success)
 } 
 
 
-print '<div class="content">  
+print '<div class="content">
           <h2>Sermon</h2>';
-print "<hr>";
+//print "<hr>";
+$tamino->highlightInfo($terms);
 
 $tamino->xslTransform($xsl_file);
-$tamino->printResult();
+$tamino->printResult($terms);
 
-print "<hr>";
+print "<p class='clear'>&nbsp;</p>";
+print "</div>";
 
 include("footer.html");
 ?> 
