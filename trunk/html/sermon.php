@@ -1,14 +1,12 @@
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="sermons.css"> 
-    <title>Lincoln Sermons</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  </head>
-<body>
+
 
 <?php
+include("config.php");
+html_head("Sermon", "sermons.css");
 
 include_once("lib/taminoConnection.class.php");
+
+print "<body>";
 
 include("header.html");
 
