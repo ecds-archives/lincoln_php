@@ -2,6 +2,8 @@
 
 include_once("lib/taminoConnection.class.php");
 
+include("header.html");
+
 $args = array('host' => "vip.library.emory.edu",
 		'db' => "LINCOLN",
 	      	'coll' => 'sermons',
@@ -17,8 +19,8 @@ $query = 'for $a in input()/TEI.2
 let $auth := $a/teiHeader/fileDesc/titleStmt/author
 let $body := $a/:text/body
 return <div> {$auth}
-{for $div1 in $body/div1 return <div1>{$div1/@id}{$div1/head/bibl}</div1> } </div> sort by (author)';
-$xsl_file = "contents.xsl";
+{for $div1 in $body/div1 return <div1>{$div1/@id}{$div1/head/bibl}</div1> } </div> sort by (author)'; 
+$xsl_file = "contents.xsl";  
 
 $rval = $tamino->xquery($query);
 if ($rval) {       // tamino Error code (0 = success)
@@ -32,11 +34,13 @@ print '<div class="content">
           <h2>Contents</h2>';
 print "<hr>";
 $xsl_file = "contents.xsl";
-$tamino->xslTransform($xsl_file);
-$tamino->printResult();
+$tamino->xslTransform($xsl_file); 
+$tamino->printResult(); 
 
-print "<hr>";
+print "<hr>"; 
+print "</div>";
 
+include("footer.html");
 ?> 
    
   </div>

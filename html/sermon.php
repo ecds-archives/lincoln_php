@@ -10,6 +10,8 @@
 
 include_once("lib/taminoConnection.class.php");
 
+include("header.html");
+
 $id = $_GET['id'];
 
 $args = array('host' => "vip.library.emory.edu",
@@ -40,6 +42,7 @@ $tamino->printResult();
 
 print "<hr>";
 
+include("footer.html");
 ?> 
    
   </div>
