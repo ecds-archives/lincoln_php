@@ -1,0 +1,10 @@
+body { margin-left: 100; }
+
+p.pageimage { margin-left: -75; }
+p.pagebreak { margin-left: -75; }
+
+hr.pb {  float: right; width: 100%; } 
+img { float: left; } 
+
+
+
