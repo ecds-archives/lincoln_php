@@ -34,7 +34,6 @@ if ($rval) {       // tamino Error code (0 = success)
 
 print '<div class="content">
           <h2>Sermon</h2>';
-//print "<hr>";
 $tamino->highlightInfo($terms);
 
 $tamino->xslTransform($xsl_file);
