@@ -1,0 +1,831 @@
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt n="Sermon on the Occasion of the Death of President Lincoln.">
+            <title>  Sermon on the Occasion of the Death of President
+Lincoln.</title>
+            <author>Crane, Rev. C. B.</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck
+Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>1996 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact the Director, 
+Pitts Theology Library, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>1999</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Lincoln Sermons Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl> Crane, Rev. C. B. Sermon on the Occasion of the Death of
+President Lincoln. Preached in the South Baptist Church, Hartford,
+Conn. Sunday, April 16, 1865.  Hartford: Press of Case, Lockwood and
+Company. 1865. </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text derives from the Special Collections 
+of Pitts Theology Library, Emory University, and is produced in 
+collaboration with the Lewis H. Beck Center a, the Emory 
+Preservation Office, and Pitts Theology Library.</p>
+            <p>TRANSCRIBER: Lewis H. Beck Center and Emory University Preservation Office.</p>
+            <p>PRODUCER:  BookLab, Inc., 1606 Headway Circle, Suite 100, Austin, TX 78754</p>
+            <p>CAPTURE DEVICE: XEROX DocuImage 620S flatbed scanner</p>
+            <p>CAPTURE DETAILS: Scanner software: XEROX ScanTool version 4.2.3; no gamma correction; images are all bitonal.</p>
+            <p>CHANGE HISTORY: Using the Adobe Photoshop Batch Processor, we interpolated  the original TIFF files to 8-bit grays, and altered the resolution to 144 dpi, producing screen images twice the original size.  We then saved them in JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
+            <p>RESOLUTION: 600 ppi</p>
+            <p>COMPRESSION: Resolution 144 per inch with Constrain Properties to 72 per inch.</p>
+            <p>SOURCE: Original documents.</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>1999</date>
+            <respStmt>
+               <name>Scott Ellis</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 id="crane.001" n="Sermon on the Occasion of the Death of President Lincoln." type="text">
+            <head>
+               <bibl>
+                  <title>Sermon on the Occasion of the Death of President
+Lincoln.</title> 
+                  <date> Sunday, April 16th, 1865.</date>
+                  <pubPlace>South Baptist Church, Hartford, Conn.</pubPlace>
+                  <author>Rev. C. B. Crane.</author>
+                  <imprint>
+                     <pubPlace>Hartford, Conn.</pubPlace>
+                     <publisher>Press of Case,
+Lockwood and Company.</publisher>
+                     <date>1865</date>
+                  </imprint>
+               </bibl>
+            </head>
+            <p>
+               <figure entity="crane1">
+                  <figDesc>1st page of Rev. C. B. Crane's Sermon
+on the Occasion of the Death of President Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p>S E R M O N</p>
+            <p>ON THE</p>
+            <p>OCCASION OF THE</p>
+            <p>DEATH OF PRESIDENT LINCOLN.</p>
+            <p>PREACHED IN THE</p>
+            <p>SOUTH BAPTIST CHURCH, HARTFORD, CONN.,</p>
+            <p>SUNDAY, APRIL 16, 1865.</p>
+            <p>BY REV. C. B. CRANE.</p>
+            <p>HARTFORD:</p>
+            <p>PRESS OF CASE, LOCKWOOD AND COMPANY.</p>
+            <p>1865.</p>
+            <pb n="2"/>
+            <p>
+               <figure entity="crane2">
+                  <figDesc>2nd page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <pb n="3"/>
+            <p>
+               <figure entity="crane3">
+                  <figDesc>3rd page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p>HARTFORD, APRIL,
+17,1865 <lb/>REV. C B. CRANE. 
+	<lb/>Dear Sir: Having listened to your sermon yesterday, upon
+the sad event of the death of our late President, and fully endorsing
+the sentiments of the discourse, we respectfully solicit a copy for
+the press, believing that its circulation in a permanent form will
+subserve the interests of justice and freedom. 
+		 <lb/>We are truly yours,
+				<lb/>ALBERT DAY,
+				 <lb/>JAS. G. BATTERSON,
+				 <lb/>HORACE J. MORSE,
+				 <lb/>DANIEL F. SEYMOUR,
+				 <lb/>E. OVERAND,
+				 <lb/>JOSEPH L. BENNETT,
+				 <lb/>A.M. SMITH,
+				 <lb/>R. S. LAWRENCE.</p>
+            <p>HARTFORD, April 18,
+1865.  <lb/> Hon. ALBERT DAY, JAMES G. BATTERS0N, Esq.,
+			<lb/>Gen. Horace J. Morse, and others:
+	<lb/>The sermon which you request for publication, owing to its
+necessarily hasty preparation, greatly needs revision; but since its
+circulation should be immediate, if ever, I hereby submit it to your
+disposal. 
+					<lb/>I. am most truly yours,
+								<lb/>C. B. CRANE.</p>
+            <pb n="4"/>
+            <p>
+               <figure entity="crane4">
+                  <figDesc>4th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <pb n="5"/>
+            <p>
+               <figure entity="crane5">
+                  <figDesc>4th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <div2 id="crane.002" n="SERMON" type="sermon">
+               <head>SERMON.</head>
+               <epigraph>
+                  <p>2 SAMUEL, 1: 19. 
+<lb/>
+"THE BEAUTY OF ISRAEL IS SLAIN UPON THE HIGH PLACES;
+		HOW ARE THE MIGHTY FALLEN!"</p>
+               </epigraph>
+               <p>The nation is weeping to-day; and its temples and homes and places
+of business and public edifices are draped in mourning. Strong men,
+who could endure the shock of personal calamity and the pangs of
+personal bereavement with uncomplaining fortitude, are shaken by the
+violence of their emotions, and their tears fall upon the pavement of
+the crowded street. Gentle women, secluding themselves at home, mourn
+as for a husband or a lover. The festivities of society are checked,
+and plans for future gayety are stopped in their process of
+relaxation. Over the whole American sky are clouds and thick
+darkness. Threnodies are sung by quivering lips and wail from
+melancholy organs. All sounds are dirges, and the countenance of
+sorrow is adorned with the jewelry of tears.</p>
+               <pb n="6"/>
+               <p>
+                  <figure entity="crane6">
+                     <figDesc>6th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p>Oh, friends, on the evening of Good Friday, the memorial
+day of the crucifixion of our Lord, our good, true-hearted,
+magnanimous, supremely loyal, great President was smitten down by the
+hand of the assassin; and yester morn, at twenty-two minutes past
+seven of the clock, his noble and holy soul went up from its shattered
+and desecrated tabernacle to its God.</p>
+               <p>The terrible tragedy is consummated, its heartrending
+denoument has transpired, there can be no revision of it, it stands
+the blackest page save one in the history of the world. It is the
+after-type of the tragedy which was accomplished on the first Good
+Friday, more than eighteen centuries ago, upon the eminence of Calvary
+in Judea.</p>
+               <p>Yes, it was meet that the martyrdom should occur on Good
+Friday. It is no blasphemy against the Son of God and the Savior of
+men that we declare the fitness of the slaying of the Second Father of
+our Republic on the anniversary of the day on which he was
+slain. Jesus Christ died for the world; Abraham Lincoln died for his
+country. The consecration of Jesus to humanity began in the antiquity
+of eternity, and found its culmination when he cried with white, yet
+triumphant, lips, on the cross, "it is finished." The consecration of
+Abraham Lincoln to the American people had its phenomenal and most
+<pb n="7"/>
+                  <figure entity="crane7">
+                     <figDesc>7th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+manifest beginning in the summer of 1858, when he entered upon that
+memorable Senatorial Campaign in which, while he sustained a technical
+defeat, he gained a substantial victory; it found its culmination on
+the evening of the fourteenth day of April, 1865, when the sharp
+pistol report announced with terrible inarticulateness, "it is
+finished."</p>
+               <p>And let it not grieve us overmuch, beloved brethren that
+the conscious life of our late honored President ceased in the <hi rend="italic">theatre</hi> of our National Capital. He was there, not
+for the purpose of gratifying himself, but at a personal sacrifice,
+and for the sake of the people whom he loved. For this is the
+statement of the public prints: "The President and Mrs. Lincoln did
+not start for the theatre until fifteen minutes after eight
+o'clock. Speaker Colfax was at the White House at the time, and the
+President stated to him that he was going; although Mrs. Lincoln had
+not been well, because the papers had announced that General Grant and
+they would be present, and as General Grant had gone North he did not
+wish the audience to be disappointed. He went with apparent
+reluctance, and urged Mr. Colfax to go with him; but that gentleman
+had made other arrangements, and, with Mr. Ashmun of Massachusetts,
+bade him Good Bye." He did not wish the audience to be
+disappointed,"--this was the
+<pb n="8"/>
+                  <figure entity="crane8">
+                     <figDesc>8th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+reason of his presence at the theatre on that fateful evening; and the
+sentiment which dictated the words has given character to all his
+private and public life.</p>
+               <p>One year ago the eighteenth day of next month it was my
+privilege to meet President Lincoln in the executive chamber of the
+White House, in company with a delegation from the Methodist General
+Conference, then in session in Philadelphia. I remember that in
+replying to the address which was read to him he expressed in a most
+devout manner his gratitude to God for giving to the government the
+sympathy and support of the churches. And here are words which I wrote
+soon after the interview, and which I repeat to you in order that you
+may know the impression which the personal presence of the man
+produced upon me: "The President looks thin and care-worn. I believe
+with all my heart that he bears this great nation like a burden on his
+life. God strengthen and guide him!"</p>
+               <p>I saw many senators at that time, and many of the
+representatives in Congress, and the heads of some of the departments;
+and I recollect that while many of them were rubicund and jovial, and
+others showed in their countenances only the resultant fatigue of
+their labor,-the form of the President was bowed as by the
+superimposition of a crushing
+<pb n="9"/>
+                  <figure entity="crane9">
+                     <figDesc>9th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+load, his flesh was wasted as by the consuming flames of incessant
+solicitude, and his face was thin and furrowed and pale as though it
+had become spiritualized by the vicarious pain which he endured in
+bearing in himself the calamities of his country.</p>
+               <p>And just that suffering, worn, martyr-like form and face of
+his which I looked upon a little less than one year ago; just that
+unselfish love and sympathy for others which expressed itself in every
+lineament and gesture;-interpret to me the self-denying presence at
+the theatre, on the night of his immolation, of the noble Atlas on
+whose shoulders for four bloody years our political world has
+rested.</p>
+               <p>Oh memorable Good Friday, henceforth a day of sad
+reminiscences in the calendar of country as well as church! While I
+was walking the last evening but one under the solemn stars, all
+ignorant of the disastrous presence of the destroying angel in the
+land, and the tardy moon was peering over the eastern horizon as if
+reluctant to look upon the infernal deed which was accomplishing, two
+fiends in the guise of men, or two maniacs whose insanity is a crime,
+the creatures of the ghastly rebellion which has reared its horrid
+front in the South and has had shameful affiliation with dastardly
+reptiles of the North, were finishing, each his own hideous work, in
+our nation's capital The one was permitted by an
+&#x003C;<pb n="10"/> 
+                  <figure entity="crane10">
+                     <figDesc>10th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+inscrutable Providence in the presence of a crowded assembly to
+consummate his purpose upon the life of him whom the world was
+delighting to honor. The other, with a daring which is well-nigh
+unparalleled, overthrowing all who resisted his progress, forced his
+way into the chamber of the Secretary of State who was slowly
+recovering from recent injuries, and plunged the fierce knife again
+and again into his neck, that column which sustained as royal a brain
+as the present age possesses.</p>
+               <p>God's lightning, speeding along the wires, has since told
+us that the President is dead; and that the life of Secretary Seward
+hangs upon a thread which the gentlest strain would break.</p>
+               <p>Night of crime and horrors! what pen can write thy cursed
+record!</p>
+               <p>Friends, we will not forget to pray to God for the life of
+our Secretary of State; we will not forget to implore God to be a
+Husband to the widow and a Father to the fatherless; -but there is one
+form, lying in state in the nation's chamber of love, upon which all
+our eyes do bend in inexpressible grief.</p>
+               <p>Ah, how does the splendid life of him who was the beauty of
+our national Israel, unveil itself now before us, that we may
+appreciate how much we have lost.</p>
+               <p>We remember his obscure birth in Hardin
+<pb n="11"/>
+                  <figure entity="crane11">
+                     <figDesc>11th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+County, Kentucky. We remember how at eight years of age his sturdy
+arms swung the axe in the forests of Indiana; and how the next ten
+years of his life were mostly occupied in hard labor on his father's
+farm, and how he attended school at intervals, amounting in the
+aggregate to only a year, which was all the school education he ever
+received. We remember how at the age of nineteen he floated down the
+Mississippi river on a flat-boat to New Orleans. We remember his
+removal with his father, at the age of twenty-one, to Illinois, and
+his helping to build a log cabin for the family home, and his making
+enough rails to fence ten acres of land. We hear the sounding strokes
+of his hammer as he assisted in the building of a flat-boat which he
+afterwards navigated down the "Father of waters" to its mouth. We see
+him superintending a store and a mill, alert to improve every
+opportunity for advancement in life. We remember his volunteering for
+the Black Hawk war and his unexpected election to the captaincy of his
+company. We remember his borrowing law-books from a neighboring
+attorney which he took in the evening and returned in the morning,
+studying while others slept. We remember how the surveyor of his
+county offered to depute to him a portion of his work, and how he
+procured a treatise on surveying and a compass and
+<pb n="12"/>
+                  <figure entity="crane12">
+                     <figDesc>12th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+chain, and did the work. We remember his rapid rise to distinction in
+the profession which he had chosen. We remember his election to the
+lower house of Congress in 1846, and his inflexible, though not
+factious, opposition to slavery during his entire term of service. We
+remember his magnificent Senatorial Campaign against Mr. Douglass, and
+his advocacy of truths which became thenceforth clearer and dearer to
+every lover of human freedom. We remember his election to the chief
+magistracy of the American republic in the fall of 1860. We remember
+the earnest and tender appeals which he made to his misguided brethren
+of the South in his first inaugural address. We remember the sagacity
+which has uniformly characterized his conduct of the government
+through the past four years of its peril. We remember how long he
+subordinated his instincts against oppression to his convictions of
+constitutional guarantees. We remember his reluctance to issue the
+proclamation of Emancipation, and the entire fidelity with which he
+has since adhered to its provisions. We remember the magnanimous words
+which he spoke to those who announced to him his nomination for the
+Presidency. We remember the total absence of personal triumph and of
+malevolence against his foes and ours, which distinguished his second
+inaugural. And we remem-
+<pb n="13"/>
+                  <figure entity="crane13">
+                     <figDesc>13th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+ber--for it is a thing of yesterday--the yearning of his great,
+brotherly heart toward the people of the insurgent states so soon as
+their capital was taken and their only formidable army was either
+captured or destroyed.</p>
+               <p>Oh, friends, our loss is irreparable. His heart was a
+woman's heart. His genius belonged to the philosopher; his intellect
+belonged to the statesman. The caution which used to vex us who were
+more eager than wise, was the child of a tender heart and a sagacious
+brain. When in the depot of his own city, whence he was just setting
+forth to enter upon the duties of his high office, he asked for the
+prayers of his townsmen, he gave token of being possessed of that kind
+of soul which is receptive of the inspiration of the Almighty; and
+that God who raised him up for this critical period of our national
+history <hi rend="italic">has</hi> inspired him for the successful
+accomplishment of the stupendous work which was committed to his
+hands.</p>
+               <p>A rare man was our martyred President, a rare character was
+his. Such was his greatness, that our wisest men are fearful of
+trusting any other hands than his at the helm of our ship of
+state. Such was the affection which his gentleness awakened, that
+women wept yesterday as though their babes had
+<pb n="14"/>
+                  <figure entity="crane14">
+                     <figDesc>14th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+perished, and little children bore the news of his death to their
+parents in tears.</p>
+               <p>And can not we say together to-day: more blessed is Abraham
+Lincoln, who was slain on Friday night, than is Jefferson Davis, who,
+if he escape the hand of human justice, must skulk through the world
+with the crime of treason upon his heart and the mark of Cain upon his
+brow and the maledictions of futurity upon his memory forever.</p>
+               <p>Wherever the body of Abraham Lincoln shall be buried, there
+will be established a national shrine which shall share the honor of
+pilgrimages with the tomb of the illustrious hero who sleeps his long
+sleep amid the classic shades of Mount Vernon. Rest henceforth in
+peace ye ashes of our glorified patriots! Commune ye now in the land
+of spirits, oh elected souls of God!</p>
+               <p>But, friends, it is time that I should turn away from him
+who has so long fascinated to himself my thoughts and words. The
+eulogy of our departed father and friend which you required of me, has
+been pronounced. My grief which yesterday found only partial
+gratification in my tears, is further soothed by the tribute of
+affection which I have now publicly paid to the beloved and honored
+dead.</p>
+               <p>But there remains for me a duty to you who hear me. God
+visits no such providence, smites with no
+<pb n="15"/>
+                  <figure entity="crane15">
+                     <figDesc>15th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+such smiting, as this, without a reason and purpose. Is it immodest in
+me to assume that it is my office to voice your inquiries after the
+meaning of this mournful event?</p>
+               <p>(1.)  Observe, then, that we needed just this, perhaps, not
+only to learn the hideous enormity of the slave-holders' rebellion and
+of all sympathy with it from every quarter, but also for the
+sufficient atonement for it and proper settlement of it. Treason,
+murder, assassination, and all mentionable crimes, are the woof which
+has from the first been woven into the warp of this gigantic and
+infernal rebellion. Disregard of human life, contempt for the divine
+authority which is vested in human rulers, supreme disdain of one who
+has risen from the obscurest condition to the highest office of state,
+eagerness to smite down the man who has been smitten by the bullet of
+the desperado,--all these are the legitimate fruitage of the barbarous
+institution of slavery which has risen against the national life. The
+horrible crime of Friday night has taught us that root and stem and
+branch of the rebellion are accursed, that there is nothing supremely
+abominable and devilish of which it is not capable. Every man,
+together with every woman, of the North, who has hitherto launched
+fiercer invectives against the government and its friends than against
+the spurious
+<pb n="16"/>
+                  <figure entity="crane16">
+                     <figDesc>16th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+confederacy and its friends, and who does not from this day eat the
+hellish words which he has spoken and repent of his well-nigh
+unpardonable sin, is an abandoned traitor, and deserves to be hanged
+ten thousand times higher than Haman, and to sink ten thousand times
+deeper into the pit than he. His sin, if it shall continue, is sin
+against light clearer than noon-day, and is capable of no
+extenuation.</p>
+               <p>But not only does the tragic event which we are
+commemorating betoken the fiendish nature of the rebellion; it was
+needed also, perchance, for the sufficient atonement for it, and
+proper settlement of it. If I am unwittingly blasphemous, forgive
+me,--but when God would bring an apostate humanity into reconciliation
+with himself, the sacrifice of his only and well-beloved Son was
+requisite to the realization of his purpose and desire.</p>
+               <p>So, when our national government would bring back to
+allegiance to itself its millions of apostate subjects, it was
+requisite that he who was dearest to all loyal hearts should be
+offered in sacrifice. We .had already given our treasure, and our
+husbands and fathers and brothers and sons. They had been laid upon
+the altar and were consumed. We thought our offering was costly
+enough, and that none costlier would be demanded. But there was a man,
+occupying the highest office of state, dear to all loyal
+<pb n="17"/>
+                  <figure entity="crane17">
+                     <figDesc>17th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+hearts, the nation's father and brother and son, more anointed than
+any other with the holy chrism of a great people's love. The
+government was upon his shoulders, but he must be, nevertheless, yea,
+because of his office, the lamb of sacrifice.</p>
+               <p>There is a Roman legend that the ground in the middle of
+the Forum sank down to an immense depth, leaving a chasm which could
+not be filled. At last the soothsayers declared that if the Roman
+empire was to endure, that must be devoted to the chasm which
+constituted the principal strength of the Roman people. When all
+shrank back aghast, Marcus Curtius, a noble youth, knowing that
+courage and consecration to country were the strength of the empire,
+armed himself in complete armor, mounted his horse, and leaped into
+the abyss. Lo, the yawning jaws of the earth came together with a
+shock and Rome was saved.</p>
+               <p>Is it hard for you to believe, my friends, that if we could
+have overheard the secret prayers of Abraham Lincoln, we might have
+listened to such words as these, "Oh, God, use me as thou wilt for the
+salvation of my beloved country?" Just that prayer from the best
+beloved man of the nation God may have waited for long: just that
+prayer he answered on Good Friday night. God accepted the costly and
+self-devoted sacrifice which we had not dreamed of
+<pb n="18"/>
+                  <figure entity="crane18">
+                     <figDesc>18th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+offering. The "Lo I come to do thy will, oh God," which fell from the
+lips of Jesus when he made himself the Lamb of sacrifice for the
+restoration of an apostate humanity to allegiance to the divine
+government, fell not sacrilegiously from the lips of our late heroic
+President when he consecrated himself to his country and became the
+requisite sacrifice for the restoration of rebellious citizens to
+allegiance to just authority.</p>
+               <p>And as the tragedy of the cross has startled tens of
+thousands of sinners into a recognition of their sins, while it
+expressed the inflexibility of God's law and authority, so we may hope
+that the tragedy of last Friday night will startle multitudes of
+rebels, North as well as South, into a recognition of their crime,
+stiffen the government, which might otherwise bend, into requisite
+rigidness, and hasten the consummation of peace for which we devoutly
+pray.</p>
+               <p>The last and costliest offering which God demanded has been
+taken; and as on the first Good Friday peace was secured between an
+apostate race and God, so we will trust that on the last Good Friday
+peace was secured between the contending regions of our distracted
+country.</p>
+               <p>(2.) If your meditations have been like mine, friends, you
+have already framed a second inquiry. Who are <hi rend="italic">responsible</hi> for the assassination of Abraham
+<pb n="19"/>
+                  <figure entity="crane19">
+                     <figDesc>19th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+Lincoln, and who share the guilt? The question which I have asked, I
+dare answer. I have already shown that the open enemy are responsible,
+and share the guilt. But this is not the whole answer. The event about
+which our thoughts and regrets cluster was, partly at least, the
+result of a false opinion which has been industriously promulgated,
+and of a diabolical sentiment which has been generated, in almost
+every community of the North. That opinion is that the President of
+the Republic was a tyrant who ought to be resisted and
+overthrown. That sentiment is unappeasable and pitiless hatred of
+him.</p>
+               <p>Now it will doubtless prove that the assassin of Abraham
+Lincoln, although used as a tool by our Southern enemies, was not
+merely a hireling, but one who had been brought to believe that the
+execution of his purpose would be an act alike of patriotism and
+piety. When he leaped upon the stage of the theatre, crying "sic
+semper tyrannis," "be it ever thus with tyrants," it was evident that
+he believed himself to have accomplished a truly just and heroic
+deed.</p>
+               <p>If, now, you inquire who is directly responsible for the
+assassination of Good Friday night, I answer, that in addition to our
+enemies in the South, it is those men of the North who promulgated the
+false
+<pb n="20"/>
+                  <figure entity="crane20">
+                     <figDesc>20th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+opinion and generated the infernal sentiment to which I have alluded
+above, and which made the assassin the fanatic and monomaniac that he
+is. And if you ask who share the <hi rend="italic">guilt</hi> of the
+horrible crime which we are considering, I answer, that it is every
+man and woman who has shared the above mentioned opinion and
+sentiment. They share the guilt, though their influence may not have
+extended far enough to participate in the criminal act, just as
+sinners to-day share the guilt of the crucifixion of Christ.</p>
+               <p>Let me particularize. All those editors of political papers
+who during the last Presidential campaign declared over and over again
+that Abraham Lincoln was a tyrant worthy of universal execration: all
+those demagogues who trumpeted the same falsehood in the ears of
+fierce and ignorant mobs: that man of New Haven, who asked in a public
+harangue, "who is the greatest traitor, Jefferson Davis or Abraham
+Lincoln?" that man of Hartford, who, if rumor be true, at the breaking
+out of the rebellion invested a thousand dollars in South Carolina
+bonds, in token of his sympathy with the crime of treason: that man
+who once held office in the President's cabinet, and who has never
+since broken his infamous silence except to malign the government
+which protected instead of hanging him: these are the men who
+<pb n="21"/>
+                  <figure entity="crane21">
+                     <figDesc>21st page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+share the <hi rend="italic">responsibility</hi> of the murder of Abraham
+Lincoln. They helped to produce the opinion and sentiment which
+produced the man who did the deed. Blood is upon their souls. Wash
+they their hands never so much, as did Pontius Pilate, they can never
+be made clean.</p>
+               <p>Shall I also particularize those who share, not the <hi rend="italic">responsibility</hi>, but the <hi rend="italic">guilt</hi>,
+of the murder of Good Friday night? I answer, all those obscure and
+uninfluential men who have shared the opinion and sentiment which I
+have mentioned, but who have not been capable of extensively
+promulgating them. That alderman in our city government who said
+yesterday, "I have been waiting four years for some damned black
+republican bones, to make bone dust to put around my vines, and I dont
+know but there is a prospect of my getting some now." That man, those
+men indeed, who were guilty of the substantial, if not the identical,
+expression, "I am glad that Abraham Lincoln was shot, and I would like
+to go down and dance on his coffin." That employee of the Springfield
+and New Haven railroad who expressed joy at the murder of Mr. Lincoln,
+and remarked that "he ought to have been shot four years ago." Every
+man who has felt a secret joy at the horrible tragedy of the night
+before the last. 
+<pb n="22"/>
+                  <figure entity="crane22">
+                     <figDesc>22nd page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+Every man who has not been carrying a mourning heart all yesterday and
+to-day.</p>
+               <p>Shall I include any <hi rend="italic">women</hi> in this
+infamous catalogue? women who ought to share the sweetness and
+tenderness of womanhood? I will not dishonor the mother who bore me by
+bringing so horrible a charge against her sex. But if I could speak to
+all the women of the land I would say, if you have ever <hi rend="italic">thought</hi> or <hi rend="italic">felt</hi> murder against
+Abraham Lincoln, the event of last Friday night is the voice of God
+calling you to repent in dust and ashes. And if it be true, as is
+reported, that a woman, whose name I do not know, said yesterday, that
+"she was glad Abraham Lincoln was shot, and she hoped Jefferson Davis
+might assume his place," I can say that rather than meet her in the
+way I would be confronted by all the raging Furies of Tartarus. Oh,
+woman! as thou canst be most tender and forgiving, so canst thou be
+most vindictive and implacable.</p>
+               <p>Thus I have shown you who they are who share the <hi rend="italic">responsibility</hi> of the assassination of Abraham
+Lincoln, and who they are who share only the <hi rend="italic">guilt</hi>. There is a proper attitude toward these men
+which we have not yet assumed. Friendship, fraternization, forbearance
+with them, should cease till they purge themselves of their crime. The
+lines must be drawn, and even households be divided if necessary, as
+our
+<pb n="23"/>
+                  <figure entity="crane23">
+                     <figDesc>23rd page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+Savior has predicted. Toleration of traitors and murderers and makers
+of murderers is not a virtue, it is a vice. The wine of our national
+life must become pure by separating itself from the lees of
+disloyalty. I have shown you the men, friends, deal with them as you
+will.</p>
+               <p>(3.) One other thought remains to be expressed, a thought
+of consolation for the future.</p>
+               <p>We have lost our Palinurus, our helmsman, and our ship of
+state is adrift on a stormy sea. Has God no greater Elisha to succeed
+the departed Elijah? Must we despair of reaching the haven of a
+victorious and holy peace?</p>
+               <p>All yesterday and to-day I have been comforting myself with
+the reflection that God is alive and on the throne. The christian men
+and women whom I have met have lifted faces to heaven upon which was
+the expression of holy trust and serenity.</p>
+               <p>Although we were not aware of it, we have been for a
+considerable time past placing our confidence in our lamented
+President rather than in our God. And since his second inauguration,
+on which occasion Andrew Johnson brought shame upon himself and the
+nation, we have come almost to believe that the destiny of our country
+was suspended upon the single life of Abraham Lincoln.</p>
+               <p>God has smitten down him upon whom our faith
+<pb n="24"/>
+                  <figure entity="crane24">
+                     <figDesc>24th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+was impiously reposed, in order that he might transfer our faith to
+himself. And in one short hour he has accomplished what he
+undertook. There is not a christian man before me, nor in the whole
+broad land, who has not leaned more heavily upon God, and been more
+consciously sustained, during yesterday and today, than for months
+before. We recognize our need of the divine arm, and lo, we feel
+ourselves embraced by it and upheld.</p>
+               <p>More than this, I believe that God purposes to bring final
+deliverance to the republic by the same Andrew Johnson in whom on the
+fourth day of last March we lost faith. Not only was the man whom we
+trusted taken away, but the man whom we distrusted is made the captain
+of our hosts. Him will God anoint for our salvation.</p>
+               <p>For, friends, I know that God will save this nation. Our
+whole history, and especially the history of the last four years,
+would be nothing else than an excrescence upon the trunk of time, if
+we should not reach a higher national perfection and prosperity than
+we have yet realized.</p>
+               <p>And since I know that the republic will be delivered, I
+have all faith that Andrew Johnson will be used for the accomplishment
+of our deliverance.</p>
+               <p>True, he stumbled fearfully at the start. But there has
+been wrought a marvelous change in the
+<pb n="25"/>
+                  <figure entity="crane25">
+                     <figDesc>25th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+man during the forty-one days which have since elapsed. If that
+maudlin speech of his in the Senate chamber on the fourth of March was
+a disgrace to himself and to the nation, his speech yesterday on the
+occasion of taking the oath of the Presidential office, and his manly,
+yet humble and devout bearing, more than atoned for the earlier
+folly.</p>
+               <p>Do you not remember how we lost faith in Gen. Ulysses Grant
+at the bloody battle of Pittsburg Landing, and afterward during the
+siege of Vicksburg? But he was God's anointed man, and to-day we
+esteem him second to no captain whom the world has produced.</p>
+               <p>Do you not remember how our confidence in Abraham Lincoln
+was shaken when he went from Springfield to Washington, making little
+speeches from the platform of the car all the way. To-day we lament
+him as one of the greatest statesmen whom history celebrates.</p>
+               <p>And it is a singular fact that during this great conflict
+those men of whom we had the highest hopes at the beginning of their
+career, have signally failed; while they whom at the outset we
+distrusted, have attained to preeminent success.</p>
+               <p>And so my faith in God's using of Andrew Johnson for our
+national salvation is all the greater be-
+<pb n="26"/>
+                  <figure entity="crane26">
+                     <figDesc>26th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+cause the beginning of his more exalted career was so inauspicious.</p>
+               <p>But there is another phase of the general thought which we
+are considering to which I invite your attention. Abraham Lincoln's
+work is done. Therefore, we can say, since God is in this thing, that
+on the evening of the fourteenth day of the present April his work <hi rend="italic">was</hi> done. From that time God had no further use for
+him in the position which he held. <hi rend="italic">At</hi> that time
+God had use for Andrew Johnson in the place which was left vacant.</p>
+               <p>Can we not detect some reasons for this providence of
+God?</p>
+               <p>It seems plain to me that our late President was peculiarly
+adapted to the work which he has accomplished, and to the past phases
+of the great conflict which is now approaching its end. His tenderness
+and spirit of conciliation at the beginning, which left no excuse to
+the rebels for a resort to arms; his wonderful caution, which did not
+permit him to pass beyond the sympathy and support of the people; his
+humaneness which forbade his starving the prisoners of the rebels
+because they starved ours;--these were qualities which eminently
+fitted him for the conduct of the war.</p>
+               <p>But it is more than possible, it is even more than
+probable, that just these qualities unfitted him for
+<pb n="27"/>
+                  <figure entity="crane27">
+                     <figDesc>27th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+the final settlement of this conflict. There was danger that he would
+subordinate his executive functions to his personal sympathies; that
+he would forget that God had placed the sword of retributive justice
+in his hands to be used; that he would feel that the traitors had
+suffered enough already, and needed no further punishment; that he
+would even pardon Davis and Stephens and Johnston and Lee if they
+should come into his power. He was drifting in that direction, and
+most of us were drifting with him.</p>
+               <p>But, friends, the vindication of this outraged government,
+and its dignity and safety for the future, demand that treason be
+judicially punished in the persons of the chief traitors. Treason has
+not been punished yet; the losses its authors and abettors have
+suffered have been the natural consequences alone of our own efforts
+for self-defense. Just and formal punishment demands the conviction of
+the criminal by due process of law. As the proportions of the
+rebellion wane the time approaches when retributive justice can
+execute itself. And it must be that retributive justice be executed,
+or our conceptions of government and law will become totally
+debauched.</p>
+               <p>I say, then, there was danger that the late President, by
+reason of his kindness of heart, would not be equal to the retributive
+work which was soon to
+<pb n="28"/>
+                  <figure entity="crane28">
+                     <figDesc>28th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+be required of him; that pardoning the very arch-rebels themselves he
+would fail to place upon the crime of treason its appropriate stigma,
+and thus encouraging future rebellion, endanger the future of the
+republic. If he was in danger of this mistake, then his work was done;
+and therefore God translated him, having already so nobly done, to
+glory.</p>
+               <p>But Andrew Johnson, a man of nerve, has had his heart under
+the iron heel of this rebellion. He appreciates treason. His sense of
+justice is paramount to his tender sensibilities. He holds a
+double-edged and keen-edged sword which reaches to the southermost
+point of Florida. Therefore I believe that God has raised him up to
+bring this rebellion to the consummation of just retribution. It is
+not private revenge that he will wreak, but the vengeance of God,
+whose anointed minister he is. And so God has given him to the nation
+when the nation needed him. And we will lift our reverent eyes to
+heaven to-day, and, gazing through our tears, say, "Thou doest all
+things well."</p>
+               <p>Abraham Lincoln's memory will be greener forever that he
+did the work he did, and finished it when he did. The nation will
+understand ere long that the dark Providence of last Friday night was
+a merciful Providence. Andrew Johnson is the Joshua
+<pb n="29"/>
+                  <figure entity="crane29">
+                     <figDesc>29th page of
+Rev. C. B. Crane's Sermon on the Occasion of the Death of President
+Lincoln.</figDesc>
+                  </figure>
+whom God has appointed to consummate the work which our dead Moses so
+nobly commenced.</p>
+               <p>And so, on this Easter Sunday, the anniversary of our
+Lord's resurrection, we cross the threshold which introduces us as a
+nation to a career of unexampled victory and puissance and glory. And
+though the body of our late honored President reposes to-day in
+melancholy state, and we weep as we look upon it, yet as Christian men
+and women we will cry one to another, "Rejoice, for the Lord God
+omnipotent reigneth; and he will save the people whom he has redeemed
+with the precious blood of his only Son."</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>
