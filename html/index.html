@@ -20,9 +20,9 @@ change the margin-top property in index.css for div.nav p to lower than 2.25 in 
     <p>
         <a href="overview.php">Overview</a>
         <br>
-        <a href="searchform.php">Search</a>
+        <a href="philosearch.html">Search</a>
         <br>
-        <a href="contents.php">Full Text</a>
+        <a href="http://reagan.library.emory.edu/cgi-bin/philo/search2t?dbname=lincoln">Full Text</a>
         
     </p>
 
@@ -53,7 +53,15 @@ change the margin-top property in index.css for div.nav p to lower than 2.25 in 
         <a href="http://www.emory.edu/">Emory University</a>
     </p>
     <p id="indexsearchbox">
-    <form name="keywordsearch" action="search.php" method="get"><p class="searchbox"><b>Search:</b><input id="key" type="text" size="20" name="keyword"><input id="go" type='submit' size="20" value='Go'></p></form>
+
+<form name="keywordsearch" 
+      action="http://reagan.library.emory.edu/cgi-bin/philo/search2t">
+<p class="searchbox"><b>Search:</b>
+<input type="text" size="15" name="word">
+<input type="hidden" name="dbname" value="lincoln">
+<input type="submit" value="Search"></p>
+</form>
+
     </p>
 
 </div>
