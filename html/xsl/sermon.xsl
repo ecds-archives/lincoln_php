@@ -19,7 +19,8 @@
 <xsl:param name="showFigures">true</xsl:param>
 
 <xsl:include href="html/teihtml-main.xsl"/>
-<xsl:include href="html/teihtml-notes.xsl"/>
+<xsl:include href="teinote.xsl"/>
+<!--<xsl:include href="html/teihtml-notes.xsl"/>-->
 <xsl:include href="html/teihtml-bibl.xsl"/>
 <xsl:include href="html/teihtml-front.xsl"/>
 <xsl:include href="html/teihtml-figures.xsl"/>
@@ -28,15 +29,17 @@
 <xsl:include href="html/teihtml-tables.xsl"/>
 <xsl:include href="html/teihtml-pagetable.xsl"/>
 <!-- xref needed for locateParentdiv -->
-<xsl:include href="html/teihtml-xref.xsl"/>
+<!--<xsl:include href="html/teihtml-xref.xsl"/>-->
 
 
 
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
-        <xsl:apply-templates select="//div1"/>
+    <xsl:apply-templates select="//div1"/>
+    <xsl:call-template name="endnotes"/>
 </xsl:template>
+
 
 <!-- <xsl:template match="div1">
   <table>
