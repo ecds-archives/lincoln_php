@@ -27,7 +27,8 @@
 <xsl:include href="html/teihtml-struct.xsl"/>
 <xsl:include href="html/teihtml-tables.xsl"/>
 <xsl:include href="html/teihtml-pagetable.xsl"/>
-
+<!-- xref needed for locateParentdiv -->
+<xsl:include href="html/teihtml-xref.xsl"/>
 
 
 
