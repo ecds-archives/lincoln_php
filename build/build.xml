@@ -1,0 +1,193 @@
+<project name="Lincoln Project Data Preparation" default="all" basedir=".">
+
+<target name="all" depends="xml,xml-parse,tamino-data-loader" description="*
+Do everything"/>
+
+<!-- not called by anything else... optional -->
+<target name="clean" depends="init">
+<delete dir="${xmldir}"/>
+</target>
+
+<target name="help" depends="" description="* Usage instructions">
+<echo>How to use this build script:
+  'ant -projecthelp'  display available targets with brief descriptions 
+  'ant'               run the default target (in this case, all)
+  'ant [target]'      run only the specified task
+To specify an input file other than the default, run as 
+  ant  -Dinputfile filename [target]
+</echo>
+<!-- insert more instructions here -->
+</target>
+
+<target name="init">
+<!--  <splash/> -->
+    <echo message="Defining parameters."/>
+    <property name="sgmldir" value="/chaucer/data/lincoln/data"/>
+    <property name="dataPrepdir"     value="${basedir}/dataPrep"/>
+    <property name="xmldir"     value="${basedir}/xml"/>
+    <property name="xmldir.data"     value="${basedir}/xml/data"/>
+    <property name="xmldir.entities"     value="${basedir}/xml/entities"/>
+    <property name="xmldir.doctype"     value="${basedir}/xml/doctype"/>
+    <property name="xmldir.tamino" value="${basedir}/xml/tamino"/>
+
+<!-- Defining shellscripts ... -->
+    <property name="tei2xml.sh"     value="${dataPrepdir}/tei2xml.sh"/>
+    <property name="add_doctype.sh"     value="${dataPrepdir}/add_doctype.sh"/>
+
+<!-- provides access to environment var -->
+    <property environment="env"/> 
+    <path id="base.path">
+    <pathelement path="${env.CLASSPATH}"/>
+    </path>
+    <property name="env.PERL_INCS" value="${basedir}"/> 
+</target>
+
+<target name="xml" depends="sgml-parse,tei2xml,unicode-entities" description="* Generate xml from tei files.">
+<!-- copy final xml files from the temporary dir to the real one -->
+<copy todir="${xmldir}">
+<fileset dir="${xmldir.entities}"/>
+</copy>
+</target> <!-- end xml -->
+
+<target name="sgml-parse" depends="init" description="* Parse input sgml files.">
+
+<echo message="Parsing sgml files."/>
+<echo message="**********************************************"/>
+
+<!-- NOTE: The output for the sgml parse process goes to the screen - we -->
+<!-- decided to keep this as opposed to redirecting it to a log file? -->
+<apply executable="nsgmls" parallel="false" failonerror="true">
+<arg line="-s -wunclosed -wmin-tag -c /chaucer/data/dtd/linux_catalog ${dataPrepdir}/lincoln_doctype"/><fileset dir="${sgmldir}" id="sgmlfiles">
+<include name="*.sgm"/>
+</fileset>
+</apply>
+
+<echo message="Successfully parsed all sgml files."/>
+</target> <!-- end sgml-parse -->
+
+<target name="tei2xml" depends="init,sgml-parse">  
+
+<echo message="Converting tei sgml files to xml."/>
+<echo message="**********************************************"/>
+<!-- create the necessary directories for output, if they don't already exist -->
+<delete dir="${xmldir}"/>  <!-- clean up -->
+<mkdir dir="${xmldir}"/>
+<!-- deleting directory to ensure contents are up to date -->
+<delete dir="${xmldir.data}"/>
+<!-- recreate xml/data directory for output -->
+<mkdir dir="${xmldir.data}"/>
+<echo message="Generating xml files from sgml files in ${sgmldir}."/>
+<exec executable="tcsh"  dir="${xmldir.data}" failonerror="true">
+<arg line="${tei2xml.sh} ${sgmldir}/*.sgm"/>
+</exec>
+</target> <!-- end tei2xml -->
+
+<!-- Remove tei2xml from the depends field so that the unicode-entities target -->
+<!-- can be run separately. -->
+<target name="unicode-entities" depends="init,tei2xml">
+<!-- description="* converts entities to unicode entities " -->
+<echo message="Converting sgml entities to unicode entities."/>
+<echo message="**********************************************"/>
+
+<!-- Make sure the entities directory is created -->
+<delete dir="${xmldir.entities}"/>
+<mkdir dir="${xmldir.entities}"/>
+
+<!-- Run the perl script that converts entities to unicode -->
+<exec executable="perl" dir="${dataPrepdir}" failonerror="true">
+<arg line="convertEntities2Unicode_controller.pl -i ${xmldir.data} -o ${xmldir.entities}"/>
+</exec>
+</target> <!-- end unicode-entities -->
+
+<!-- only run xml-parse if the xml directory exists -->
+<target name="check-xmldir" depends="init"> 
+<condition property="xml.parse">
+<available file="${xmldir.entities}" type="dir" property="xmldir.present"/>
+</condition>
+</target> <!-- checks if xmldir is available and sets xml.parse to true if it is -->
+
+<!--depends on the xml dir being available which we set above using condition -->
+<target name="xml-parse" depends="check-xmldir" if="xml.parse" description="* Parse xml files generated from TEI sgml files. *">
+<echo message="Parsing xml files."/>
+<echo message="**********************************************"/>
+<delete dir="${xmldir.doctype}"/>
+<mkdir dir="${xmldir.doctype}"/>
+
+<!-- create doctype file -->
+<property name="doctype" value="${xmldir.doctype}/doctype"/>
+
+<!-- output doctype to a file so we can insert in the xml files -->
+<concat destfile="${doctype}" append="no"><![CDATA[<!DOCTYPE TEI.2 PUBLIC 
+	"-//TEI//DTD TEI Lite XML ver. 1//EN" 
+	"${dataPrepdir}/DTD/iln.dtd" [
+        <!NOTATION JPEG PUBLIC 'ISO DIS 10918//NOTATION JPEG Graphics Format//EN'>
+ 	<!ENTITY % lincoln SYSTEM "${dataPrepdir}/lincoln_entities1" >
+         %lincoln; ] >]]></concat>
+<!-- lincoln_entities is the file in the build/dataPrep directory that lists --><!-- the paths to the images on chaucer -->
+
+<copy todir="${xmldir.doctype}">
+<fileset dir="${xmldir.entities}" includes="*.xml"/>
+</copy>
+
+<apply executable="tcsh" parallel="false" failonerror="true">
+<arg line="${add_doctype.sh} ${doctype}"/>
+<fileset dir="${xmldir.doctype}">
+<include name="*.xml"/>
+</fileset>
+</apply>
+
+<!-- xmlvalidate is the xml parsing process -->
+<xmlvalidate  lenient="false" failonerror="true" warn="true">
+<fileset dir="${xmldir.doctype}" includes="*.xml"/>
+<dtd publicId="-//TEI//DTD TEI Lite XML ver. 1//EN" 
+	location="http://www.tei-c.org/Lite/DTD/teixlite.dtd"/>
+</xmlvalidate>
+<!-- If we get to this point, it worked. --> 
+<echo message="Successfully parsed all xml files."/>
+
+</target> <!-- end xml-parse -->
+
+<!-- Tamino Data Delete and Load Process starts here. -->
+<target name="ask-delete" depends="init" if="xmldir.present">
+<input
+   message="Would you like to delete previous records in tamino?"
+   validargs="y,n"
+   addproperty="response"
+  />
+<condition property="do.delete">
+<equals casesensitive="false" arg1="y" arg2="${response}"/>
+</condition>
+</target> <!-- ask-delete -->
+
+<!-- Actually deletes the records -->
+<target name="tamino-data-deleter" depends="ask-delete" if="do.delete">
+<!-- <copy todir="${basedir}" file="${dataPrepdir}/tamino-data-delete.pl"/> -->
+<echo message="Deleting Previous Records in Tamino"/>
+<exec executable="perl" failonerror="true">
+<arg line="${dataPrepdir}/tamino-data-delete.pl -f -d LINCOLN -c sermons -e TEI.2" />
+</exec>
+</target>
+
+<target name="ask-load" depends="init" if="xmldir.present">
+<input
+    message="Would you like to load files to tamino?"
+    validargs="y,n"
+    addproperty="response"
+/>
+<condition property="do.load">
+<equals casesensitive="false" arg1="y" arg2="${response}"/>
+</condition>
+</target> <!--Ask load-->
+
+<target name="tamino-data-loader" depends="ask-load" if="do.load">
+<echo message="Loading files to Tamino"/>
+<echo message="dataPrepdir is defined as ${dataPrepdir}"/>
+<echo message="basedir is defined as ${basedir}"/>
+<exec executable="perl" failonerror="true">
+<env key="CLASSPATH" value="${classpath}"/>
+<arg line="${dataPrepdir}/tamino-load.pl -d LINCOLN -c sermons -r TEI.2 --input-dir
+${xmldir}"/>
+</exec>
+</target>
+
+</project>
