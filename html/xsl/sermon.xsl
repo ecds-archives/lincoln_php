@@ -53,6 +53,7 @@
   <xsl:attribute name="href"><xsl:value-of
 	select="concat($graphicsPrefix, @entity, '.jpg')"/></xsl:attribute>
   <xsl:element name="img">
+   <xsl:attribute name="class">page</xsl:attribute>
    <xsl:attribute name="src"><xsl:value-of
 	select="concat($graphicsPrefix, @entity,$graphicsSuffix)"/></xsl:attribute>
    <!-- display text if images are not turned on -->
