@@ -13,7 +13,7 @@
 
 <xsl:template match="div">
   <p>
-    <xsl:value-of select="author"/> 
+    <span class="author"><xsl:value-of select="author"/></span>
     <ul>
       <xsl:apply-templates select="div1/bibl"/>
    </ul>
@@ -22,11 +22,13 @@
 
 
 <xsl:template match="bibl">
+<li class="sermon">
   <a>
     <xsl:attribute name="href">sermon.php?id=<xsl:value-of select="../@id"/></xsl:attribute>
   <xsl:value-of select="title"/></a><br/>
   <xsl:value-of select="date"/>, 
   <xsl:value-of select="pubPlace"/><br/>
+</li>
 </xsl:template>
 
 
