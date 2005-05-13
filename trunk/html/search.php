@@ -91,11 +91,15 @@ if ($date) {$myterms = array_merge($myterms, $darray); }
 if ($place) {$myterms = array_merge($myterms, $plarray); }
 
 
-$return = ' return <div1> {$a/@id} {$b} ' . "<total>{count($for $let $where return \$a)}</total>" . '</div1>';
+$countquery = "$declare <total>{count($for $let $where return \$a)}</total>";
+
+$return = ' return <div1> {$a/@id} {$b} </div1>';
 $sort = 'sort by (author)';
 
 $query = "$declare $for $let $where $return $sort";
-$tamino->xquery($query); 
+$tamino->xquery($countquery);
+$total = $tamino->findNode("total");
+$tamino->xquery($query);
 $tamino->getXqueryCursor();
 
 $xsl_file = "search.xsl";
@@ -109,10 +113,19 @@ $xsl_params = array("term_list"  => $term_list);
 
 
 print '<div class="content">';
-print "<p>Found " . $tamino->count . " matching sermons.</p>";
+if ($total==0){
+print "<p><b>No matches found.</b> You may want to broaden your search and see search tips for suggestions.</p>";
+include ("searchoptions.php");
+    
+    
+}
+else
+{
+print "<p class='center'>Number of matching sermons: <b>$total</b></p>";
 $tamino->xslTransform($xsl_file, $xsl_params);
 $tamino->highlightInfo($myterms);
 $tamino->printResult($myterms);
+}
 print '</div>';
 
 //Function that takes multiple terms separated by white spaces and puts them into an array
