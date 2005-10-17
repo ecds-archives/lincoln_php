@@ -35,9 +35,17 @@ $tamino->xslTransformResult($header_xsl2);
 //$tamino->displayXML(1);
 
 
+$title = $tamino->findNode("bibl/title");
+$t = explode(":", $title, 2);
+$title = $t[0];
+$subtitle = $t[1];
+$author = $tamino->findNode("author");
+$a = explode(",", $author, 2);
+$author = $a[0];
+
 print "<html>
          <head>
-            <title>The Martyred President : Sermon</title>
+            <title>The Martyred President : Sermon : $author - $title</title>
              <link rel='stylesheet' type='text/css' href='sermons.css'>
 ";
 $tamino->printResult();
