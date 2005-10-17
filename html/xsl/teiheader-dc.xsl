@@ -19,12 +19,15 @@
 
   <!-- title for individual sermons appears at div1 level; ignore title in titleStmt -->
   <xsl:template match="titleStmt/title"/>
+  <!-- title also appears at individual sermon level; don't duplicate -->
+  <xsl:template match="titleStmt/author"/>
 
   <xsl:template match="title">
     <xsl:element name="dc:title">
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:template>
+
 
   <xsl:template match="author">
     <xsl:element name="dc:creator">
