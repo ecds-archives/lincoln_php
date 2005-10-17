@@ -8,10 +8,10 @@ print "<body>";
 
 include("header.html");
 
-$args = array('host' => "vip.library.emory.edu",
-		'db' => "LINCOLN",
-	      	'coll' => 'sermons',
-	        'debug' => false );
+// use tamino settings from config file
+$args = $tamino_args;
+$args{"debug"} = false;
+
 $tamino = new xmlDbConnection($args);
 
 /*

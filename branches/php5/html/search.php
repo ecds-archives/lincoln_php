@@ -2,7 +2,6 @@
 include("config.php");
 
 html_head("Search Results");
-
 include_once("lib/xmlDbConnection.class.php");
 
 print "<body>";
@@ -11,10 +10,10 @@ include("header.html");
 
 $id = $_GET['id'];
 
-$args = array('host' => "vip.library.emory.edu",
-		'db' => "LINCOLN",
-	      	'coll' => 'sermons',
-	        'debug' => false );
+// use tamino settings from config file
+$args = $tamino_args;
+$args{"debug"} = false;
+
 $tamino = new xmlDbConnection($args);
 
 // search terms
@@ -33,9 +32,10 @@ $darray=processterms($date);
 $plarray=processterms($place);
 
 
-$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
+$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" 
+declare namespace xs="http://www.w3.org/2001/XMLSchema"';
 $for = ' for $a in input()/TEI.2/:text/body/div1';
-$let = 'let $b :=$a/head/bibl';
+$let = 'let $b := $a/head/bibl ';
 
 $conditions = array();
 
@@ -43,15 +43,22 @@ $conditions = array();
 if ($kw) {
     if ($mode == "exact") {
         array_push($conditions, "tf:containsText(\$a, '$kw')");
+	$ref_let = "let \$ref := tf:createTextReference(\$a, '$kw') ";
     }
     if ($mode == "synonym") {
         array_push($conditions, "tf:containsText(\$a, tf:synonym('$kw'))");
     }
     else {
+      // create a "near text" ref for counting matches
+      $ref_let = 'let $ref := tf:createNearTextReference($a, 50, ';
         foreach ($kwarray as $k){
             $term = ($mode == "phonetic") ? "tf:phonetic('$k')" : "'$k'";
             array_push($conditions, "tf:containsText(\$a, $term)");
+	    if ($k != $kwarray[0]) { $ref_let .= ", "; }	// any term but the first, add a comma
+	    $ref_let .= '"' . $k . '"';	
+		
         }
+	$ref_let .= ') ';
     }
 }
 if ($title) {
@@ -91,10 +98,19 @@ if ($date) {$myterms = array_merge($myterms, $darray); }
 if ($place) {$myterms = array_merge($myterms, $plarray); }
 
 
-$return = ' return <div1> {$a/@id} {$b} ' . "<total>{count($for $let $where return \$a)}</total>" . '</div1>';
-$sort = 'sort by (author)';
+//$return = ' return <div1> {$a/@id} {$b} ' . "<total>{count($for $let $where return \$a)}</total>" . '</div1>';
+// FIXME: still need to return count of # of matches within sermon
+$return = ' return <div1> {$a/@id} {$b} <count>{count($ref)}</count></div1>';
+//$sort = 'sort by (author)';
+$sort = 'sort by (xs:int(count) descending)';
 
-$query = "$declare $for $let $where $return $sort";
+$countquery = "$declare <total>{count($for $let $where return \$a)}</total>";
+$query = "$declare $for $let $ref_let $where $return $sort";
+
+// first, get the count for number of matching sermons
+$tamino->xquery($countquery);
+$total = $tamino->findNode("total");
+
 $tamino->xquery($query); 
 $tamino->getCursor();
 
@@ -109,7 +125,7 @@ $xsl_params = array("term_list"  => $term_list);
 
 
 print '<div class="content">';
-print "<p>Found " . $tamino->count . " matching sermons.</p>";
+print "<p>Found <b>$total</b> matching sermons.</p>";
 $tamino->xslTransform($xsl_file, $xsl_params);
 $tamino->highlightInfo($myterms);
 $tamino->printResult($myterms);
