@@ -19,7 +19,8 @@
 <xsl:param name="showFigures">true</xsl:param>
 
 <xsl:include href="html/teihtml-main.xsl"/>
-<xsl:include href="teinote.xsl"/>
+<!-- <xsl:include href="teinote.xsl"/> -->
+<xsl:include href="footnotes.xsl"/>
 <!--<xsl:include href="html/teihtml-notes.xsl"/>-->
 <xsl:include href="html/teihtml-bibl.xsl"/>
 <xsl:include href="html/teihtml-front.xsl"/>
@@ -54,8 +55,7 @@
 <xsl:template match="p/figure|figure">
 <p class="pageimage"> 
  <xsl:element name="a">
-  <xsl:attribute name="href"><xsl:value-of
-	select="concat($graphicsPrefix, @entity, '.jpg')"/></xsl:attribute>
+  <xsl:attribute name="href">page.php?id=<xsl:value-of select="@entity"/></xsl:attribute>
   <xsl:element name="img">
    <xsl:attribute name="class">page</xsl:attribute>
    <xsl:attribute name="src"><xsl:value-of
@@ -72,8 +72,15 @@
 <xsl:template match="pb">
     <hr class="pb"/>
   <p class="pagebreak"> 
-    Page <xsl:value-of select="@n"/>
-  </p> 
+    <a>	<!-- anchor to jump to a specific page -->
+      <xsl:attribute name="name">page<xsl:value-of select="@n"/></xsl:attribute>
+      Page <xsl:value-of select="@n"/>
+   </a>
+    </p> 
+</xsl:template>
+
+<xsl:template match="lb">
+  <br/>
 </xsl:template>
 
 <!--
