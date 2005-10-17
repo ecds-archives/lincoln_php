@@ -99,6 +99,24 @@ class xmlDbConnection {
      $this->xsl_result = $proc->transformToDoc($this->xmldb->xml);
    }
 
+   // transform the created xsl result  with a specified stylesheet
+   function xslTransformResult ($xsl_file, $xsl_params = NULL) {
+     /* load xsl & xml as DOM documents */
+     $xsl = new DomDocument();
+     $xsl->load("xsl/$xsl_file");
+
+     /* create processor & import stylesheet */
+     $proc = new XsltProcessor();
+     $xsl = $proc->importStylesheet($xsl);
+     if ($xsl_params) {
+       foreach ($xsl_params as $name => $val) {
+         $proc->setParameter(null, $name, $val);
+       }
+     }
+     /* transform the xsl result, and replace it with the result */
+     $this->xsl_result = $proc->transformToDoc($this->xsl_result);
+   }
+
    function printResult ($term = NULL) {
      if ($this->xsl_result) {
        if (isset($term[0])) {
@@ -155,7 +173,7 @@ class xmlDbConnection {
 	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
        // special case when term is at the beginning of string
        $str = preg_replace("/(^)($_term)(\b)/i",
-	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
+        "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
 
      }
      return $str;
@@ -193,6 +211,42 @@ class xmlDbConnection {
      }
    }
 
+   // print out links to different result sets, based on cursor
+   // arguments: url to link to (pos & max # to display will be added), max
+   function resultLinks ($url, $position, $max) {
+     //FIXME: at least in exist, we can get a default maximum from result set itself...
+     $result = "<div class='resultlink'>";
+	if ($this->count > $max) {
+	  $result .= "<li class='firstresultlink'>More results:</li";
+	  for ($i = 1; $i <= $this->count; $i += $max) {
+	    if ($i == 1) {
+	      $result .= '<li class="firstresultlink">';
+	    } else { 
+	      $result .= '<li class="resultlink">';
+	    }
+            // url should be based on current search url, with new position defined
+	    $myurl = $url .  "&pos=$i&max=$max";
+            if ($i != $position) {
+	      $result .= "<a href='$myurl'>";
+	    }
+    	    $j = min($this->count, ($i + $max - 1));
+    	    // special case-- last set only has one result
+    	    if ($i == $j) {
+      	      $result .= "$i";
+    	    } else {
+      	      $result .= "$i - $j";
+    	    }
+	    if ($i != $position) {
+      	      $result .= "</a>";
+    	    }
+    	    $result .= "</li>";
+	  }
+	}
+	$result .= "</div>"; 
+	return $result;
+   }
+
+
   // convert a readable xquery into a clean url for tamino or exist
   function encode_xquery ($string) {
     // get rid of multiple white spaces
@@ -206,12 +260,21 @@ class xmlDbConnection {
   }
 
    // print out xml (for debugging purposes)
-   function displayXML () {
-     if ($this->xml) {
-       $this->xml->formatOutput = true;
-       print "<pre>";
-       print htmlentities($this->xml->saveXML());
-       print "</pre>";
+   function displayXML ($transformed = 0) {
+     if ($transformed) { 	// display xml resulting from xsl transformation
+       if ($this->xsl_result) {
+         $this->xsl_result->formatOutput = true;
+         print "<pre>";
+         print htmlentities($this->xsl_result->saveXML());
+         print "</pre>";
+       }
+     } else {			// by default, display xml returned by query
+       if ($this->xml) {
+         $this->xml->formatOutput = true;
+         print "<pre>";
+         print htmlentities($this->xml->saveXML());
+         print "</pre>";
+       }
      }
    }
 
