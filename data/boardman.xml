@@ -1138,14 +1138,12 @@ Printers</publisher>
                <pb n="27"/>
                <p>
                   <figure entity="boardman27">
-                     <figDesc>1st page of Reverend George Dana
-Boardman's Death, the Law of Life</figDesc>
+                     <figDesc>1st page of Reverend George Dana Boardman's Death, the Law of Life</figDesc>
                   </figure>
                </p>
-            <epigraph>
-               <p>"Man, thou Pendulum betwixt a Smile and
-Tear."</p>
-            </epigraph>
+<!--            <epigraph> -->
+               <p>"Man, thou Pendulum betwixt a Smile and Tear."</p>
+<!--            </epigraph> -->
             <pb n="28"/>
 <!-- blank page -->
 <!--            <p>
@@ -1158,9 +1156,8 @@ Life</figDesc>
             <pb n="29"/>
             <p>
                <figure entity="boardman29">
-                  <figDesc>3rd page
-of Reverend George Dana Boardman's Death, the Law of
-Life</figDesc>
+                  <figDesc>3rd page of Reverend George Dana Boardman's
+Death, the Law of Life</figDesc>
                </figure>
             </p>
             <p>DEATH, THE LAW OF LIFE.</p>
