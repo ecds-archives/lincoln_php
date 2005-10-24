@@ -219,14 +219,16 @@ The Mission of Abraham Lincoln.</figDesc>
                   </figure>
 acters of blood, and in letters so plain that he who runs may read. He
 has shone forth from the darkness of his pavillion. "Out of the
-heavens he has made us to hear a voice, that he might instruct us."*
-"The Lord hath made bare his holy arm in the eyes of all the nations;
-and all the ends of the earth have seen the salvation of our
-God.**"To-day, we are not called to peer into the uncertain future,
-but to study the accomplished past. We are not at a loss to know what
-the end of these things will be, for the things undertaken have been
-performed. The results of four years of internecine war are now
-distinct, accomplished, and inevitable facts. We now know that</p>
+heavens he has made us to hear a voice, that he might instruct
+us."<ref target="jeffery.002.n01">*</ref> "The Lord hath made bare his
+holy arm in the eyes of all the nations; and all the ends of the earth
+have seen the salvation of our God.<ref
+target="jeffery.002.n02">**</ref> "To-day, we are not called to peer
+into the uncertain future, but to study the accomplished past. We are
+not at a loss to know what the end of these things will be, for the
+things undertaken have been performed. The results of four years of
+internecine war are now distinct, accomplished, and inevitable
+facts. We now know that</p>
                <lg type="stanza">
                   <l>"Behind a frowning providence </l>
                   <l>God hid a smiling face;"</l>
@@ -248,9 +250,13 @@ specially raised him up and qualified him for this self same
 purpose. He did not intend that he should die until his work was
 finished, and He did not intend that he should live after it was
 done.</p>
-               <note type="foot" anchored="yes">
-                  <p>  * Deut.iv. 36.  ** Isaiah, lii. 10.</p>
+               <note id="jeffery.002.n01" n="*" type="foot" anchored="yes">
+                  <p>Deut.iv. 36.</p>
                </note>
+               <note id="jeffery.002.n02" n="**" type="foot" anchored="yes">
+                  <p>Isaiah, lii. 10.</p>
+               </note>
+
                <pb n="6"/>
                <p>
                   <figure entity="jeffery6">
