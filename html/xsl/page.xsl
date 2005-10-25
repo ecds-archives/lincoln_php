@@ -13,7 +13,8 @@
   </xsl:template>
 
   <xsl:template match="head">
-    <xsl:apply-templates select="//title"/>, <xsl:apply-templates select="//author"/>
+    <xsl:apply-templates select="//title"/>
+    <xsl:apply-templates select="//author"/>
   </xsl:template>
 
   <xsl:template match="title">
@@ -38,23 +39,9 @@
 
   <p class="fullpage">
 
-    <table>
-      <tr>
-        <td>
-          <xsl:apply-templates select="//siblings/figure[$position - 1]">
-            <xsl:with-param name="mode">Previous</xsl:with-param>
-          </xsl:apply-templates>
-        </td>
-        <td>
-          <xsl:apply-templates select="figDesc"/>
-        </td>
-        <td>
-          <xsl:apply-templates select="//siblings/figure[$position + 1]">
-            <xsl:with-param name="mode">Next</xsl:with-param>
-          </xsl:apply-templates>
-        </td>
-      </tr>
-    </table>
+    <xsl:call-template name="pagenav">
+      <xsl:with-param name="position"><xsl:value-of select="$position"/></xsl:with-param>
+    </xsl:call-template>
 
     <xsl:element name="img">
       <xsl:attribute name="src"><xsl:value-of
@@ -64,8 +51,36 @@
       <!-- show text on mouse-over (in some browsers) -->
       <xsl:attribute name="title"><xsl:value-of select="normalize-space(figDesc)"/></xsl:attribute>
     </xsl:element> <!-- img -->
+
+    <xsl:call-template name="pagenav">
+      <xsl:with-param name="position"><xsl:value-of select="$position"/></xsl:with-param>
+    </xsl:call-template>
   </p> 
 </xsl:template>
+
+
+<xsl:template name="pagenav">
+  <xsl:param name="position"/>
+
+  <table class="pagenav">
+    <tr>
+      <td>
+        <xsl:apply-templates select="//siblings/figure[$position - 1]">
+          <xsl:with-param name="mode">Previous</xsl:with-param>
+        </xsl:apply-templates>
+      </td>
+      <td class="desc">
+        <xsl:apply-templates select="figDesc"/>
+      </td>
+      <td>
+        <xsl:apply-templates select="//siblings/figure[$position + 1]">
+          <xsl:with-param name="mode">Next</xsl:with-param>
+        </xsl:apply-templates>
+      </td>
+    </tr>
+  </table>
+</xsl:template>
+
 
 <!-- ignore 'sibling' figures : only used for navigation -->
 <xsl:template match="siblings/figure"/>
@@ -117,7 +132,9 @@
     <xsl:attribute name="href">page.php?id=<xsl:value-of select="@entity"/></xsl:attribute>
     <!-- use rel attribute to give next / previous information -->
     <xsl:attribute name="rel"><xsl:value-of select="$linkrel"/></xsl:attribute>
+    <xsl:if test="$mode = 'Previous'"><xsl:text>&lt;&lt; </xsl:text></xsl:if>
     <xsl:value-of select="$mode"/>
+    <xsl:if test="$mode = 'Next'"><xsl:text> &gt;&gt;</xsl:text></xsl:if>
   </xsl:element> <!-- a -->   
 
 </xsl:template>
