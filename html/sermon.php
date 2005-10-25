@@ -16,13 +16,6 @@ let $hdr := root($div)/TEI.2/teiHeader
 return <result>{$hdr}{$div}</result>';
 $xsl_file = "sermon.xsl";
 
-$rval = $tamino->xquery($query);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-} 
-
 $tamino->xquery($query);
 
 // metadata information for cataloging
@@ -55,8 +48,7 @@ print "\n<body>";
 include("header.html");
 
 
-print '<div class="content">
-          <h2>Sermon</h2>';
+print '<div class="content">';
 $tamino->highlightInfo($terms);
 
 $tamino->xslTransform($xsl_file);
