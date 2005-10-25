@@ -1,4 +1,5 @@
 @import "lincoln.css";
+@import "footnotes.css";
 
 /* settings to make page images appear to the left of the text */
 div.content { margin-left: 100; }
