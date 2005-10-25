@@ -37,6 +37,7 @@
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
+    <xsl:call-template name="footnote-init"/> <!-- for popup footnotes -->
     <xsl:apply-templates select="//div1"/>
     <xsl:call-template name="endnotes"/>
 </xsl:template>
@@ -81,6 +82,17 @@
 
 <xsl:template match="lb">
   <br/>
+</xsl:template>
+
+<xsl:template match="lg">
+  <p>
+    <xsl:attribute name="class"><xsl:value-of select="@type"/></xsl:attribute>
+    <xsl:apply-templates/>
+  </p>
+</xsl:template>
+
+<xsl:template match="l">
+  <xsl:apply-templates/><br/>  
 </xsl:template>
 
 <!--
