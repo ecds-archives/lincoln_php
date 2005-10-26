@@ -65,10 +65,27 @@ p.searchtips {text-align:center;}
 
 div#overview {margin: 1in; margin-top:0.5in;}
 
+span.match { font-weight: bold; }	
+p.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
+table.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
+table.kwic td.pn { width: 65px; vertical-align: center;}
+
 table.searchresults { width:90%;  border-collapse: collapse; }
 table.searchresults td { border-bottom: 1px solid #cccccc; }
+table.kwicsearchresults { width:90%; }
 td.count { width:15%; text-align: center; }
 th.tip { font-size: 85%; font-weight: normal; font-style: italic; text-align: center; }
+
+/* link results - display as horizontal list, inline, with lines between */
+li.resultlink, li.firstresultlink { 
+     display:inline; 
+     padding-left: 7px;
+     padding-right: 7px;
+     border-left: 2px solid #666;
+  }
+/* (no left border on first item) */
+li.firstresultlink { border-left: none; }
+div.resultlink { float: right; padding-right: 0.5in;}
 
 /* styles for full-size page image display  */
 p.fullpage { text-align:center; }
