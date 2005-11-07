@@ -39,7 +39,7 @@ Sermons Project</title>
             <bibl> Fowler,
 Henry.  Character and Death of Abraham Lincoln.  A Discourse Preached
 at Auburn, N. Y., April 23, 1865.  Auburn, N. Y.: Wm. J. Moses' Steam
-Press Establishment, No. 16 Clark Street.  New-York; Shelden &#x0026; Co.
+Press Establishment, No. 16 Clark Street.  New-York; Shelden &amp; Co.
 1865.</bibl>
          </sourceDesc>
       </fileDesc>
@@ -74,7 +74,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="fowler.001" n="Character and Death of Abraham Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>Character and
 Death of Abraham Lincoln</title> 
@@ -84,33 +84,33 @@ Death of Abraham Lincoln</title>
                   <imprint>
                      <pubPlace>Auburn, NY; New York</pubPlace>
                      <publisher>Wm. J. Moses' Steam Press Establishment, No. 16 Clark
-Street; Shelden &#x0026; Co.</publisher>
+Street; Shelden &amp; Co.</publisher>
                      <date>1865</date>
                   </imprint>
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="fowler1">
                   <figDesc>1st page of Henry Fowler's
 Character and Death of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p>Character and Death of Abraham Lincoln.</p>
-            <p>A DISCOURSE</p>
-            <p>PREACHED AT</p>
-            <p>AUBURN, N.Y., APRIL 23, 1865.</p>
-            <p>BY</p>
-            <p>REV. HENRY
+            <p pn="1">Character and Death of Abraham Lincoln.</p>
+            <p pn="1">A DISCOURSE</p>
+            <p pn="1">PREACHED AT</p>
+            <p pn="1">AUBURN, N.Y., APRIL 23, 1865.</p>
+            <p pn="1">BY</p>
+            <p pn="1">REV. HENRY
 FOWLER,</p>
-            <p>PASTOR OF THE PRESBYTERIAN CHURCH.</p>
-            <p>PUBLISHED BY REQUEST.</p>
-            <p>AUBURN, N. Y.:</p>
-            <p>WM. J. MOSES' STEAM PRESS ESTABLISHMENT,</p>
-            <p>NO. 16 CLARK STREET.</p>
-            <p>NEW YORK; SHELDON &#x0026; CO.</p>
-            <p>1865.</p>
+            <p pn="1">PASTOR OF THE PRESBYTERIAN CHURCH.</p>
+            <p pn="1">PUBLISHED BY REQUEST.</p>
+            <p pn="1">AUBURN, N. Y.:</p>
+            <p pn="1">WM. J. MOSES' STEAM PRESS ESTABLISHMENT,</p>
+            <p pn="1">NO. 16 CLARK STREET.</p>
+            <p pn="1">NEW YORK; SHELDON &amp; CO.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="fowler2">
                   <figDesc>2nd page of
 Henry Fowler's Character and Death of Abraham
@@ -118,7 +118,7 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="fowler3">
                   <figDesc>3rd page of
 Henry Fowler's Character and Death of Abraham
@@ -126,13 +126,13 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="fowler.002" n="DISCOURSE" type="sermon">
-               <head>DISC0URSE.</head>
-               <epigraph>
-                  <p>"AND THE ANGEL OF THE LORD CALLED UNTO ABRAHAM OUT OF
+               <head pn="3">DISC0URSE.</head>
+               <epigraph pn="3">
+                  <p pn="3">"AND THE ANGEL OF THE LORD CALLED UNTO ABRAHAM OUT OF
 HEAVEN THE SECOND TIME."<hi rend="italic">Genesis</hi>
 xxii,15.</p>
                </epigraph>
-               <p>IN the midst of unequaled rejoicings, we are called to
+               <p pn="3">IN the midst of unequaled rejoicings, we are called to
 unequaled sorrow. The certainty of Peace was revealed to us as a
 bright vision; peace won by victories, not bought by conditions; peace
 the seal of an indissoluble Union, not the treacherous truce of
@@ -142,7 +142,7 @@ the mistress of oppression; peace,</p>
                   <l>"Whole as the marble, founded as the rock,</l>
                   <l>As broad and general as the casing air,"</l>
                </lg>
-               <p>in fulfilment of the prophecy, "when mercy and truth meet together,
+               <p pn="3">in fulfilment of the prophecy, "when mercy and truth meet together,
 righteousness and peace kiss each other." Exalted by the certainty, we
 raised our hallelujahs till they touched the skies. Their echo but met
 our ears, when the words of a grimmer prophet are fulfilled: "Our
@@ -162,14 +162,14 @@ anxiety felt for the Republic is allayed, as we observe the unmoved
 stability of affairs; but the mourning continues, and we gather now to
 express and explain our bereavement, and to learn from each others'
 hearts the lesson of the hour.</p>
-               <p>"FATHER ABRAHAM."</p>
-               <p>Our grief is both national and personal. When the President
+               <p pn="4">"FATHER ABRAHAM."</p>
+               <p pn="4">Our grief is both national and personal. When the President
 of these United States was murdered, the shot was aimed at our
 Country. The Republic shivered with the shock; each American seemed
 called to avenge the blood; for, when Abraham Lincoln fell, "then you
 and I and all of us fell down, whilst bloody treason flourished over
 us."</p>
-               <p>But our grief has its tenderer as well as sterner aspect,
+               <p pn="4">But our grief has its tenderer as well as sterner aspect,
 its personal as well as its national elements. The Filial has taken
 possession of our souls. Not only had the President's administration
 constructed, in the heart of the nation, the confidence which upbuilds
@@ -180,8 +180,8 @@ reasons. We received his explanations, and with faith alike
 unquestioning, we accepted his reticence. His wisdom seemed to us
 great, but not remote; his greatness upbore all the nation with him as
 one family. He was, and always will be--"Father Abraham."</p>
-               <p>HIS MORAL QUALITIES.</p>
-               <p>In discussing his character, I do not dwell upon the
+               <p pn="4">HIS MORAL QUALITIES.</p>
+               <p pn="4">In discussing his character, I do not dwell upon the
 attainment of the Presidential chair, from humblest beginnings,
 because in this, Abraham Lincoln is not remarkable. It is our
 Institutions which are remarkable. Andrew Jackson, James K. Polk,
@@ -225,10 +225,10 @@ difficult of retention as of attainment, it was held by him sacred to
 the last, a lustrous jewel; and as the American people cherish his
 memory, they will repeat to coming generations the familiar title
 which embalms his honesty.</p>
-               <p>With this upright speech was
+               <p pn="5">With this upright speech was
 united</p>
-               <p>THE HEARING EAR.</p>
-               <p>The President listened to all comers. He
+               <p pn="5">THE HEARING EAR.</p>
+               <p pn="5">The President listened to all comers. He
 exercised a patient absorp-
 <pb n="6"/>
                   <figure entity="fowler6">
@@ -250,9 +250,9 @@ hypocrisy." No ruler has lived who kept his ear closer to the motions
 of the popular thought, and to the pulsations of the American
 heart. The voice of the people penetrated his soul with a sacred
 welcome only second to the voice of God.</p>
-               <p>Accompanying this trait appears</p>
-               <p>HIS CLEMENCY</p>
-               <p>He was so long-suffering, so forgiving, "not willing that
+               <p pn="6">Accompanying this trait appears</p>
+               <p pn="6">HIS CLEMENCY</p>
+               <p pn="6">He was so long-suffering, so forgiving, "not willing that
 any should perish." The governmental power of pardon was used more
 readily than the governmental power of execution. He sought to
 reprieve, rather than to condemn. Mercy overruled justice. He was the
@@ -277,8 +277,8 @@ him. Tyrant? Yes! as Moses was a tyrant to the Israelites--as David
 was a man of Belial to the cursing Shimei--as Paul was a revolutionist
 to the Ephesians--aye, as Jesus was a wine bibber and a publican to
 Scribes and Pharisees.</p>
-               <p>HIS INTELLECTUAL QUALITIES.</p>
-               <p>In thus analyzing the moral qualities of the President, I
+               <p pn="7">HIS INTELLECTUAL QUALITIES.</p>
+               <p pn="7">In thus analyzing the moral qualities of the President, I
 have touched upon the intellectual characteristics, for moral and
 intellectual, in his nature, interwove their threads as warp and
 woof. His mind was honest as his heart. It received and discerned the
@@ -299,7 +299,7 @@ impatient now say that he wrote soon enough. As upon a flood tide,
 even whose ebb-waves each marked higher upon the measure of his
 influence, did he launch the ballasted vessel, freighted with the
 precious cargo of his thought.</p>
-               <p>The President was remarkable for not attempting to solve
+               <p pn="7">The President was remarkable for not attempting to solve
 problems sooner than Providence demanded. He made time his right hand
 ally, neither wasting nor crowding her; he made no drafts on the
 Future; he lived morally and intellectually, as it were, within his
@@ -315,8 +315,8 @@ Character and Death of Abraham Lincoln.</figDesc>
 his shoulders. Holding himself as the servant of the people, and the
 instrument of the Most High, he waited with docility on the logic of
 events, as unrolling the decrees of God.</p>
-               <p>HIS ST0RIES.</p>
-               <p>To relieve Himself in the midst of labors which could not
+               <p pn="8">HIS ST0RIES.</p>
+               <p pn="8">To relieve Himself in the midst of labors which could not
 stop, he used, with admirable success, a rare gift of humor and
 illustration. He answered manifold applications with as many
 stories. He replied to unsound arguments with jokes which dissolved
@@ -338,7 +338,7 @@ called in old times, as Cromwell, and William of Orange, and
 Washington in modern times, whose calling is seen through the special
 traits with which God endowed them, and the controlling circumstances
 with which Providence invested them?</p>
-               <p>I am not willing to be borne by the occasion beyond the
+               <p pn="8">I am not willing to be borne by the occasion beyond the
 calm judgment of history, and yet I do not hesitate to declare that
 the people yet have not appreciated the greatness of Abraham
 Lincoln. So modest, so unassuming, in manner so unaffected, never
@@ -368,8 +368,8 @@ fallen, that the costliest sacrifice has been laid upon the altar of
 country. He follows the heroes of the war, glorifying each in this
 long line of martyrs to Constitutional Liberty; the greatest, and God
 grant the last!</p>
-               <p>BETWEEN THE OLD AND THE NEW.</p>
-               <p>The character with which Arthur Stanley invests the prophet
+               <p pn="9">BETWEEN THE OLD AND THE NEW.</p>
+               <p pn="9">The character with which Arthur Stanley invests the prophet
 Samuel, we may apply to the President. He was the mediator between the
 old and the new. His two-sided sympathy enabled him to unite the
 passing and the coming epoch, an epoch of surpassing perplexity,
@@ -394,8 +394,8 @@ which is eternal. He might have but little praise from partisans, but
 he was the careful healer, binding up the wounds of the age in spite
 of itself; the good surgeon, knitting together the dislocated bones of
 the disjointed times.</p>
-               <p>SYNOPSIS OF CHARACTER.</p>
-               <p>Sixteen months ago, I used the following language in
+               <p pn="10">SYNOPSIS OF CHARACTER.</p>
+               <p pn="10">Sixteen months ago, I used the following language in
 addressing you, which I repeat, in order to make an important
 addition: "The explanation for the President's every act is this: He
 executes the will of the people; he represents a controlling
@@ -433,10 +433,10 @@ truthfulness, temperance, asking good people to pray for him, and
 publicly acknowledging in events the hand of God; he stands before you
 as the type of 'Brother Jonathan,' a not perfect man, and yet 'more
 precious than fine gold.'"</p>
-               <p>To this statement something should now be added in regard
+               <p pn="11">To this statement something should now be added in regard
 to the President's</p>
-               <p>CHRISTIAN CHARACTER.</p>
-               <p>While experience had cultured his language, style and
+               <p pn="11">CHRISTIAN CHARACTER.</p>
+               <p pn="11">While experience had cultured his language, style and
 manners, so as to supply the defects of early education, it is his
 Christian character which, during the last year, had specially
 unfolded and perfected. Truthfulness had developed into love of Him
@@ -444,7 +444,7 @@ who is the Truth; temperance had become Christian self-control; the
 solicited prayers of the good had been accompanied by his own prayers;
 and the acknowledgment of Providence had ripened into the dedication
 of himself to Jesus.</p>
-               <p>He will never be identified with any one denomination. He
+               <p pn="11">He will never be identified with any one denomination. He
 enlisted the fellowship of all Christians. His convictions betook
 somewhat of every school. He was educated both by Friends and
 Presbyterians. In a profound belief in the sovereignty of God, he was
@@ -459,7 +459,7 @@ by the felt necessities of help from God and by the sorrows of
 Gettysburg, he was led, next, to a Christian consecration, we may
 apply to him the words of the text: "And the angel of the Lord called
 unto Abraham out of heaven <hi rend="italic">the second time</hi>."</p>
-               <p>How, fifty months ago, those parting words to his townsmen touched
+               <p pn="11">How, fifty months ago, those parting words to his townsmen touched
 the sympathies of the country! How the request for prayer
 <pb n="12"/>
                   <figure entity="fowler12">
@@ -470,7 +470,7 @@ roused the Church of Christ! Since, how easy to pray for Abraham
 Lincoln! We do not hesitate to believe that God's answer to the
 prayers thus elicited, have made the President what he was, holding
 him from disastrous blunders, leading him in the path of wisdom.</p>
-               <p>But what progress from this primal request does the second
+               <p pn="12">But what progress from this primal request does the second
 INAUGURAL show. This remarkable state paper is not a political
 manifesto, but a Christian exposition. It is the words of a man of
 God, instructing the people of his charge. It presents the
@@ -480,8 +480,8 @@ the farewell address of the Restorer of the Union. It will be read
 unceasingly, and its Christian doctrine, its ripeness, simplicity,
 pathos and profound sentiment, will make it a sacred Epistle to the
 American people.</p>
-               <p>HIS WORK.</p>
-               <p>Having thus presented his character, we observe that the
+               <p pn="12">HIS WORK.</p>
+               <p pn="12">Having thus presented his character, we observe that the
 President's work was done just as his death came. Posterity will
 regard the emancipation proclamation as the great act of his life, but
 his great work was the saving of the Union. The emancipation
@@ -495,7 +495,7 @@ helper in the enlistment of colored troops. And so the great work went
 on of restoring the Union, until when Lee surrendered, we may say the
 work was done. Whatever else fails, the Union <hi rend="italic">cannot
 be dissolved</hi>.</p>
-               <p>The proposal made in the President's first inaugural, "to
+               <p pn="12">The proposal made in the President's first inaugural, "to
 hold, occupy, and possess the property and places belonging to the
 Government," had been fulfilled; the ports and chief cities of
 Rebellion had surrendered; their armies were scattered, captured, or
@@ -519,8 +519,8 @@ Lieutenant-General. The Secretary of State, our honored townsman, is
 stabbed as he lies helpless upon a bed of pain, his sons and defenders
 are disabled, the Chief of all is slain, and the nation cries out in
 agony!</p>
-               <p>JUSTICE</p>
-               <p>But the cry is not alone of agony. It is also a cry for
+               <p pn="13">JUSTICE</p>
+               <p pn="13">But the cry is not alone of agony. It is also a cry for
 justice. It is uttered not against the miserable, dissolute assassins,
 but against the guilty Power that hies them on. It speaks to that
 conspiracy which includes this and any infernal plot--the gigantic
@@ -581,7 +581,7 @@ slavery!</p>
                   <l>Malice domestic, foreign levy, nothing</l>
                   <l>Can touch him further."</l>
                </lg>
-               <p>There is such a thing as vengeance; I do not advocate it; but is
+               <p pn="14">There is such a thing as vengeance; I do not advocate it; but is
 <pb n="15"/>
                   <figure entity="fowler15">
                      <figDesc>15th page of Henry
@@ -604,9 +604,9 @@ to the last, for those who will murder from behind, when they can no
 longer fight in front--I call upon government to unsheath the sword of
 justice, and I do it in the name of moral law and of Infinite
 Righteousness.</p>
-               <p>But you say, "extermination is impossible."</p>
-               <p>Let us analyze the population of the South.</p>
-               <p>Before the war there were (in round numbers) three hundred
+               <p pn="15">But you say, "extermination is impossible."</p>
+               <p pn="15">Let us analyze the population of the South.</p>
+               <p pn="15">Before the war there were (in round numbers) three hundred
 and fifty thousand oligarchists; one million poor whites, their tools;
 four millions of Africans, their slaves; five millions of
 yeomanry. These last were for the most part persons of industry and
@@ -645,7 +645,7 @@ of social, political, and Christian truth. Abraham Lincoln has led out
 of Egypt, and from Pisgah's top has passed to heaven. "Well done, good
 and faithful servant," sobs the nation! Andrew Johnson will lead us
 into the promised land!</p>
-               <p>We may be called to added sacrifices, but sacrifice has
+               <p pn="16">We may be called to added sacrifices, but sacrifice has
 vicarious power; our children and humanity will reap the
 blessing. God's furnace of affliction may again be hot, but the fire
 will purify and save. If we only win the End, we will bear the

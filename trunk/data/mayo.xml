@@ -40,7 +40,7 @@ Sermons Project</title>
 A. D. The Nation's Sacrifice. Abraham Lincoln.  Two Discourses,
 Delivered on Sunday Morning, April 16, and Wednesday Morning, April
 19, 1865, in the Church of the Redeemer, Cincinnati, Ohio.
-Cincinnati: Robert Clarke &#x0026; Co., 55 West Fourth St. 1865.  </bibl>
+Cincinnati: Robert Clarke &amp; Co., 55 West Fourth St. 1865.  </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -82,7 +82,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="mayo.001" n="The Nation's Sacrifice" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>The Nation's
 Sacrifice</title> 
@@ -93,53 +93,53 @@ Cincinnati, Ohio</pubPlace>
                   <author>Mayo, A. D.</author> 
                   <imprint>
                      <pubPlace>Cincinnati</pubPlace>
-                     <publisher>Robert Clarke &#x0026; Co., 55
+                     <publisher>Robert Clarke &amp; Co., 55
 West Fourth St.</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl>
             </head>
-            <p>
+            <p pn="1">
                <figure entity="mayo1">
                   <figDesc>1st page A. D. Mayo's The Nation's
 Sacrifice. </figDesc>
                </figure>
             </p>
-            <p>THE NATION'S SACRIFICE.</p>
-            <p>ABRAHAM LINCOLN.</p>
-            <p>TWO DISCOURSES,</p>
-            <p>Delivered on Sunday Morning, April 16, and Wednesday <lb/>Morning,
+            <p pn="1">THE NATION'S SACRIFICE.</p>
+            <p pn="1">ABRAHAM LINCOLN.</p>
+            <p pn="1">TWO DISCOURSES,</p>
+            <p pn="1">Delivered on Sunday Morning, April 16, and Wednesday <lb/>Morning,
 April 19, 1865,</p>
-            <p>IN THE</p>
-            <p>CHURCH OF TEE REDEEMER,</p>
-            <p>CINCINNATI, OHIO.</p>
-            <p>By A. D. MAYO, Pastor.</p>
-            <p>CINCINNATI:</p>
-            <p>ROBERT CLARKE &#x0026; CO., 55 WEST FOURTH ST.</p>
-            <p>1865.</p>
+            <p pn="1">IN THE</p>
+            <p pn="1">CHURCH OF TEE REDEEMER,</p>
+            <p pn="1">CINCINNATI, OHIO.</p>
+            <p pn="1">By A. D. MAYO, Pastor.</p>
+            <p pn="1">CINCINNATI:</p>
+            <p pn="1">ROBERT CLARKE &amp; CO., 55 WEST FOURTH ST.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="mayo2">
                   <figDesc>2nd page
 A. D. Mayo's The Nation's Sacrifice. </figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="mayo3">
                   <figDesc>3rd page
 A. D. Mayo's The Nation's Sacrifice. </figDesc>
                </figure>
             </p>
             <div2 id="mayo.002" n="THE NATION'S SACRIFICE." type="sermon">
-               <head>THE NATION'S SACRIFICE.</head>
-               <epigraph>
-                  <p>"Without shedding of blood is no remission."-HEB. ix,
+               <head pn="3">THE NATION'S SACRIFICE.</head>
+               <epigraph pn="3">
+                  <p pn="3">"Without shedding of blood is no remission."-HEB. ix,
 22.</p>
                </epigraph>
-               <p>When God is speaking, who shall open his mouth! He speaks
+               <p pn="3">When God is speaking, who shall open his mouth! He speaks
 to us to-day, and his word is the old voice of inspiration: "<hi rend="italic">Without shedding of b1ood is no remission</hi>.</p>
-               <p>All shedding of blood is by God's permission. Not one act
+               <p pn="3">All shedding of blood is by God's permission. Not one act
 of violence, not one destruction of life, not one drop of human blood
 shed, without his knowledge and consent. For God is infinite love, and
 in His perfect providence all things work together for good. Even the
@@ -148,7 +148,7 @@ Prince of Darkness, and he were master of the universe, are compelled
 to do His sovereign will. <hi rend="italic">He maketh the wrath of man
 to praise him, and the remainder of wrath shall He restrain.</hi>
                </p>
-               <p>Ever since the beginning of the world the friends of
+               <p pn="3">Ever since the beginning of the world the friends of
 falsehood and sin have believed that the right could be put down by
 shedding the blood of the righteous. Cain believed he could destroy
 the true worship of God by slaying Abel, the servant of God. And since
@@ -158,7 +158,7 @@ unrighteousness the world has seen has been crazed by this stupendous
 delusion that the Truth and Justice and Holiness of God Almighty could
 be driven away from the earth by killing the friends of God and
 man.</p>
-               <p>So the world, for four thousand years, has been full of
+               <p pn="3">So the world, for four thousand years, has been full of
 blood. None of it rests upon the hands of the consistent friends of
 God and man, for all they have shed has been in defense of everlasting
 righteousness. It all rests on the souls of the enemies of Truth and
@@ -177,7 +177,7 @@ have they also sent to judgment in blood! How many, in all conditions
 of spiritual life, have they drowned in this bloody sea of wrath! But
 yet, <hi rend="italic">the wrath of ma1l shall praise Him.</hi>
                </p>
-               <p>One would have thought that when the concentrated falsehood
+               <p pn="4">One would have thought that when the concentrated falsehood
 and injustice of the ancient time, wielding the power of the Roman
 Empire, nailed Jesus, Son of God and man, to the bloody cross, that
 the wrath of man had done its worst. And when, out of the shedding of
@@ -189,7 +189,7 @@ impotence of shedding blood to help the wrong. But wicked men do not
 learn such things. And every year since the sacrifice of Christ, the
 violent on earth have been peopling Heaven with martyrs and filling
 all lands with tears and blood.</p>
-               <p>And we have lived to behold what our eyes have seen during
+               <p pn="4">And we have lived to behold what our eyes have seen during
 the last four years, reaching its climax of horrors in that strange
 deed which we can hardly yet believe has happened. We supposed, a few
 years ago, that the vast majority of mankind in civilized lands had
@@ -221,7 +221,7 @@ light, caused the death of more innocent men, affrighted this world
 with more ghastly and singular shapes of horror and wrath, and
 meanness, and cold cruelty, than any one set of wicked men has ever
 yet been able to achieve.</p>
-               <p>Oh, how blind we were, not to see that a class of men who
+               <p pn="5">Oh, how blind we were, not to see that a class of men who
 deliberately began by the blasphemy of God in the systematic
 degradation of his image, man, to a brute, would do any vile or bloody
 thing which human nature could devise. Yet we did not see it for so
@@ -237,7 +237,7 @@ could harm us. We might have known then they were inflicting the worst
 outrages ever conceived on three millions of their unhappy subjects;
 but we said: they are of another race, they are not quite men; and
 went on making them stronger and stronger to slay us.</p>
-               <p>And soon enough they began to shed the blood of our own
+               <p pn="5">And soon enough they began to shed the blood of our own
 proud race, and to do to us all the dreadful things they had done to
 our weaker brother. They began to insult and abuse, and murder our
 people who, among themselves, lifted up their voices against this
@@ -263,7 +263,7 @@ prostitute his learning to the enslavement of mankind; we supposed the
 Senate was an ark of safety, but they came in and half slew the
 foremost of American scholars and philanthropists on the floor of the
 Senate.</p>
-               <p>Yet all this did not open our eyes. Then they tried their
+               <p pn="6">Yet all this did not open our eyes. Then they tried their
 hand on a higher thing, and resolved to drown the nation herself in
 the blood of her freedom-loving citizens. Four years ago last Friday
 they opened war, and for four years they have waged a conflict that
@@ -272,7 +272,7 @@ record of man. They knew that if they would destroy this great
 republic they must wade through oceans of blood, and do such deeds,
 accursed of God and man, as would astonish mankind; but they did not
 hold back.</p>
-               <p>Oh, what things they have done, my friends, during these
+               <p pn="6">Oh, what things they have done, my friends, during these
 years! They have caused to be slain in battle, or to be wounded, or to
 die of sickness, or to be prostrated by anxiety and excitement, and
 the terrible bewilderment of revolution, not less than a million human
@@ -309,7 +309,7 @@ doors. Sons murdering fathers, and brothers their brothers, and
 neighbors shedding one another's blood, even women betraying men to
 the assassin; all these things have become so common that we think of
 them as every day affairs.</p>
-               <p>But in spite of all this they did not prosper. Their cause
+               <p pn="7">But in spite of all this they did not prosper. Their cause
 waxed weaker as their wrath increased. The more freemen they killed
 the more men became freemen. They slaughtered our soldiers, but our
 ranks filled up and stood more firmly. They murdered Union men, but
@@ -323,7 +323,7 @@ blow of divine justice, so that they shall no more be known as a power
 on the earth, while the negro slave marched in, a conqueror and a
 freeman, under the Union, and occupied Richmond and Charleston, the
 Sodom and Gomorroh of their land of blood!</p>
-               <p>And then we thought the end of wrath had come. We said:
+               <p pn="7">And then we thought the end of wrath had come. We said:
 these men must now see that there is no longer any hope in war, they
 know their despotism is dead forever; will they not come in and be our
 brethren once more? I have, during the last two weeks, travelled
@@ -337,7 +337,7 @@ to unite with us in building up the Republic, how gladly would this
 people, on its last great day of rejoicing, have gone out, like the
 Father, and taken the stricken one in to the great feast of love to
 God and man!</p>
-               <p>But no, it was not so to be. Wicked men upon earth always
+               <p pn="7">But no, it was not so to be. Wicked men upon earth always
 go on to the last result, and that result is <hi rend="italic">to slay
 their truest</hi>
                   <pb n="8"/>
@@ -348,7 +348,7 @@ Nation's Sacrifice. </figDesc>
                   <hi rend="italic">friends, and quench their blind rage in the blood of
 the noblest who would die to save them.</hi>
                </p>
-               <p>There were two men in these United States, who were, under
+               <p pn="8">There were two men in these United States, who were, under
 Providence, the most noted representatives of Human Liberty in all the
 land. The elder of the two was the greatest philosophic statesman that
 this or any republic has produced--a man whose vast mind beheld the
@@ -374,7 +374,7 @@ let us only protect Liberty in the Union, and that aristocracy will at
 last come to us to be kept from starvation; and we, of the free
 States, will be obliged to nurse the South back to life like a sick
 child."</p>
-               <p>Among all the statesmen of the world, there was no man who,
+               <p pn="8">Among all the statesmen of the world, there was no man who,
 last Friday at sundown was at once so true a friend to the South, so
 true a friend to Union and Liberty, so firm a believer in the progress
 of man, so willing and eager to receive every repentant enemy of the
@@ -395,11 +395,11 @@ had a vision of the Union so lofty as his--a Union from which even her
 rebellious children should not always be cast out, which should lift
 up the lowliest to liberty, and teach the proudest monarchs on earth
 to rejoice in the prosperity of man?</p>
-               <p>And along with him I always saw his best-beloved son--a
+               <p pn="9">And along with him I always saw his best-beloved son--a
 young man who seemed the perfect embodiment of his father's
 sweetness. He was so good, and simple-hearted and conscientious and
 gentle, that all men loved him as he walked the streets.</p>
-               <p>But there was one other in the land, greater than this
+               <p pn="9">But there was one other in the land, greater than this
 statesman--because manhood is grander than genius, and silent and
 patient power nobler than the most gracious courtesy. ABRAHAM LINCOLN
 was the most faithful representative of the whole people, in public
@@ -443,7 +443,7 @@ wounded to death; the nation ready to start anew on her glorious
 career of power and freedom. Had the deadliest rebel tyrant in all
 America so true a friend in the whole world that day as ABRAHAM
 LINCOLN?</p>
-               <p>So, here was the opportunity for this slave power to fill
+               <p pn="10">So, here was the opportunity for this slave power to fill
 up the measure of its iniquity by striking at the life of the two men,
 of all others, who could have rescued it from its barbarity. And it
 did not hesitate a moment. Alas! the wretch who aimed at the father of
@@ -456,13 +456,13 @@ the assassination of the only men that could save it from perdition!
 May that blameless young man be spared to forgive the poor creature
 that tried to kill him because he would save his sick father's
 life!</p>
-               <p>
+               <p pn="10">
                   <hi rend="italic">And now-what?</hi>
                </p>
-               <p>Nothing new. Only the same old thing that has been going on
+               <p pn="10">Nothing new. Only the same old thing that has been going on
 since the foundation of the world; all known to and approved by the
 Providence that never was beaten by any enemy of God or man.</p>
-               <p>One more martyr to Human Liberty. One more great and good
+               <p pn="10">One more martyr to Human Liberty. One more great and good
 man exalted by bloody death to the most sacred name in this new
 time. Is this a mistake of Providence? We have carelessly babbled that
 we could not choose a great man for President; the people did not know
@@ -481,7 +481,7 @@ The Nation's Sacrifice. </figDesc>
                   </figure>
 under him was there one free people of the United States. Together in
 sainted memory will these men abide.</p>
-               <p>One more warning to the people of the nature of the power
+               <p pn="11">One more warning to the people of the nature of the power
 with which they contend. As long as there is a class in America that
 denies the humanity of man, it will do just what this slave
 aristocracy is now doing--what its leaders still advise it to do. It
@@ -496,7 +496,7 @@ and then invent some new curse to scourge the world. This aristocracy
 has already committed all the crimes that men ever committed before;
 who shall say what hideous and strange enormity may startle us
 tomorrow? It will go on to its death as it has begun.</p>
-               <p>One more solemn announcement--that however merciful God and
+               <p pn="11">One more solemn announcement--that however merciful God and
 good men may be to individual sinners, yet for <hi rend="italic">every
 wicked class and every unrighteous institution there is only eternal
 death</hi>. We may forgive every rebel in the Union of his special
@@ -525,7 +525,7 @@ The Nation's Sacrifice. </figDesc>
                   </figure>
 and meanness, perish, shouting her own motto and epitaph, and the
 world will never behold old Virginia any more.</p>
-               <p>Do you talk of vengeance! Look away across the abyss, to
+               <p pn="12">Do you talk of vengeance! Look away across the abyss, to
 that Southern aristocracy, in its silent torment; look at poor old
 Virginia, and tell me what is left for you to do. We can live with
 LINCOLN away from the earth. <hi rend="italic">But he was the last man
@@ -539,7 +539,7 @@ things are possible to your great energy, hope and love, save this
 one; see what this despotism will do on its way to everlasting
 perdition; henceforth waste no breath in calling to life what God has
 doomed to eternal death.</p>
-               <p>Who shall say the price is too great to pay for such a
+               <p pn="12">Who shall say the price is too great to pay for such a
 revelation from heaven? For now has come in the second era of this
 revolution. The great enemy is destroyed; we wounded him to death, and
 even while dying he clutched the pistol and through the head of our
@@ -552,7 +552,7 @@ era of shaping the people's Republic. He has died to show us just what
 not to do in all the generations of man. What man, by his life and
 death, has decided a question so momentous before? God knows his own
 ways, and has used his servant, our Father, for the best.</p>
-               <p>
+               <p pn="12">
                   <hi rend="italic">Without the shedding of blood is no
 remission</hi>. Our blood has been poured out like water during four
 dreadful years, but all the time has God been lifting us thereby out
@@ -579,12 +579,12 @@ reverence while time endures. By the shedding of this sacred blood,
 our God and Saviour have told us there is remission for all the
 people's sins. Under the Saviour, Christ, shall this nation, through
 its chief of martyrs, be saved.</p>
-               <p>And now, Friends, Countrymen, Christians, what of us?
+               <p pn="13">And now, Friends, Countrymen, Christians, what of us?
 Another true and tried man is President. Let every loyal soul rise up
 and stand to-day like a wall of strength by ANDREW JOHNSON, now, by
 the Providence of God, President of this Republic, regenerated and
 renewed by the sacrifice of bloody war.</p>
-               <p>By this event we are shown that no one man is great enough
+               <p pn="13">By this event we are shown that no one man is great enough
 to do this mighty work before us, neither is any one man
 indispensable. Were every great man to fall to-morrow, there would
 still be left the American People, whose children and servants they
@@ -608,13 +608,13 @@ used to gleam out of those eyes, which assured us that when he did put
 off that great earthy body he would put on the spiritual body of a
 saint in heaven.</p>
                <pb n="14"/>
-               <p>
+               <p pn="14">
                   <figure entity="mayo4">
                      <figDesc>4th page
 A. D. Mayo's The Nation's Sacrifice. </figDesc>
                   </figure>
                </p>
-               <p>Oh, yes, look not down into that bloody grave, but upon
+               <p pn="14">Oh, yes, look not down into that bloody grave, but upon
 these Easter flowers, to-day. Blessed types of that immortal beauty,
 which through all fleeting forms abides forever; let them teach us
 that all we love still lives; that all that is good and true lives;
@@ -629,7 +629,7 @@ may live; with God calling as he calls to-day? Oh, Thou who hast
 called Thy servant home, guide this people, and lead each one of us to
 his place in Thee.</p>
                <pb n="15"/>
-               <p>
+               <p pn="15">
                   <figure entity="mayo15">
                      <figDesc>15th page
 A. D. Mayo's The Nation's Sacrifice. </figDesc>
@@ -637,19 +637,19 @@ A. D. Mayo's The Nation's Sacrifice. </figDesc>
                </p>
             </div2>
             <div2 id="mayo.003" n="ABRAHAM LINCOLN." type="sermon">
-               <head>ABRAHAM LINCOLN.</head>
-               <epigraph>
-                  <p>"The righteous shall be in everlasting
+               <head pn="15">ABRAHAM LINCOLN.</head>
+               <epigraph pn="15">
+                  <p pn="15">"The righteous shall be in everlasting
 remembrance."--Ps. cxii, 6.</p>
                </epigraph>
-               <p>On the night of April 14,1865--the anniversary of the
+               <p pn="15">On the night of April 14,1865--the anniversary of the
 opening of the second American revolution, ABRAHAM LINCOLN, President
 of the United States, was slain by an assassin. Today, on the
 anniversary of the battle of Lexington, which opened the first
 American revolution, also of the first bloodshed of the present war,
 in the streets of Baltimore, the loyal people of the United States
 observe his funeral solemnities.</p>
-               <p>It was a wise thought of the venerable Mr. HUNTER, Acting
+               <p pn="15">It was a wise thought of the venerable Mr. HUNTER, Acting
 Secretary of State, to request the whole people of the Union to
 assemble at the hour of these funeral services, in their churches, for
 never has this people needed the lofty consolations of religion as on
@@ -677,7 +677,7 @@ The Nation's Sacrifice. </figDesc>
 this day have the ear of the people, fail not to declare at once the
 Divine justice against our national sin, and the Divine compassion for
 all who repent of their complicity with it.</p>
-               <p>Last Sunday I counselled my people that this blow is the
+               <p pn="16">Last Sunday I counselled my people that this blow is the
 end of human slavery in this Republic, perhaps in the world; and that
 an aristocracy which had committed the last crime of assassinating its
 truest friends, can have no more hope of life in any world ruled by
@@ -693,7 +693,7 @@ we can hold in our souls a clear and full image of this noble
 American, we shall carry about with us a guide through all the perils
 to come. Let me, then, ask your attention to a discourse on the life
 and character of ABRAHAM LINCOLN.</p>
-               <p>ABRAHAM LINCOLN was born in Hardin County, Kentucky,
+               <p pn="16">ABRAHAM LINCOLN was born in Hardin County, Kentucky,
 February 12, 1809. His paternal ancestors were from Pennsylvania, of
 Quaker connection. They intermarried with Virginia women, and removed
 to Kentucky in 1782, where his grandfather was killed by the Indians,
@@ -704,7 +704,7 @@ forests. For half a century he has plied that axe, till he has hewed
 his way up through the material, social, civil wilderness of our new
 American life, to the millennial day of Universal Liberty, guarded by
 Social Order and the People's Law.</p>
-               <p>For twelve years, till he was nineteen, he toiled in the
+               <p pn="16">For twelve years, till he was nineteen, he toiled in the
 forest, with only one year at school, and then went to New Orleans, as
 a hired hand on a flat-boat. In 1830, at the age of twenty-one, he
 removed to Macon County, Illinois, and, true to his filial duty,
@@ -739,7 +739,7 @@ Illinois, at the age of twenty-five, and re-elected in 1836-38 and
 the age of twenty-seven. He had become a man before he became a
 lawyer, and to that fact we owe, perhaps, the preservation, at once of
 the Constitution and liberty in this Republic.</p>
-               <p>In April, 1837, at the age of twenty-eight, he removed to
+               <p pn="17">In April, 1837, at the age of twenty-eight, he removed to
 Springfield, the capital of Illinois, where he lived twenty-four
 years, till he left it for the capital of the nation, as President of
 the United States. His success in the law was immediate and eminent,
@@ -775,7 +775,7 @@ candidate for the Senate, only to be nominated as candidate for
 President of the United States, in 1860, and in November of that year
 was fairly and triumphantly elected Chief Magistrate of the Republic,
 at the age of fifty-one.</p>
-               <p>And it was no illiterate, obscure, vulgar, county-court
+               <p pn="18">And it was no illiterate, obscure, vulgar, county-court
 pettifogger, that was chosen by the people of the United States to
 this exalted position. Of course the enemies of the Republic, at home
 and abroad, vilified and ridiculed him as they always have hated and
@@ -807,12 +807,12 @@ The Nation's Sacrifice. </figDesc>
 public and private to be a stanch friend of universal freedom. And
 better than this, he had lived through the toils and temptations of a
 new country, and come out at fifty a pure, honest, religious man.</p>
-               <p>I remember seeing his portrait presented by himself to a
+               <p pn="19">I remember seeing his portrait presented by himself to a
 worthy old woman in Kentucky, after he became President, with the
 touching inscription, in his own hand: "<hi rend="italic">In remembrance
 of a Bible presented to me twenty years ago by your pious
 hands</hi>."</p>
-               <p>He was a man in whom the people had learned to confide; and
+               <p pn="19">He was a man in whom the people had learned to confide; and
 experience has proved that in the long run, the people can be trusted
 to select their rulers. Like the people, in all ages, his nature was
 slow, many-sided, often obscure and apparently contradictory in its
@@ -821,7 +821,7 @@ for truth, ever opening into unexpected developments of power,
 adequate for; all emergencies, created to separate wrong from right,
 and plant justice and liberty on foundations as enduring as the human
 race.</p>
-               <p>He rose at once to the exigency of the hour. The slave
+               <p pn="19">He rose at once to the exigency of the hour. The slave
 aristocracy, far more penetrating than the people, knew Abraham
 Lincoln for their most formidable enemy, and revolted in fury when his
 election was announced. For four dismal months had the work of
@@ -833,7 +833,7 @@ own existence. Already had the dread decree gone forth among the
 nations, that the Union was forever gone. The North was distracted
 only less than the border States, all of which were on the eve of
 revolution.</p>
-               <p>At this gloomy hour Abraham Lincoln began his journey, on
+               <p pn="19">At this gloomy hour Abraham Lincoln began his journey, on
 February 1l, 1861, from Springfield, Illinois, to the national
 capital. To his friends, at parting, he said: "A duty devolves upon
 me, which is perhaps greater than that which has devolved upon any
@@ -850,13 +850,13 @@ The Nation's Sacrifice. </figDesc>
                   </figure>
 vine assistance, without which I cannot succeed, but with which
 success is certain."</p>
-               <p>He journeyed slowly, visiting the principal cities of
+               <p pn="20">He journeyed slowly, visiting the principal cities of
 Indiana, Ohio and the Middle States, on his way, and speaking brief
 words of wisdom and conciliation to the people. We thought those
 little, homely, rugged speeches, unworthy then, but now we see the
 admirable judgment that managed to say nothing when nothing ought to
 be said, and to deliver great principles in the most familiar way.</p>
-               <p>Three ideas appeared prominent through all the public and
+               <p pn="20">Three ideas appeared prominent through all the public and
 private addresses of this journey:  First, that salvation could come
 to the Republic from no man, but only from Almighty God and the
 American people; second, that the Union was not a "free love"
@@ -875,7 +875,7 @@ I would rather be assassinated on this spot than surrender it!</hi>"
 Noble man!  Thou hast fallen by the assassin's hand; but not till that
 old bell on Independence Hall has pealed out, <hi rend="italic">"Liberty
 through all the land!</hi>"</p>
-               <p>On this journey, at Albany, N. Y., I first saw
+               <p pn="20">On this journey, at Albany, N. Y., I first saw
 Mr. Lincoln. I saw him three times in one day--first, in the morning,
 in the hall of Representatives, where he delivered a few gracious
 words to the assembled Legislature. I remarked chiefly during his
@@ -900,12 +900,12 @@ standing on the grass before a hospital, in the suburbs, shaking hands
 with a long line of invalid soldiers, and talking like a father to his
 sons. From the hour I first saw him I believed him the man he has
 become.</p>
-               <p>He was wise enough to avoid assassination before his work
+               <p pn="21">He was wise enough to avoid assassination before his work
 was begun, and went to the capital in disguise. On the 4th of March,
 1861, with an imposing military and civic display, amid universal
 apprehension of danger, he was inaugurated sixteenth President of the
 United States.</p>
-               <p>It is not my purpose to follow Mr. Lincoln through the four
+               <p pn="21">It is not my purpose to follow Mr. Lincoln through the four
 years of his administration, or attempt any partizan advocacy of the
 civil or military policy of the Government under his lead. I know that
 policy has been contested honestly as well as dishonestly, often by
@@ -914,7 +914,7 @@ arrived at the historical point whence an impartial estimate can be
 made of its most important phases. But I may call attention to the
 great distinctive features by which it will be estimated in future
 times.</p>
-               <p>The first characteristic feature of his administration was
+               <p pn="21">The first characteristic feature of his administration was
 his conviction that he was cast in a Providential crisis of human
 affairs, and could be only a humble agent of God in a mighty work of
 regeneration to the Republic. No man in the Union had, from the first,
@@ -941,7 +941,7 @@ drama, and helping the American people keep step with the progress of
 Providential events. Nobody can understand this four years of his life
 at all who does not regard the solemn sense of being an agent of God
 in a great work as the back-ground of his whole policy.</p>
-               <p>The second characteristic feature of his policy was his
+               <p pn="22">The second characteristic feature of his policy was his
 great and unaffected faith in the loyal American people, and his
 belief that they were being led by God to a glorious end which they
 did not yet apprehend. He saw that while the slave aristocracy was
@@ -960,14 +960,14 @@ to wage war with a divided mind, on an enemy that knew just what he
 wanted, and never wavered in its support. If the result was not
 satisfactory, the fault was no imbecility in the Executive arm, but
 uncertainty in the popular mind, which was the source of all power.</p>
-               <p>It is only by referring to these two central ideas of
+               <p pn="22">It is only by referring to these two central ideas of
 Mr. Lincoln's policy, that any fair estimate can be made of much that
 has been called weak and vacillating, by those who only looked on the
 surface of events. And these ideas do light up the whole course of
 that administration which, beginning in apparent uncertainty, has gone
 on, like the operations of nature, to its present magnificent
 success.</p>
-               <p>It is often asked, why did he not, at his inauguration,
+               <p pn="22">It is often asked, why did he not, at his inauguration,
 call the loyal people to arms against a treason already consummated?
 Because the people were not then ready to fight; but full half the
 community believed war could be averted by compromise. Why, then, did
@@ -977,13 +977,13 @@ oligarchy. He waited till popular conviction demanded war, and then
 compelled the aristocracy to open the conflict in the most aggravating
 way.</p>
                <pb n="23"/>
-               <p>
+               <p pn="23">
                   <figure entity="mayo23">
                      <figDesc>23rd page
 A. D. Mayo's The Nation's Sacrifice. </figDesc>
                   </figure>
                </p>
-               <p>Why, then, did he not call out a million men, and crush the
+               <p pn="23">Why, then, did he not call out a million men, and crush the
 enemy at once? Because the call for any such large number of soldiers
 would have astonished and divided the people, while the call that was
 made powerfully stimulated their patriotism. He determined that the
@@ -994,7 +994,7 @@ master. While, therefore, during the first year of the war, he was
 often accused of holding the people back, he always subtly and
 powerfully stimulated the public zeal, and never waited to be called
 twice to do a necessary thing.</p>
-               <p>Why did he appoint to the command of our largest armies,
+               <p pn="23">Why did he appoint to the command of our largest armies,
 Generals who were either incompetent or unwilling to destroy the rebel
 hosts? and why did he retain them long after a large portion of the
 people lost confidence in them? Because he knew that the military and
@@ -1020,7 +1020,7 @@ point. He had aided the people to disentangle themselves from a purely
 peaceful civilization, and in four years become one of the most
 formidable military and naval powers on the globe. And history will
 say, never was a great people so greatly led.</p>
-               <p>Why did he not choose better men for office? The proof of
+               <p pn="23">Why did he not choose better men for office? The proof of
 his administration is before you. You may or may not think
 <pb n="24"/>
                   <figure entity="mayo24">
@@ -1040,7 +1040,7 @@ been among statesmen, and however inconsistent they may have thought
 his course. There were never in public office in America, so many able
 and patriotic men as now and they were all the friends and sincere
 mourners of the people's President, who was the best of them all.</p>
-               <p>Why did he show such a spirit of conciliation to border
+               <p pn="24">Why did he show such a spirit of conciliation to border
 States, to enemies abroad, to foes in the loyal States? Because he
 knew that no man loves you so much as a regenerated enemy. Because he
 often did thereby change the country's enemies to its friends. Because
@@ -1055,7 +1055,7 @@ Mr. Lincoln believed the Union was to stand and be a Union for
 Liberty, and he wisely believed the less of wrath the people had to
 forget the easier it would be, in the great day of reconstruction, to
 close up in a fellowship that should endure.</p>
-               <p>Why did he wait so long, almost two years, before he struck
+               <p pn="24">Why did he wait so long, almost two years, before he struck
 the decisive blow at slavery which has gained us the victory of arms
 while it has saved us a free Republic? Because the people, even in
 January, 1863, were hardly prepared for so great a challenge. Consider
@@ -1082,7 +1082,7 @@ the Constitution that abolishes that pest forever. Is not this a
 success; to destroy such a huge and terrible power in five years; and
 will not the man who helped the people do it be called by all the holy
 names that mankind gives to its benefactors?</p>
-               <p>I believe history will pronounce Abraham Lincoln's
+               <p pn="25">I believe history will pronounce Abraham Lincoln's
 administration of our Government a triumphant success. The wisest
 friends of the people abroad so declare it now; the wisest men in
 America have been growing into this conviction month by month, and the
@@ -1108,7 +1108,7 @@ like Socrates, like William of Orange, like Hampden; should be one of
 the glorious army whose Leader died on the cross, than to die as a
 worn-out statesman? He died when his work was done. In his death the
 nation has newness of life.</p>
-               <p>Abraham Lincoln has often been contrasted with Cromwell,
+               <p pn="25">Abraham Lincoln has often been contrasted with Cromwell,
 <pb n="26"/>
                   <figure entity="mayo26">
                      <figDesc>26th page A. D. Mayo's
@@ -1131,7 +1131,7 @@ his confederacy? Nothing, but get out of it as fast as steam or
 horse-flesh can carry him. Only a profound ignorance of the character
 of our people and the nature of our institutions would look for a
 leader of this character in a revolution like the present.</p>
-               <p>But he was a leader in the people's new and improved
+               <p pn="26">But he was a leader in the people's new and improved
 meaning of that word. His was a vast soul all attuned to receive the
 noblest inspiration of a great nation's life; apt to reconcile,
 comprehend, combine, suggest, secure all that can be gained, strive
@@ -1148,7 +1148,7 @@ feuds, reconciled their quarrels, inspired them and the soldiers with
 increased devotion to the cause, and left us, at the end of a four
 years' war, with less danger of a military despotism than when it
 began?</p>
-               <p>Many a great statesman thinks himself and his clique have
+               <p pn="26">Many a great statesman thinks himself and his clique have
 saved the country! But who has kept all these statesmen up to their
 duty, set them an example of self-sacrifice, purity of life,
 catholicity, patience, love of truth and justice? Who has cheer-
@@ -1165,7 +1165,7 @@ their relation to the President as we see groups of men in the
 photograph standing about the trunk of the great California tree. He
 surpassed them all in that massive manhood which is a perfect tower of
 strength in days like these.</p>
-               <p>And though the people may claim that they have done this
+               <p pn="27">And though the people may claim that they have done this
 great thing under God Almighty, yet had God denied them such a father
 on earth as Abraham Lincoln, I fear they would have gone on their way
 many years yet in the wilderness before they saw the promised
@@ -1178,7 +1178,7 @@ to come when the children of the rebellious South will bless him who
 subdued them without ignominy; who blasted all their wild and wicked
 hopes, yet thereby raised them to the possibility of a new
 civilization.</p>
-               <p>Do you talk of such a man as simply "amiable,"
+               <p pn="27">Do you talk of such a man as simply "amiable,"
 "goodhearted," "honest?" He was gifted with the rarest kind of
 greatness known in this world. He was a great, religious,
 philanthropic, reasonable soul, silently attracting all men to a vast
@@ -1193,7 +1193,7 @@ perpetuate the liberty and welfare of all men. He can wait for that
 nation, in some hour of its future glory, to understand fully what he
 was, and how he toiled, and how weary he became and how he died that
 it might live.</p>
-               <p>And of all the rulers of mankind, from the earliest to the
+               <p pn="27">And of all the rulers of mankind, from the earliest to the
 latest times, who has lived a purer, more blameless life than he? He
 is only called a tyrant by the assassins who, failing to shoot the
 republic to death, wreaked their vengence on his wearied
@@ -1206,7 +1206,7 @@ brain. But who can lay his hand on his heart and accuse him of wilful
 wrong? I have heard him ridiculed in certain quarters for lack of good
 manners. Edward Everett said he was the peer of the noblest
 representatives of the oldest courts of Europe.</p>
-               <p>He has been called to order for his humor and love of
+               <p pn="28">He has been called to order for his humor and love of
 homely story telling. It was almost his only amusement; and if any
 prince, king, emperor, or president has had a more innocent way of
 amusing himself than Mr. Lincoln's "little stories " I have not read
@@ -1218,7 +1218,7 @@ such a lofty, grave, deep, faithful soul for that playful humor that
 made him beloved by every child that could reach up and catch his hand
 as he walked the streets, and saved his powers from premature
 collapse.</p>
-               <p>And the grandest thing of all is he has led us up to the
+               <p pn="28">And the grandest thing of all is he has led us up to the
 point where we can live without him. Why, in this hour of universal
 mourning, when the tears of millions flow, is the heart of the nation
 assured and hopeful? Why does commerce hold her sensitive scales
@@ -1230,12 +1230,12 @@ united the loyal North. Let that North not give way now to the voice
 of wrath and pagan vengeance, but live and act in his lofty spirit,
 and all men in this broad land shall finally gather about his feet in
 unity.</p>
-               <p>Far in the East lies the grave of George Washington, which
+               <p pn="28">Far in the East lies the grave of George Washington, which
 no sound of war has disturbed. That turf is hallowed ground. To all
 those thousands who have fought along the Potomac, the Rappahannock
 and the James, his has been the one remaining honored name--Father of
 his Country.</p>
-               <p>In the far West, to-day we build the tomb of Abraham
+               <p pn="28">In the far West, to-day we build the tomb of Abraham
 Lincoln. We bury him now as Washington was buried, with thousands of
 enemies. But time will abolish them all, and year by year the prairies
 will be thronged by pilgrims to his resting place, till all know him

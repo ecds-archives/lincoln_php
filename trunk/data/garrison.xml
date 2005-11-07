@@ -74,7 +74,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="garrison.001" n="The Teachings of the Crisis" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>The Teachings
 of the Crisis</title> 
@@ -90,36 +90,36 @@ S. Chew, at the Office of the "West Jersey Press"</publisher>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="garrison1">
                   <figDesc>1st page of
 Rev. J. F. Garrison's The Teachings of the
 Crisis.</figDesc>
                </figure>
             </p>
-            <p>The Teachings of the Crisis.</p>
-            <p>ADDRESS</p>
-            <p>DELIVERED IN</p>
-            <p>ST. PAUL'S CHURCH, CAMDEN, N.J.,</p>
-            <p>THE FUNERAL</p>
-            <p>OF</p>
-            <p>ABRAHAM LINCOLN,</p>
-            <p>April 19, 1865,</p>
-            <p>REV. J. F. GARRISON, M. D.</p>
-            <p>PUBLISED BY REQUEST</p>
-            <p>CAMDEN, N.J.:</p>
-            <p>PRINTED BY S. CHEW, AT THE OFFICE OF THE "WEST
+            <p pn="1">The Teachings of the Crisis.</p>
+            <p pn="1">ADDRESS</p>
+            <p pn="1">DELIVERED IN</p>
+            <p pn="1">ST. PAUL'S CHURCH, CAMDEN, N.J.,</p>
+            <p pn="1">THE FUNERAL</p>
+            <p pn="1">OF</p>
+            <p pn="1">ABRAHAM LINCOLN,</p>
+            <p pn="1">April 19, 1865,</p>
+            <p pn="1">REV. J. F. GARRISON, M. D.</p>
+            <p pn="1">PUBLISED BY REQUEST</p>
+            <p pn="1">CAMDEN, N.J.:</p>
+            <p pn="1">PRINTED BY S. CHEW, AT THE OFFICE OF THE "WEST
 JERSEY PRESS."</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="garrison2">
                   <figDesc>2nd page of
 Rev. J. F. Garrison's The Teachings of the
 Crisis.</figDesc>
                </figure>
             </p>
-            <p>
+            <p pn="2">
                <hi rend="italic">"With malice towards none, with charity for
 all, with firmness in the right as God gives us to see the right, let
 us strive on to finish the work we are in, to bind up the Nation's
@@ -129,7 +129,7 @@ lasting peace among ourselves and with all Nations." [From Abraham
 Lincoln's Second Inaugural.]</hi>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="garrison3">
                   <figDesc>3rd page of
 Rev. J. F. Garrison's The Teachings of the
@@ -137,22 +137,22 @@ Crisis.</figDesc>
                </figure>
             </p>
             <pb n="4"/>
-            <p>
+            <p pn="4">
                <figure entity="garrison4">
                   <figDesc>4th page of
 Rev. J. F. Garrison's The Teachings of the
 Crisis.</figDesc>
                </figure>
             </p>
-            <p>ST. PAUL'S CHURCH,
+            <p pn="4">ST. PAUL'S CHURCH,
 CAMDEN, APRIL 20, 1865.</p>
-            <p>REV. J. F. GARRISON,</p>
-            <p>DEAR SIR:--The subscribers, members of the
+            <p pn="4">REV. J. F. GARRISON,</p>
+            <p pn="4">DEAR SIR:--The subscribers, members of the
 Vestry and others, listened with great satisfaction to the sermon
 preached by you on the occasion of the funeral services on the death
 of President LINCOLN. We but give expression to a general wish for a
 wider circulation of this sermon, in asking a copy for publication.</p>
-            <p>O.H. TAYLOR,			CHAS. P. STRATTON,
+            <p pn="4">O.H. TAYLOR,			CHAS. P. STRATTON,
 		<lb/>T.P. CARPENTER,			W.D. COOPER,
 		<lb/>ROBT. B. POTTS,			HENRY ACKLEY,
 		<lb/>P.J. GRAY,				H. GENET
@@ -164,23 +164,23 @@ J.V. TROTH,				JNO. R. STEVENSON, <lb/>MAURICE
 BROWNING,			CLINTON M. ACKERMAN,<lb/>
 GEO. S. WARDWELL,			F.B. ODENHEIMER,<lb/>
 WM. E. LAFFERTY,			S.C. HARBERT.</p>
-            <p>CAMDEN,
+            <p pn="4">CAMDEN,
 APRIL 21, 1865.</p>
-            <p>GENTLEMEN:--Your favor of the 20th inst., requesting the
+            <p pn="4">GENTLEMEN:--Your favor of the 20th inst., requesting the
 publication of the address delivered on the occasion of the funeral
 service of President LINCLON, is before me.</p>
-            <p>Hoping that it may be useful, at this great crisis, in what
+            <p pn="4">Hoping that it may be useful, at this great crisis, in what
 I believe to be the cause of "God and our Country," I place the
 manuscript which you request, at your disposal.</p>
-            <p>Very Respectfully Yours,</p>
-            <p>J.F. GARRISON.</p>
-            <p>Messrs. O.H. TAYLOR,
+            <p pn="4">Very Respectfully Yours,</p>
+            <p pn="4">J.F. GARRISON.</p>
+            <p pn="4">Messrs. O.H. TAYLOR,
   <lb/>T.P. CARPENTER,
 	  <lb/>R B. POTTS,
 	  <lb/>S.H. GREY,
-	  <lb/>WM. D. COOPER, &#x0026;C., &#x0026;C.</p>
+	  <lb/>WM. D. COOPER, &amp;C., &amp;C.</p>
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="garrison5">
                   <figDesc>5th page of
 Rev. J. F. Garrison's The Teachings of the
@@ -188,12 +188,12 @@ Crisis.</figDesc>
                </figure>
             </p>
             <div2 id="garrison.002" n="The Teachings of the Crisis" type="sermon">
-               <head>The Teachings of the Crisis.</head>
-               <epigraph>
-                  <p>HEBREWS XI: 6.</p>
-                  <p>"HE BEING DEAD YET SPEAKETH."</p>
+               <head pn="5">The Teachings of the Crisis.</head>
+               <epigraph pn="5">
+                  <p pn="5">HEBREWS XI: 6.</p>
+                  <p pn="5">"HE BEING DEAD YET SPEAKETH."</p>
                </epigraph>
-               <p>A nation is to-day assembled for a funeral. And never, save when
+               <p pn="5">A nation is to-day assembled for a funeral. And never, save when
 God himself laid Moses in the valley of Beth-Peor, had mortal man so
 grand a burial. There have been larger piles of stone heaped up than
 we shall rear for our murdered President; there may have been more of
@@ -224,7 +224,7 @@ as a mere looker-on, to share the mourning of a stricken few; the
 nation is itself the mourner. It mourns the man; it mourns the
 President; men feel it as an individual sorrow, as well as a national
 calamity; and they have reason to do both.</p>
-               <p>Called to the Presidential Chair at the most momentous
+               <p pn="6">Called to the Presidential Chair at the most momentous
 crisis in the history of the country, ABRAHAM LINCOLN had a task
 entrusted to his charge, such as God has seldom given to the lot of
 man. He found the nation tottering on the verge of anarchy and
@@ -251,7 +251,7 @@ storm!--who that lived through it, ever can forget that fearful
 morning, when the news, thrilled through the land from Sumter, that
 traitor hands had plunged the nation into the fiery hell of civil
 war?</p>
-               <p>How eagerly, how achingly, doubtingly, almost despairingly,
+               <p pn="7">How eagerly, how achingly, doubtingly, almost despairingly,
 all eyes were turned toward the President. Would he be equal to the
 emergency? Had he the nerve? The wisdom? Was he, untried and
 inexperienced, the man to guide the nation in this hour of peril? It
@@ -264,7 +264,7 @@ that this was the spoken impress of his real nature: "Having thus
 chosen our course, without guile, and with pure purpose, let us renew
 our trust in God, and go forward, without fear, and with manly
 hearts."</p>
-               <p>On the fierce conflict raged, and he did "go forward." He
+               <p pn="7">On the fierce conflict raged, and he did "go forward." He
 had to prepare an army, to fill a treasury, to create a navy, to hold
 down factious malcontents at home, to ward off threatened intervention
 from abroad, to build up credit when everything seemed crumbling into
@@ -293,7 +293,7 @@ broken or surrendered before their serried columns. What enemies had
 long pronounced impossible, was gradually done; what half, or whole
 sympathizers with the rebels, had tauntingly paraded with derisive
 jeers, as hopeless barriers, were swept or worn away.</p>
-               <p>And although, on many points of governmental policy there
+               <p pn="8">And although, on many points of governmental policy there
 were wide differences of opinion, although, as must ever be the case
 where so many and so complicated questions are at issue, his
 principles of constitutional interpretation were disputed, yet day by
@@ -317,7 +317,7 @@ among that higher, chosen few, who are deemed worthy to be martyrs for
 the cause of right. It robs him of a few short years of troubled
 life. It consecrates him to the never-dying reverence of a nation's
 loving honor.</p>
-               <p>But great as was the work performed by ABRAHAM LINCOLN in
+               <p pn="9">But great as was the work performed by ABRAHAM LINCOLN in
 the deliverance of this nation from the threatened danger of its
 anarchy and ruin, his place in history will not be bounded by the
 narrow limits of one nation's gratitude; his name will mark,
@@ -327,12 +327,12 @@ providential leadings of the race of man. Two facts in human history
 are linked inseparably, with the name and work of ABRAHAM LINCOLN, and
 by them "He being dead yet speaketh." The first was demonstrated by
 his life; the second was established in his death.</p>
-               <p>I. The history of this country under the Administration of
+               <p pn="9">I. The history of this country under the Administration of
 Mr. Lincoln, has demonstrated beyond reasonable cavil, the capacity
 and fitness of a people for self-government. This was the problem
 given our nation to decide; so we have understood it; so has it been
 understood, and canvassed by the world without.</p>
-               <p>Those who desired that Governments should be administered
+               <p pn="9">Those who desired that Governments should be administered
 for the blessing of the people, and not for the maintaining of a
 caste, have looked to us to show the world that this was possible, and
 was actually done; the burdened and starving masses who have groaned
@@ -351,7 +351,7 @@ world on the acknowledged principle,</p>
                   <l>"Thus it hath been, shall be, beneath the Sun,</l>
                   <l>The many still must labor for the One."</l>
                </lg>
-               <p>They too looked here and hoped--but hoped that all our mighty work
+               <p pn="10">They too looked here and hoped--but hoped that all our mighty work
 for man would fail, that we should soon dissolve in anarchy, or
 degenerate into despotism, have prophesied what they desired, and
 prayed to have their prophecies fulfilled, have loathed our very name
@@ -369,7 +369,7 @@ conclusive answer, "The great Republic of your admiration, is a vile
 abortion, "henceforth remember, that we rule by right divine, and
 "learn to suffer, and be silent." Thus, upon every hand, the problem
 was distinctly recognized, and our work was set.</p>
-               <p>In our long years of peace, there was but little to decide
+               <p pn="10">In our long years of peace, there was but little to decide
 the question; "you have not yet," we were continually
 <pb n="11"/>
                   <figure entity="garrison11">
@@ -388,7 +388,7 @@ impossibility." We hardly dared to trust an answer, where there were
 so many, and so real dangers threatened, our hope was mainly, that our
 place, and territorial relations would never give us the occasion to
 bring them to the trial.</p>
-               <p>But our work was to decide the problem. God does not raise
+               <p pn="11">But our work was to decide the problem. God does not raise
 up great nations without a purpose in the course of history; each has
 its contribution to bestow, in the grand work of God for the advancing
 education, and elevation of the race of man. And the capacity of a
@@ -401,7 +401,7 @@ of that awful testing!--we do not wonder that the world prepared our
 epitaph, and taunted us with our doom. But God had not held out the
 cup of promised blessing to the people of the earth, to dash it down
 in mockery.</p>
-               <p>The very fearfulness of our trial was only to make its
+               <p pn="11">The very fearfulness of our trial was only to make its
 triumph all the more apparent. The storm was met, our Government was
 not a paltering inability, the loyal people
 <pb n="12"/>
@@ -422,7 +422,7 @@ the silent majesty of a bloodless ballot-box--"So help us God we
 will." It was sublime! History has no such scene! The trial had been
 fearful, but the triumph was complete. A people could be free, and a
 free people could maintain their own self-government.</p>
-               <p>And yet, there are those, so blind to the true stake at
+               <p pn="12">And yet, there are those, so blind to the true stake at
 issue, that they see nothing ennobling or inspiring to humanity in all
 this, who say there is no patriotism in our country now, that all this
 is nothing, and means nothing but mere party politics, that all this
@@ -444,7 +444,7 @@ in any age, portray a higher, purer love of country or a more glorious
 spirit of self-sacrifice, than fill the records of our country, in
 this its noble struggle for its own existence, and the universal good
 of man.</p>
-               <p>The living instinct of the people felt the true import of
+               <p pn="13">The living instinct of the people felt the true import of
 the crisis, and with a zeal and patriotic fervor which esteemed no
 price too great, for the immeasurable interests at stake, they bore,
 and carried through, the contest. And we may now feel, although we
@@ -467,7 +467,7 @@ population of twenty millions there are every year, from eight hundred
 thousand, to nearly a million and a half of paupers, an average of one
 individual in every twenty of the entire nation, named upon its poor
 list.</p>
-               <p>We have indeed, our sins and crimes, and in the present
+               <p pn="13">We have indeed, our sins and crimes, and in the present
 <pb n="14"/>
                   <figure entity="garrison14">
                      <figDesc>14th page of
@@ -485,7 +485,7 @@ citizen, so worthy to be honored, as that of "an American"
 to-day. Rome claimed her greatness in making millions, slaves, and
 tributaries: America is great, in  witnessing through blood and agony,
 that man, as man, is able to be free.</p>
-               <p>The second fact linked with the name of ABRAHAM LINCOLN,
+               <p pn="14">The second fact linked with the name of ABRAHAM LINCOLN,
 and by which "he being dead yet speaketh," was established in his
 death. And this is, that slavery no longer shall retain a place among
 the institutions of a civilized community. There was, from the
@@ -507,7 +507,7 @@ Rev. J. F. Garrison's The Teachings of the Crisis.</figDesc>
 "liberty, and the pursuit of happiness"--self-evident," our
 Revolutionary Fathers thought them, not needing proof, too plain to
 ask an argument, only to be named, to be acknowledged.</p>
-               <p>No wonder, that the observance of the Fourth of July as a
+               <p pn="15">No wonder, that the observance of the Fourth of July as a
 national festivity had, a few years ago, well nigh died out, when we
 not only held four millions men as slaves, legislated for them as mere
 legal chattels, bought, sold, worked and beat them as we did our
@@ -518,7 +518,7 @@ and feared to talk of liberty, lest it might wake an echo in the bosom
 of a slave. What a comment on our national consistency and truth! we
 were a living lie, and either our principle or our practice would,
 soon or late, one or the other have to be abandoned.</p>
-               <p>And yet, although so flagrantly in contradiction to all
+               <p pn="15">And yet, although so flagrantly in contradiction to all
 that our Fathers held as true and right, because they had from motives
 of political expediency, given slavery the protection of the
 government, in certain of its features, the Christian sentiment, and
@@ -549,10 +549,10 @@ the vital principle, and chief corner stone--"The first" says its most
 distinguished advocate "the world has ever seen, in which this was
 avowed"--and in this he was right; it was the first, and it will be
 the last.</p>
-               <p>To carry out this hideous purpose, it arrayed itself
+               <p pn="16">To carry out this hideous purpose, it arrayed itself
 against the Government in armed rebellion; and at Fort Sumter threw
 down the gauntlet of defiance.</p>
-               <p>In this first act of mad revolt, it sealed its own
+               <p pn="16">In this first act of mad revolt, it sealed its own
 destruction; and then and there we date its fatal wound, and the
 beginning of the deliverance of the nation from its curse and
 ignominy. But it was to be borne with yet awhile, that it might fill
@@ -577,13 +577,13 @@ destruction was officially decreed, still, many who desired its ruin
 wavered, hesitated, would rather have borne on, and trusted to the
 action of less stringent measures to work out the final
 consummation.</p>
-               <p>It starved our captive soldiers, inch by inch, and day by
+               <p pn="17">It starved our captive soldiers, inch by inch, and day by
 day, thousands on thousands, wasting them to haggard skeletons, and
 pining them to death in hopeless agony, with a brutality which has no
 parallel upon so large a scale, in all the sickening records of
 earth's mocking cruelty; and still we felt to it, and dealt to it a
 mercy it had never shown to others.</p>
-               <p>But when its spirit fired the brain of an assassin, to plan
+               <p pn="17">But when its spirit fired the brain of an assassin, to plan
 with fanatic deliberation, and execute with fiendish calmness, the
 murder of the nation's president, infused the vengeful hate, which
 sought by dying fraud the chamber of a wounded, well-nigh dying
@@ -598,14 +598,14 @@ partially effected, was sealed and established in his dying, as
 clearly as the doom of Babylon was written, by the hand of God, upon
 the palace of Belshazzar.</p>
                <pb n="18"/>
-               <p>
+               <p pn="18">
                   <figure entity="garrison18">
                      <figDesc>18th page
 of Rev. J. F. Garrison's The Teachings of the
 Crisis.</figDesc>
                   </figure>
                </p>
-               <p>Such we believe to be the two great facts, one demonstrated
+               <p pn="18">Such we believe to be the two great facts, one demonstrated
 in the life and the other established by the death of ABRAHAM
 LINCOLN. And none, since the Reformation made man's conscience free,
 and purified religion, will for a moment bear comparison in actual
@@ -620,12 +620,12 @@ back to read the ways of God in history, the name of ABRAHAM LINCOLN
 will forever stand among the high historic landmarks of the race, to
 give undying witness to the precious truths for which our people
 struggled and for which he died. </p>
-               <p>We turn now in conclusion, for a moment, from this broader
+               <p pn="18">We turn now in conclusion, for a moment, from this broader
 field of national, and universal history, to note some of the lessons,
 which this solemn time should teach ourselves, as individuals. We name
 but two, one suggested by the nature of our government; the other by
 the event which has assembled us together.</p>
-               <p>I. If we are to continue as a free people, it can be only
+               <p pn="18">I. If we are to continue as a free people, it can be only
 as a moral, and religious people. The government of a free people
 must, of necessity, be the expression of the prevailing principles and
 character of those it represents. If our citizens are in any large
@@ -658,7 +658,7 @@ a christian life displaying those pure, and holy principles, which at
 the same time are the truest ornament of manhood, the highest duty of
 the citizen, and the most vital need of their own present and eternal
 being.</p>
-               <p>II. "God's ways are not as our ways." In the presence of
+               <p pn="19">II. "God's ways are not as our ways." In the presence of
 his judgments we can only stand in wondering silence, and sob, "Thy
 will be done." In such dark hours, we feel the need of faith; and
 faith is our only comfort; the wisest man, at such a time, is only</p>
@@ -668,14 +668,14 @@ faith is our only comfort; the wisest man, at such a time, is only</p>
                   <l>And with no language but a cry."</l>
                </lg>
                <pb n="20"/>
-               <p>
+               <p pn="20">
                   <figure entity="garrison20">
                      <figDesc>20th page
 of Rev. J. F. Garrison's The Teachings of the
 Crisis.</figDesc>
                   </figure>
                </p>
-               <p>All our hope is trust in God, belief that he is wise and
+               <p pn="20">All our hope is trust in God, belief that he is wise and
 good, and "doeth all things well." And though we may not see his
 plans, and cannot read his purposes, yet if we trust his love,--we
 know that,</p>
@@ -683,7 +683,7 @@ know that,</p>
                   <l>"Somehow good</l>
                   <l>Will be the final goal of ill "--</l>
                </lg>
-               <p>and in the darkness of our ignorance, we only draw more closely to
+               <p pn="20">and in the darkness of our ignorance, we only draw more closely to
 his side, and rest more firmly on the comfort of his promises. Thus
 would we feel, and thus would we have you all feel to-day; and as we
 go abroad again, from these sad scenes, to mingle in the busy crowd of

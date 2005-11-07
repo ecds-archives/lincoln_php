@@ -38,7 +38,7 @@ Sermons Project</title>
 Rev. Robert F. The Curtained Throne: A Sermon, Suggested by the Death
 of President Lincoln. Preached in the Presbyterian Church of Bedford,
 PA., April 23, 1865, and Repeated April 30, 1865. Philadelphia: James
-S. Claxton, Successor to William S. &#x0026; Alfred Martien, 606 Chestnut
+S. Claxton, Successor to William S. &amp; Alfred Martien, 606 Chestnut
 Street. 1865.</bibl>
          </sourceDesc>
       </fileDesc>
@@ -82,7 +82,7 @@ compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="sample.001" n="The Curtained Throne" type="text">
-            <head>
+            <head pn="1">
                <bibl> 
                   <title>The Curtained Throne</title> 
                   <date>April 23, 1865, and
@@ -92,48 +92,48 @@ Repeated April 30, 1865.</date>
 Rev. Robert F.</author> 
                   <imprint>
                      <pubPlace>Philadelphia</pubPlace>
-                     <publisher>James S. Claxton, Successor to William S. &#x0026; Alfred
+                     <publisher>James S. Claxton, Successor to William S. &amp; Alfred
 Martien</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="sample1">
                   <figDesc>1st page of Rev. Robert
 F. Sample's The Curtained Throne.</figDesc>
                </figure>
             </p>
-            <p>THE CURTAINED THRONE.</p>
-            <p>A SERMON, SUGGESTED BY THE DEATH OF</p>
-            <p>PRESIDENT LINCOLN.</p>
-            <p>PREACHED IN THE PRESBYTERIAN CHURCH OF BEDFORD, PA., APRIL 23,
+            <p pn="1">THE CURTAINED THRONE.</p>
+            <p pn="1">A SERMON, SUGGESTED BY THE DEATH OF</p>
+            <p pn="1">PRESIDENT LINCOLN.</p>
+            <p pn="1">PREACHED IN THE PRESBYTERIAN CHURCH OF BEDFORD, PA., APRIL 23,
 1865, AND REPEATED APRIL 30, 1865.</p>
-            <p>BY</p>
-            <p>REV. ROBERT F. SAMPLE.</p>
-            <p>PHILADELPHIA:</p>
-            <p>JAMES S. CLAXTON,</p>
-            <p>SUCCESSOR TO WILLIAM S. &#x0026; ALFRED
+            <p pn="1">BY</p>
+            <p pn="1">REV. ROBERT F. SAMPLE.</p>
+            <p pn="1">PHILADELPHIA:</p>
+            <p pn="1">JAMES S. CLAXTON,</p>
+            <p pn="1">SUCCESSOR TO WILLIAM S. &amp; ALFRED
 MARTIEN,</p>
-            <p>606 CHESTNUT STREET.</p>
-            <p>1865.</p>
+            <p pn="1">606 CHESTNUT STREET.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="sample2">
                   <figDesc>2nd page of
 Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="sample3">
                   <figDesc>3rd page of
 Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                </figure>
             </p>
-            <p>BEDFORD, May 1, 1865.</p>
-            <p>REV. R. SAMPLE.</p>
-            <p>
+            <p pn="3">BEDFORD, May 1, 1865.</p>
+            <p pn="3">REV. R. SAMPLE.</p>
+            <p pn="3">
                <hi rend="italic">Dear Sir</hi>-For  ourselves, and in behalf of the
 very large congregations which heard your sermon on the death of our
 lamented late President, ABRAHAM LINCOLN, (preached on Sabbath, the
@@ -141,21 +141,21 @@ lamented late President, ABRAHAM LINCOLN, (preached on Sabbath, the
 evening,) we thank you, a nd, in compliance with an almost universally
 expressed desire that it be published, we ask that you will oblige us
 with a copy for that purpose.</p>
-            <p>Very respectfully, yours,</p>
-            <p>G. H. SPANG,	C. N. HICKOK, <lb/>SAMUEL SHUCK,	A. L. RUSSEL,
+            <p pn="3">Very respectfully, yours,</p>
+            <p pn="3">G. H. SPANG,	C. N. HICKOK, <lb/>SAMUEL SHUCK,	A. L. RUSSEL,
 Harrisburg, Pa., <lb/>THOMAS R. GETTYS,	A. KING,<lb/>
 H. NICODEMUS,	LOUIS W. HALL, Altoona, Pa., <lb/>W. H. WATSON,
 M. D.,	D.WASHABAUGH, <lb/>A. B. CRAMER,	JOHN CESSNA,<lb/>
 G. W. RUPP,	S. L. RUSSELL, <lb/>J. R. ANDERSON,
 M. D.,	LAW. TALIAFERRO, U. S. A.  <lb/>Rev. J. H. DONALDSON,
 Schellsburg, Pa.,</p>
-            <p>BEDFORD, May 2,1865.</p>
-            <p>
+            <p pn="3">BEDFORD, May 2,1865.</p>
+            <p pn="3">
                <hi rend="italic">Gentlemen</hi>-The sermon yon have so kindly
 requested is herewith placed at your disposal.</p>
-            <p>Very truly, yours,</p>
-            <p>ROBERT F. SAMPLE. </p>
-            <p>To DR. C.N. HICKOK,<lb/>
+            <p pn="3">Very truly, yours,</p>
+            <p pn="3">ROBERT F. SAMPLE. </p>
+            <p pn="3">To DR. C.N. HICKOK,<lb/>
 Gen. A. L. RUSSELL, <lb/>Hon. A. KING, <lb/>Hon. LOUIS W. HALL,<lb/>
 G. H. SPANG, Esq., <lb/>Messrs. SHUCK, GETTYS, and others. </p>
             <pb n="4"/>
@@ -167,20 +167,20 @@ Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="sample5">
                   <figDesc>5th page of
 Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                </figure>
             </p>
             <div2 id="sample.002" n="SERMON" type="sermon">
-               <head>SERM0N.</head>
-               <epigraph>
-                  <p>Psalm xcvii. 2.</p>
-                  <p>"CLOUDS AND DARKNESS ARE ROUND ABOUT HIM; RIGHTEOUSNESS AND
+               <head pn="5">SERM0N.</head>
+               <epigraph pn="5">
+                  <p pn="5">Psalm xcvii. 2.</p>
+                  <p pn="5">"CLOUDS AND DARKNESS ARE ROUND ABOUT HIM; RIGHTEOUSNESS AND
 JUDGMENT ARE THE HABITATION OF HIS THRONE."</p>
                </epigraph>
-               <p>WE shall not detain you with an extended argument to prove the
+               <p pn="5">WE shall not detain you with an extended argument to prove the
 doctrine of a Divine Providence. It is a fact of natural and revealed
 religion. It would be as rational to deny the existence of God as to
 controvert His Providence. The power which created is alone sufficient
@@ -188,22 +188,22 @@ to uphold all things. The perfections of God, the nature of man, the
 order of the universe-all add their testimony to the truth so
 frequently and so explicitly stated in the Bible, that God sits upon
 the throne of universal dominion.</p>
-               <p>In our great national sorrow and personal grief we seek comfort. We
+               <p pn="5">In our great national sorrow and personal grief we seek comfort. We
 may find it in this doctrine of our holy religion. God grant, that as
 we look upward through the gloom, and toward the curtained throne, we
 may hear the voice of Infinite Love saying, "Be not afraid, only
 believe."</p>
                <pb n="6"/>
-               <p>
+               <p pn="6">
                   <figure entity="sample6">
                      <figDesc>6th page of
 Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                   </figure>
                </p>
-               <p>We shall speak of the throne itself, the obscurity which surrounds
+               <p pn="6">We shall speak of the throne itself, the obscurity which surrounds
 it, and its foundations, laid in the righteousness and judgment of
 God.</p>
-               <p>A <hi rend="italic">throne</hi> implies <hi rend="italic">dominion</hi>. Jehovah's dominion is as limitless as
+               <p pn="6">A <hi rend="italic">throne</hi> implies <hi rend="italic">dominion</hi>. Jehovah's dominion is as limitless as
 creation. It reaches to all worlds, and to all creatures. It is seen
 in the <hi rend="italic">material universe</hi>. It is manifested in the
 regular succession of the seasons. Seed-time and harvest, summer and
@@ -212,14 +212,14 @@ from His chambers. He causeth grass to grow for cattle, and herb for
 the service of man. Secondary causes owe all their efficiency to the
 great First Cause. The laws of Nature are of God's appointment and
 execution. Hence, it is His hand bestows every earthly blessing.</p>
-               <p>His dominion extends to <hi rend="italic">other</hi> worlds;
+               <p pn="6">His dominion extends to <hi rend="italic">other</hi> worlds;
 to the starry heavens, system beyond system, all moving in silence,
 and with the utmost precision and regularity along their pathways
 through the sky. He telleth the number of the stars, and calleth them
 all by their names. He guideth Arcturus with his sons; He bindeth the
 sweet influences of Pleiades; He looseth the bands of Orion, and He
 bringeth forth Mazzaroth in his season.</p>
-               <p>Thus God's Providence extends from the dewdrop on the
+               <p pn="6">Thus God's Providence extends from the dewdrop on the
 flower, to the most distant world which
 <pb n="7"/>
                   <figure entity="sample7">
@@ -228,7 +228,7 @@ F. Sample's The Curtained Throne.</figDesc>
                   </figure>           
 moves in the infinite space. As King of Nature we praise Him, and bow
 reverently at His feet.</p>
-               <p>This providence embraces the <hi rend="italic">intelligent
+               <p pn="7">This providence embraces the <hi rend="italic">intelligent
 creation</hi>. It is God who appoints the time, place, and
 circumstances of our birth, and of our death. God assigned us our
 respective <hi rend="italic">positions</hi> in the world, whether high
@@ -247,7 +247,7 @@ natural endowments which distinguish the astronomer, he investigated
 the laws of matter, and read the glorious visions of the skies; to
 Locke those powers of analyzing the human mind, which made him the
 most distinguished intellectual. philosopher of his age.</p>
-               <p>Turning to other departments in life, we may
+               <p pn="7">Turning to other departments in life, we may
 <pb n="8"/>
                   <figure entity="sample8">
                      <figDesc>8th page of Rev. Robert
@@ -265,10 +265,10 @@ the Father of our Country, and it was He who gave to this nation, in
 the day of its peril, the noble, meek, and honest patriot, whose name
 shall ever be linked with that of Washington, who, under God,
 preserved to us the heritage received from our fathers.</p>
-               <p>God also assigned to humbler men, in Church and State, their
+               <p pn="8">God also assigned to humbler men, in Church and State, their
 spheres of labor-men whose names are not written in history or graven
 on marble, who acted well their part-whose record is on high.</p>
-               <p>Again, consider the Providence of God as it has respect to <hi rend="italic">nations</hi>. What is true of individuals is true of
+               <p pn="8">Again, consider the Providence of God as it has respect to <hi rend="italic">nations</hi>. What is true of individuals is true of
 States. It is God who moves the vast machinery of national
 affairs-gives prosperity and sends adversity-blesses with peace and
 desolates, with war; who humbles the proud, chastises the
@@ -284,7 +284,7 @@ national sin, unrepented of, is national death. "Thus saith the Lord
 God, remove the diadem and take off the crown." On the other hand,
 "Happy is that people whose God is the Lord," they shall abide under
 his shadow, and be joyful in their King.</p>
-               <p>We see God in <hi rend="italic">history</hi>. He walks among
+               <p pn="9">We see God in <hi rend="italic">history</hi>. He walks among
 the kingdoms of the earth. He evokes from obscurity, and sends into
 oblivion. Jehovah is on the Throne! The history of the <hi rend="italic">Hebrew Commonwealth</hi> furnishes an
 exemplification. Their deliverance from Egyptian bondage; their
@@ -297,7 +297,7 @@ account of their wickedness, the final dispersion of the Jews over the
 whole earth,--all reveal a righteous God, true to His character, and
 faithful to His word, all the while working out His own eternal
 purpose.</p>
-               <p>We trace his pathway through all the centuries
+               <p pn="9">We trace his pathway through all the centuries
 <pb n="10"/>
                   <figure entity="sample10">
                      <figDesc>10th page of
@@ -309,7 +309,7 @@ continent of Europe we see nations rise from small beginnings, advance
 with rapidity in power, influence, and wealth, attain a culmination in
 glory which is the world's astonishment, and then, like glowing
 meteors in the sky, rush downward, and go out in eternal darkness!</p>
-               <p>We notice His <hi rend="italic">interposition</hi> in behalf
+               <p pn="10">We notice His <hi rend="italic">interposition</hi> in behalf
 of others, delivering from a threatening doom the humbled nations
 which fled to the refuge of His power. When the Spanish fleet, called
 the Invincible Armada, sailed proudly and defiantly toward the shores
@@ -319,7 +319,7 @@ the storm, burying the boastful fleet in the depths of the ocean; and
 the pious Queen recognized the Deliverer of her people, in the medals
 which bore the inscription, "Afflavit Deus et dissipantur"-"God has
 blown, and they are scattered."</p>
-               <p>And though men will not as readily discern the hand of God
+               <p pn="10">And though men will not as readily discern the hand of God
 in the discovery of the plot intended to destroy an English King and
 his Parliament, kept a profound secret for more than a year, yet, had
 they a clearer vision, they <hi rend="italic">would</hi> see it there,
@@ -331,7 +331,7 @@ terrible scheme, as certainly as deter-
 Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                   </figure>
 mining the course of the winds which destroyed a defiant fleet.</p>
-               <p>Again, we see God's overruling hand in the persecutions of
+               <p pn="11">Again, we see God's overruling hand in the persecutions of
 a later day, which led to the colonization of America, and reared the
 sanctuary beside the capitol, under the shadow of primeval forests,
 and made the wilderness as the garden of the Lord. Yes, Jehovah is on
@@ -342,7 +342,7 @@ neither from the east, nor from the west, nor from the south, but <hi rend="ital
 another." The Lord reigneth! He chastiseth sin. He afflicts, that He
 may preserve from greater evil. He leads His people through the fires,
 that He may fit them for nobler service and greater glory.</p>
-               <p>God <hi rend="italic">permits</hi> the evil, and <hi rend="italic">ordains</hi> the good. He permitted Israel to sin in the
+               <p pn="11">God <hi rend="italic">permits</hi> the evil, and <hi rend="italic">ordains</hi> the good. He permitted Israel to sin in the
 wilderness; He ordained to bring them into Canaan. He permitted the
 moral darkness of the Middle Ages to gather over Europe; He ordained
 Wickliffe to be the morning star of the Reformation. He permitted the
@@ -356,7 +356,7 @@ Rev. Robert F. Sample's The Curtained Throne.</figDesc>
 suddenly and sadly terminated the life of our lamented Chief
 Magistrate; and we trust He has ordained, by the hand of Joshua, to
 lead the people into the promised land.</p>
-               <p>God is not the author of sin. Such an imputation were
+               <p pn="12">God is not the author of sin. Such an imputation were
 blasphemous. The perfections of His character preclude a positive
 agency in sin; but He permits and overrules it. Some one has said, a
 dark shadow is not pleasant in itself, and is not drawn on the canvass
@@ -364,14 +364,14 @@ because of any intrinsic beauty; but it serves to set forth the beauty
 which is the main design of the painter's art. So sin, which is in the
 world, is the dark background, presenting in bolder relief the justice
 and mercy of God.</p>
-               <p>II. THE OBSCURITY OF DIVINE PROVIDENCE.</p>
-               <p>"Clouds and darkness are round about Him." Mystery is <hi rend="italic">everywhere</hi>. It is in <hi rend="italic">Nature</hi>. We
+               <p pn="12">II. THE OBSCURITY OF DIVINE PROVIDENCE.</p>
+               <p pn="12">"Clouds and darkness are round about Him." Mystery is <hi rend="italic">everywhere</hi>. It is in <hi rend="italic">Nature</hi>. We
 stand in the outer court of God's creation, and the inner temple is to
 us a great unknown. The <hi rend="italic">body</hi> is mysteriously
 made. The <hi rend="italic">mind</hi> is a mystery to the ever-expanding
 intellect which traces its labyrinths. The <hi rend="italic">universe</hi> is wrapped in clouds, and our eyes cannot
 penetrate the mists which gather on the near horizon.</p>
-               <p>
+               <p pn="12">
                   <hi rend="italic">Redemption</hi> is a mystery. Angels cannot
 read it fully; saints shall study it for ever, and never
 <pb n="13"/>
@@ -386,13 +386,13 @@ of fulfilled prophecy, and, aided by inspiration, anticipated results
 concealed from other minds, was yet compelled to say, "Thy way is in
 the sea, and thy path in the great waters, and thy footsteps are not
 known."</p>
-               <p>We ought to hold fast the truth that God is in every event,
+               <p pn="13">We ought to hold fast the truth that God is in every event,
 and we may learn lessons of wisdom from providences which we cannot
 fully understand. Whatever befalls us, we should say, "It is the Lord;
 let Him do what seemeth him good." And if we will listen, we may hear
 the voice of Jesus in the storm, saying, "Be of good cheer, it is
 I."</p>
-               <p>We may oftentimes trace the connection between the sin and
+               <p pn="13">We may oftentimes trace the connection between the sin and
 its punishment. Herod exalted himself to the dignity of a god, and
 appropriated to himself the glory due to the Creator, and immediately
 disease smote, and worms consumed him. Impious youth, meeting Elisha
@@ -411,7 +411,7 @@ wages, grinds the faces of the poor, withholds his tithes from the
 Lord, and flames consume his treasures, or floods carry them
 away. There is no mystery here. The ultimate design may be far away,
 but the immediate result reveals God's displeasure with sin.</p>
-               <p>Yet we should be charitable in our judgment of God's
+               <p pn="14">Yet we should be charitable in our judgment of God's
 providences, as they have respect to others. Those eighteen, on whom
 the tower of Siloam fell, and slew them, were not sinners above all
 men that dwelt in Jerusalem. The manner of a man's death does not
@@ -432,21 +432,21 @@ Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                   </figure>
 of his usefulness, and in the sea, full many a fathom deep, waits the
 dawning of the resurrection day.</p>
-               <p>Neither do great trials demonstrate God's
+               <p pn="15">Neither do great trials demonstrate God's
 displeasure. Those who are afflicted most, may be the special
 favorites of Heaven. The maligned and persecuted may recline on the
 bosom of Divine Love, and take Patmos on their way to Paradise. These
 fleeting years are but a point in the soul's unending life. Could we
 perceive what lies beyond, we should discern Divine favor, and needed
 discipline in the afflictions of the present.</p>
-               <p>We are like children travelling through an unknown
+               <p pn="15">We are like children travelling through an unknown
 country. Marching and counter-marching, now bearing away in this
 direction, now in that; now climbing rugged steeps, and then passing
 through gloomy defiles, there seems an unnecessary expenditure of
 strength, and experience of painfulness in our progress. We do not see
 the dangers that are thus avoided, nor know the advantages of the
 trials by the way. "Clouds and darkness are round about Him."</p>
-               <p>What is true of individuals is equally true of <hi rend="italic">Nations</hi>. God deals strangely with the State. We do
+               <p pn="15">What is true of individuals is equally true of <hi rend="italic">Nations</hi>. God deals strangely with the State. We do
 not know His purpose, and cannot now see the wisdom which has
 permitted the sad event we mourn to-day. Moreover, we do not know the
 relation which one event sustains to another, or the influence
@@ -460,7 +460,7 @@ limited, both as respects space and time. The great God who sits on
 the circle of the earth, takes in all lands in His comprehensive
 purposes, and designs this age, to tell on ages far away-this people
 on generations yet unborn.</p>
-               <p>Jewish history is not ended. There are some streams which
+               <p pn="16">Jewish history is not ended. There are some streams which
 seem to be lost, which emerge again from their subterranean passages,
 to flow on in widening channels. There are wheels within wheels which
 move not now, which shall revolve again, by and by. Whilst God is
@@ -468,7 +468,7 @@ working the complicated machinery of His Providence in <hi rend="italic">this</h
 down-trodden on the other side of the globe, and to set in motion
 other schemes, of which we have never dreamed, which shall fill the
 world with His glory.</p>
-               <p>Who, by searching, can find out God? What finite mind can
+               <p pn="16">Who, by searching, can find out God? What finite mind can
 trace the pathway of the Infinite? We may boast of our ability to
 interpret the providences of God, and charge others with stupidity,
 when, in our conjectures, we have not made the remotest approximation
@@ -496,8 +496,8 @@ and at some time, the result of all the strange and varied occurrences
 of this world will be glory to God and good to His church. This we
 learn from the inspired statement: "Righteousness and judgment are the
 habitation of His throne."</p>
-               <p>III. THE WISDOM AND GOODNESS OF PROVIDENCE.</p>
-               <p>What God does is right. The issue of all the discipline of
+               <p pn="17">III. THE WISDOM AND GOODNESS OF PROVIDENCE.</p>
+               <p pn="17">What God does is right. The issue of all the discipline of
 the present will be blessed. Though clouds gather about Him, and
 darkness which we cannot penetrate, yet we are assured that the
 eternal principles of righteousness and judgment are the basis of His
@@ -510,7 +510,7 @@ Rev. Robert F. Sample's The Curtained Throne.</figDesc>
 sorrow, or anticipated evil, faith takes refuge in the changeless
 perfections of God, saying: "What time I am afraid, I will trust in
 Thee."</p>
-               <p>When we note the operations of <hi rend="italic">nature</hi>
+               <p pn="18">When we note the operations of <hi rend="italic">nature</hi>
 we discover what, at first, seems to indicate the absence of law and
 order. The pleasant breeze which rustles in the oaks and fans the
 fevered brow to-day, becomes to-morrow a mighty rushing wind,
@@ -528,7 +528,7 @@ in all. He follows along the convergent lines of nature until he
 arrives at the central Throne, and sees the hand of Infinite Love
 managing all, and leading on through all changes and revolutions to
 the consummation of great and beneficent ends.</p>
-               <p>The field of Providence is not so readily traversed,
+               <p pn="18">The field of Providence is not so readily traversed,
 <pb n="19"/>
                   <figure entity="sample19">
                      <figDesc>19th page of
@@ -539,11 +539,11 @@ but we should trust when we cannot see. We accept the truth,
 from within the curtained dwelling-place there comes, as of old, that
 sweet, consolatory saying of Him whom our souls love: "What I do thou
 knowest not now, but thou shalt know hereafter."</p>
-               <p>At the same time we know in <hi rend="italic">part</hi>. We
+               <p pn="19">At the same time we know in <hi rend="italic">part</hi>. We
 can see the working of those principles which lie at the foundation of
 God's government, in our experience, and from what we know, though it
 be but little, we draw hope concerning the future.</p>
-               <p>We watched, through many years, the progress of one of
+               <p pn="19">We watched, through many years, the progress of one of
 God's people. In that life every sorrow proved a blessing, every
 bereavement was followed by a manifest unfolding of the life within,
 and growing meetness for the life above. The Christian advanced in
@@ -554,7 +554,7 @@ storm is over, so that life reflected more of the Saviour's beauty,
 the conversation was more spiritual, and the heart was more fixed in
 its calm, confiding trust, after each darkening sorrow had passed
 by.</p>
-               <p>To Paul's imprisonment in Rome we are indebted for those
+               <p pn="19">To Paul's imprisonment in Rome we are indebted for those
 noble epistles, scattered abroad like leaves
 <pb n="20"/>
                   <figure entity="sample20">
@@ -570,7 +570,7 @@ grace, the dawn of the Reformation put on a thousand years. Had not
 death entered the pleasant home in Cardington, John Howard would not
 have traversed the prison world of Europe, and given to philanthropy
 an impulse which shall never die.</p>
-               <p>God is righteous in all His ways, and holy in all His
+               <p pn="20">God is righteous in all His ways, and holy in all His
 works. His wisdom is infinite. His love is boundless. He selects the
 best ends, and chooses. the best means by which to reach them. The
 Psalmist, reviewing the history of Israel, strange and varied, saw the
@@ -581,7 +581,7 @@ came thither,-persecuted, afflicted, tormented, sawn asunder, nailed
 to crosses, drowned in rivers, assassinated in darkness, or burned at
 noon-day,-all say, as they read that strange experience in the
 effulgence of Heaven, "He hath done all things well."</p>
-               <p>Notice, lastly, the <hi rend="italic">duty</hi> suggested by
+               <p pn="20">Notice, lastly, the <hi rend="italic">duty</hi> suggested by
 the text. It
 <pb n="21"/>
                   <figure entity="sample21">
@@ -595,7 +595,7 @@ trouble. It is a sure foundation when seas roar, and the mountains
 shake with the swelling thereof. Let all suffering ones enter this
 chamber of Divine truth, and shut the doors about them until the storm
 be overpast.</p>
-               <p>On this day, surrounded with these sable emblems of our grief,
+               <p pn="21">On this day, surrounded with these sable emblems of our grief,
 we are constrained to refer once more to that great calamity which has
 filled our land with mourning. Our late President, honored and
 beloved, is no more! He has fallen by the hands of an assassin. In
@@ -609,7 +609,7 @@ luminaries God ever set in the firmament of our national power. It has
 seemed a terrible dream, and we have waited for the waking, but it has
 not come. We must accept the sad truth, and write a chapter in our
 national history unlike any that has gone before.</p>
-               <p>We admired the man whom Providence led from
+               <p pn="21">We admired the man whom Providence led from
 <pb n="22"/>
                   <figure entity="sample22">
                      <figDesc>22nd page of
@@ -625,7 +625,7 @@ perilous times, he acknowledged his dependence on God, and sought His
 help. How touching those parting words addressed to the friends he
 left, and how earnest his request to be remembered in their
 prayers!</p>
-               <p>Good men may have differed in their opinions of certain
+               <p pn="22">Good men may have differed in their opinions of certain
 official acts, but as we look calmly over the administration which is
 for ever closed, taking, it all in all, we may see in it the guiding
 hand of God. That wisdom, calmness, decision, gentleness, and
@@ -636,18 +636,18 @@ who knew him well, a clergyman of great piety, intelligence, and
 discernment, has well said:<ref target="sample.002.n01">*</ref> "The people confided in the late lamented
 President with a firm and loving confidence, which no other man
 enjoyed since the days of Washington. He deserved it well,</p>
-               <note id="sample.002.n01" n="*" place="foot" anchored="yes">
-                  <p>See funeral sermon of Rev. Dr. Gurley,
+               <note pn="22" id="sample.002.n01" n="*" place="foot" anchored="yes">
+                  <p pn="22">See funeral sermon of Rev. Dr. Gurley,
 Washington, D. C.</p>
                </note>
                <pb n="23"/>
-               <p>
+               <p pn="23">
                   <figure entity="sample23">
                      <figDesc>23rd page of
 Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                   </figure>
                </p>
-               <p>and deserved it all. He merited it by his character, and by his
+               <p pn="23">and deserved it all. He merited it by his character, and by his
 acts, and by the whole tenor, and tone, and spirit of his life. He was
 wise, simple, and sincere; plain and honest, truthful and just. His
 perceptions were quick and clear; his judgment was calm and accurate,
@@ -656,7 +656,7 @@ the memory of his virtues, of his wise and patriotic counsels and
 labors, of his calm and steady faith in God, lives, is precious, and
 will be a power for good in the country quite down to the end of
 time."</p>
-               <p>If honesty was a prominent characteristic of President
+               <p pn="23">If honesty was a prominent characteristic of President
 Lincoln, so also was leniency. Hence the statement of a pleasant
 writer: "The few criticisms that have been made upon his
 administration, have fixed only on those acts in which the tenderness
@@ -679,7 +679,7 @@ ruin, urging the misguided sons of the Republic to come home; with a
 singular kindliness of heart proffering restoration to the privileges
 and immunities they had forfeited. Ah yes! the enemies of our country
 have slain their best and most powerful earthly friend.</p>
-               <p>Loving, gentle, and indulgent in his home; unaffected,
+               <p pn="24">Loving, gentle, and indulgent in his home; unaffected,
 kind, and self-sacrificing in social intercourse, he carried these
 traits of character into the great world, and manifested them in all
 his relations to the government and its enemies. No President, save
@@ -688,7 +688,7 @@ more diversity of opinion under his administration than existed during
 the Revolutionary struggle, he yet had the sympathy and support of the
 great mass of the people, and conciliated many who were his political
 opponents.</p>
-               <p>In his death we have sustained a sad bereavement. Such
+               <p pn="24">In his death we have sustained a sad bereavement. Such
 depression was, perhaps, never known in the history of our own nation
 or any other. Strong men bow themselves and weep like
 children. Battle-scarred veterans cover their faces and mourn. Mothers
@@ -704,7 +704,7 @@ Rev. Robert F. Sample's The Curtained Throne.</figDesc>
 of grief, and starry banners which floated over our homes in our late
 rejoicings, now droop in sympathy with our sadness, and everywhere is
 heard the mournful pealing of funeral bells.</p>
-               <p>To-day, in Independence Hall, just where, years ago, he
+               <p pn="25">To-day, in Independence Hall, just where, years ago, he
 declared his readiness to die rather than desert the right, surrounded
 with those historic walls which suggest memories sad and joyous, the
 remains of our martyred President rest for a season. The generation
@@ -714,7 +714,7 @@ completed the work they began, and to weep with the weeping
 nation. The living and the dead, the past and the present, heaven and
 earth are there; and never before did the veiled sun look down upon
 such a funeral cortege as that.</p>
-               <p>No sorrow like the present ever before filled our
+               <p pn="25">No sorrow like the present ever before filled our
 hearts. We loved the President, and we mourn his death. We know not
 how any one can be so unfeeling as not to mourn. He sleeps-the noble
 patriot, the kind friend, the honest man! Though prone to that which
@@ -738,7 +738,7 @@ mourning nation may well lament with this lamentation: "The beauty of
 Israel is slain upon thy high places. How is the mighty fallen! We are
 distressed for thee, our beloved President: very pleasant hast thou
 been unto us: thy love was wonderful, passing the love of women."</p>
-               <p>But Jehovah is on the throne! His hand is in this
+               <p pn="26">But Jehovah is on the throne! His hand is in this
 affliction. It is for our good. This calamity is only another evidence
 of His love. We may see the necessity for it when we shall have come
 into the light of a better day. It may have been to humble us; to
@@ -746,7 +746,7 @@ restrain our boasting; to make us realize our dependence on God. Too
 much are we disposed to trust in an arm of flesh, forgetting that God
 is our rock, and the most high God our Redeemer: to say, "Asshur shall
 save us, and we will ride upon horses." Vain is the help of man.</p>
-               <p>We have been a proud, vainglorious people. We have been
+               <p pn="26">We have been a proud, vainglorious people. We have been
 wont to display with unbecoming hauteur the armorial ensigns of the
 three noble races from
 <pb n="27"/>
@@ -762,7 +762,7 @@ rejoicing into mourning, and constrained us to acknowledge Him in our
 overwhelming grief. Herein we have an evidence of His gracious
 purposes concerning us. Up from these dark waters He will bring us,
 and do great things for us, only let us not turn again to folly.</p>
-               <p>Though our beloved President is dead, our <hi rend="italic">Country</hi> lives. We are coming out of the wilderness,
+               <p pn="27">Though our beloved President is dead, our <hi rend="italic">Country</hi> lives. We are coming out of the wilderness,
 through the good providence of our God, and are quite near the Land of
 Promise. There is ground for hope concerning this nation. Our <hi rend="italic">history</hi> encourages the expectation of a brighter
 future. God never dealt with any nation as with this. He gathered from
@@ -791,7 +791,7 @@ against our enemies. He who has been our help, will still be our
 strength and shield, and redeem Israel out of all his troubles. Even
 now we stand in the growing light of the morning-the morning of a day
 whose setting, we trust, shall be far down the ages.</p>
-               <p>Moreover, the <hi rend="italic">Temple of God</hi> is in our
+               <p pn="28">Moreover, the <hi rend="italic">Temple of God</hi> is in our
 midst. The Church has found a refuge in this land. Evangelical
 religion has attained a growth in this country not exceeded, if
 equalled, in any other. The Christian Church has not done its whole
@@ -807,7 +807,7 @@ Rev. Robert F. Sample's The Curtained Throne.</figDesc>
 righteous men in it, will He not deliver this land out of all its
 troubles, for the sake of the many thousands who are called by His
 name?</p>
-               <p>There is much to encourage hope in the recognition of God
+               <p pn="29">There is much to encourage hope in the recognition of God
 which comes from the people at large. The secular press never
 acknowledged God so distinctly as now. Public proclamations and
 official dispatches record His name. On our coin there is a grateful
@@ -820,14 +820,14 @@ thousand voices in the grand old doxology,</p>
                   <l>"Praise God, from whom
 all blessings flow;"</l>
                </lg>
-               <p>and from Capitol Hill blazed out over our national metropolis that
+               <p pn="29">and from Capitol Hill blazed out over our national metropolis that
 inspired sentiment: "It is the Lord's doing, and it is marvellous in
 our eyes."</p>
-               <p>My hearers, God has thoughts of love toward this nation. He
+               <p pn="29">My hearers, God has thoughts of love toward this nation. He
 will give us peace. He will subdue the rebellious, heal divisions of
 heart, and unite in bonds of love, common interests and aim, the
 people of this land.</p>
-               <p>Here I am reminded of an incident in the early history of
+               <p pn="29">Here I am reminded of an incident in the early history of
 this country. The signification of <hi rend="italic">Potomac</hi> is
 generally supposed to be, "the river of swans." Count Zinzendorf, who
 was familiar with
@@ -847,14 +847,14 @@ was near its setting, when one of their number saw a solitary Indian
 on the summit of a distant hill. Believing that others were coming
 after, he lifted up his hands with an exclamation of joy, saying,
 "Po-to-mac,"-"Lo they come!"</p>
-               <p>The banks of this same river have been the scene of many a
+               <p pn="30">The banks of this same river have been the scene of many a
 hard-fought battle since then, and the Potomac has borne the blood of
 martyred heroes to the Eastern main. Yet here we wait the return of
 our erring countrymen. May they soon come, in penitence, to pledge
 eternal fealty to the nation. Then, when we shall witness their
 approach, we will fill the air with our glad rejoicings, shouting one
 to another, "Po-to-mac,"--"Lo they come!"</p>
-               <p>The day is not far distant. There is a bow in the
+               <p pn="30">The day is not far distant. There is a bow in the
 cloud. There is a flood of light flashing athwart the troubled sky, at
 which we look through our tears. Though we have not cast anchor, we
 are nearing the harbor. Tried patriots who, trusting in
@@ -865,7 +865,7 @@ Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                   </figure>
 God, have weathered many a storm, have gone aloft, and overlooking the
 intervening waves they shout down to us, "Land ahead!-Land ahead!"</p>
-               <p>Let all be true to God and their country. Let us remember
+               <p pn="31">Let all be true to God and their country. Let us remember
 that Jesus, by His life and example, teaches us to be Patriots as well
 as Christians. "With malice toward none, with charity for all, with
 firmness in the right as God gives us to see the right, let us strive
@@ -889,20 +889,20 @@ last,</l>
                   <l>Safe on the evergreen
 shore."</l>
                </lg>
-               <p>But I would not have you forget that there is another and a better
+               <p pn="31">But I would not have you forget that there is another and a better
 kingdom, not of this world, which claims your service. Some love their
 country more than their God. Some would rather hear</p>
-               <note id="sample.002.n02" n="*" place="foot" anchored="yes">
-                  <p>President Lincoln's last Inaugural.</p>
+               <note pn="31" id="sample.002.n02" n="*" place="foot" anchored="yes">
+                  <p pn="31">President Lincoln's last Inaugural.</p>
                </note>
                <pb n="32"/>
-               <p>
+               <p pn="32">
                   <figure entity="sample32">
                      <figDesc>32nd page of
 Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                   </figure>
                </p>
-               <p>patriotic speeches than listen to gospel sermons. Let God be first
+               <p pn="32">patriotic speeches than listen to gospel sermons. Let God be first
 in your regard. Love your country, which is His gift, but never forget
 the giver. Let religion and patriotism go together-one and
 inseparable. Remember it is Jesus who saves, and devotion to county
@@ -914,7 +914,7 @@ diadem,</l>
                   <l>And crown Him Lord of
 all."</l>
                </lg>
-               <p>Beloved hearers, death is not far from any one of
+               <p pn="32">Beloved hearers, death is not far from any one of
 you. Eternity is at hand! To-day, whilst clouds gather, and deep
 shadows rest on your hearts, hear the voice of Jesus, saying: "Come
 unto me, ye tempest tossed and not comforted, and I will give you

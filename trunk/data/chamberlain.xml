@@ -74,7 +74,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="chamberlain.001" n="The Assassination of President Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>The
 Assassination of President Lincoln</title> 
@@ -90,61 +90,61 @@ York</pubPlace>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="chamberlain1">
                   <figDesc>1st page of
 G. W. Chamberlain's The Assassination of President
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>The Assassination of President Lincoln.</p>
-            <p>A</p>
-            <p>SERMON</p>
-            <p>PREACHED IN</p>
-            <p>St. James Church, Birmingham, Ct.,</p>
-            <p>April 19th, 1865.</p>
-            <p>BY</p>
-            <p>REV. N. H. CHAMBERLAIN.</p>
-            <p>NEW YORK.</p>
-            <p>PUBLISHED BY G.W. CARLETON,</p>
-            <p>413
+            <p pn="1">The Assassination of President Lincoln.</p>
+            <p pn="1">A</p>
+            <p pn="1">SERMON</p>
+            <p pn="1">PREACHED IN</p>
+            <p pn="1">St. James Church, Birmingham, Ct.,</p>
+            <p pn="1">April 19th, 1865.</p>
+            <p pn="1">BY</p>
+            <p pn="1">REV. N. H. CHAMBERLAIN.</p>
+            <p pn="1">NEW YORK.</p>
+            <p pn="1">PUBLISHED BY G.W. CARLETON,</p>
+            <p pn="1">413
 BROADWAY.</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="chamberlain2">
                   <figDesc>2nd page
 of G. W. Chamberlain's The Assassination of President
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>BIRMINGHAM, April
+            <p pn="2">BIRMINGHAM, April
 19th, 1865.</p>
-            <p>
+            <p pn="2">
                <hi rend="italic">Reverend and Dear Sir:</hi>--</p>
-            <p>The undersigned, members of your Parish, having listened
+            <p pn="2">The undersigned, members of your Parish, having listened
 with great interest to your Sermon, delivered this day, on the death
 of PRESIDENT LINCOLN, earnestly solicit of you a copy for
 publication. Deeming this request in keeping with the wishes of the
 great body of those who heard it, and hoping the same will be granted,
 we remain</p>
-            <p>Sincerely yours, &#x0026;c.,<lb/>
+            <p pn="2">Sincerely yours, &amp;c.,<lb/>
 A. BEARDSLEY, <lb/>CHARLES A. STERLING, <lb/>EDWIN WOOSTER,<lb/>
 EDWARD LEWIS, <lb/>WILLIAM M. HULL, <lb/>FITCH SMITH,<lb/>
 G. H. PECK, <lb/>EDWARD N. SHELTON,</p>
-            <p>To the
+            <p pn="2">To the
 REV. N. H. CHAMBERLAIN,
                    <hi rend="italic">Rector of St. James.</hi>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="chamberlain3">
                   <figDesc>3rd page
 of G. W. Chamberlain's The Assassination of President
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>O, merciful God, and heavenly Father, who hast taught us in
+            <p pn="3">O, merciful God, and heavenly Father, who hast taught us in
 thy holy Word, that thou Dost not willingly afflict or grieve the
 children of men; Look with pity, we beseech thee, upon the sorrows of
 thy servants, the family of the late President of the United States,
@@ -156,25 +156,25 @@ resignation to thy blessed will; comfort them with a sense of thy
 goodness; lift up thy countenance upon them, and give them peace;
 through Jesus Christ, our Lord.  <hi rend="italic">Amen</hi>.</p>
             <pb n="4"/>
-            <p>
+            <p pn="4">
                <figure entity="chamberlain4">
                   <figDesc>4th page
 of G. W. Chamberlain's The Assassination of President
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>O, God, the King of Glory, who hast exalted Thine only Son, Jesus
+            <p pn="4">O, God, the King of Glory, who hast exalted Thine only Son, Jesus
 Christ, with great triumph, unto Thy Kingdom in Heaven, we beseech
 Thee leave us not comfortless, but send to us Thine Holy Ghost, to
 comfort us and exalt us unto the same place whither our Savior,
 Christ, is gone before, Who liveth and reigneth with Thee and the Holy
 Ghost, one God, world without end.</p>
-            <p> 
+            <p pn="4"> 
                <hi rend="italic">Collect for the Sunday
 after Ascension day.</hi>
             </p>
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="chamberlain5">
                   <figDesc>5th page
 of G. W. Chamberlain's The Assassination of President
@@ -182,14 +182,14 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="chamberlain.002" n="SERMON" type="sermon">
-               <head>SERMON.</head>
-               <epigraph>
-                  <p>LET EVERY SOUL BE SUBJECT UNTO THE HIGHER POWERS.  FOR
+               <head pn="5">SERMON.</head>
+               <epigraph pn="5">
+                  <p pn="5">LET EVERY SOUL BE SUBJECT UNTO THE HIGHER POWERS.  FOR
 THERE IS NO POWER BUT OF GOD; THE POWERS THAT BE ARE ORDAINED OF GOD.
 WHOSOEVER THEREFORE RESISTETH THE POWER, RESISTETH THE ORDINANCE OF
 GOD, AND THEY THAT RESIST, SHALL RECEIVE TO THEMSELVES DAMNATION.-<hi rend="italic">Epistle to the Romans</hi>, xii. 1,2.</p>
                </epigraph>
-               <p>WHEN the angel of death, who is also the angel of God,
+               <p pn="5">WHEN the angel of death, who is also the angel of God,
 enters our homes, beloved, the Christian heart receives his advent in
 silence; both because words cannot express the agony, and silence is
 the most befitting fashion of souls that receive the solemn
@@ -198,7 +198,7 @@ nation's sorrow, a nation's agony. The whole body politic is sick, the
 whole heart is faint. It is the mourning of a nation for its Chief
 Magistrate, assassinated by the hand of treason. What words can
 express our loss, our sorrow.</p>
-               <p>Behold the spectacle! Here was a man, remarkable not only
+               <p pn="5">Behold the spectacle! Here was a man, remarkable not only
 for his high office, but also for the solemn times in which he was
 called to fill that office; a man summoned to the administration of
 affairs in troubled times, who so kept the middle path of justice,
@@ -225,7 +225,7 @@ hundred legions of bronzed and steady soldiers who could not save him,
 lies stark and cold in the Capitol, and a great nation weeps for its
 foremost man in honor. This is, perhaps, under all the circumstances,
 the most solemn day of the Republic.</p>
-               <p>"The powers that be are ordained of God." To this man
+               <p pn="6">"The powers that be are ordained of God." To this man
 belonged the headship of the Republic, both by divine and human
 right. He was your President. You, by the operation of that
 Constitution under which you live, had, of your own free will, lifted
@@ -255,7 +255,7 @@ success, and withstood, by his official powers, the attempt to slay a
 nation and destroy a destiny; because he had been loyal to the
 traditions, the hopes, the promises, and the genius of a great
 republic.</p>
-               <p>You have heard it said, perhaps, in times past, (the grave
+               <p pn="7">You have heard it said, perhaps, in times past, (the grave
 has wisely silenced all criticism of him whatever,) that he was
 responsible for the loss, the burden, and the agony, that for the last
 four years has crushed and smote the nation's heart. But how? National
@@ -279,7 +279,7 @@ graves of our martyrs, and declared before the world that equal rights
 were miasma and delusion, and popular liberty a myth; who have made
 this nation blind with sorrow, and faint with the sacred offering of
 its reddest blood, that the Republic might live in peace.</p>
-               <p>The conspirators against unity and nationality are
+               <p pn="8">The conspirators against unity and nationality are
 responsible, I say. They sowed the wind only to reap the
 whirlwind. The dragon's teeth which they scattered on the nation's
 soil, wounded the hands that strewed. They spoke to a loyal people
@@ -299,7 +299,7 @@ G. W. Chamberlain's The Assassination of President
 Lincoln.</figDesc>
                   </figure>
 God; and they that resist, shall receive to themselves damnation."</p>
-               <p>In this Church to-day are the symbols of human power and
+               <p pn="9">In this Church to-day are the symbols of human power and
 the divine power, in which all that can be rightly called authority
 exists. The flag of your country is the symbol of "the powers that are
 ordained of God." The altar is the symbol of that God by whose will
@@ -315,10 +315,10 @@ funeral knells, and a nation is confused by a sudden and ghastly
 crime; but in the Father land of our resurrection, the light is never
 shadowed, the song is never silenced, the love and peace of God can
 never fail.</p>
-               <p>The nation's sorrow is uttered in its draped flags; its
+               <p pn="9">The nation's sorrow is uttered in its draped flags; its
 solace and its strength are spoken in the undraped altar, that tells
 us of the all-sufficing and changeless power of God.</p>
-               <p>I turn to consider for a moment, in the attempt to quicken
+               <p pn="9">I turn to consider for a moment, in the attempt to quicken
 our Christian patriotism in this, our nation's sorrow, which is meant
 to deepen our love for father-
 <pb n="10"/>
@@ -336,7 +336,7 @@ is a patrimony watered with tears, preserved by faithful and patriotic
 labors, and steadied and maintained, sooner or later, by men who dare
 to be just, in the face of imminent perils, and citizens constant, at
 a great cost, to its interests and needs.</p>
-               <p>Our nationality, like every other, is sacred to us, with
+               <p pn="10">Our nationality, like every other, is sacred to us, with
 the memory of dead heroes, and fragrant with the perfume of pure, and
 stainless, and patriotic lives, who wrought and died for it. Our flag,
 as I have said, is the symbol of our nationality, and is sacred with
@@ -393,7 +393,7 @@ office, sealing his record with his blood, that the one flag, cleansed
 of all shadow of unequal rights for any race or color, may be the flag
 of one nation, of one privilege, of one justice, of one liberty for
 all men, forevermore.</p>
-               <p>Remember, then, the text, "The powers that be are ordained
+               <p pn="12">Remember, then, the text, "The powers that be are ordained
 of God." So far I have spoken of those matters which naturally suggest
 themselves in these unusual and solemn furnishings of our Church. I
 address myself to the re-kindling in your hearts of that Christian
@@ -422,7 +422,7 @@ presence of so many memorials of the Lord's Cross and Passion? Have
 you not placed these symbols of the State so near the altar because,
 somehow, these two have intimate relations? The question has but one
 answer. They exist together.</p>
-               <p>The duty of the Church to the State is, first of all,
+               <p pn="13">The duty of the Church to the State is, first of all,
 obedience in things temporal. The correlated duty of the State is
 protection: The Church is a spiritual kingdom. She cannot assume to
 herself the power of the sword, and is strong only in her humilities,
@@ -479,7 +479,7 @@ Lincoln.</figDesc>
                   </figure>
 or forsook their Master. Their sin makes against themselves. It is
 nothing against the holy things which they forsake.</p>
-               <p>On this day of our solemn sorrow, the Church, finding her
+               <p pn="15">On this day of our solemn sorrow, the Church, finding her
 words enforced by a great calamity, speaks to you both as citizens and
 as Churchmen, and the lesson taught is this: She says, "In a republic,
 majorities must rule, and minorities submit. Republicanism is only
@@ -511,7 +511,7 @@ the fashion to admire. The Church knows no party but her own blessed
 mission and salvation, through Jesus Christ. Her words cannot
 alter. "Honor the President and all civil magistrates and rulers."
 "The powers that be are ordained of God."</p>
-               <p>I turn now from the more general to the special lessons of
+               <p pn="16">I turn now from the more general to the special lessons of
 the hour, to notice a few of the many that suggest themselves. In the
 first place, we observe that all our griefs come more or less directly
 from sin. True, this is a most ghastly sin and grime against a nation,
@@ -538,7 +538,7 @@ Lincoln.</figDesc>
                   </figure>
 sassin's knife reaches deeper than he knows. The blow that smote the
 President dug graves and built gallows.</p>
-               <p>The punishment of the criminal, whose only importance
+               <p pn="17">The punishment of the criminal, whose only importance
 arises from the magnitude of his infamy, is certain. They tell us that
 as yet there has been no arrest. But how shall he escape? Shall he
 hide himself among our millions? The virtuous wrath of a great people
@@ -561,17 +561,17 @@ sea, praying the high waves to cover him, and its most shadowy and
 silent gulfs to hide him? The very sea gives up its dead to God; and
 there is no escape.</p>
                <pb n="18"/>
-               <p>
+               <p pn="18">
                   <figure entity="chamberlain18">
                      <figDesc>18th
 page of G. W. Chamberlain's The Assassination of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>I have spoken of a great criminal. All sin is crime, and
+               <p pn="18">I have spoken of a great criminal. All sin is crime, and
 hath no refuge but in penitence and the One Atonement of the
 Redeemer.</p>
-               <p>You will observe in the next place, the uselessness of the
+               <p pn="18">You will observe in the next place, the uselessness of the
 monstrous crime that hath covered our land with mourning. It is the
 testimony of all history, that assassination hath never outmatched a
 true cause or broken a nation's will whose heart was vital with a
@@ -585,7 +585,7 @@ God. Were the Right subject to Brutus' dagger, it would be unworthy to
 wear a kinglier than Caesar's crown. The feet of the legions that
 march against Liberty only trample down the earth firmer on which her
 pedestal is reared.</p>
-               <p>What hath this assassin of our Chief Magistrate
+               <p pn="18">What hath this assassin of our Chief Magistrate
 accomplished? How has he aided those whom he aspired to vindicate? He
 has struck down their most powerful and generous friend. How has he
 improved their fortunes? A great nation this day bows itself in agony,
@@ -605,9 +605,9 @@ administration been blocked? They move on without a jar. Has the hand
 that held the sword been palsied? It holds the sword more firmly. Has
 the fabric of our liberties been rudely shaken? They are henceforth
 cemented more firmly in the blood of the President of the Republic.</p>
-               <p>Here hath been a State crime, indeed. Remember, all sin is
+               <p pn="19">Here hath been a State crime, indeed. Remember, all sin is
 useless!</p>
-               <p>But after all, I suppose, beloved, that in the hearts of
+               <p pn="19">But after all, I suppose, beloved, that in the hearts of
 the millions who assemble themselves this day in solemn commemorative
 services in honor of our dead President, the foremost thought is of
 the loss which this nation has sustained. In the truest sense, in the
@@ -645,7 +645,7 @@ citizen of the ages. Had not this man been great, (as in many ways
 great he was,) the fashion of his dying would have elevated him
 amongst the most venerated sons of the Republic. Assassination hath
 embalmed his fame and memory with his own blood.</p>
-               <p>I point you to the same truth concerning the martyrs of a
+               <p pn="20">I point you to the same truth concerning the martyrs of a
 four years war, of whom our dead President hath now become the
 chief. I think of them at rest; some laid in sudden graves, with the
 requiem of the cannon's roar or of muffled drums, and some with gentle
@@ -675,7 +675,7 @@ of those ascended from beneath its folds, in a chariot of
 battle-flame, to an immortal honor, gather about it, to strengthen the
 arms of those who strike for it, and to steady the hearts that honor
 it, and follow it.</p>
-               <p>It was, you know, on that most strange and solemn Easter
+               <p pn="21">It was, you know, on that most strange and solemn Easter
 Sunday, which the American Church will long remember, with the Easter
 flowers to speak of the new life through the risen Christ, and our own
 agony to remind us how all flesh is "like the grass," that our pious
@@ -686,14 +686,14 @@ forever from the assassin's blow and the traitor's contumely, in a
 land where malice and foul passions come not, his soul might rest in
 peace.</p>
                <pb n="22"/>
-               <p>
+               <p pn="22">
                   <figure entity="chamberlain22">
                      <figDesc>22nd
 page of G. W. Chamberlain's The Assassination of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>It may be a very human thought, which somehow connects the
+               <p pn="22">It may be a very human thought, which somehow connects the
 passage of our President into the spirit-land with that solemn story
 of the prophet, who tells us that when the king of Babylon came
 amongst the company of royal spirits, the kings of the whole earth

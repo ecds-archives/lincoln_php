@@ -69,7 +69,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="denormandie.001" n="The Lord Reigneth" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>The Lord
 Reigneth</title> 
@@ -84,32 +84,32 @@ N. H.</pubPlace>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="denormandie1">
                   <figDesc>1st page of James
 DeNormandie's The Lord Reigneth.</figDesc>
                </figure>
             </p>
-            <p>THE LORD REIGNETH.</p>
-            <p>A</p>
-            <p>FEW WORDS</p>
-            <p>ON</p>
-            <p>SUNDAY MORNING, April 16, 1865,</p>
-            <p>AFTER THE ASASSINATION OF</p>
-            <p>ABRAHAM LINCOLN.</p>
-            <p>BY</p>
-            <p>JAMES DeNORMANDIE,</p>
-            <p>Minister of the South Parish, Portsmouth,
+            <p pn="1">THE LORD REIGNETH.</p>
+            <p pn="1">A</p>
+            <p pn="1">FEW WORDS</p>
+            <p pn="1">ON</p>
+            <p pn="1">SUNDAY MORNING, April 16, 1865,</p>
+            <p pn="1">AFTER THE ASASSINATION OF</p>
+            <p pn="1">ABRAHAM LINCOLN.</p>
+            <p pn="1">BY</p>
+            <p pn="1">JAMES DeNORMANDIE,</p>
+            <p pn="1">Minister of the South Parish, Portsmouth,
 N.H.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="denormandie2">
                   <figDesc>2nd page
 of James DeNormandie's The Lord Reigneth.</figDesc>
                </figure>
             </p>
             <div2 id="denormandie.002" n="text of message" type="sermon">
-               <p>MY CHRISTIAN FRIENDS,--I have no sermon, and there will be
+               <p pn="2">MY CHRISTIAN FRIENDS,--I have no sermon, and there will be
 no preaching here to-day.  For the first time I confess I wish I were
 not your minister, expected to say a word of consolation or help,
 which word I have not. Whenever I seek words, there come only tears;
@@ -117,7 +117,7 @@ but I could wish to be one of you meeting here to weep out our common
 grief, while in the sacred silence of this temple of God we re-assure
 ourselves that the Lord reigneth. Sometime when we are more calm I
 shall speak to you at length of our sorrow, our loss and our duty.</p>
-               <p>What means this overflow of tears wide as a continent? What
+               <p pn="2">What means this overflow of tears wide as a continent? What
 mean these bells answering bells in solemn dirge all over our land?
 What mean these graspings of hand with hand when no word escapes the
 lips?  What mean these anxious inquiries, these mute looks, this hope
@@ -131,13 +131,13 @@ join in our thanksgiving for the immortal life brought to light to
 day, breathing their fragrance over an invisible bier, on which rests
 an invisible body? "He is not here, he is risen."</p>
                <pb n="3"/>
-               <p>
+               <p pn="3">
                   <figure entity="denormandie3">
                      <figDesc>3rd page of
 James DeNormandie's The Lord Reigneth.</figDesc>
                   </figure>
                </p>
-               <p>
+               <p pn="3">
                   <hi rend="italic">Our President has been murdered!</hi> What made us
 love him, so that the humble citizen, taken by God from a western
 cabin, had well nigh won the image of the world? What makes each one
@@ -151,7 +151,7 @@ success; humble in every exaltation; powerful and yet prudent; firm
 and yet lenient; patriotic and yet humane; liberal and yet just;
 humorous and yet solemn--Abraham Lincoln walked by faith and not by
 sight, and he was not, for God took him.</p>
-               <p>There is but one word of hope or trust. The Lord
+               <p pn="3">There is but one word of hope or trust. The Lord
 reigneth. Do not let us forget or doubt that, my friends, for one
 moment, or everything is gone. You will hear this question asked by
 some in utter despair. What are we all coming to? Let not us ask it,
@@ -172,7 +172,7 @@ time will come when you look at it in the light of Christian principle
 and Christian retribution, and say with me, not a single thing has
 happened for which we have not had <hi rend="italic">in slavery</hi> a
 sufficient and plain cause.</p>
-               <p>
+               <p pn="4">
                   <hi rend="italic">Our President has been murdered!</hi> Who
 murdered him? That is something for you to consider in your hearts,
 else we learn nothing from our calamity. Who murdered him? They tell
@@ -191,7 +191,7 @@ President. Every minister who has stifled his prayer, or forborne the
 utterance of his heart's conviction, or permitted his sanctuary to be
 a refuge for the nation's destroyers, has helped murder our
 President.</p>
-               <p>Abraham Lincoln was a noble man. Noble his life--forever
+               <p pn="4">Abraham Lincoln was a noble man. Noble his life--forever
 sacred be his memory. He was all American; a true representative of
 what this peo-
 <pb n="5"/>
@@ -204,7 +204,7 @@ he soon won my heart. I have read somewhat of the history of the past
 four thousand years, and I find the record of no nobler truer,
 simpler, grander man. <hi rend="italic">But he is dead.</hi>
                </p>
-               <p>The Lord reigneth. God be thanked. He has not permitted
+               <p pn="5">The Lord reigneth. God be thanked. He has not permitted
 very much of the world's progress to rest upon any one man. The very
 highest, the very greatest are quite insignificant when we think of
 this mighty march of the soul of humanity. We think otherwise. We
@@ -230,7 +230,7 @@ DeNormandie's The Lord Reigneth.</figDesc>
                   </figure>
 justice to the guilty. What that work was, the days will fast reveal;
 and whatever it was, God kept it for others to do.</p>
-               <p>God gave him, God took him. Yea, my friends most sacredly
+               <p pn="6">God gave him, God took him. Yea, my friends most sacredly
 remember both. We are too apt to think that it is only by a lingering
 death, by a long or severe sickness, or in a good old age, that God
 takes one away. The other deaths we sometimes thoughtlessly call
@@ -244,7 +244,7 @@ place no other can. We ought not to want him to; but from all these
 myriads, God will show us one or many to carry on His work; and if
 this struggle be not His work, it matters little whether we have
 another President or not.</p>
-               <p>I spoke last Thursday of the Christian doctrine of
+               <p pn="6">I spoke last Thursday of the Christian doctrine of
 retribution, and said a cry for it would come up from the friends of
 the prisoners, from the bereaved and sorrowing hearts, from the
 freedmen. That cry to-day is wide as the nation. I loved our President
@@ -267,7 +267,7 @@ belongs, North or South. Let a cry for justice go up which shall make
 this continent ring, and the guilty tremble. Justice which none but
 the guilty ever fear. Law which none but the law-breakers ever
 dread.</p>
-               <p>
+               <p pn="7">
                   <hi rend="italic">Our President is dead</hi>. He rests from
 his labors, and his works do follow him. Rest in peace, thou noble
 martyr, while every heart hastens to pay a son of America, while thy
@@ -275,12 +275,12 @@ land learns the lesson tribute and drop a tear on thy grave. Rest in
 peace of thy life. Rest in peace, child of liberty, while her anthem
 swells to a purer strain over thy memory. Rest in peace, child of the
 Infinite, with all the immortal company.</p>
-               <p>
+               <p pn="7">
                   <hi rend="italic">Our President is NOT dead</hi>. He still
 speaks. <hi rend="italic">He is not dead</hi>, for the memory of virtue
 is immortal. <hi rend="italic">He is not dead</hi> and here is our only
 sufficient consolation.</p>
-               <p>To-day is kept very sacred in the Christian church, as
+               <p pn="7">To-day is kept very sacred in the Christian church, as
 commemorating the resurrection of Jesus, which brought life, and
 immortality to light. I was intending to speak to you this morning
 from that passage in Mark's gospel, xvi. chap. 4th verse,--when as the
@@ -296,7 +296,7 @@ rays to light their way--it occurred to them that a great stone which
 had been put as a guard by the door, would defeat their pious purpose;
 but when they came to it, and looked up, behold! the stone was already
 rolled away.</p>
-               <p>A simple incident, indeed, but how deep its meaning, how
+               <p pn="8">A simple incident, indeed, but how deep its meaning, how
 grand its truth, how universal its experience. We too, go along with
 banged heads and mourning hearts, raising doubts or questioning
 possibilities, or wondering whence our aid is to come, or what we
@@ -307,7 +307,7 @@ form, which turns out only a stone, and that, rolled away from where
 our path leads. Oh! my Christian friends, a bold and trusting, and
 persevering soul finds no stone against the door, but always enters
 without hindrance among the guarding angels by the Saviour's side.</p>
-               <p>It was a short and easy step for our departed President
+               <p pn="8">It was a short and easy step for our departed President
 from the theatre of earth to the theatre of heaven. The evening light
 was mortal, but the morning light was full of immortality. It was a
 short way through a green pasture, and beside a quiet stream, with the

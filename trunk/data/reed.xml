@@ -39,7 +39,7 @@ Sermons Project</title>
             <bibl>Reed,
 Rev. S. A Discourse Delivered on the Occasion of the Funeral Obsequies
 of President Lincoln, April 19, 1865. Boston: Press of Geo. C. Rand
-&#x0026; Avery, 3 Cornhill. 1865</bibl>
+&amp; Avery, 3 Cornhill. 1865</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -81,7 +81,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="reed.001" n="A Discourse Delivered on the Occasion of the Funeral Obsequies of President Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>A Discourse
 Delivered on the Occasion of the Funeral Obsequies of President
@@ -92,33 +92,33 @@ Edgartown, Mass.</pubPlace>
                   <author>Reed, Rev. S.</author> 
                   <imprint>
                      <pubPlace>Boston</pubPlace>
-                     <publisher>Press of Geo. C. Rand &#x0026;
+                     <publisher>Press of Geo. C. Rand &amp;
 Avery</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="reed1">
                   <figDesc>1st page of Rev. S. Reed's A
 Discourse Delivered on the Occasion of the Funeral Obsequies of
 President Lincoln.</figDesc>
                </figure>
             </p>
-            <p>A</p>
-            <p>Discourse</p>
-            <p>DELIVERED ON THE OCCASION OF</p>
-            <p>THE FUNERAL OBSEQUIES</p>
-            <p>OF</p>
-            <p>PRESIDENT LINCOLN,</p>
-            <p>APRIL 19, 1865.</p>
-            <p>By REV. S. REED,</p>
-            <p>Pastor M. E. CHURCH, EDGARTOWN, MASS.</p>
-            <p>BOSTON:</p>
-            <p>PRESS OF Geo. C. RAND &#x0026; AVERY, 3 CORNHILL.</p>
-            <p>1865.</p>
+            <p pn="1">A</p>
+            <p pn="1">Discourse</p>
+            <p pn="1">DELIVERED ON THE OCCASION OF</p>
+            <p pn="1">THE FUNERAL OBSEQUIES</p>
+            <p pn="1">OF</p>
+            <p pn="1">PRESIDENT LINCOLN,</p>
+            <p pn="1">APRIL 19, 1865.</p>
+            <p pn="1">By REV. S. REED,</p>
+            <p pn="1">Pastor M. E. CHURCH, EDGARTOWN, MASS.</p>
+            <p pn="1">BOSTON:</p>
+            <p pn="1">PRESS OF Geo. C. RAND &amp; AVERY, 3 CORNHILL.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="reed2">
                   <figDesc>2nd page of
 Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
@@ -126,36 +126,36 @@ Obsequies of President Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="reed3">
                   <figDesc>3rd page of
 Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
 Obsequies of President Lincoln.</figDesc>
                </figure>
             </p>
-            <p>CORRESPONDENCE.</p>
-            <p>EDGARTOWN, April 19, 1865.</p>
-            <p>REV. S. REED.</p>
-            <p>SIR,-At a
+            <p pn="3">CORRESPONDENCE.</p>
+            <p pn="3">EDGARTOWN, April 19, 1865.</p>
+            <p pn="3">REV. S. REED.</p>
+            <p pn="3">SIR,-At a
 meeting of the Committee appointed by the citizens of Edgartown to
 make arrangements for the appropriate observance of the funeral
 obsequies of President Lincoln, it was unanimously resolved that a
 copy of the very excellent and appropriate discourse this day
 delivered by you be respectfully requested for publication.</p>
-            <p>Appreciating the kindness which induced you to consent, upon so
+            <p pn="3">Appreciating the kindness which induced you to consent, upon so
 brief a notice, to the request of the Committee, that you would speak
 to the people burdened with sadness and sitting under the shadow of
 the terrible affliction which has converted this entire nation into a
 house of mourning,</p>
-            <p>I am, sir,</p>
-            <p>With the highest respect,</p>
-            <p>Yours truly,</p>
-            <p>RICHARD L. PEASE,</p>
-            <p>
+            <p pn="3">I am, sir,</p>
+            <p pn="3">With the highest respect,</p>
+            <p pn="3">Yours truly,</p>
+            <p pn="3">RICHARD L. PEASE,</p>
+            <p pn="3">
                <hi rend="italic">Chairman.</hi>
             </p>
-            <p>MR. R. L. PEASE, and GENTLEMEN OF THE COMMITTEE:</p>
-            <p>If the publication of the discourse which it was my sad duty to
+            <p pn="3">MR. R. L. PEASE, and GENTLEMEN OF THE COMMITTEE:</p>
+            <p pn="3">If the publication of the discourse which it was my sad duty to
 deliver to you to-day will, in your judgment, promote the happiness of
 any one in our now sorrow-stricken nation, I cheerfully comply with
 your request. I am aware, however, as you doubtless are, of its many
@@ -163,11 +163,11 @@ imperfections, arising in part from. the brief time in which it was
 prepared. Hoping you will receive it, as I most certainly give it, as
 a sincere tribute of affection to the memory of our beloved and
 lamented President,</p>
-            <p>I am</p>
-            <p>Yours
+            <p pn="3">I am</p>
+            <p pn="3">Yours
 truly,</p>
-            <p>S. REED.</p>
-            <p>EDGARTOWN, April 19, 1865.</p>
+            <p pn="3">S. REED.</p>
+            <p pn="3">EDGARTOWN, April 19, 1865.</p>
             <pb n="4"/>
 <!-- blank page -->
 <!--            <p>
@@ -178,7 +178,7 @@ Obsequies of President Lincoln.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="reed5">
                   <figDesc>5th page of
 Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
@@ -186,12 +186,12 @@ Obsequies of President Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="reed.002" n="DISCOURSE" type="sermon">
-               <head>DISCOURSE.</head>
-               <epigraph>
-                  <p>Shall not the Judge of all
+               <head pn="5">DISCOURSE.</head>
+               <epigraph pn="5">
+                  <p pn="5">Shall not the Judge of all
 the earth do right?" -GEN. xviii. 25.</p>
                </epigraph>
-               <p>ABRAHAM had long been an anxious spectator of the awful degradation
+               <p pn="5">ABRAHAM had long been an anxious spectator of the awful degradation
 of the cities of the plain; and, when the decree of the Almighty was
 communicated to him, that the sword of vengeance should be unsheathed,
 he saw its justice and he -murmured not. But when he thought of the
@@ -206,7 +206,7 @@ be led forth by his holy angels to a city of refuge. Abraham misjudged
 the character of the wonderful providence which he was told was about
 to take place, because he judged before the designs of God in that
 providence were fully unfolded.</p>
-               <p>From all the information he then had, it was apparent to him that
+               <p pn="5">From all the information he then had, it was apparent to him that
 the righteous must perish with the wicked; and the justice of such a
 providence he distrusted. 
 <pb n="6"/>
@@ -223,7 +223,7 @@ providence,-the one right before their eyes; and., failing to see the
 good and benevolent results which that chain unites to God, they
 conclude, in their ignorance, that the ways of the Lord are not
 equal.</p>
-               <p>In examining the providence of God, we should be careful not to
+               <p pn="6">In examining the providence of God, we should be careful not to
 form Our conclusions from those parts of it which are visible to our
 own eyes, at the present time, and immediately around us. We should
 search for the most probable effect that such and such parts are
@@ -232,14 +232,14 @@ only in the external and superficial changes that affect society, but
 we should trace those designs down deep into the human mind and
 character, and we should follow them outward and onward to the
 boundaries of his moral government.</p>
-               <p>There are events in human life which reveal the wickedness of man
+               <p pn="6">There are events in human life which reveal the wickedness of man
 and the holiness of God in such apparent proximity as to fill the mind
 with the most profound and solemn questionings; events which force the
 soul to the resources of eternal Truth. Such are the events
 transpiring around us at the present time and in their light we come
 to inquire--</p>
-               <p>WHAT ARE THE LIMITATIONS OF DIVINE PROVIDENCE IN HUMAN CONDUCT?</p>
-               <p>1. Man is a moral agent therefore free. God created him free,
+               <p pn="6">WHAT ARE THE LIMITATIONS OF DIVINE PROVIDENCE IN HUMAN CONDUCT?</p>
+               <p pn="6">1. Man is a moral agent therefore free. God created him free,
 therefore the creation is "right;" and here we see providence. But his
 being man implies the possibility that he may sin. Should God make it
 im-
@@ -250,7 +250,7 @@ Discourse Delivered on the Occasion of the Funeral Obsequies of
 President Lincoln.</figDesc>
                   </figure>
 possible for him to sin, he would make him something else than man.</p>
-               <p>"Why," it is often asked, "does not God prevent such and such acts
+               <p pn="7">"Why," it is often asked, "does not God prevent such and such acts
 of wickedness?" I answer that he could, doubtless, prevent all acts of
 wickedness; but he would then prevent the power of obedience also, for
 the possibility of virtue in a probationer implies the possibility of
@@ -258,7 +258,7 @@ vice. If, therefore, it is wise and good in God to grant to men a term
 of probation, it is wise and good in him to grant to them the
 possibilities of virtue and vice; and the power to commit great acts
 of wickedness is but the power to perform great acts of virtue.</p>
-               <p>2. We see the providence of God in the restraints which he throws
+               <p pn="7">2. We see the providence of God in the restraints which he throws
 around men everywhere to deter them from the commission of sin; and,
 on the other hand, in the inducements which he everywhere affords to
 men to the performance of virtue. These restraints and incentives are
@@ -267,12 +267,12 @@ as great as can possibly consist with men's freedom. If the power of
 right motives were increased upon men, their power of resistance must
 be correspondingly increased; hence nothing would be gained to
 virtue.</p>
-               <p>3. We trace the providence of God, also, in working continually
+               <p pn="7">3. We trace the providence of God, also, in working continually
 against the results of sin, yet all the while in perfect accordance
 with man's freedom.</p>
-               <p>In all the history of the race we see God bounding and
+               <p pn="7">In all the history of the race we see God bounding and
 counteracting sin so that it shall not become universal.</p>
-               <p>Though he cannot prevent men from wrong-doing without making them
+               <p pn="7">Though he cannot prevent men from wrong-doing without making them
 something else than men, yet he does overrule the results of their
 wrong-doing; he does press their wickedness into his own service, and
 "make their wrath to praise him;" he does bring light out of darkness
@@ -286,17 +286,17 @@ President Lincoln.</figDesc>
 be the malignity of the vicious, however deep the turpitude of their
 crimes, God will not suffer consequences to flow therefrom which he
 cannot control.</p>
-               <p>From this stand-point we come to-day to look upon our bereavement;
+               <p pn="8">From this stand-point we come to-day to look upon our bereavement;
 and, though we meet under a cloud of unwonted gloom, which has been
 caused by a fellow-being, yet we will remember that the "Judge of all
 the earth doeth right."</p>
-               <p>An act has been performed by an American citizen which strikes
+               <p pn="8">An act has been performed by an American citizen which strikes
 horror to the hearts of millions; an act the results of which reach
 farther than the shores of a continent, which will shock the entire
 civilized world; an act which will pass into human history as the most
 unparalleled in atrocity since its great archetype was performed at
 Mount Calvary.</p>
-               <p>A brutal assassin, thirsting for the most precious of human blood
+               <p pn="8">A brutal assassin, thirsting for the most precious of human blood
 steals to the presence of the unsuspecting Magistrate of this nation,
 and, with plans laid with fiendish precision, delights in a deadly aim
 which pierces the hearts of all Christendom. By that assassin's hand
@@ -322,11 +322,11 @@ mysterious, so aggravating, such crushing sadness! We look through our
 tears to thee, 0 God, and we try to discern thee. Oh, may we behold
 thee! may we even seen thy hand, and our mourning shall be hushed, and
 we will know that the Judge of all the earth will do right!</p>
-               <p>And, my hearers, let us prayerfully inquire to-day, <hi rend="italic">Can we behold a Providence here? What part has the Lord
+               <p pn="9">And, my hearers, let us prayerfully inquire to-day, <hi rend="italic">Can we behold a Providence here? What part has the Lord
 performed in our bereavement, and what part has he not
 performed?</hi>
                </p>
-               <p>It is true God gave to the assassin, or the assassins, <hi rend="italic">freedom</hi>. He made them men, and endowed them with
+               <p pn="9">It is true God gave to the assassin, or the assassins, <hi rend="italic">freedom</hi>. He made them men, and endowed them with
 those high powers which in their perversion, have wrought such
 ruin. But with the gift of freedom comes the fact of
 accountability. The murderers of our President are <hi rend="italic">guilty</hi>, and the law of the righteous Judge connects
@@ -351,14 +351,14 @@ Obsequies of President Lincoln.</figDesc>
                   </figure>
 there is a Providence "<hi rend="italic">that shall by no means clear
 the guilty</hi>."</p>
-               <p>We see God's providence, also, in the restraints which were thrown
+               <p pn="10">We see God's providence, also, in the restraints which were thrown
 around the assassins to prevent the commission of their deed. They had
 been restrained by fear of detection, by the vigilance of the people,
 if not by their own consciences. They had been foiled in their plans
 again and again, since the first dark plot was formed for the
 President's murder four years ago; and even now they were unable to
 carry out the awful plot to its completion.</p>
-               <p>But further than this, in the act which bereaved our nation of its
+               <p pn="10">But further than this, in the act which bereaved our nation of its
 head, <hi rend="italic">Providence had nothing to do</hi>. Tell us not
 it was the hand of the Lord that took Abraham Lincoln from us. His
 hand was stretched out to restrain, not to put forward the assassins;
@@ -368,13 +368,13 @@ did. "It was an enemy that did this," an enemy that both planned and
 executed the deed. It was not the hand of Providence that did this
 stupendous wrong; it was the great, black hand of the Devil, and there
 shall the wrong rest.</p>
-               <p>And this distinction between the spirit of evil, which prompts men
+               <p pn="10">And this distinction between the spirit of evil, which prompts men
 to wicked deeds, and the spirit of the Lord, which only prompts them
 to good, will save us from distrust and despair.</p>
-               <p>And this leads us again to inquire--</p>
-               <p>WHAT IS THAT SPIRIT WHICH IS THE SOLE PRODUCING CAUSE OF OUR
+               <p pn="10">And this leads us again to inquire--</p>
+               <p pn="10">WHAT IS THAT SPIRIT WHICH IS THE SOLE PRODUCING CAUSE OF OUR
 BEREAVEMENT THIS DAY?</p>
-               <p>Mr. Lincoln falls not as a usurper, to indemnify injured
+               <p pn="10">Mr. Lincoln falls not as a usurper, to indemnify injured
 rights. Kings and emperors have been assassinated;
 <pb n="11"/>
                   <figure entity="reed11">
@@ -388,11 +388,11 @@ President was no usurper. He was elected to the chief magistracy by
 the free choice of a free people. There was not a human being on this
 footstool whose rights had been injured by his occupancy of the
 national chair.</p>
-               <p>Mr. Lincoln falls not by the hand of the midnight robber who
+               <p pn="11">Mr. Lincoln falls not by the hand of the midnight robber who
 thirsted for his gold. It was no ordinary spirit of covetousness,
 though that spirit has tasted the blood of untold millions, that
 thirsted for his. It was a spirit feller and fiercer far than that.</p>
-               <p>Mr. Lincoln falls not for any abuse of power placed in his hands,
+               <p pn="11">Mr. Lincoln falls not for any abuse of power placed in his hands,
 nor for the practice of any personal vices that made him odious to the
 people. Other rulers have practised, and have forced upon their
 people, such intolerable vices, that assassination, always a crime,
@@ -408,7 +408,7 @@ sorrow. His hand grasped with like cordiality the hand of the
 statesman, the mechanic, or the day laborer; and all classes of honest
 people received a welcome to his presence, and a blessing from his
 lips.</p>
-               <p>No: it was the spirit, which has drenched our land in blood, the
+               <p pn="11">No: it was the spirit, which has drenched our land in blood, the
 spirit that has raised the greatest rebellion
 <pb n="12"/>
                   <figure entity="reed12">
@@ -420,16 +420,16 @@ Booth the murderer is but one among the tens of thousands of his kin;
 and, viewed in reference to the spirit that produced him, he is a most
 insignificant particle, like a flake of black cinder thrown from the
 molten bowels of a volcano.</p>
-               <p>Booth was but the tool of the confederacy; the plot was the plot of
+               <p pn="12">Booth was but the tool of the confederacy; the plot was the plot of
 the rebels; and when he leaped upon the stage, and shouted "<hi rend="italic">Sic semper tyrannis</hi>!" he but shouted the rebels'
 watchword.</p>
-               <p>That plot embraced, doubtless, not only the President, but the
+               <p pn="12">That plot embraced, doubtless, not only the President, but the
 Vice-President, the Cabinet, and the Lieut. General. The spirit that
 planned it is older than the Rebellion, as the father is older than
 the child. It has lived a century and more in this country, and has
 fattened and thrived upon the richest heritage, and under the best
 human government, ever given to men.</p>
-               <p>The genius of that spirit is the genius of barbarism; it is the
+               <p pn="12">The genius of that spirit is the genius of barbarism; it is the
 soul of tyranny, the breath of indolence, and the life of lust. See
 this dark spirit of hell! At first it only demanded sufferance while
 it might die; but, instead of dying, it began to grow, and to assume
@@ -459,7 +459,7 @@ over the downfall of freedom and religion, and with heart swelled with
 the glut of human innocence it shouts, <hi rend="italic">Though a
 million of freeman die, yet slavery shall live!</hi>
                </p>
-               <p>And so has this spirit sought to lay the foundation of its black
+               <p pn="13">And so has this spirit sought to lay the foundation of its black
 monarchy in our midst, resting on the hearts and pressing out the
 sighs and tears, of millions of human beings. This is the spirit,
 which, for four dark years, has been hanging its weeds of woe in all
@@ -468,10 +468,10 @@ husbands, and sons; which has starved them in barbarous prisons; and
 has laughed at their dying groans. This is the spirit that has
 murdered our noble President. Abraham Lincoln falls the victim of'
 slavery, THE MARTYR OF LIBERTY.</p>
-               <p>We will now inquire--</p>
-               <p>WHAT ARE THE RESULTS WHICH WE MAY HOPE DIVINE PROVIDENCE WILL
+               <p pn="13">We will now inquire--</p>
+               <p pn="13">WHAT ARE THE RESULTS WHICH WE MAY HOPE DIVINE PROVIDENCE WILL
 CONNECT WITH THIS SAD EVENT?</p>
-               <p>For He who is all-wise, whose eyes are everywhere, beholding the
+               <p pn="13">For He who is all-wise, whose eyes are everywhere, beholding the
 evil and the good, saw that the assassin would do the deed. Because he
 is good and wise, we must believe that he is ready to connect with the
 deed results that shall be glorious to humanity. Such is his
@@ -489,7 +489,7 @@ Joseph by his brethren ; greater, more glorious, the results he
 brought out of the sale of Jesus by Judas, the great prototype of
 Booth; and great shall be the results which God will draw from this
 deed of monstrous birth, if we are willing to receive them. And,</p>
-               <p>1. We may believe that he would lead the American people to a more
+               <p pn="14">1. We may believe that he would lead the American people to a more
 profound recognition of himself. We have "forgotten God," - so said
 President Lincoln in his immortal inaugural. Men are prone to creature
 worship: so has it ever been. The great men of the past, who, under
@@ -510,7 +510,7 @@ success. Mr. Lincoln recognized the divine arm, during all our
 struggles, mysteriously directing events so as to preserve our nation;
 and he was not the man to arrogate to himself the glory that belonged
 to God.</p>
-               <p>And we are this day reminded that we can lean on
+               <p pn="14">And we are this day reminded that we can lean on
 <pb n="15"/>
                   <figure entity="reed15">
                      <figDesc>15th page of
@@ -522,17 +522,17 @@ no human arm. The greatest and the best of human rulers are as the
 from our view. But, if in our hearts there is a profound regard for
 the righteousness of God, we shall be preserved, even though our
 rulers fall before our eyes.</p>
-               <p>2. From this event there shall spring forth a holier, stronger bond
+               <p pn="15">2. From this event there shall spring forth a holier, stronger bond
 of union to this nation. Reaching, as it does, to the very depths of
 the human soul; stirring all its most holy sympathies; rousing all its
 sense of justice, honor, right,--this event will be more mighty on the
 hearts of oncoming generations than laws or armies.</p>
-               <p>The influence of the grave of a patriot, a statesman, a deliverer,
+               <p pn="15">The influence of the grave of a patriot, a statesman, a deliverer,
 is mysterious and powerful over the human mind The graves of some
 kings and conquerers do more for their people than the reign of some
 living monarchs. England could not spare the grave of Wellington, and
 for what would America part with the grave of Washington?</p>
-               <p>See that young prince, heir to the proudest throne on the globe, as
+               <p pn="15">See that young prince, heir to the proudest throne on the globe, as
 he visits our Republic a few years since. Apparently uninterested, he
 passes through our crowded cities, and over our broad States, till he
 comes to Mount Vernon. There he pauses, and, with head uncovered, in
@@ -541,7 +541,7 @@ past, he stands silently gazing into the tomb of Washington. A sigh
 escapes from his bosom tears fill his eyes; humbled and satisfied, he
 turns from the sacred place and says, "I have seen enough of America
 now; let me go home."</p>
-               <p>But he had not seen all nor felt all. He had seen only the grave of
+               <p pn="15">But he had not seen all nor felt all. He had seen only the grave of
 a great patriot. There is a grave opened in our land to-day that shall
 have a mightier power, that shall shape vaster destinies. It is the
 grave
@@ -557,7 +557,7 @@ evening, leaving in all hearts a feeling of sadness that he had
 departed, yet of joy that he had departed so gloriously. LINCOLN comes
 down to his grave like the sun in his mid-day splendor, arrested by
 some mighty power and plunged instantly into midnight darkness.</p>
-               <p>But this martyr's death shall tell to future generations the value
+               <p pn="16">But this martyr's death shall tell to future generations the value
 of freedom. The future patriot, historian, Christian, when he reads
 the history of the administration now closed; when he shall have
 visited the homes now desolated, and listened to the recital of sorrow
@@ -566,16 +566,16 @@ battle-fields, and seen the soil strewed with the bones of noble
 freemen, and shall then come to the grave of Lincoln, and read there
 the lesson we are reading to-day, will have learned something of the
 price we have paid for liberty.</p>
-               <p>But the tree of liberty is firmly planted upon our soil now. Its
+               <p pn="16">But the tree of liberty is firmly planted upon our soil now. Its
 roots strike into half a million of free-men's graves; its centre-root
 strikes to the bottom of our President's grave; and there is no
 despot's hand can uproot that tree. It is well watered now,-watered by
 the blood of America's best; and it will grow well.  The meanest of
 America's sons who has freely bled in this struggle for liberty has
 shed better blood than any monarch on the globe has to shed.</p>
-               <p>3.  But this result, also, we think God will connect with this
+               <p pn="16">3.  But this result, also, we think God will connect with this
 event, -A HIGHER APPRECIATION OF JUSTICE.</p>
-               <p>When the Lord gave promise to Abraham that he should become a great
+               <p pn="16">When the Lord gave promise to Abraham that he should become a great
 nation, he said, "For I know him that be will command his children,
 and his household after him, to do justice and judgment, that the Lord
 <pb n="17"/>
@@ -585,25 +585,25 @@ Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
 Obsequies of President Lincoln.</figDesc>
                   </figure>
 may bring upon Abraham that which he hath spoken of him."</p>
-               <p>Justice is that quality which underlies all right government, which
+               <p pn="17">Justice is that quality which underlies all right government, which
 secures it from the encroachments of evil, which guards the persons
 and rights of all the individual subjects of government. Indeed, it is
 the very foundation-stone on which the order and peace of society
 rest.</p>
-               <p>If, on the one hand, rulers disregard justice, the perpetuity of
+               <p pn="17">If, on the one hand, rulers disregard justice, the perpetuity of
 government and the safety of the people are endangered: if; on the
 other hand, the people have a low sense of the sacredness of justice,
 it will be impossible for rulers to enforce it; and the laws which are
 made for the bad will be ineffective, and the vicious will go
 unpunished.</p>
-               <p>A time of national disorder and prostration occurred in Israel once
+               <p pn="17">A time of national disorder and prostration occurred in Israel once
 and God assigned the cause and said, "No man careth for justice, -nor
 any pleadeth for the truth."</p>
-               <p>It is well known, that, for many years, our wisest and best
+               <p pn="17">It is well known, that, for many years, our wisest and best
 statesmen have discovered among both officers and people, a declension
 of the sense of justice; and they have experienced great anxiety on
 account of it.</p>
-               <p>The indications of decline were unmistakable. There was apparent a
+               <p pn="17">The indications of decline were unmistakable. There was apparent a
 very general neglect to enforce law upon transgressors, who became,
 consequently, bold and numerous, while many pleaded openly in favor of
 letting criminals go unpunished. German infidelity, which would
@@ -621,7 +621,7 @@ Obsequies of President Lincoln.</figDesc>
 been abolished and there too the pardoning power had been exercised to
 an alarming degree; so that crime had increased, and Government gave
 less pledge of security to person and property.</p>
-               <p>How far this low sense of justice among us had been produced by
+               <p pn="18">How far this low sense of justice among us had been produced by
 slavery, which openly sets all justice at defiance, I stop not now to
 inquire; but, certain it is, that, from a disregard of personal rights
 and private life, the life of the nation came to be disregarded, and
@@ -631,13 +631,13 @@ and is punishable everywhere by death, found so many in this nation to
 palliate it that it was exceedingly difficult, and it has been
 difficult up to the present time, to brand it with its own native
 guilt.</p>
-               <p>Now, it is one thing to guard and defend a man from the hands of an
+               <p pn="18">Now, it is one thing to guard and defend a man from the hands of an
 assassin; it is quite another thing to bring the assassin to justice
 and punish him. One man may be eminently qualified for the one work,
 another man for the other. It is one thing to defend. a nation from
 the assaults of traitors; it is quite another thing to lift up the
 down-trodden law and bring those traitors to justice.</p>
-               <p>When our Heaven-favored nation was assaulted, and eight millions of
+               <p pn="18">When our Heaven-favored nation was assaulted, and eight millions of
 her subjects, armed from her own armories, rose in hellish purpose to
 slay her, and unknown thousands through all our midst stood ready to
 her burial, Abraham Lincoln was called to her defence. Nobly did he
@@ -654,7 +654,7 @@ Obsequies of President Lincoln.</figDesc>
 enemies were in the city, and traitors in the Government-offices;
 senators trembled; secretaries turned pale; ministers said it was all
 over; and the enemy shouted, "On to the capital!"</p>
-               <p>But there stood the great man in the majesty of his mighty manhood,
+               <p pn="19">But there stood the great man in the majesty of his mighty manhood,
 calm and undaunted, while great men quaked around him. With his eye
 upon the foe, and his arm outstretched to wave the flag of liberty
 over the nation committed to his charge, there he stood to command
@@ -694,12 +694,12 @@ winds of heaven waft it; the lightnings of God flash it to every
 despot's throne on the globe. It is the voice that announces their
 doom; and, from the time of Abraham Lincoln's administration onward,
 tyrants and traitors will tremble.</p>
-               <p>But Mr. Lincoln had done his work. During the long night in which
+               <p pn="20">But Mr. Lincoln had done his work. During the long night in which
 the assault upon the nation had been made, he had defended her, and
 had put the assailants to flight. Now when the morning dawns, he,
 satisfied with his work and rejoicing in the prospect of a long and
 cloudless day of national prosperity, retires to his rest.</p>
-               <p>Other work is to be done now; and what is it? Last Friday night,
+               <p pn="20">Other work is to be done now; and what is it? Last Friday night,
 and Saturday and Sunday and Monday, a scene of excitement prevailed in
 Washington: it continues to the present hour. The assassins of our
 President have fled; the officers of justice are in pursuit; the
@@ -709,7 +709,7 @@ today pleading for their pardon and release? Not one. The law says
 they shall be hung; and there is not a Christian or a philanthropist
 on earth but would say from the depth of his heart "The law is good:
 let them hang!"</p>
-               <p>But what shall we do with those other assassins who planned the
+               <p pn="20">But what shall we do with those other assassins who planned the
 death of the nation as well as of the President who put the dagger to
 the nation's breast, whose deadly aim was for the nation's life? What
 shall we
@@ -729,12 +729,12 @@ spontaneously in every patriot's mind. The question as yet is
 unanswered, and it begins to assume an importance in the minds of
 all. Grave issues are likely to arise from it,--issues that will touch
 the foundations of government and shape future destinies.</p>
-               <p>But hark! While the nation is uttering its wail of sorrow there
+               <p pn="21">But hark! While the nation is uttering its wail of sorrow there
 comes another voice. We turn and look. No sooner does our President
 expire than we see advancing to take his place one of determined mien
 and quick of step. In his voice there is a certain sound, and a
 flashing light in his eye.</p>
-               <p>Who is this that cometh from Tennessee, with dyed garments from the
+               <p pn="21">Who is this that cometh from Tennessee, with dyed garments from the
 fields of blood? We hear him answer, "I am Johnson, and I now speak
 with authority." But wherefore art thou red in thine apparel, and thy
 appearance like him that treadeth in the wine fat? He answers, "
@@ -744,7 +744,7 @@ have witnessed the deep, damning guilt of treason -therefore will I
 tread down our enemies in my fury, and I will sprinkle their blood
 upon my garments, for the day of vengeance is in my heart, and the
 year of the redeemed is come."</p>
-               <p>In the very presence of the lifeless form of our beloved Lincoln,
+               <p pn="21">In the very presence of the lifeless form of our beloved Lincoln,
 Mr. Johnson says, " I pity the deluded masses
 <pb n="22"/>
                   <figure entity="reed22">
@@ -755,27 +755,27 @@ Obsequies of President Lincoln.</figDesc>
 of the Southern people; <hi rend="italic">but upon the leaders, the
 responsible men of this Rebellion, I would the penalty of the
 law</hi>."</p>
-               <p>To that declaration there comes from the hearts of all loyal
+               <p pn="22">To that declaration there comes from the hearts of all loyal
 Americans a hearty AMEN; AMEN comes from the desolated homes and
 hearts through all our land; AMEN comes from the graves where sleep
 our noble soldiers.</p>
-               <p>In the name of our outraged, weeping nation, we say, Welcome,
+               <p pn="22">In the name of our outraged, weeping nation, we say, Welcome,
 Johnson! In the name of Heaven's injured innocence, in the name of
 Liberty, so long in chains now rising in her beauty, we say to
 President Johnson, Welcome to the chair of National Government; and
 may the law of eternal justice ever encircle that chair!</p>
                <pb n="23"/>
-               <p>
+               <p pn="23">
                   <figure entity="reed23">
                      <figDesc>23rd page of
 Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
 Obsequies of President Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>ORDER OF EXERCISES.</p>
-               <p>VOLUNTARY.</p>
-               <p>A.H. WENZELL, ORGANIST.</p>
-               <p>HYMN.</p>
+               <p pn="23">ORDER OF EXERCISES.</p>
+               <p pn="23">VOLUNTARY.</p>
+               <p pn="23">A.H. WENZELL, ORGANIST.</p>
+               <p pn="23">HYMN.</p>
                <lg type="stanza">
                   <l>There's rest in the grave:</l>
                   <l>Life's toils are
@@ -788,9 +788,9 @@ the sleep of the blest,</l>
                   <l>O'er
 my green grassy grave!</l>
                </lg>
-               <p>INVOCATION.</p>
-               <p>REV. JOHN E. WOOD.</p>
-               <p>DIRGE.</p>
+               <p pn="23">INVOCATION.</p>
+               <p pn="23">REV. JOHN E. WOOD.</p>
+               <p pn="23">DIRGE.</p>
                <lg type="stanza">
                   <l>Unveil thy bosom, faithful tomb,</l>
                   <l>Take this
@@ -799,11 +799,11 @@ new treasure to thy trust;</l>
 room</l>
                   <l>To slumber in the silent dust.</l>
                </lg>
-               <p>SELECTIONS FROM SCRIPTURES.</p>
-               <p>REV. HARTFORD P. LEONARD.</p>
-               <p>PRAYER.</p>
-               <p>REV. JOHN E. WOOD.</p>
-               <p>HYMN.</p>
+               <p pn="23">SELECTIONS FROM SCRIPTURES.</p>
+               <p pn="23">REV. HARTFORD P. LEONARD.</p>
+               <p pn="23">PRAYER.</p>
+               <p pn="23">REV. JOHN E. WOOD.</p>
+               <p pn="23">HYMN.</p>
                <lg type="stanza">
                   <l>Calmly now in peace thou'rt  sleeping</l>
                   <l>In thy grave so low;</l>
@@ -813,17 +813,17 @@ room</l>
                   <l>Sadly o'er thee now is wailing</l>
                </lg>
                <pb n="24"/>
-               <p>
+               <p pn="24">
                   <figure entity="reed24">
                      <figDesc>24th page of
 Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
 Obsequies of President Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>ADDRESS.</p>
-               <p>REV. SETH REED.</p>
-               <p>PRAYER.</p>
-               <p>HYMN.</p>
+               <p pn="24">ADDRESS.</p>
+               <p pn="24">REV. SETH REED.</p>
+               <p pn="24">PRAYER.</p>
+               <p pn="24">HYMN.</p>
                <lg type="stanza">
                   <l>No change of time shall ever shock</l>
                   <l>My trust, O Lord, in thee;</l>
@@ -831,10 +831,10 @@ Obsequies of President Lincoln.</figDesc>
 rock,</l>
                   <l>A sure defence to me.</l>
                </lg>
-               <p>BENEDICTION.</p>
-               <p>Committee
+               <p pn="24">BENEDICTION.</p>
+               <p pn="24">Committee
 of Arrangements.</p>
-               <p>Richard L. Pease.                                Hartford
+               <p pn="24">Richard L. Pease.                                Hartford
 P. Leonard.                            Grafton N. Collins.  <lb/>John
 Vinson.                                         James B. Huxford.
 John E. Wood.  <lb/>James L. Barrows.

@@ -81,7 +81,7 @@ compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="stone.001" n="A Discourse Occasioned by the Death of Abraham Lincoln" type="text">
-            <head>
+            <head pn="1">
                <bibl> 
                   <title>A Discourse Occasioned by the Death of Abraham
 Lincoln</title> 
@@ -96,28 +96,28 @@ Boston</pubPlace>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="stone1">
                   <figDesc>1st page of Andrew L. Stone's A
 Discourse Occasioned by the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>A DISCOURSE</p>
-            <p>OCCASIONED BY THE DEATH OF</p>
-            <p>Abraham Lincoln,</p>
-            <p>PRESIDENT OF THE</p>
-            <p>UNITED STATES OF AMERICA,</p>
-            <p>WHO WAS ASSASSINATED IN WASHINGTON,</p>
-            <p>FRIDAY, APRIL 14TH, 1865.</p>
-            <p>Preached in the Park Street Church, Boston,</p>
-            <p>ON THE NEXT LORD'S DAY,</p>
-            <p>BY ANDREW L. STONE, D.D.</p>
-            <p>300 COPIES PRINTED FOR</p>
-            <p>F. K. WIGGIN, BOSTON:</p>
-            <p>1865.</p>
+            <p pn="1">A DISCOURSE</p>
+            <p pn="1">OCCASIONED BY THE DEATH OF</p>
+            <p pn="1">Abraham Lincoln,</p>
+            <p pn="1">PRESIDENT OF THE</p>
+            <p pn="1">UNITED STATES OF AMERICA,</p>
+            <p pn="1">WHO WAS ASSASSINATED IN WASHINGTON,</p>
+            <p pn="1">FRIDAY, APRIL 14TH, 1865.</p>
+            <p pn="1">Preached in the Park Street Church, Boston,</p>
+            <p pn="1">ON THE NEXT LORD'S DAY,</p>
+            <p pn="1">BY ANDREW L. STONE, D.D.</p>
+            <p pn="1">300 COPIES PRINTED FOR</p>
+            <p pn="1">F. K. WIGGIN, BOSTON:</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="stone2">
                   <figDesc>2nd page of
 Andrew L. Stone's A Discourse Occasioned by the Death of Abraham
@@ -125,27 +125,27 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="stone3">
                   <figDesc>3rd page of Andrew L. Stone's A Discourse Occasioned by the Death of Abraham Lincoln.</figDesc>
                </figure>
             </p>
 
             <div2 id="stone.002" n="[Discourse]" type="sermon">
-               <head>[Discourse]</head>
-               <epigraph>
-                  <p>LAMENTATIONS V: 15,16.</p>
-                  <p>THE JOY OF OUR HEART IS CEASED; OUR DANCE IS TURNED INTO
+               <head pn="3">[Discourse]</head>
+               <epigraph pn="3">
+                  <p pn="3">LAMENTATIONS V: 15,16.</p>
+                  <p pn="3">THE JOY OF OUR HEART IS CEASED; OUR DANCE IS TURNED INTO
 MOURNING.</p>
-                  <p>THE CROWN IS FALLEN FROM OUR HEAD.</p>
+                  <p pn="3">THE CROWN IS FALLEN FROM OUR HEAD.</p>
                </epigraph>
-               <p>WHEN, three days ago, the morning of the day appointed for fasting,
+               <p pn="3">WHEN, three days ago, the morning of the day appointed for fasting,
 humiliation, and prayer, rose upon a people jubilant with the joy of
 victory, many felt that both the designation of the day and the
 accustomed manner of its observance should be changed; that, instead
 of fasting, there should be feasting, instead of humiliation and
 supplication, thanksgiving and praise.</p>
-               <p>But some of us remembered, and we called it to mind, that the chief
+               <p pn="3">But some of us remembered, and we called it to mind, that the chief
 intent of the day, as our fathers kept it, was prospective. It did not
 look backward with penitential review, so much as it looked forward
 with forecasting deprecation to possible evils. The day was appointed
@@ -167,17 +167,17 @@ past, and celebrating the throned goodness that had provided abundance
 for the wants of man and beast. It was this ideal of the day recently
 observed, that held so many Christian pulpits and Christian people so
 closely to its first design.</p>
-               <p>We ought to have felt, more deeply than we did, that the future
+               <p pn="4">We ought to have felt, more deeply than we did, that the future
 might bring up, into that bright morning sky, dark clouds big with
 storm and tempest, and have stretched our hands up with a mightier
 reach of supplication toward the sovereign hand holding the balances
 weighted with coming events.</p>
-               <p>The thought was on our hearts and on our lips that there might be
+               <p pn="4">The thought was on our hearts and on our lips that there might be
 perils brooding for our country, shadows gathering over the path of
 its future. But who could have looked forward to so dark a shadow as
 this which has fallen! who could have painted this sable cloud on that
 smiling sky!</p>
-               <p>There was talk, with some, of reversing our associations with this
+               <p pn="4">There was talk, with some, of reversing our associations with this
 month of the Spring, and our religious observances wedded to its
 annual return, and making it henceforth our month of most tuneful
 rejoicing,--the coronal of the year. But not now! We cannot change
@@ -186,14 +186,14 @@ showers : from our eyes the rain falls faster yet! Evermore, from
 henceforth, at thy return, thou and the sorrowing nation shall weep
 together.</p>
                <pb n="5"/>
-               <p>
+               <p pn="5">
                   <figure entity="stone5">
                      <figDesc>5th page of
 Andrew L. Stone's A Discourse Occasioned by the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>How sudden the changes of the April sky,--sunshine! shower! And
+               <p pn="5">How sudden the changes of the April sky,--sunshine! shower! And
 beneath, on our faces and in our hearts, how faithfully copied! What
 glad days they were that followed those two memorable sabbaths,
 freighted with such a gospel of victory and peace! What a deep and
@@ -205,12 +205,12 @@ other. How sudden the darkness! Night comes in nature with twilight
 herald running before. Our night came without precursor, --"in a
 moment, in the twinkling of an eye," as though noon and midnight had
 met.</p>
-               <p>There were beds the night before last, I suppose, restless with
+               <p pn="5">There were beds the night before last, I suppose, restless with
 dreams; but with all the sleepers there was no dream so black as that
 awful fact that went pulsing and tolling through the night, and lies
 now like an incubus which memory cannot chase away, upon the
 shuddering national heart.</p>
-               <p>We have lost great and good men before. They have been taken from
+               <p pn="5">We have lost great and good men before. They have been taken from
 the high places of honor and of trust with their robes of office
 on. They have been taken from the scenes of retirement whither a
 nation's homage followed them, bearing in its offerings before their
@@ -229,7 +229,7 @@ they were gone. But these were all led gently from our presence, by a
 messenger hand, whose power and whose right none of us could
 question. The Divine Will, by itself, and alone, made up and executed
 the summons.</p>
-               <p>But our dear President was snatched from us by the hand of
+               <p pn="6">But our dear President was snatched from us by the hand of
 violence. This was the bitter element in the cup. He might have
 lived. He was not sick. He was not old.  "His eye was not dim, nor his
 natural force abated. "All wantonly and wickedly his precious blood
@@ -237,7 +237,7 @@ was shed; unchilled by age, untainted with disease. He had reached no
 natural bound of life. It was not a treasure expended, but stolen by
 forceful robbery. It is not simply bereavement,--but bereavement by
 such awful fraud, that tries us most sorely.</p>
-               <p>And yet none the less--but how it strains upon our submission-none
+               <p pn="6">And yet none the less--but how it strains upon our submission-none
 the less is it the solemn, sovereign providence of the reigning
 God. Truly "clouds and darkness are round about him." In this visit to
 us "He maketh darkness his pavilion," and our hand cannot draw back
@@ -257,7 +257,7 @@ Lincoln.</figDesc>
                   </figure>
 pale, dead form, lying in the chamber of the White House, "Thy will be
 done!"</p>
-               <p>How dear he was to the people! That thought comes first after the
+               <p pn="7">How dear he was to the people! That thought comes first after the
 loss. He was of them. He was not lifted above them, either in pride of
 place, or pride of intellect, or the kingly style of his greatness. He
 walked on our levels still. All his simple, plain, homely talk, kept
@@ -278,7 +278,7 @@ never held any other President so tenderly in our affections. And one
 reason is, we have never found any other so accessible to our thoughts
 and sympathies, and never one so much of our own mould and
 substance.</p>
-               <p>How we confided in him! He was a man to build trust upon. His
+               <p pn="7">How we confided in him! He was a man to build trust upon. His
 honesty was a pillared rock. The pleasant air, with which, against
 whatever importunity,
 <pb n="8"/>
@@ -310,7 +310,7 @@ official work. It kept his friends, and conciliated those who differed
 from him. He could convince with a smile, refute with a jest, turn the
 flank of heavy reasoning with this agile lightness of wit and conquer
 kind feeling, if not persuasion,--generally both.</p>
-               <p>His goodness was his greatness. His honest heart helped his
+               <p pn="8">His goodness was his greatness. His honest heart helped his
 straight-forward mind. He saw truth and duty more clearly by this
 inward illumination. His
 <pb n="9"/>
@@ -340,7 +340,7 @@ eventful times the true proportions of his greatness. Every coming day
 will add to his fame; and coming generations will testify that no
 purer, no nobler, no more fruitful life has been given to our nation
 and American history.</p>
-               <p>"We trusted it had been he," whom God had appointed to lead us
+               <p pn="9">"We trusted it had been he," whom God had appointed to lead us
 through both the Red Sea and the desert beyond, to the Canaan of our
 future. But the dastard hand of treason struck,--struck as cowards
 always strike, from behind,--struck, with the confession of weakness
@@ -401,7 +401,7 @@ world even, then just impending, which would be the deliverance of the
 confederacy, all go to show that the secret of this conspiracy, and
 its dark purpose, were in the hearts of the rebel chiefs in the rebel
 capital.</p>
-               <p>But what has it gained for itself by such triumphant guilt? Any
+               <p pn="11">But what has it gained for itself by such triumphant guilt? Any
 reversal of its own infamy; a more clement judgment in history; the
 blossoming of fresh hope for its own dark designs; a change of
 sentiment and will with the loyal people; the blotting out of the
@@ -409,17 +409,17 @@ great victories of the fortnight past; aught but a crimson hand whose
 stain strikes all through the soul, and the curse of earth and heaven?
 It has bought its revenge dear.</p>
                <pb n="12"/>
-               <p>
+               <p pn="12">
                   <figure entity="stone12">
                      <figDesc>12th page of
 Andrew L. Stone's A Discourse Occasioned by the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>And what, we may ask, is the extent of this revenge? or, rather, in
+               <p pn="12">And what, we may ask, is the extent of this revenge? or, rather, in
 what aspects may we view it, that shall help us bear our loss, and
 show us the divine hand mingling in it?</p>
-               <p>That deadly aim took the life of Abraham Lincoln. But it could not
+               <p pn="12">That deadly aim took the life of Abraham Lincoln. But it could not
 touch his past. That is forever safe. It could not blot out one of
 those pregnant years through which his hand was on the helm of the
 ship of state, as she drove reeling over the great waves of the
@@ -463,7 +463,7 @@ gained, for us and humanity, under that leadership whose stricken hand
 has dropped the sceptre now. The sceptre has fallen, but this work
 remains. The past is secure. No murderer's hand has power to blot
 it.</p>
-               <p>In our hearts, too, our slain leader <hi rend="italic">still
+               <p pn="13">In our hearts, too, our slain leader <hi rend="italic">still
 lives</hi>. He lives more vitally than ever. Many hearts that were
 cool to him will have opened now, and taken him in. All prejudice will
 forgive him and accept him.  He is no more an object of criticism; he
@@ -498,7 +498,7 @@ name as our fathers spoke to us the name of Washington, and shall grow
 up revering and guarding the hallowed memory of this second <hi rend="italic">Father of his country;</hi> whom History will write, also,
 <hi rend="italic">the Father of a race.</hi>
                </p>
-               <p>His future, too, is <hi rend="italic">safe</hi>. There is no question
+               <p pn="14">His future, too, is <hi rend="italic">safe</hi>. There is no question
 now, in any mind, whether any eclipse can come upon his fame. Would he
 have guided the vessel as wisely, through the intricate channels of
 reconstruction, as over the tempestuous sea of civil strife? Could he
@@ -527,7 +527,7 @@ and failures. History must take his portrait as he is, standing at the
 very highest eminence of a just and stainless life. Not one laurel
 which he has won, and which he wears, is ever, by any reversal of
 coming days, to be stolen from his wealth of power.</p>
-               <p>He was permitted, too, to see the great triumph toward which his
+               <p pn="15">He was permitted, too, to see the great triumph toward which his
 hopes looked and his counsels helped. Thank God for that. He knew the
 rebellion doomed, the war ended, and the nation saved. That one
 supreme moment when his feet trod the streets of the conquered rebel
@@ -552,7 +552,7 @@ almost have said, like aged Simeon, perhaps he did so say in the
 silence of some secret and thankful prayer, "Lord, now lettest thou
 thy servant depart in peace, for mine eyes have seen thy
 salvation!"</p>
-               <p>It will not be too bold to say, that his work was done when it
+               <p pn="16">It will not be too bold to say, that his work was done when it
 paused; for God, who gives each man his task, so judged and so
 appointed. His mission was accomplished. That for which God raised him
 up he had performed. All that was committed to him to do he finished,
@@ -561,7 +561,7 @@ heads. God is not limited in the number or in the variety of his
 agents. Nothing is put in peril now by this falling of a trusted
 leader which God cannot as well provide for, and make even more
 victoriously secure.</p>
-               <p>Least of all are we to fear, that the great cause of progress in
+               <p pn="16">Least of all are we to fear, that the great cause of progress in
 this land must needs be turned back, or even halt. That cause may be
 served and forwarded by men; but it is not dependent upon their living
 or dying. It is not invested in any vulnerable, human life. It is not
@@ -582,7 +582,7 @@ the hand of violence only quickens to a more instant germination, and
 ripens to an earlier and broader harvest. That cause is God's
 cause. It is hid in his heart. It is carried on his eternal
 purpose. It is too high and safe for human desperation to strike.</p>
-               <p>Let none of us in his great grief despair or despond over his
+               <p pn="17">Let none of us in his great grief despair or despond over his
 country. Recall to-day that word which has become in these stern times
 our national motto, "In God we trust!" He did not lead Israel through
 the Red Sea to forsake them in the wilderness. He will not forsake us
@@ -597,7 +597,7 @@ and had shed much blood; but he prepared the way, accumulated the
 means, conquered the peace, and Solomon reared the magnificent, sacred
 pile. Through our tears let us look up and confide in that Supreme
 Leader.</p>
-               <p>He has mingled mercy even with this great tragedy. Part of the
+               <p pn="17">He has mingled mercy even with this great tragedy. Part of the
 bloody conspiracy was foiled. The Secretary
 <pb n="18"/>
                   <figure entity="stone18">
@@ -614,21 +614,21 @@ written on the assassins' roll, none of us can tell, but every great
 and precious life we can commend to his vigilant keeping who has
 numbered the hairs of our head, and without whom not a sparrow falls
 to the ground.</p>
-               <p>What if the new unexpected responsibility settling upon the legal
+               <p pn="18">What if the new unexpected responsibility settling upon the legal
 successor of the slain President should fill him with another heart,
 call him up to the height of a great consecration, gird him with noble
 and faithful purposes, so that the memory of one hour of shame shall
 be remembered no more against him, in the splendor of a long and just
 renown? That issue is more than possible. This, too, may be given as
 the answer of Christian intercession.</p>
-               <p>And oh, we have that stricken household to bathe with a nation's
+               <p pn="18">And oh, we have that stricken household to bathe with a nation's
 sympathy; to beseech God's tenderest consolations for them; to lift
 them, and lay them for strength and comfort on the heart of Jesus.</p>
-               <p>Of what infinite worth to them now, and to us also, those words of
+               <p pn="18">Of what infinite worth to them now, and to us also, those words of
 tender confession which came a few months ago from the President's
 lips: "Yes, now I can say that I do from my heart love the Lord Jesus
 Christ."</p>
-               <p>We feel, many of us, that we could have wished, for him whom we
+               <p pn="18">We feel, many of us, that we could have wished, for him whom we
 mourn, a different scene for the last hour of his health and
 consciousness on earth, that he could
 <pb n="19"/>
@@ -640,11 +640,11 @@ Lincoln.</figDesc>
 have met the fatal missive on some stage of official duty, or in the
 retirement of home, or in the circle of religious worship, rather than
 within those festal walls. Yes, it would have been better.</p>
-               <p>But they were scarcely festal walls to him. They were a sort of
+               <p pn="19">But they were scarcely festal walls to him. They were a sort of
 refuge often, for one who had no retirement of home, from the
 incessant calls and wearying importunities of aspirants for place and
 office.</p>
-               <p>And it has seemed to be rather one of the penalties than pleasures
+               <p pn="19">And it has seemed to be rather one of the penalties than pleasures
 of political rank and illustrious position, that they must yield
 themselves to the popular welcomes and fellowship in such festive
 gatherings. And the plea that prevailed with the President to visit
@@ -653,32 +653,32 @@ unwilling, in the necessary absence of their idolized general, that
 the waiting enthusiasm of the people should be altogether denied an
 object for its expression; his last thought not for himself, but for
 the gratification of those whom he loved and served.</p>
-               <p>And so he has passed from the midst of us. Our joy-bells have
+               <p pn="19">And so he has passed from the midst of us. Our joy-bells have
 changed their merry peals for solemn tolling. Our festive banners
 droop at half-mast. Our purposed jubilant processions must become
 funeral marches to this new grave. "The joy of our hearts is
 ceased. Our dance is turned into mourning. The crown is fallen from
 our head."</p>
-               <p>We touch, in this event, one of the great pivotal points in our
+               <p pn="19">We touch, in this event, one of the great pivotal points in our
 history and destiny, on which turn issues more momentous than we can
 now discern. But our future is with God, and not at the mercy of human
 scheming and human crime.</p>
                <pb n="20"/>
-               <p>
+               <p pn="20">
                   <figure entity="stone20">
                      <figDesc>20th page of
 Andrew L. Stone's A Discourse Occasioned by the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>We shall not have much time for tears even over so great a
+               <p pn="20">We shall not have much time for tears even over so great a
 sorrow. Our work is stern and pressing. One thing is beyond
 contradiction. Yielding rebellion has lost its most lenient
 judge,-returning rebels their best friend. His successor has always
 entertained towards these parricides a sharper and more incisive
 purpose. They will meet in him a face set like a flint, a hand of
 iron. They have not gained much by the exchange.</p>
-               <p>We shall none of us be any the more inclined to spare the last
+               <p pn="20">We shall none of us be any the more inclined to spare the last
 remaining weakness of the old system, from this new exhibition of its
 fell spirit, or to apologize for that temper in the midst of us that
 can make this day of broken-hearted mourning, a day of glad tidings to
@@ -693,7 +693,7 @@ and treason, North and South, will have a short shrift and a sharp
 doom. Perhaps we needed, all of us, to see more clearly the wickedness
 against which we have had to contend, and to be girded anew for its
 utter extermination. Let us crush it quickly, and forever.</p>
-               <p>And so, bereft of this one helper in whom we have felt strong, let
+               <p pn="20">And so, bereft of this one helper in whom we have felt strong, let
 us turn to God with a new spirit of dependence on his Almighty arm,
 and make our tears of
 <pb n="21"/>

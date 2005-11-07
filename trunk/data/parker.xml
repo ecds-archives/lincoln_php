@@ -41,7 +41,7 @@ Sermons Project</title>
 Rev. Henry E. Discourse the Day After the Reception of the Tidings of
 the Assassination of President Lincoln, Preached in the South
 Congregational Church, Concord, N. H., April 16, 1865.  Concord:
-Printed by McFarland &#x0026; Jenks.  1865 </bibl>
+Printed by McFarland &amp; Jenks.  1865 </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -83,7 +83,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="parker.001" n="Discourse the Day After the Reception of the Tidings of the Assassination of President Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>Discourse the
 Day After the Reception of the Tidings of the Assassination of
@@ -95,33 +95,33 @@ E.</author>
                   <imprint>
                      <pubPlace>Concord</pubPlace>
                      <publisher>Printed
-by McFarland &#x0026; Jenks</publisher>
+by McFarland &amp; Jenks</publisher>
                      <date>1865</date>
                   </imprint>
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="parker1">
                   <figDesc>1st page of Rev. Henry
 E. Parker's Discourse the Day After the Reception of the Tidings of
 the Assassination of President Lincoln.</figDesc>
                </figure>
             </p>
-            <p>DISCOURSE</p>
-            <p>THE DAY AFTER THE</p>
-            <p>RECEPTION OF THE TIDINGS</p>
-            <p>OF THE ASSASSINATION OF</p>
-            <p>PRESIDENT LINCOLN,</p>
-            <p>PREACHED IN THE</p>
-            <p>South Congregational Church,</p>
-            <p>CONCORD, N.H., APRIL 16, 1865.</p>
-            <p>BY THE PASTOR,</p>
-            <p>REV. HENRY E. PARKER.</p>
-            <p>CONCORD:</p>
-            <p>PRINTED BY McFARLAND &#x0026; JENKS.</p>
-            <p>1865.</p>
+            <p pn="1">DISCOURSE</p>
+            <p pn="1">THE DAY AFTER THE</p>
+            <p pn="1">RECEPTION OF THE TIDINGS</p>
+            <p pn="1">OF THE ASSASSINATION OF</p>
+            <p pn="1">PRESIDENT LINCOLN,</p>
+            <p pn="1">PREACHED IN THE</p>
+            <p pn="1">South Congregational Church,</p>
+            <p pn="1">CONCORD, N.H., APRIL 16, 1865.</p>
+            <p pn="1">BY THE PASTOR,</p>
+            <p pn="1">REV. HENRY E. PARKER.</p>
+            <p pn="1">CONCORD:</p>
+            <p pn="1">PRINTED BY McFARLAND &amp; JENKS.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="parker2">
                   <figDesc>2nd page of
 Rev. Henry E. Parker's Discourse the Day After the Reception of the
@@ -130,7 +130,7 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="parker3">
                   <figDesc>3rd page of
 Rev. Henry E. Parker's Discourse the Day After the Reception of the
@@ -139,13 +139,13 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="parker.002" n="DISCOURSE" type="sermon">
-               <head>DISCOURSE.</head>
-               <epigraph>
-                  <p>JOHN 11: 53. 
+               <head pn="3">DISCOURSE.</head>
+               <epigraph pn="3">
+                  <p pn="3">JOHN 11: 53. 
 	<lb/>"Then from that day forth they took counsel together for
 to put him to death."</p>
                </epigraph>
-               <p>It is no new thing for the good to be hated, and to be
+               <p pn="3">It is no new thing for the good to be hated, and to be
 martyred. Eighteen hundred years ago a Divine One walked the earth;
 yet he had bitter enemies, who foully plotted against his life; nor
 did their malice subside till their fiendish machinations were
@@ -171,7 +171,7 @@ the Assassination of President Lincoln.</figDesc>
 first case where hatred, and wrong, and violence, have been an eternal
 honor to him who has experienced them. Thine assassination by
 Secessia's hand is the very crown of thy patriotism and worth!</p>
-               <p>And murder, murder just like this, horrible as hell could
+               <p pn="4">And murder, murder just like this, horrible as hell could
 conceive, which has stunned the nation this day, which will shock the
 world, we had, perhaps, full reason to expect. When, four years ago
 this last fall, the votes of the nation declared to the South that
@@ -193,7 +193,7 @@ residence, it was found requisite for his safety that he should be
 daily accompanied in and out from Washington with a mounted
 escort. The threats of the dangers of assassination thus have always
 hung about him.</p>
-               <p>Or is it surprising that the black heart and bloody
+               <p pn="4">Or is it surprising that the black heart and bloody
 <pb n="5"/>
                   <figure entity="parker5">
                      <figDesc>5th page of Rev. Henry
@@ -220,7 +220,7 @@ of the realm, with strict orders for their assassination at the moment
 of his death, that there might be some mourning in the land. Oh that
 it had been the will of heaven in like manner to have frustrated this
 infernalism as it did that!</p>
-               <p>Yes, we had reason enough to infer this act, but it had
+               <p pn="5">Yes, we had reason enough to infer this act, but it had
 been deferred so long we fondly hoped that safety was secured. Alas!
 how terribly were we mistaken! Oh, my country, my country! How have I,
 in these late years, mourned for thee in thy prostration in the
@@ -241,7 +241,7 @@ gladiators of the arena,</p>
                <lg type="stanza">
                   <l>"Butchered to make a Roman holiday!"</l>
                </lg>
-               <p>And now, when at last I saw thee, my noble country, emerging from
+               <p pn="6">And now, when at last I saw thee, my noble country, emerging from
 thy humiliation and disgrace, and springing to shine old position of
 influence and renown, and more,--Oh, to see thee present this most
 humbling sight of all before the world, of having nourished such a
@@ -249,7 +249,7 @@ monster, capable of such an act, and of having such a deed committed
 upon thy soil! for, excepting <hi rend="italic">the</hi> murder of the
 ages, the crucifixion itself, human history seems not to have
 furnished its parallel.</p>
-               <p>But, my hearers, are there any words to be uttered this
+               <p pn="6">But, my hearers, are there any words to be uttered this
 hour, beside those of bitter lamentation for the act and execration of
 it? Can I to-day perform my usual duty of uttering God's lessons to
 you, as suggested by the volume of his word or the book of his
@@ -257,7 +257,7 @@ providence? Sufficient time has not yet elapsed to enable us to
 recover from the appalling, bewildering effects of the tidings. We can
 not yet look upon the matter with a clear and steady eye. Still, I
 feel there are some things I can even now say.</p>
-               <p>And, first: I feel that we are more than ever in God's
+               <p pn="6">And, first: I feel that we are more than ever in God's
 hands; that he is most directly and conspicuously dealing with
 us. Think of our feelings the
 <pb n="7"/>
@@ -283,7 +283,7 @@ divine desertion that we are experiencing this. The magnitude of the
 previous mercy shows this. That was in one sense a gracious
 preparation for this; and we have still all our late successes and
 victories to lean upon to strengthen and support us.</p>
-               <p>It is possible that without great and increasing elation,
+               <p pn="7">It is possible that without great and increasing elation,
 there may have been some danger that we should come to lose our sense
 of dependence--come to feel as though all our troubles were past, no
 more dangers to fear, and so soon become God-forgetting and
@@ -292,7 +292,7 @@ be--and he anew humbled us, and taught us, right in the midst of our
 highest joy, that without his preservation, every cup of our hopes and
 satisfactions will be dashed.</p>
                <pb n="8"/>
-               <p>
+               <p pn="8">
                   <figure entity="parker8">
                      <figDesc>8th page of
 Rev. Henry E. Parker's Discourse the Day After the Reception of the
@@ -300,11 +300,11 @@ Tidings of the Assassination of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>Long ago I learned to feel that the more striking the
+               <p pn="8">Long ago I learned to feel that the more striking the
 events in our personal experience, the more evidently God is dealing
 with us as individuals. I do not know why I should have any less
 strong convictions when applying the rule to national events.</p>
-               <p>II. But I see more clearly the hand and the mercy of God in
+               <p pn="8">II. But I see more clearly the hand and the mercy of God in
 not allowing this event to occur until it did. Had the first
 intentions of assassination, and the first attempts four years ago
 been successful, it is difficult to say how dire might have been the
@@ -317,7 +317,7 @@ the loyal States will call it, that the President was not taken away
 before completing the great acts of his administration, especially the
 two which have most signalized it, the bringing an end to slavery and
 to the rebellion.</p>
-               <p>III. Another thought which presents itself is, that perhaps
+               <p pn="8">III. Another thought which presents itself is, that perhaps
 this last act was needed to complete the infamy of the rebellion and
 secession, and of that nefarious system of human servitude out of
 which secession and rebellion grew. Such an act as this is the
@@ -346,7 +346,7 @@ the true animus of the rebellion. I doubt if we hear any more
 commendations of it, or apologies for it; it will at last have
 succeeded in awakening the detestation and abhorrence of the civilized
 world, as it long ago should have done.</p>
-               <p>And I am not sure but that we too needed this further deed
+               <p pn="9">And I am not sure but that we too needed this further deed
 of horror to be done, that we might be preserved from all false
 leniency toward that trio of abominations, slavery, secession, and
 rebellion; that we might at once proceed with unsparing and speedy
@@ -354,7 +354,7 @@ hand to root out every vestige of them. I have of late feared much
 lest their downfall should not be stamped with sufficient ignominy for
 the best instruction and safeguard of coming generations. There is
 little fear now, however.</p>
-               <p>At the outset of this rebellion I, in this house, laid the
+               <p pn="9">At the outset of this rebellion I, in this house, laid the
 charge and crime of it at the door of slavery! Little did I think,
 that in its closing hours such a final illustration of its general
 character and leadings would
@@ -378,7 +378,7 @@ to death they did not care, out of all possible future serviceableness
 to their country they meant, if not to death; this last work of horrid
 assassination is but the latest. God grant it the final flowering of
 the same hellish plant!</p>
-               <p>IV. And not only may this foul deed have been needed to put the
+               <p pn="10">IV. And not only may this foul deed have been needed to put the
 last possible brand of infamy upon the rebellion and its primal cause,
 but it also may have been desirable as the final, highest test of the
 strength of our institutions and form of government. The rebellion and
@@ -401,7 +401,7 @@ each department and office of the government without any infringement
 upon the usual order and routine, it may be regarded as under God the
 last, highest test of the sufficiency of our Republican form of
 institutions for any and all emergencies.</p>
-               <p>V. Again, it may be observed, that very possibly the work of
+               <p pn="11">V. Again, it may be observed, that very possibly the work of
 President Lincoln was now done, so far as he could complete it. Very
 possibly another could better take it up and carry it on. He has done
 a great work--a marvelous work; history will record it as of
@@ -431,7 +431,7 @@ and experience for the position. God keep him and bless him. God bless
 President Johnson! My own conviction is that he will better complete
 what Mr. Lincoln has so incomparably thus far carried on, than even
 our lamented late President himself, if spared, would.</p>
-               <p>VI. Yet again, it may be observed, that this fearful event
+               <p pn="12">VI. Yet again, it may be observed, that this fearful event
 will have a mighty and happy tendency to unite our people. It is not
 going to have the effect of throwing us into anarchy, or of confusing
 any of the operations of our government, or retarding at all the
@@ -471,7 +471,7 @@ individual sense of duty and obligation among all the people. It is a
 republicanizing and democratizing of the people on a plane of
 elevation and importance in advance of every thing thus far in our
 national experience and character.</p>
-               <p>But most imperfectly can our poor discernment now interpret
+               <p pn="13">But most imperfectly can our poor discernment now interpret
 the lessons of this event. Let us at least "humble ourselves under the
 mighty hand of God, that he may exalt us in due time" from the dust of
 our present abasement and sorrow. Let us together give our united,
@@ -482,7 +482,7 @@ laid. Let us in the presence of such a death realize anew the
 old-urged truth that no position gives immunity from the grave, and
 that every life hastens speedily to render its account to God.</p>
                <pb n="14"/>
-               <p>
+               <p pn="14">
                   <figure entity="parker14">
                      <figDesc>14th page of
 Rev. Henry E. Parker's Discourse the Day After the Reception of the
@@ -490,7 +490,7 @@ Tidings of the Assassination of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>And now rest thee, thou man beloved by more hearts and more
+               <p pn="14">And now rest thee, thou man beloved by more hearts and more
 beloved than any man in this nation before, and by none more than the
 dusky race, who will ever hail thee as their deliverer from bondage;
 thou man--mercifully raised up by heaven for the fearful crisis of our

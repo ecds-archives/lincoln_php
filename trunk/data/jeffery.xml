@@ -39,7 +39,7 @@ Sermons Project</title>
             <bibl>Jeffery,
 R. The Mission of Abraham Lincoln. A Sermon Preached Before the Fourth
 Baptist Church, Philadelphia, Thursday Morning, June 1st, 1865.
-Philadelphia: Bryson &#x0026; Son, Printers and Stationers, No. 8 North
+Philadelphia: Bryson &amp; Son, Printers and Stationers, No. 8 North
 Sixth Street. 1865.  </bibl>
          </sourceDesc>
       </fileDesc>
@@ -82,7 +82,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="jeffery.001" n="The Mission of Abraham Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>The Mission of
 Abraham Lincoln</title> 
@@ -91,74 +91,74 @@ Abraham Lincoln</title>
                   <author>Jeffery, R.</author> 
                   <imprint>
                      <pubPlace>Philadelphia</pubPlace>
-                     <publisher>Bryson &#x0026; Son,
+                     <publisher>Bryson &amp; Son,
 Printers and Stationers</publisher>
                      <date>1865</date>
                   </imprint>
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="jeffery1">
                   <figDesc>1st page of R. Jeffery's The
 Mission of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p>THE MISSION OF ABRAHAM LINCOLN</p>
-            <p>A SERMON</p>
-            <p>PREACHED BEFORE THE</p>
-            <p>FOURTH BAPTIST CHURCH, PHILADELPHIA,</p>
-            <p>THURSDAY MORNING, JUNE 1ST, 1865.</p>
-            <p>BY</p>
-            <p>R. JEFFERY, D.D.</p>
-            <p>PHILADELPHIA:</p>
-            <p>BRYSON &#x0026; SON, PRINTERS AND STATIONERS, No. 8
+            <p pn="1">THE MISSION OF ABRAHAM LINCOLN</p>
+            <p pn="1">A SERMON</p>
+            <p pn="1">PREACHED BEFORE THE</p>
+            <p pn="1">FOURTH BAPTIST CHURCH, PHILADELPHIA,</p>
+            <p pn="1">THURSDAY MORNING, JUNE 1ST, 1865.</p>
+            <p pn="1">BY</p>
+            <p pn="1">R. JEFFERY, D.D.</p>
+            <p pn="1">PHILADELPHIA:</p>
+            <p pn="1">BRYSON &amp; SON, PRINTERS AND STATIONERS, No. 8
 NORTH SIXTH STREET.</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="jeffery2">
                   <figDesc>2nd page of
 R. Jeffery's The Mission of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p>Correspondence.</p>
-            <p>REV. R. JEFFERY, D.D.</p>
-            <p>
+            <p pn="2">Correspondence.</p>
+            <p pn="2">REV. R. JEFFERY, D.D.</p>
+            <p pn="2">
                <hi rend="italic">Dear Sir</hi>:--We, the
 subscribers, joining in the general wish of your congregation,
 earnestly request for publication a copy of your able Discourse on the
 "<hi rend="italic">Mission of Abraham Lincoln</hi>," delivered in the
 Fourth Baptist Church, June 1st,--the day of our National Fast.</p>
-            <p>Yours truly,</p>
-            <p>GEO. SNYDER,            A. ENGLISH,<lb/>
+            <p pn="2">Yours truly,</p>
+            <p pn="2">GEO. SNYDER,            A. ENGLISH,<lb/>
 THOMAS MORGAN,          ASA JONES, <lb/>ROBERT PHARES,
 WM. BOUKER, <lb/>A.G. HINES,             JOHN LOUTEY, <lb/>HENRY BEAGLE,
 H.L. HALLOWELL, <lb/>L.B. CROSBY,            ALFRED HALLOWELL,<lb/>
 E.G. DALTON,            R.N. PRATT.  <lb/>WM. H. LONGCOPE,</p>
-            <p>PHILADELPHIA, June 2d, 1865.</p>
-            <p>PHILADELPHIA, June 2d,
+            <p pn="2">PHILADELPHIA, June 2d, 1865.</p>
+            <p pn="2">PHILADELPHIA, June 2d,
 1865.</p>
-            <p>GEO. SNYDER,             THOS. MORGAN, <lb/>ROBERT PHARES,
+            <p pn="2">GEO. SNYDER,             THOS. MORGAN, <lb/>ROBERT PHARES,
 A.G. HINES, and others.</p>
-            <p>
+            <p pn="2">
                <hi rend="italic">Gentlemen</hi>:--In response to
 your kind request, I place my manuscript at your disposal.</p>
-            <p>Yours truly,</p>
-            <p>R. JEFFERY.</p>
+            <p pn="2">Yours truly,</p>
+            <p pn="2">R. JEFFERY.</p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="jeffery3">
                   <figDesc>3rd page of
 R. Jeffery's The Mission of Abraham Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="jeffery.002" n="THE MISSION OF ABRAHAM LINCOLN." type="sermon">
-               <head>THE MISSION OF ABRAHAM LINCOLN.</head>
-               <epigraph>
-                  <p>"WHO KNOWETH WHETHER THOU ART COME TO THE KINGDOM FOR
+               <head pn="3">THE MISSION OF ABRAHAM LINCOLN.</head>
+               <epigraph pn="3">
+                  <p pn="3">"WHO KNOWETH WHETHER THOU ART COME TO THE KINGDOM FOR
 SUCH A TIME AS THIS!"-ESTHER, iv. 14.</p>
                </epigraph>
-               <p>WE meet to-day in accordance with the Proclamation of the
+               <p pn="3">WE meet to-day in accordance with the Proclamation of the
 Chief Magistrate, in order to commemorate the death of the late
 President of the United States. This appointment as a formal and
 official recognition of such an important event is eminently
@@ -175,7 +175,7 @@ have been acknowledged by the unaffected sorrow of the civilized
 world; his memory is enshrined in the hearts of all good men; and his
 name is bequeathed to us, a legacy of goodness and of greatness
 forever.</p>
-               <p>What, therefore, remains to be said now? To what new
+               <p pn="3">What, therefore, remains to be said now? To what new
 emotion can we appeal? And how is it possible by any present
 expression to intensify the sincerity of our sorrow, or the
 genuineness of our love? Yet the occasion of the hour affords an ample
@@ -198,7 +198,7 @@ country and the civilization of mankind. And "whoso is wise will
 observe these things and discern" a providential purpose in bringing
 ABRAHAM LINCOLN to the Presidency at such a time as that which marked
 the epoch of his administration.</p>
-               <p>I am aware that it is a delicate, and indeed a presumptuous
+               <p pn="4">I am aware that it is a delicate, and indeed a presumptuous
 task, to infer the special designs of God, from the peculiarity of
 human affairs. Those affairs themselves are ordinarily so incomplete,
 occupy so small a place in the great drama of His unfolding
@@ -208,7 +208,7 @@ biased by partisan sympathies, that an attempt to interpret the
 purposes of God in current events, is often a pitiable illustration of
 the vanity of our imaginings, and a proof of our inability "by
 searching to find out God."</p>
-               <p>But in the events which make up the administration of our
+               <p pn="4">But in the events which make up the administration of our
 lamented President, God has revealed himself. He has transcribed his
 secret purposes to the pages of our national history, has written his
 will in char-
@@ -222,8 +222,7 @@ has shone forth from the darkness of his pavillion. "Out of the
 heavens he has made us to hear a voice, that he might instruct
 us."<ref target="jeffery.002.n01">*</ref> "The Lord hath made bare his
 holy arm in the eyes of all the nations; and all the ends of the earth
-have seen the salvation of our God.<ref
-target="jeffery.002.n02">&#x2020;</ref> "To-day, we are not called to peer
+have seen the salvation of our God.<ref target="jeffery.002.n02">†</ref> "To-day, we are not called to peer
 into the uncertain future, but to study the accomplished past. We are
 not at a loss to know what the end of these things will be, for the
 things undertaken have been performed. The results of four years of
@@ -233,12 +232,12 @@ facts. We now know that</p>
                   <l>"Behind a frowning providence </l>
                   <l>God hid a smiling face;"</l>
                </lg>
-               <p>for he has caused those clouds</p>
+               <p pn="5">for he has caused those clouds</p>
                <lg type="stanza">
                   <l>"To break,</l>
                   <l>With blessings on our head."</l>
                </lg>
-               <p>And therefore in the light of accomplished facts, we may, without
+               <p pn="5">And therefore in the light of accomplished facts, we may, without
 presumption, interpret the designs of God in permitting the late
 events to take place. It was the design of God to accomplish the
 things which have been accomplished. It was his design to accomplish
@@ -250,25 +249,25 @@ specially raised him up and qualified him for this self same
 purpose. He did not intend that he should die until his work was
 finished, and He did not intend that he should live after it was
 done.</p>
-               <note id="jeffery.002.n01" n="*" type="foot" anchored="yes">
-                  <p>Deut.iv. 36.</p>
+               <note pn="5" id="jeffery.002.n01" n="*" type="foot" anchored="yes">
+                  <p pn="5">Deut.iv. 36.</p>
                </note>
-               <note id="jeffery.002.n02" n="&#x2020;" type="foot" anchored="yes">
-                  <p>Isaiah, lii. 10.</p>
+               <note pn="5" id="jeffery.002.n02" n="†" type="foot" anchored="yes">
+                  <p pn="5">Isaiah, lii. 10.</p>
                </note>
 
                <pb n="6"/>
-               <p>
+               <p pn="6">
                   <figure entity="jeffery6">
                      <figDesc>6th page of R. Jeffery's
 The Mission of Abraham Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>Let us illustrate and confirm these positions by
+               <p pn="6">Let us illustrate and confirm these positions by
 considering,</p>
-               <p>I. The manifest results of such a time as marked the
+               <p pn="6">I. The manifest results of such a time as marked the
 administration of our departed President.</p>
-               <p>1. In the first place we have a confirmation of the status
+               <p pn="6">1. In the first place we have a confirmation of the status
 of our American Nationality. Hitherto its character has been
 undetermined and problematical. The past ninety years of our history
 have been embryotic and formative. The founders of our nation wisely
@@ -288,7 +287,7 @@ of effecting it, it is probable that differences of opinion regarding
 abstract theories would have become so positive, as to have rendered
 even a union for the purpose of gaining their independence,
 impracticable.</p>
-               <p>But after the independence of the colonies was
+               <p pn="6">But after the independence of the colonies was
 accomplished, the next great question which naturally presented
 itself, was as to the kind of compact by which the
 <pb n="7"/>
@@ -308,19 +307,19 @@ basis of a permanent and progressive nationality. They left each State
 at liberty to withdraw from the compact at pleasure, and gave to no
 centralized form of authority, power to enforce obedience to the
 General Government.</p>
-               <p>This exigency was met by the subsequent adoption of the
+               <p pn="7">This exigency was met by the subsequent adoption of the
 present Constitution, whose object is avowed in its own terms: "We,
 the People of the United States, in order to form <hi rend="italic">a
-more perfect Union, &#x0026;c.</hi>, do ordain and establish this
+more perfect Union, &amp;c.</hi>, do ordain and establish this
 Constitution of the United States."</p>
-               <p>Since that time until the present, the subtile forces of
+               <p pn="7">Since that time until the present, the subtile forces of
 two opposite elements of organization have been at work in the
 formation of the character of the American nation. Embarrassment and
 conflict have arisen in the various attempts to define and prescribe
 their separate, and yet harmonious spheres of action. The difficulty
 has been in endeavoring to adjust the relations of the several States
 to the General Government.</p>
-               <p>Learning from the examples of the old world to dread
+               <p pn="7">Learning from the examples of the old world to dread
 centralization of power, desirous of retaining that original
 sovereignty which each State enjoyed in the achievement of its
 colonial independence, our fathers were disposed to allow only so much
@@ -346,7 +345,7 @@ educate the people into the conception, acceptance and defence of this
 declaration. So that now it would be impossible to bring the American
 people to consent to any infringement on the smallest constitutional
 right of a State.</p>
-               <p>And yet the doctrine of State Rights, like the centrifugal
+               <p pn="8">And yet the doctrine of State Rights, like the centrifugal
 force in nature, needful in its place, if left to its unrestrained
 action, would drive the State off from its orbit and involve the whole
 structure of the Government in anarchy. While it was needful to guard
@@ -373,7 +372,7 @@ one common centre; each reflecting a distinct radiance, and all lit up
 by a common sun. It constitutes a galaxy of nations in one
 nationality, indestructible by assault and indissoluble by
 secession.</p>
-               <p>Now, heretofore, one phase of the national life was an
+               <p pn="9">Now, heretofore, one phase of the national life was an
 actuality; the other was a problem. Other nations knew that the
 sovereignty of the States was an accepted thesis in American politics,
 but neither they nor ourselves were agreed as to the possibility, or
@@ -383,7 +382,7 @@ impossible, and predicted the destruction of the Republic by the
 encroachments of State demands on the central authority, or the
 annihilation of the rights of a State by the usurpations of the
 National Government.</p>
-               <p>It has been so ordered that this question has been settled
+               <p pn="9">It has been so ordered that this question has been settled
 by the adjudication of the sword. All other issues were incidental to
 this grand issue. The right of a State to secede was affirmed; the
 right of a State to secede was denied. The decision was left to the
@@ -404,7 +403,7 @@ supremacy of the Nation more. Heretofore some extremists have boasted
 that they were citizens of a particular State of the United States;
 henceforth the glory of an American will be that though a resident of
 a particular State, he is a citizen of the United States.</p>
-               <p>2. But the war has not merely defined the genius of
+               <p pn="10">2. But the war has not merely defined the genius of
 American Nationality. It has also demonstrated the practicability of
 American Republicanism. The structure of our Government is complex. It
 is not a simple democracy, any more than it is a simple oligarchy. It
@@ -414,7 +413,7 @@ is a democracy, because every citizen has a vote in the choice of
 officers, and in the determination of policies. It is an oligarchy,
 because the people are bound to obey the constitutional enactments of
 their chosen rulers.</p>
-               <p>But the success of such Government was an experiment. It
+               <p pn="10">But the success of such Government was an experiment. It
 had never been fairly tried. There had been Democracies, but they had
 wrought out their own destruction; there had been attempts to form
 Republics, but they had failed. The Monarchists of the Old World had
@@ -437,7 +436,7 @@ the task of enforcing themselves to obedience to the laws of their
 constituted rulers; while bad men have not hesitated to avail
 themselves of this possibility, in order to ensure the Nation's
 overthrow.</p>
-               <p>Thus it has come to pass, that for years, a restless,
+               <p pn="11">Thus it has come to pass, that for years, a restless,
 turbulent and ambitious portion of our own people have clamored for
 favors, and demanded privileges, while others, actuated by a love of
 peace, and fearing the threats of rebellion and secession, have weakly
@@ -446,7 +445,7 @@ them began to imagine themselves the autocrats of the nation, and
 their brethren and equals mercenary vassals,--men, who for the pottage
 of commercial gain, were willing to sell their freedom and the
 sovereignty of the nation.</p>
-               <p>But evidently this way of preserving the Union was a
+               <p pn="11">But evidently this way of preserving the Union was a
 confession of its weakness and a precursor of its ruin. It invited
 combinations for the usurpation of power, and encouraged conspiracies
 for the destruction of liberty. And accordingly it was coming to
@@ -472,7 +471,7 @@ themselves the vassals of the arrogant pretension. And what was the
 plea by which this base subserviency was urged? The preservation of
 the Union!! If these demands are not met by concessions, the Union
 will be destroyed!!</p>
-               <p>Now, it is possible to urge and gain measures by
+               <p pn="12">Now, it is possible to urge and gain measures by
 intimidations of this kind up to a certain point. Most men are
 disposed to be peaceful, and are willing to make considerable
 compromises for the sake of their interests; but it is possible to
@@ -506,7 +505,7 @@ are ordained of God. Obedience to their authority is obedience to God,
 and rebellion against them is rebellion against God. And the disregard
 by a free people of these fundamental facts, is more than a mistake or
 a blunder. It is self-repudiation. It is national suicide.</p>
-               <p>The existence of a wide spread and terrible rebellion, and
+               <p pn="13">The existence of a wide spread and terrible rebellion, and
 the exigencies of the Government in attempting to put it down, have
 conspired to evoke and test the sincerity and strength of the people's
 regard for the sanctity of law. It was possible for the people to have
@@ -529,7 +528,7 @@ dignity and integrity of the nation. No sacrifice of treasure or of
 blood was deemed too costly for the preservation of the Republic, and
 no settlement was deemed admissible that did not assert the supreme
 authority of the Constitution and the Laws.</p>
-               <p>And do you not see, that if the people had willed
+               <p pn="14">And do you not see, that if the people had willed
 otherwise; if by a resort to compromises and concessions the war had
 been brought to a close, even though the Union had been preserved
 thereby, that the result would have been accomplished by the surrender
@@ -539,7 +538,7 @@ American Republicanism, to enforce the obedience of its citizens to
 their own laws? It would have proclaimed that in this country,
 obedience to authority is optional, rebellion is a political trick,
 and treason is a reserved prerogative of minorities.</p>
-               <p>It has been said, and that too by men whose statesmanship
+               <p pn="14">It has been said, and that too by men whose statesmanship
 we are wont to respect, that revolution even in a Republican
 Government is the right of a minority. But this position we venture to
 deny. It is a contradiction in terms and an absurdity in
@@ -556,7 +555,7 @@ R. Jeffery's The Mission of Abraham Lincoln.</figDesc>
 Government, it must not. Grant that it and every minority might claim
 the right of revolution.  Resistance of it would be tyranny, and its
 success would be the overthrow of the Republican principle.</p>
-               <p>During the progress of the conflict, we were told that this
+               <p pn="15">During the progress of the conflict, we were told that this
 war was an attempt on the part of the North to subjugate the South,
 and were assured that the South could never be subjugated. The first
 of these assertions was a falsehood, the second, an empty boast. The
@@ -567,7 +566,7 @@ but have demonstrated the grand fact, that this Republic is able to
 vindicate and maintain the majesty of its authority against rebellion,
 whether that rebellion arise in the South or the North, in the East or
 the West.</p>
-               <p>A few years ago, Congress passed the Fugitive Slave Law,--a
+               <p pn="15">A few years ago, Congress passed the Fugitive Slave Law,--a
 law, odious to the moral convictions of the great body of the northern
 people. And yet, the North did not propose to rebel. And if any
 portion of their people had undertaken to inaugurate a rebellion, not
@@ -588,7 +587,7 @@ R. Jeffery's The Mission of Abraham Lincoln.</figDesc>
 which no thesis of Republicanism, no pretext of Democracy, can set
 aside without incurring the highest guilt of rebellion "against the
 throne and monarchy of God."</p>
-               <p>But to-day and henceforth, the ability of this Republic to
+               <p pn="16">But to-day and henceforth, the ability of this Republic to
 maintain its authority against the assaults of rebellion, is a
 demonstrated fact. All those delicate questions which affected the
 reaching of this consummation are settled for all time. And the people
@@ -598,7 +597,7 @@ on the unqualified submission of all the people, in all parts of the
 land, to the majesty of the Constitution and the enactments of
 Congress; and to dispose of treason not by wheedling with traitors,
 but by meting out to them the stern demerit of their awful crime.</p>
-               <p>3. A third result of this war is the Emancipation of
+               <p pn="16">3. A third result of this war is the Emancipation of
 Labor. It is to be regretted that in this Christian land there have
 been those who, without even the apology of self-interest, could argue
 for the righteousness of an institution which was based on the
@@ -627,7 +626,7 @@ all men. The highway of liberty is cast up for the redeemed nation to
 walk in, our victorious soldiers are returning with joy upon their
 heads, and before all the people is opened up a pathway of unexampled
 prosperity.</p>
-               <p>For after all, to speak of the destruction of slavery,
+               <p pn="17">For after all, to speak of the destruction of slavery,
 though itself an institution cruel to the enslaved, is only to state
 the blessing in a negative form. The abolition of slavery was not only
 an act of justice to the slave, but, an act of justice to the
@@ -656,7 +655,7 @@ Providence, that slaves were the only class who held a first mortgage
 on the land, and whose homes and support were assured without effort
 and anxiety from themselves, by the provisions of the Government that
 enslaved them.</p>
-               <p>Hence in destroying slavery, the nation really knocked off
+               <p pn="18">Hence in destroying slavery, the nation really knocked off
 the chains from free labor, and broke down the middle wall of
 partition between free labor and the fairest portion of our vast
 domain. Now white men are free, free to traverse the length and
@@ -692,13 +691,13 @@ black men of the South will join in mutual acknowledgements of
 gratitude and honor, to those who, by the sacrifice of their treasure
 and lives, disenthralled them both, and consecrated our entire domain
 to liberty, law and labor.</p>
-               <p>II. Now in considering the agencies by which these grand
+               <p pn="19">II. Now in considering the agencies by which these grand
 results have been achieved, we assert that the nation is specially
 indebted to the services of our departed President. Four years ago,
 who could tell whether ABRAHAM LINCOLN was called to the kingdom for
 such a time as then burst upon us? But are any at a loss to answer the
 question now?</p>
-               <p>1. We are able to say that he was brought to the kingdom
+               <p pn="19">1. We are able to say that he was brought to the kingdom
 for such a time, in view of the circumstances of his nomination and
 election. Though presented to the suffrage of the people on a distinct
 and new issue, yet it was not seriously believed by many, that his
@@ -724,7 +723,7 @@ years of war, the people were called upon to choose a President for
 another term, with what unexampled unanimity did they interpret the
 will of God, that ABRAHAM LINCOLN had been called to the Presidency
 for such a time as this?</p>
-               <p>Yes for just such a time as this. Suppose one of <hi rend="italic">some</hi> of the men who have been Presidents, had been
+               <p pn="20">Yes for just such a time as this. Suppose one of <hi rend="italic">some</hi> of the men who have been Presidents, had been
 President when Fort Sumpter was attacked, should we occupy the
 position we hold to-day? Ah, no. In that event we might have had
 reason for thinking that God was designing to work out our
@@ -735,7 +734,7 @@ see it now; he was defeated as a candidate for the office of United
 States Senator, that he might be elected President. The American
 people chose ABRAHAM LINCOLN to be their National President; God chose
 him to be their National Saviour.</p>
-               <p>2. In the second place, observe the general fitness of
+               <p pn="20">2. In the second place, observe the general fitness of
 ABRAHAM LINCOLN for just such a time. God, when selecting an
 instrument for the accomplishment of his purposes, always has a regard
 to the law of adaptation. 
@@ -751,14 +750,14 @@ the characteristics of Paul's nature, fitted him to be the Apostle to
 the Gentiles. And so it was in regard to ABRAHAM LINCOLN. The American
 people blundered upon him. God chose him with special reference to
 coming events.</p>
-               <p>He entered upon untried difficulties. No precedents were
+               <p pn="21">He entered upon untried difficulties. No precedents were
 before him:--for such a rebellion, so vast, so comprehensive, so
 formidable, so vindictive, so contrary to liberty, so dishonoring to
 human nature, so defiant of the laws of Providence, against a
 Government, so generous, so just, so lenient, had never occurred in
 the history of the race. Its only counterpart, was that revolt among
 the angels against the supremacy of God.</p>
-               <p>Now, ABRAHAM LINCOLN entered upon his perilous task with a
+               <p pn="21">Now, ABRAHAM LINCOLN entered upon his perilous task with a
 profound and humble trust in the superintending Providence of God in
 the affairs of men. He seemed to feel, and without presumption or
 affectation, that he was the appointed instrument for working out the
@@ -785,7 +784,7 @@ from him trusted him, and such a benevolence of heart, that his
 bitterest enemies were those who hated him because he gave them no
 occasion for their malignity. This rare combination of traits
 qualified and proved him to be the man for the time.</p>
-               <p>3. In addition to these general traits, there were peculiar
+               <p pn="22">3. In addition to these general traits, there were peculiar
 elements in the character of ABRAHAM LINCOLN, that specially proved
 his fitness for the Presidency at such a time. In the first place: He
 clearly comprehended the fundamental law of American Nationality. Some
@@ -810,7 +809,7 @@ R. Jeffery's The Mission of Abraham Lincoln.</figDesc>
                   </figure>
 possibility of the division and dissolution of the Union, because of
 the essential unity which inhered in the law of its being.</p>
-               <p>Secondly: He clearly understood the nature of the issue
+               <p pn="23">Secondly: He clearly understood the nature of the issue
 involved in the contest. Men of narrow views have ascribed this war to
 the bitterness of sectional hate, but wiser men saw that it was the
 action of an inevitable conflict between opposing systems of
@@ -825,7 +824,7 @@ broken all previous ones, and made new and encroaching
 demands. ABRAHAM LINCOLN saw that if this process went on, the nation
 would become "all slave," and that freedom would become an outcast
 from its last asylum.</p>
-               <p>Again: His early training had impressed him with a high
+               <p pn="23">Again: His early training had impressed him with a high
 sense of the dignity and value of labor. While many young men of his
 age thought it manly to affect a gentility which exhausts itself in
 smoking cigars, drinking wine, aping exquisite fashions, playing the
@@ -845,7 +844,7 @@ God trained David to be king while in his father's sheepfolds, so he
 was fitting ABRAHAM LINCOLN, in this rugged, simple, sturdy Western
 life, to be the coming man, who should give freedom to a race and
 salvation to a nation.</p>
-               <p>Still further: ABRAHAM LINCOLN had a nature which was
+               <p pn="24">Still further: ABRAHAM LINCOLN had a nature which was
 intuitively actuated by the impulses of a broad philanthropy. In the
 narrow, technical sense of the word, he was not an abolitionist. He
 was not specially and exclusively a friend of the negro. He loved the
@@ -860,7 +859,7 @@ an aged negro, or in searching for the nest of a fallen bird, ABRAHAM
 LINCOLN gave as true an expression of his simple and full-hearted
 benevolence, and experienced a pleasure as genuine as when he signed
 the Proclamation of Emancipation.</p>
-               <p>So that, while he met the issues of this great conflict,
+               <p pn="24">So that, while he met the issues of this great conflict,
 with a firmness that did not flinch, and a justice that did not yield
 to intimidation, he resisted rebellion without resentment, he endured
 detraction without impatience, punished treason without cruelty,
@@ -875,7 +874,7 @@ done, "with charity for all and malice towards none," he at once
 turned towards his deluded and disappointed countrymen, not to triumph
 over their mortification, but to assure them of the sincerity of a
 brother's love.</p>
-               <p>4. Finally: The special Providence of God in the
+               <p pn="25">4. Finally: The special Providence of God in the
 administration of ABRAHAM LINCOLN, is seen in the circumstances and
 time of his death. The slave demon was not to be conciliated by the
 overtures of goodness. The same spirit which had for centuries fed on
@@ -888,7 +887,7 @@ who had struck its head. But in this, slavery overreached itself. It
 not only did not save itself, but it consecrated the name of its
 destroyer to freedom, and freedom to the future generations of
 mankind.</p>
-               <p>Men have regretfully wondered why ABRAHAM LINCOLN was not
+               <p pn="25">Men have regretfully wondered why ABRAHAM LINCOLN was not
 spared to finish the work he had undertaken. They forget
 themselves. He had finished it. Attempts to assassinate him had been
 made before; but they had failed. His hour had not come; his work was
@@ -914,7 +913,7 @@ long enough, to exhaust itself and die. So that just at the end of
 four years to the very day, the flag that was shot down from Fort
 Sumter was restored to its place, the proud symbol of a restored,
 disenthralled and victorious nationality.</p>
-               <p>This done, and the mission of ABRAHAM LINCOLN was
+               <p pn="26">This done, and the mission of ABRAHAM LINCOLN was
 accomplished. And strange, marvellous coincidence! On that very day,
 not in the morning before the Stars and Stripes had been raised over
 Sumter, but in the evening, after the glorious deed was done, ABRAHAM
@@ -922,7 +921,7 @@ LINCOLN received his summons to resign his trust. He had done his
 work. He had done it well. And the universal verdict of mankind is the
 counterpart of the Divine award, "Well done, good and faithful
 servant, enter thou into the joy of thy Lord."</p>
-               <p>Besides, the manner of his death is another element in the
+               <p pn="26">Besides, the manner of his death is another element in the
 speciality of his calling. If his death had occurred from natural
 causes, his character would have been no less genuine, his work no
 less complete, our regrets no less sincere, but it would have lacked
@@ -938,7 +937,7 @@ R. Jeffery's The Mission of Abraham Lincoln.</figDesc>
                   </figure>
 answering the purpose of God. Jewish hate gave to the world a
 Redeemer; slaveholding malignity gave to Liberty a Martyr.</p>
-               <p>Now we know why ABRAHAM LINCOLN lived, why he was made the
+               <p pn="27">Now we know why ABRAHAM LINCOLN lived, why he was made the
 President of the United States, why he was re-elected for a second
 term, why he lived out only so small a portion of that second term,
 why he did not die sooner, why he did not live longer. The work to
@@ -963,13 +962,13 @@ transition, and his "soul marching along," in the carreer of our
 progress, is the inspiration of our hopes, the guardian of our
 liberties, and the harbinger our destiny.</p>
                <pb n="28"/>
-               <p>
+               <p pn="28">
                   <figure entity="jeffery28">
                      <figDesc>28th page of
 R. Jeffery's The Mission of Abraham Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>As he stood on the battle-field of Gettysburg with graves
+               <p pn="28">As he stood on the battle-field of Gettysburg with graves
 of the fallen brave around him, he used these memorable words: "We
 cannot dedicate, we cannot consecrate, we cannot hallow this
 ground. The brave men who struggled here have consecrated it, far
@@ -984,7 +983,7 @@ we here highly resolve that these dead shall not have died in vain;
 that this nation, under God, shall have a new birth of freedom, and
 that Government of the people, by the people, and for the people,
 shall not perish from the earth."</p>
-               <p>So say we to-day. Let the death of our great and good
+               <p pn="28">So say we to-day. Let the death of our great and good
 President consecrate us, to the realization in ourselves of the spirit
 which animated him. Let us dedicate ourselves to keeping that which he
 has given us. Let us forget past differences. Let us hate slavery. Let

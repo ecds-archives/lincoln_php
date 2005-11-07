@@ -79,7 +79,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="sweetser.001" n="A Commemorative Discourse on the Death of Abraham Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>A Commemorative
 Discourse on the Death of Abraham Lincoln</title>
@@ -93,51 +93,51 @@ Discourse on the Death of Abraham Lincoln</title>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="sweetser1">
                   <figDesc>1st page of Seth Sweetser's A
 Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>A</p>
-            <p>COMMEMORATIVE  DISCOURSE</p>
-            <p>On the Death</p>
-            <p>of</p>
-            <p>ABRAHAM LINCOLN.</p>
-            <p>BY SETH SWEETSER,</p>
-            <p>PASTOR OF THE CENTRAL CHURCH</p>
-            <p>Worcester, Massachusetts.</p>
-            <p>MCDCCCLXV.</p>
+            <p pn="1">A</p>
+            <p pn="1">COMMEMORATIVE  DISCOURSE</p>
+            <p pn="1">On the Death</p>
+            <p pn="1">of</p>
+            <p pn="1">ABRAHAM LINCOLN.</p>
+            <p pn="1">BY SETH SWEETSER,</p>
+            <p pn="1">PASTOR OF THE CENTRAL CHURCH</p>
+            <p pn="1">Worcester, Massachusetts.</p>
+            <p pn="1">MCDCCCLXV.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="sweetser2">
                   <figDesc>2nd page of
 Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>Abraham Lincoln,</p>
-            <p>
+            <p pn="2">Abraham Lincoln,</p>
+            <p pn="2">
                <hi rend="italic">Sixteenth President of the United States,</hi>
             </p>
-            <p>DIED ON THE 15TII OF APRIL, A.D. 1865,</p>
-            <p>AGED 56.</p>
-            <p>"That magnanimity that neither feareth greatness of alteration, nor
+            <p pn="2">DIED ON THE 15TII OF APRIL, A.D. 1865,</p>
+            <p pn="2">AGED 56.</p>
+            <p pn="2">"That magnanimity that neither feareth greatness of alteration, nor
 the views of conspirators, nor the power of enemy, is more than
 heroical."</p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="sweetser3">
                   <figDesc>3rd page of
 Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>WORCESTER,
+            <p pn="3">WORCESTER,
 MAY 8, 1865.</p>
-            <p>DEAR SIR,</p>
-            <p>The Congregation of the Central Church in
+            <p pn="3">DEAR SIR,</p>
+            <p pn="3">The Congregation of the Central Church in
 this city greatly desire to preserve and perpetuate your Discourse in
 commemoration of the Death of our revered President, ABRAHAM
 LINCOLN. They have, therefore, this day commissioned us, the
@@ -146,38 +146,38 @@ this request, as we now do, we desire to express, for ourselves and
 for the Congregation, our conviction that the Discourse is eminently
 entitled to a place among the permanent memorials of our great
 national bereavement. Trusting that you will grant this request,</p>
-            <p>We remain, with great respect,</p>
-            <p>Your friends,</p>
-            <p>CHAS. E. STEVENS.<lb/>
+            <p pn="3">We remain, with great respect,</p>
+            <p pn="3">Your friends,</p>
+            <p pn="3">CHAS. E. STEVENS.<lb/>
 THOMAS H. GAGE.<lb/>
 P. EMORY ALDRICH.<lb/>
 C. M. MILES.<lb/>
 G. HENRY WHITCOMB.  <lb/>The REV. SETH SWEETSER, D. D.</p>
-            <p>WORCESTER,
+            <p pn="3">WORCESTER,
 MAY 10, 1865.</p>
-            <p>GENTLEMEN,</p>
-            <p>In compliance with your request, I send you the manuscript of my
+            <p pn="3">GENTLEMEN,</p>
+            <p pn="3">In compliance with your request, I send you the manuscript of my
 Discourse preached on Sunday, the 23d of April last.</p>
-            <p>With acknowledgments of your continued regard,</p>
-            <p>Your friend and Pastor,</p>
-            <p>S.
+            <p pn="3">With acknowledgments of your continued regard,</p>
+            <p pn="3">Your friend and Pastor,</p>
+            <p pn="3">S.
 SWEETSER.</p>
-            <p>Messrs. CHARLES E.  STEVENS, THOMAS H. GAGE,  P. EMORY ALDRICH,</p>
-            <p>C. M. MILES, G. HENRY WHITC0MB.</p>
+            <p pn="3">Messrs. CHARLES E.  STEVENS, THOMAS H. GAGE,  P. EMORY ALDRICH,</p>
+            <p pn="3">C. M. MILES, G. HENRY WHITC0MB.</p>
             <pb n="4"/>
-            <p>
+            <p pn="4">
                <figure entity="sweetser4">
                   <figDesc>4th page of
 Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>AND THE KING SAID UNTO HIS SERVANTS, KNOW YE NOT THAT
+            <p pn="4">AND THE KING SAID UNTO HIS SERVANTS, KNOW YE NOT THAT
 THERE IS A PRINCE AND A GREAT MAN FALLEN THIS DAY IN ISRAEL?</p>
-            <p>2
+            <p pn="4">2
 SAMUEL, III. 38.</p>
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="sweetser5">
                   <figDesc>5th page of
 Seth Sweetser's A Commemorative Discourse on the Death of Abraham
@@ -185,8 +185,8 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="sweetser.002" n="DISCOURSE." type="sermon">
-               <head>DISCOURSE.</head>
-               <p>TO keep in memory, and to review with gratitude and honor, the
+               <head pn="5">DISCOURSE.</head>
+               <p pn="5">TO keep in memory, and to review with gratitude and honor, the
 lives of men conspicuous for great services, has the sanction of the
 universal judgment of mankind. In so doing, the goodness which would
 be ephemeral is embalmed; the examples worthy of perpetual imitation
@@ -196,7 +196,7 @@ archives with the choicest wisdom of the ages. It is thus that
 prophets and kings, benefactors and holy men, being dead, speak on
 from generation to generation, and the righteous are in everlasting
 remembrance.</p>
-               <p>A prince and a great man has fallen, and a grateful people will
+               <p pn="5">A prince and a great man has fallen, and a grateful people will
 establish his memorial: they will enrol his name with the illustrious
 benefactors of the world, and treasure his deeds amongst the worthiest
 traditions that are handed down to after-times. The
@@ -270,7 +270,7 @@ lest misfortune should sully his glory: he has travelled to the end of
 his journey, and carried with him an increasing weight of honor: he
 has deposited it safely where misfortune cannot tarnish it, where
 malice cannot blast it."</p>
-               <p>An accomplished life is a great thing. There is, indeed, a charm in
+               <p pn="8">An accomplished life is a great thing. There is, indeed, a charm in
 a life rounded out with its full term of years, and closing with the
 serene light of a quiet evening. But life is estimated by its purposes
 and their fulfilment. And when a man's day has been crowded with great
@@ -305,7 +305,7 @@ problem which now perplexes us shall have been worked out in all its
 parts, the whole troubled scene will present to the comprehension of
 the human mind an orderly and beneficent arrangement, fully justifying
 the ways of God.</p>
-               <p>The elevation of Mr. Lincoln to the chief magistracy was a pregnant
+               <p pn="9">The elevation of Mr. Lincoln to the chief magistracy was a pregnant
 event. It opened a new era. It was the first distinct and effective
 utterance of the reviving life of the nation. Whatever were the
 judgments of the hour,--and they were various,--whatever its hope or
@@ -327,7 +327,7 @@ momentous events. The chief actors are invested with extraordinary
 responsibilities, with the high privilege of controlling the mighty
 issues at stake, and determining the welfare to be secured in the
 struggle.</p>
-               <p>Such were the circumstances and such the position in which the
+               <p pn="10">Such were the circumstances and such the position in which the
 President was called to discharge the duties of his office. That he
 had a singular fitness for it is now the universal judgment,
 notwithstanding many suspected or perceived
@@ -362,7 +362,7 @@ and quality. The faint outlines and foreshadowings which in the outset
 inspired hope have been deeply drawn and filled in to the admiration
 of his countrymen, and so as to secure, we doubt not, the approving
 judgment of a dispassionate posterity.</p>
-               <p>Napoleon was fond of calling himself the child of Destiny. Abraham
+               <p pn="11">Napoleon was fond of calling himself the child of Destiny. Abraham
 Lincoln was the child of Providence. An undevout philosophy might say
 that he was the pupil of events, sagaciously detecting the clew, and
 then implicitly following the thread. We
@@ -420,7 +420,7 @@ be expected from a short-sighted mortal. That he was ever betrayed by
 malice, blinded by passion, or instigated to doubtful measures by
 self-seeking or personal ambition, his enemies would scarcely be
 willing to affirm.</p>
-               <p>In the letter addressed to Congress by the convention which framed
+               <p pn="13">In the letter addressed to Congress by the convention which framed
 the constitution of the United
 <pb n="14"/>
                   <figure entity="sweetser14">
@@ -434,7 +434,7 @@ deliberations ... we kept steadily in our view that which appears to
 us the greatest interest of every true American,--the consolidation of
 our Union, in which is involved our prosperity, felicity, safety,
 perhaps our national existence."</p>
-               <p>One could hardly select more appropriate language in which to
+               <p pn="14">One could hardly select more appropriate language in which to
 describe the avowed aim of the administration which has so suddenly
 terminated. It is the leading idea in the entire series of the
 President's efforts. Whether or not he was too exclusively devoted to
@@ -502,7 +502,7 @@ Aurelius, Alfred, Orange, or even of Washington. If the statue of
 George Washington fills, by unanimous consent, the first niche in the
 Pantheon of illustrious worthies, will not that of Abraham Lincoln
 fill the second?</p>
-               <p>It would be enough for the largest desire, and for fame, to have
+               <p pn="16">It would be enough for the largest desire, and for fame, to have
 administered well the affairs of the nation under the ordinary reign
 of peace and prosperity. But to have achieved success amid
 dismembering revolutionary struggles, and the convulsive
@@ -533,7 +533,7 @@ distinct results, and pressing onward with increasing and resistless
 strength to the hour when victory crowned the whole with its cheering
 light, is an achievement to be ranked with the most illustrious deeds
 of the brightest names in the world's record.</p>
-               <p>But this is drawing faintly, and only in outline, the 
+               <p pn="17">But this is drawing faintly, and only in outline, the 
 <pb n="18"/>
                   <figure entity="sweetser18">
                      <figDesc>18th page of Seth
@@ -643,7 +643,7 @@ broken hearts; and, if it were possible for all other voices to be
 dumb, there is one people, whose future life will always be devoted to
 the bestowment of honor upon the name of him who was God's hand in
 lifting the yoke and breaking the chain of their long oppression.</p>
-               <p>An administration has closed with results such as
+               <p pn="21">An administration has closed with results such as
 <pb n="22"/>
                   <figure entity="sweetser22">
                      <figDesc>22nd page of Seth
@@ -839,7 +839,7 @@ secure to itself respect, and command the confidence of the people. It
 is equally important that we should be purged of all hateful and
 vindictive passion, and that we should address ourselves to the
 pressing and momentous duties of the hour in the fear of the Lord.</p>
-               <p>We have had a high and noble example. That
+               <p pn="28">We have had a high and noble example. That
 <pb n="29"/>
                   <figure entity="sweetser29">
                      <figDesc>29th page of Seth
@@ -851,23 +851,23 @@ yet firm, ever simple and yet wise, ever humble but yet prompt, ever
 moderate but always true. We can do him no greater honor than to
 remember and follow the words with which he closed his last address to
 the American people:--</p>
-               <p>"WITH MALICE TOWARDS NONE, WITH CHARITY FOR ALL, WITH FIRMNESS IN
+               <p pn="29">"WITH MALICE TOWARDS NONE, WITH CHARITY FOR ALL, WITH FIRMNESS IN
 THE RIGHT AS GOD GIVES US TO SEE THE RIGHT, LET US STRIVE ON TO FINISH
 THE WORK WE ARE IN; TO BIND UP THE NATION'S WOUNDS; TO CARE FOR HIM
 WHO SHALL HAVE BORNE THE BATTLE, AND FOR HIS WIDOW AND HIS
 ORPHANS,--TO DO ALL WHICH MAY ACHIEVE AND CHERISH A JUST AND LASTING
 PEACE AMONG OURSELVES AND WITH ALL NATIONS."</p>
                <pb n="30"/>
-               <p>
+               <p pn="30">
                   <figure entity="sweetser30">
                      <figDesc>30th page
 of Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>BOSTON:</p>
-               <p>PRESS OF JOHN WILSON AND SON,</p>
-               <p>15, WATER STREET.</p>
+               <p pn="30">BOSTON:</p>
+               <p pn="30">PRESS OF JOHN WILSON AND SON,</p>
+               <p pn="30">15, WATER STREET.</p>
             </div2>
          </div1>
       </body>

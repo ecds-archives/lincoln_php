@@ -81,7 +81,7 @@ compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="seiss.001" n="The Assassinated President" type="text">
-            <head>
+            <head pn="1">
                <bibl> 
                   <title>The Assassinated President</title> 
                   <date>June 1st,
@@ -96,29 +96,29 @@ Philadelphia</pubPlace>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="seiss1">
                   <figDesc>1st page of Joseph A. Seiss' The
 Assassinated President.</figDesc>
                </figure>
             </p>
-            <p>The Assassinated President,</p>
-            <p>OR THE</p>
-            <p>DAY OF NATIONAL</p>
-            <p>FOR</p>
-            <p>ABRAHAM LINCOLN,</p>
-            <p>AT</p>
-            <p>ST. JOHN'S (LUTHERAN) CHURCH, PHILADELPHIA,</p>
-            <p>JUNE <hi rend="italic">1ST</hi>, 1865.</p>
-            <p>THE PASTOR</p>
-            <p>JOSEPH A. SEISS, D.D.</p>
-            <p>OFFICIATING.</p>
-            <p>FOR SALE AT</p>
-            <p>No. 42 NORTH NINTH STREET,</p>
-            <p>PHILADELPHIA.</p>
-            <p>1865.</p>
+            <p pn="1">The Assassinated President,</p>
+            <p pn="1">OR THE</p>
+            <p pn="1">DAY OF NATIONAL</p>
+            <p pn="1">FOR</p>
+            <p pn="1">ABRAHAM LINCOLN,</p>
+            <p pn="1">AT</p>
+            <p pn="1">ST. JOHN'S (LUTHERAN) CHURCH, PHILADELPHIA,</p>
+            <p pn="1">JUNE <hi rend="italic">1ST</hi>, 1865.</p>
+            <p pn="1">THE PASTOR</p>
+            <p pn="1">JOSEPH A. SEISS, D.D.</p>
+            <p pn="1">OFFICIATING.</p>
+            <p pn="1">FOR SALE AT</p>
+            <p pn="1">No. 42 NORTH NINTH STREET,</p>
+            <p pn="1">PHILADELPHIA.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="seiss1">
                   <figDesc>1st page of
 Joseph A. Seiss' The Assassinated President.</figDesc>
@@ -132,22 +132,22 @@ deed of piteous massacre,</l>
 of."</l>
             </lg>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="seiss3">
                   <figDesc>3rd page of
 Joseph A. Seiss' The Assassinated President.</figDesc>
                </figure>
             </p>
             <div2 id="seiss.002" n="I. THE DEVOTIONAL EXERCISES." type="service">
-               <head>I. THE DEVOTIONAL EXERCISES.</head>
-               <epigraph>
-                  <p>INTROIT.-"Let the words of my mouth, and the meditation
+               <head pn="3">I. THE DEVOTIONAL EXERCISES.</head>
+               <epigraph pn="3">
+                  <p pn="3">INTROIT.-"Let the words of my mouth, and the meditation
 of my heart, be acceptable in thy sight, 0 Lord, my Strength and my
 Redeemer."</p>
-                  <p>Reading of the Ten Commandments, Ex. 20: 1-17.</p>
+                  <p pn="3">Reading of the Ten Commandments, Ex. 20: 1-17.</p>
                </epigraph>
-               <p>THE CONFESSION OF SINS.</p>
-               <p>ALMIGHTY and most holy Lord and God, who dost command us to humble
+               <p pn="3">THE CONFESSION OF SINS.</p>
+               <p pn="3">ALMIGHTY and most holy Lord and God, who dost command us to humble
 ourselves under thy mighty hand, that thou mayest exalt us in due
 time; in humility of spirit we confess before thee, in this our
 bereavement and affliction, how deeply, as a nation, we have deserved
@@ -178,24 +178,24 @@ grant that ever hereafter we may all serve and please thee in newness
 of life, to the honor and glory of thy name, through him who liveth
 and reigneth with thee and the Holy Ghost, ever one God, world without
 end. Amen.</p>
-               <p>HYMN.</p>
+               <p pn="4">HYMN.</p>
                <lg type="stanza">
                   <l>"Great Maker of unnumbered worlds,</l>
                   <l>And whom unnumbered
 worlds adore,</l>
                   <l>Whose goodness all thy creatures share,</l>
-                  <l>While nature trembles at thy power," &#x0026;c.</l>
+                  <l>While nature trembles at thy power," &amp;c.</l>
                </lg>
-               <p>SCRIPTURE LESSONS.-Isaiah 59, and Luke 6: 20-38.</p>
+               <p pn="4">SCRIPTURE LESSONS.-Isaiah 59, and Luke 6: 20-38.</p>
                <pb n="5"/>
-               <p>
+               <p pn="5">
                   <figure entity="seiss5">
                      <figDesc>5th page of
 Joseph A. Seiss' The Assassinated President.</figDesc>
                   </figure>
                </p>
-               <p>THE GENERAL PRAYER.</p>
-               <p>Almighty and most merciful God, we lift our hearts to thee, the
+               <p pn="5">THE GENERAL PRAYER.</p>
+               <p pn="5">Almighty and most merciful God, we lift our hearts to thee, the
 hearer of prayer, from whom alone cometh our help. We adore thee as
 the great Parent of the Universe, from whom all things proceed, and on
 whom all creatures depend. Thou art worthy of all honor, gratitude,
@@ -236,7 +236,7 @@ sense of thy providence, goodness, and mercy in the years just passed,
 and in our present deliverance and prospects, that all may most
 thankfully acknowledge their debt of love and praise, and serve thee
 henceforth in humble obedience to thy word.</p>
-               <p>And as thou hast seen fit, O thou mighty Ruler of the
+               <p pn="6">And as thou hast seen fit, O thou mighty Ruler of the
 world, in thine all-wise administrations, to permit us to be deprived
 of the presence and further counsels of our late Chief Magistrate, and
 hast so deeply grieved the hearts of the people, turning
@@ -264,7 +264,7 @@ to be lifted toward thy grace for support and consolation. Mingle the
 ministrations of thy love with the bitterness of their cup. Grant
 them, in this cloud of darkness, to see and rejoice in the light of
 life; and lead them by thy heavenly grace to life everlasting.</p>
-               <p>And for him who, by this mysterious providence, is now
+               <p pn="7">And for him who, by this mysterious providence, is now
 called to assume the highest office in the na-
 <pb n="8"/>
                   <figure entity="seiss8">
@@ -279,7 +279,7 @@ moderation, by firmness and clemency, in the due vindication of
 justice and remembrance of mercy, the laws may be truly honored, the
 wounds of the nation healed, and peace and unity restored to the land
 for all generations.</p>
-               <p>We implore thy blessing upon our entire country, and upon
+               <p pn="8">We implore thy blessing upon our entire country, and upon
 all its inhabitants. Have compassion, 0 Lord, upon those regions which
 war has desolated, and in which the weapons of rebellion were
 lifted. Restore to them thy gracious favor. May the waste places be
@@ -300,7 +300,7 @@ A. Seiss' The Assassinated President.</figDesc>
                   </figure>
 through the one sacrifice and mediation of our Lord and Saviour Jesus
 Christ.</p>
-               <p>Let it please thee, also, to help and bless all sorts and
+               <p pn="9">Let it please thee, also, to help and bless all sorts and
 conditions of men, making thy ways known unto them, and saving them
 from their sins. Endow all rulers and magistrates with thy grace, and
 fill them with the spirit of wisdom and justice. Show thy goodness to
@@ -311,20 +311,20 @@ upon all ministers of the Gospel, and upon all thy people, the needful
 Spirit of thy grace. Cause the number of thy saints to be multiplied
 in all the earth; and let thy blessed kingdom speedily come, and thy
 holy will be done on earth as it is in heaven.</p>
-               <p>Hear us, most gracious Lord and God, and despise not these our
+               <p pn="9">Hear us, most gracious Lord and God, and despise not these our
 unworthy services, neither deny us our requests, which we present
 before thy Divine Majesty in the name of Jesus Christ, our Mediator
 and Redeemer, to whom, with thee, and the Holy Ghost, be all honor and
 glory, world without end.</p>
-               <p>AMEN.</p>
+               <p pn="9">AMEN.</p>
                <pb n="10"/>
-               <p>
+               <p pn="10">
                   <figure entity="seiss10">
                      <figDesc>10th page of Joseph A. Seiss' The
 Assassinated President.</figDesc>
                   </figure>
                </p>
-               <p>SECOND
+               <p pn="10">SECOND
 HYMN.</p>
                <lg type="stanza">
                   <l>"God moves in a mysterious
@@ -332,10 +332,10 @@ way,</l>
                   <l>His wonders to perform;</l>
                   <l>He plants his footsteps in the
 sea,</l>
-                  <l>And rides upon the storm," &#x0026;c.</l>
+                  <l>And rides upon the storm," &amp;c.</l>
                </lg>
                <pb n="11"/>
-               <p>
+               <p pn="11">
                   <figure entity="seiss11">
                      <figDesc>11th page of
 Joseph A. Seiss' The Assassinated President.</figDesc>
@@ -343,27 +343,27 @@ Joseph A. Seiss' The Assassinated President.</figDesc>
                </p>
             </div2>
             <div2 id="seiss.003" n="II. THE DISCOURSE." type="sermon">
-               <head>II. THE DISCOURSE.</head>
-               <epigraph>
-                  <p>TEXT.-" And Moses was an hundred and twenty years
+               <head pn="11">II. THE DISCOURSE.</head>
+               <epigraph pn="11">
+                  <p pn="11">TEXT.-" And Moses was an hundred and twenty years
 old when he died: his eye was not dim, nor his natural force
 abated. And the children of Israel wept for Moses in the plains of
 Moab thirty days." <hi rend="italic">Deut. 33: 7, 8.</hi>
                   </p>
                </epigraph>
-               <p>MANY-SIDED, and full of light, are even the simplest records of the
+               <p pn="11">MANY-SIDED, and full of light, are even the simplest records of the
 word of God. This little historic fragment is rich in fruitful themes
 for solemn meditation. Even in the line of thinking to which the
 appointment of this day specially calls us, there are sundry very
 noteworthy suggestions.</p>
-               <p>We here find that the most eminent servants of God, as well
+               <p pn="11">We here find that the most eminent servants of God, as well
 as other people, are subject to the dominion of death.</p>
-               <p>We here find that men high in office and favor, are
+               <p pn="11">We here find that men high in office and favor, are
 sometimes suddenly taken away in the fulness of their strength, in the
 midst of their labors and usefulness, just when their presence seems
 most indispensable, and on the very eve of the consummation of their
 most earnest endeavors.</p>
-               <p>We here find that from remote antiquity, from
+               <p pn="11">We here find that from remote antiquity, from
 <pb n="12"/>
                   <figure entity="seiss12">
                      <figDesc>12th page of Joseph
@@ -375,7 +375,7 @@ take special notice of the deaths of distinguished public servants, to
 express by unwonted tokens the sense of loss sustained by their
 removal, and to give befitting indications of appreciation of their
 qualities and worth on the part of their survivors.</p>
-               <p>But I do not propose to dwell on these topics. I mention
+               <p pn="12">But I do not propose to dwell on these topics. I mention
 them, as I use the text itself, not for discussion, but chiefly as a
 preface and starting-point for other observations. The mention of
 Moses, the close of his career, and the mourning of the people for
@@ -384,7 +384,7 @@ with the purposes for which we are this day in the sanctuary,
 naturally suggest the comparison of this illustrious personage with
 him over the recent, sudden, and melancholy termination of whose life
 the nation mourns, and the civilized world is moved.</p>
-               <p>Who Moses was needs scarcely to be stated. His history is
+               <p pn="12">Who Moses was needs scarcely to be stated. His history is
 written in the best known and most sacred books of nearly all nations,
 and is familiar to the children of almost every home. His origin among
 a people who labored in the brickyards and served the Egyptians, his
@@ -430,7 +430,7 @@ his people, and conducted Israel through the wilderness to the very
 borders of the land of rest, and then suddenly ended his career, as he
 had been forewarned, amid the tears and lamentations of those whom he
 had delivered and led.</p>
-               <p>And how closely all this resembles the story of his life,
+               <p pn="14">And how closely all this resembles the story of his life,
 for whom the national mourning has been appointed, scarcely requires
 to be pointed out. If Moses was of humble parentage, so was he. His
 father was a poor Kentuckian, who could neither read nor write; and
@@ -479,7 +479,7 @@ complished, had its correspondence in him for whom we this day
 mourn. "Who am I," said he, "that I should go unto Pharoah, and that I
 should bring forth the children of Israel out of Egypt"-" 0 my Lord, I
 am not eloquent." (Ex. 3: 11; 4: 10.)</p>
-               <p>And that great debate, of
+               <p pn="16">And that great debate, of
 which all the people of Illinois were the witnesses, and in which all
 sections of the country were unwontedly interested; in which he was
 resisted by perhaps the most formidable champion of the political
@@ -493,7 +493,7 @@ Indeed, contemplated from almost any point, the considerate mind will
 be at no loss to trace resemblances between his character and career
 and that of the matchless man whom the Scriptures set before us as the
 great hero of Israel's deliverance.</p>
-               <p>Nor were the times and
+               <p pn="16">Nor were the times and
 circumstances in which the two were called to operate, very
 dissimilar. By some strange forgetfulness of acknowledged rights and
 covenants, there had been a power put forth in Egypt, by which the
@@ -506,14 +506,14 @@ A. Seiss' The Assassinated President.</figDesc>
 were divested of their freedom, and subjected to rigorous taskmasters,
 "who made their lives bitter with hard bondage, in mortar and in
 brick, and in all manner of service in the field." (Ex. 1: 8-14.)</p>
-               <p>And the children of Israel sighed by reason of the bondage,
+               <p pn="17">And the children of Israel sighed by reason of the bondage,
 and they cried, and their cry came up unto God. And God heard their
 groaning. And God looked upon the children of Israel, and God had
 respect unto them." (Ex. 2: 23-25.) In other words, the time had come,
 in the decrees of Heaven, when the heavy yoke was to be broken, the
 pride of the oppressor humbled, and these suffering tribes set
 free.</p>
-               <p>So, on this continent, a new power in the world had risen
+               <p pn="17">So, on this continent, a new power in the world had risen
 up, in the Constitution of which, owing to whatever causes, or
 modified by whatever apologies, contrary to the convictions and
 desires of its framers, elements of oppression and undoubted wrong had
@@ -562,7 +562,7 @@ mitted and yielded to the ever-multiplying demands of the "peculiar
 institution," until the God of justice said, "<hi rend="italic">It is
 too much</hi>," and gave commission to this angels to strike it down,
 yea, and to sweep it from the earth.</p>
-               <p>While Egypt was busy riveting the fetters tighter and
+               <p pn="19">While Egypt was busy riveting the fetters tighter and
 tighter upon Israel, little did she dream that, within her own
 borders, there was a young mind maturing, who, with no ally but God,
 and no supports but the righteousness of his cause, was presently to
@@ -581,16 +581,16 @@ there was a Moses ready, hidden away far back in the desert of Horeb,
 and who, in due time, received his commission from among the trees of
 the wilderness.</p>
                <pb n="20"/>
-               <p>
+               <p pn="20">
                   <figure entity="seiss20">
                      <figDesc>20th page of
 Joseph A. Seiss' The Assassinated President.</figDesc>
                   </figure>
                </p>
-               <p>The same has been repeated, in our day, in our country. The
+               <p pn="20">The same has been repeated, in our day, in our country. The
 picture rises to your view without my aid to call it up.</p>
-               <p>*		*		*		*		*		*		*		*</p>
-               <p>One of the most controlling features in the character of Moses,
+               <p pn="20">*		*		*		*		*		*		*		*</p>
+               <p pn="20">One of the most controlling features in the character of Moses,
 which shines out in his whole career, undimmed by a single stain of
 inconsistency, was his self-sacrificing devotion to his convictions of
 justice and right, based upon his religious faith. His inspired
@@ -600,7 +600,7 @@ affliction with the people of God than to enjoy the pleasures of sin
 for a season, esteeming the reproach of Christ greater riches than the
 treasures in Egypt; for he had respect unto the recompense of the
 reward." (Heb. 10: 24-28.)</p>
-               <p>The same is, in a large measure, true of our late Chief
+               <p pn="20">The same is, in a large measure, true of our late Chief
 Magistrate. Though not, so far as I am informed, a professed
 Christian, at least not in all particulars, he was a man of decided
 religious turn of mind, who lived and acted in the light and influence
@@ -642,12 +642,12 @@ A. Seiss' The Assassinated President.</figDesc>
                   </figure>
 ther precedents nor records to guide it, and which the great mass of
 those in power stood pledged to resist.</p>
-               <p>Nor did he count anything too dear to be laid upon the
+               <p pn="22">Nor did he count anything too dear to be laid upon the
 altar of that cause, which he believed to be the cause of humanity and
 of God. Nobler words, and revealing the whole structure of his moral
 thinking, perhaps were never uttered by man, than those in which he
 said to the people of Illinois:</p>
-               <p>"The thirteen colonies, by their representatives in old
+               <p pn="22">"The thirteen colonies, by their representatives in old
 Independence Hall, said to the world of men, 'We hold these truths to
 be self-evident, that all men are born equal; that they are endowed by
 their Creator with certain inalienable rights; that among these are
@@ -694,9 +694,9 @@ A. Seiss' The Assassinated President.</figDesc>
                   </figure>
 not destroy that immortal emblem of humanity,--the Declaration of
 American Independence."</p>
-               <p>And with what patient steadiness and self-possession did he
+               <p pn="24">And with what patient steadiness and self-possession did he
 pursue his great mission!</p>
-               <p>Moses was the very model of steadfast fortitude and
+               <p pn="24">Moses was the very model of steadfast fortitude and
 perseverance. Defiantly resisted, repeatedly unsuccessful, and again
 and again foiled and mocked, he continued the conflict, by argument,
 by expostulation, by miracle, and maintained his ground with a
@@ -708,7 +708,7 @@ fulfilment of the promise, he never once thought of giving up, but
 kept to his work, reasoned, waited, and devoutly persevered, till,
 from Nebo's top, he beheld the expected land lying invitingly at his
 feet.</p>
-               <p>How like Moses, in these respects, was our late President?
+               <p pn="24">How like Moses, in these respects, was our late President?
 Who ever encountered more or greater perplexities, difficulties,
 provocations, and discouragements than those which beset his way? And
 yet, with what earnest but passionless calmness did he grapple with
@@ -758,7 +758,7 @@ dignity of manner, a solemnity of purpose, a goodness of heart, and a
 comprehensive simplicity and justness of policy, which arrested the
 attention and commanded the admiration of foreign courts, and which
 place his name on the roll of earth's best men and greatest rulers.</p>
-               <p>Some said that he was a tyrant. And if inflexible patriotic
+               <p pn="26">Some said that he was a tyrant. And if inflexible patriotic
 devotion, and the bold maintenance of the majesty of law over
 self-will, unruly sectionalism, and daring revolution, if untiring
 study and courageous promptness in bringing every power and resource
@@ -776,7 +776,7 @@ A. Seiss' The Assassinated President.</figDesc>
                   </figure>
 such like instances of patriotic and Christian effort, constitute
 tyranny, then Abraham Lincoln was a tyrant.</p>
-               <p>But we have not so learned to count usurpation and tyranny.
+               <p pn="27">But we have not so learned to count usurpation and tyranny.
 There is another spirit and style of action, of which there has much
 been seen and felt in recent years, to which these terms much more
 appropriately apply. It is the spirit which says of the black man, "If
@@ -816,7 +816,7 @@ head of the nation's legitimate chieftain, and blows out his brains in
 the presence of his family and friends, because it cannot overawe his
 noble purpose, nor drive him from his fixed fidelity to his country,
 his conscience, and his God.</p>
-               <p>Men and brethren, I way be mistaken; but if I have at all
+               <p pn="28">Men and brethren, I way be mistaken; but if I have at all
 learned to estimate the character of human actions; if I have any true
 insight into the nature of human rights; if I have any just perception
 of what enters into the composition of the praiseworthy or the base,
@@ -836,7 +836,7 @@ look at it in the broad sunlight of eternal morality, and see whether
 such "chivalry," fairly interpreted by its own acts, does not
 unmistakably belong to the sphere of the ugly, the brutal, and the
 devilish.</p>
-               <p>It is not for me to say where the responsibility lies; nor
+               <p pn="29">It is not for me to say where the responsibility lies; nor
 would I direct criminating words where they do not apply. But these
 things are the true fruits of secession, which show what it
 practically is, and index what I take as a full vindication of almost
@@ -860,7 +860,7 @@ all the earth, by endeavoring to uphold what could but weaken himself,
 and strengthen those who were at the time trampling the whole
 instrument under their feet, and glorying before the world in their
 purpose to destroy it?</p>
-               <p>Silence as the antidote for traitorous proceedings, and the
+               <p pn="30">Silence as the antidote for traitorous proceedings, and the
 Constitution to fetter the hands of conscientious loyalty in grappling
 with them, is a political creed which argues ill for the patriotism of
 its confessors; but it embodies the exact logic of those who look upon
@@ -878,13 +878,13 @@ its greatness augmented, he is denounced as a tyrant, and murdered for
 his devotion. Shame to such shallowness, and woe to the guilt of such
 hypocrisy!</p>
                <pb n="31"/>
-               <p>
+               <p pn="31">
                   <figure entity="seiss31">
                      <figDesc>31st page of
 Joseph A. Seiss' The Assassinated President.</figDesc>
                   </figure>
                </p>
-               <p>And whilst upon this point, let me quote a sentence or two
+               <p pn="31">And whilst upon this point, let me quote a sentence or two
 even from that organ of out country's enemies, the London
 Times. "Abraham Lincoln," says that paper, in a recent issue, "was as
 little of a tyrant as any man who ever lived. He could have been a
@@ -900,7 +900,7 @@ it. He recognized it as his one great duty to preserve the Union, and
 whatever opinions may be entertained about the war and its policy,
 nobody can say that such a principle was otherwise than becoming in
 the President of the Republic." (April 29th.)</p>
-               <p>It would seem, however, to be one of the common laws in
+               <p pn="31">It would seem, however, to be one of the common laws in
 human affairs, that the most virtuous and useful men are the most
 hated and abused in their lifetime. This was remarkably illustrated in
 the history of Moses. How was he sneered at when first he appeared at
@@ -940,7 +940,7 @@ A. Seiss' The Assassinated President.</figDesc>
                   </figure>
 dered, for no other reason than that he was good and true and
 great.</p>
-               <p>He was but a man. God forbid that he should for one moment
+               <p pn="33">He was but a man. God forbid that he should for one moment
 have a higher place in our affections or esteem than that which may
 lawfully be assigned to a man. I believe that there is real danger in
 these days, and one which is pointed out as the peculiar snare of the
@@ -953,7 +953,7 @@ carefully on our guard in that direction. But, let us not fail to do
 justice to the virtues of the dead, or refuse to keep in kind
 remembrance those whom God has honored as great servants of their
 kind.</p>
-               <p>It was a sublime work which Moses did for his people and
+               <p pn="33">It was a sublime work which Moses did for his people and
 for the world. He relaid the foundations of Israel's great nationality
 by new illustrations of God's covenant concerning them. He was the
 great reasserter of human rights over against the tyrannies of Egypt,
@@ -973,7 +973,7 @@ reproducer of them for the enlightenment of mankind.  And, taken all
 in all, he was one of those sublime mountains of human greatness from
 which new eras date, and the most important affairs of time take
 complexion and shape.</p>
-               <p>We are not yet in a position so well to understand the
+               <p pn="34">We are not yet in a position so well to understand the
 relations and importance of Lincoln's life and deeds. It remains for
 future ages to trace the bearings of his work upon the fortunes of
 humanity. But we know enough to warrant the remark, that generations
@@ -995,7 +995,7 @@ A. Seiss' The Assassinated President.</figDesc>
                   </figure>
 the time will come when his name shall be cherished by freedom's
 children as warmly as that of Washington himself.</p>
-               <p>Had he left no other legacy by which to be favorably
+               <p pn="35">Had he left no other legacy by which to be favorably
 remembered than the magnificent illustration he has given of the value
 of talents which oft lie hidden in the humbler walks of life, and of
 the genial excellence of institutions which throw open the paths of
@@ -1021,7 +1021,7 @@ A. Seiss' The Assassinated President.</figDesc>
                   </figure>
 sets it up on high for the everlasting encouragement of the lowly, and
 the thoughtful contemplation of all men.</p>
-               <p>This, however, is but a fragment of the case. Think of the
+               <p pn="36">This, however, is but a fragment of the case. Think of the
 terrific perils through which we have just passed; of the
 thunder-clouds of destruction which, time and again, threatened to
 overwhelm our homes and country in one common ruin; of the great
@@ -1060,7 +1060,7 @@ will be seen connecting with a name till recently as humble as it will
 henceforth be great, and radiating from the meek heart, the calm
 judgment, the wise administration, and the patriotic fidelity of
 ABRAHAM LINCOLN.</p>
-               <p>And this is the man against whom it has been in the hearts
+               <p pn="37">And this is the man against whom it has been in the hearts
 of some to plot schemes of assassination, and, with a malignant
 effrontery for which the English language has no name, to carry into
 execution, Alas! for which shall we lament the most,--the loss which
@@ -1077,18 +1077,18 @@ subjects for our profound grief; but for both we have this great
 consolation left, that a just God is upon the throne of the universe,
 and that He will bring every work into judgment, with every secret
 thing, whether it be good or whether it be bad.</p>
-               <p>I will not undertake to maintain that our late Chief
+               <p pn="38">I will not undertake to maintain that our late Chief
 Magistrate made no mistakes, or that he never erred in his estimates
 of men or adoption of measures; even Moses himself did ill-advised
 things, and was censured of God for his conduct at the waters of
 Meribah.</p>
-               <p>Neither do I conceive of all the surroundings in which the
+               <p pn="38">Neither do I conceive of all the surroundings in which the
 assassin found him, as good, pious, or becoming a Christian's
 dying-place. He was but a man, lacking in experience in public
 affairs, and of that meek and generous nature which was, perhaps, too
 willing, in smaller matters, to acquiesce in the tastes and wishes of
 people less conscientious than himself.</p>
-               <p>But, in the great elements of his character, he was just,
+               <p pn="38">But, in the great elements of his character, he was just,
 devout, Christian, and of a moral make and stamen, to which few in
 politics have ever attained. He believed in God, in Revelation, in
 Christ, in prayer, in the necessity of virtue, in providence, and in
@@ -1109,7 +1109,7 @@ of his country, a sincere sympathizer with the suffering and the
 lowly, and a great servant and benefactor of mankind. If he was shot
 down in a theatre, he died a martyr to his country and to principles
 which good men in every age will honor and approve.</p>
-               <p>It is time, my friends, that I should dismiss you; but
+               <p pn="39">It is time, my friends, that I should dismiss you; but
 indulge me with yet a remark or two, before I conclude. The public
 mind is a good deal exercised about monuments and memorials to our
 deceased chieftain. Now, the greatest honor that can be rendered to
@@ -1129,15 +1129,15 @@ stand. But great principles and truths, practically wrought into
 immortal minds, and lived into the histories of mankind, will endure
 through all the ages, and keep telling their impressive story
 forever.</p>
-               <p>Moses is dead, and to this day no man has ever seen his
+               <p pn="40">Moses is dead, and to this day no man has ever seen his
 sepulchre; but his genius lives, fresh, vigorous and active, and will
 continue to live on, increasing in dominion as the race expands and
 men are found to accept his ideas. No monumental piles could so
 perpetuate his honor.</p>
-               <p>Nor can the fame of Lincoln wane, or his potent greatness
+               <p pn="40">Nor can the fame of Lincoln wane, or his potent greatness
 fail in its power on the earth, if men will keep to the channels of
 thought and action again laid open in his life.</p>
-               <p>And if there was that in him worthy of honorable
+               <p pn="40">And if there was that in him worthy of honorable
 commemoration, the nearest to immortality that we can give it is, to
 live it and act it ourselves, and to teach our children to do the
 same. If his ideas and convictions were framed to the statements and
@@ -1182,22 +1182,22 @@ A. Seiss' The Assassinated President.</figDesc>
                   </figure>
 Divine standard, and live to truth and right and God, in business and
 in politics, the same as in your charities and in your church.</p>
-               <p>But whether any are moved or not by such reference to the
+               <p pn="42">But whether any are moved or not by such reference to the
 dead, let us not forget, that we all have obligations upon us, and
 duties to discharge, and responsibilities to meet, in the directions
 indicated, which take their rise from our very position in the
 universe, and which it is our great business in this world to learn,
 acknowledge, and obey.</p>
-               <p>We may be humble, feeble, and unnoticed in the great crowd
+               <p pn="42">We may be humble, feeble, and unnoticed in the great crowd
 of men; but we are each God's workmanship. He has put each of us here
 for a purpose; and we each must some day answer to Him for the manner
 in which we have fashioned our lives, and fulfilled our mission.</p>
-               <p>We may not have nations to lead, or to organize to new
+               <p pn="42">We may not have nations to lead, or to organize to new
 ideas, or to guide and keep in the hours of trial; but we each have
 spheres of importance in which to operate, and little gardens which we
 ourselves alone can cultivate, and webs of little deeds to weave, in
 which our highest life is to be found.</p>
-               <p>We may not, indeed, be Moseses or Lincolns, but, like both
+               <p pn="42">We may not, indeed, be Moseses or Lincolns, but, like both
 of them, we can be ourselves; and by being honestly our true selves in
 humble things, we know not to what high spheres we yet may be
 raised. We have the highest authority for it, that faithful-
@@ -1245,7 +1245,7 @@ Joseph A. Seiss' The Assassinated President.</figDesc>
                   </figure>
                </p> -->
                <pb n="45"/>
-               <p>
+               <p pn="45">
                   <figure entity="seiss45">
                      <figDesc>45th page of
 Joseph A. Seiss' The Assassinated President.</figDesc>
@@ -1253,9 +1253,9 @@ Joseph A. Seiss' The Assassinated President.</figDesc>
                </p>
             </div2>
             <div2 id="seiss.004" n="III. THE CLOSING SERVICES." type="service">
-               <head>III. THE CLOSING SERVICES.</head>
-               <p>THE FINAL PRAYER.</p>
-               <p>ALMIGHTY GOD, the eternal Source of wisdom and purity, from
+               <head pn="45">III. THE CLOSING SERVICES.</head>
+               <p pn="45">THE FINAL PRAYER.</p>
+               <p pn="45">ALMIGHTY GOD, the eternal Source of wisdom and purity, from
 whom all good counsels, all holy desires and all just works do
 proceed; sanctify our hearts by Thy holy Word. What we know not, teach
 Thou us. Whatever is wrong in us, help us to overcome, and to put far
@@ -1267,12 +1267,12 @@ when Thou shalt see fit to remove us from this state of toil, trial,
 and danger, may Thy grace avail for us, and the gates of eternal life
 open to receive us, through Jesus Christ, our Lord, and our Hope.
 AMEN.</p>
-               <p>THE CONCLUDING HYMN.</p>
+               <p pn="45">THE CONCLUDING HYMN.</p>
                <lg type="stanza">
                   <l>"Guide Me, 0 thou great Jehovah!</l>
                   <l>Pilgrim through this barren land;</l>
                   <l>I am weak, but thou art mighty,	</l>
-                  <l>Hold me with Thy powerful hand," &#x0026;c..</l>
+                  <l>Hold me with Thy powerful hand," &amp;c..</l>
                </lg>
             </div2>
          </div1>

@@ -75,7 +75,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="bullock.001" n="Abraham Lincoln: The Just Magistrate, the Representative Statesman, the Practical Philanthropist" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>Abraham
 Lincoln: The Just Magistrate, the Representative Statesman, the
@@ -91,27 +91,27 @@ Hamilton, Palladium Office</publisher>
                   </imprint>
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="bullock1">
                   <figDesc>1st page of Alex. H. Bullock's
 Abraham Lincoln: The Just Magistrate, the Representative Statesman,
 the Practical Philanthropist.</figDesc>
                </figure>
             </p>
-            <p>ABRAHAM LINCOLN</p>
-            <p>THE JUST MAGISTRATE, THE REPRESENTATIVE STATESMAN,</p>
-            <p>THE PRACTICAL PHILANTHROPIST.</p>
-            <p>ADDRESS</p>
-            <p>BY</p>
-            <p>ALEX. H. BULLOCK,</p>
-            <p>BEFORE THE CITY COUNCIL AND CITIZENS OF WORCESTER,</p>
-            <p>JUNE 1, 1865.</p>
-            <p>WORCESTER:</p>
-            <p>PRINTED BY CHARLES HAMILTON,</p>
-            <p>PALLADIUM
+            <p pn="1">ABRAHAM LINCOLN</p>
+            <p pn="1">THE JUST MAGISTRATE, THE REPRESENTATIVE STATESMAN,</p>
+            <p pn="1">THE PRACTICAL PHILANTHROPIST.</p>
+            <p pn="1">ADDRESS</p>
+            <p pn="1">BY</p>
+            <p pn="1">ALEX. H. BULLOCK,</p>
+            <p pn="1">BEFORE THE CITY COUNCIL AND CITIZENS OF WORCESTER,</p>
+            <p pn="1">JUNE 1, 1865.</p>
+            <p pn="1">WORCESTER:</p>
+            <p pn="1">PRINTED BY CHARLES HAMILTON,</p>
+            <p pn="1">PALLADIUM
 OFFICE.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="bullock2">
                   <figDesc>2nd page of
 Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
@@ -119,17 +119,17 @@ Representative Statesman, the Practical
 Philanthropist.</figDesc>
                </figure>
             </p>
-            <p>City of Worcester,</p>
-            <p>In City Council, June 1st, 1865.</p>
-            <p>RESOLVED, That the unanimous thanks of the City Council are hereby
+            <p pn="2">City of Worcester,</p>
+            <p pn="2">In City Council, June 1st, 1865.</p>
+            <p pn="2">RESOLVED, That the unanimous thanks of the City Council are hereby
 tendered to the Hon. ALEXANDER H. BULLOCK for his able and eloquent
 Eulogy upon the Life and Services of the late PRESIDENT LINCOLN,
 delivered, at the request of the Council, in Mechanics Hall this day,
 and that he be requested to furnish a copy for publication.</p>
-            <p>A copy.  Attest, </p>
-            <p>SAMUEL SMITH, <hi rend="italic">City Clerk</hi>.</p>
+            <p pn="2">A copy.  Attest, </p>
+            <p pn="2">SAMUEL SMITH, <hi rend="italic">City Clerk</hi>.</p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="bullock3">
                   <figDesc>3rd page of
 Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
@@ -138,8 +138,8 @@ Philanthropist.</figDesc>
                </figure>
             </p>
             <div2 id="bullock.002" n="EULOGY" type="sermon">
-               <head>EULOGY.</head>
-               <p>IT would be a painful suppression of one of the finest of human
+               <head pn="3">EULOGY.</head>
+               <p pn="3">IT would be a painful suppression of one of the finest of human
 instincts and an unbecoming disregard of the official proclamation of
 the chief magistrate, if this city were not among the foremost to
 accord its voice to the funeral cry of the nation. Never before, in
@@ -168,7 +168,7 @@ mournful pageantry. The Orient and the West, the third of Hebrew
 patriarchs and the sixteenth President, four thousand years apart, are
 pictured before us to-day in the same spectacle and lesson of a nation
 following a just and true ruler to his tomb.</p>
-               <p>I do not suppose that in all the intervening period,
+               <p pn="4">I do not suppose that in all the intervening period,
 fretted and gilded as it has been with art and culture, anything like
 the passage of the herald-corpse of Jacob from his death-bed to the
 field and cave of his fathers, in public turn-out, and general
@@ -192,7 +192,7 @@ of empire. Measuring the days by their solemn tramp and their halts
 for local condolence, the swarthy column moved on over two hundred
 miles, and laid their treasured hero in the august depository of the
 first and second of his line.</p>
-               <p>That oriental retinue of bereavement and sublimity has been
+               <p pn="5">That oriental retinue of bereavement and sublimity has been
 matched and eclipsed within this last lunar month. Dying without the
 consciousness but amid all the pathos of his Eastern exemplar and
 progenitor, the foremost man of this western world has been carried to
@@ -224,7 +224,7 @@ if twenty millions had assembled to make ovation before the corporeal
 symbol of a benefactor--your President was taken to his last abode,
 where he shall rest till the dead shall rise at the call of the
 archangel.</p>
-               <p>The first shock of our calamity, the deep sensation of
+               <p pn="6">The first shock of our calamity, the deep sensation of
 horror which pervaded all our hearts when the "couriers of the air"
 told us at midnight how suddenly and in what manner President Lincoln
 had a few hours before been snatched away, has now subsided, and we
@@ -278,7 +278,7 @@ Philanthropist.</figDesc>
                   </figure>
 is our country and our time, such and so exceptional is Abraham
 Lincoln.</p>
-               <p>And yet he had a childhood and a youth. In that which I
+               <p pn="8">And yet he had a childhood and a youth. In that which I
 call the first stage of his life, ending when he settled down as a
 lawyer in Springfield, I think we may see that fitting, that
 preparation, that nascent destination, which was the providential
@@ -326,7 +326,7 @@ favored modesty in high position. How many members of Parliament,
 asked an English journal, would imitate the modest honesty of the
 President and acknowledge that they had never read all parts of
 Shakespeare? But he understood and remembered all that he had read.</p>
-               <p>And now, before he opens his office of law, we
+               <p pn="9">And now, before he opens his office of law, we
 <pb n="10"/>
                   <figure entity="bullock10">
                      <figDesc>10th page of
@@ -373,7 +373,7 @@ no more! He would have fallen prostrate before the Vision! And yet
 under the beneficence of our institutions if this was to happen at all
 it was as likely to happen to him as to any other, and he lived to
 behold it, and died in an untimely hour at fifty-seven!</p>
-               <p>Upon the second period, that which I call the brawn in his
+               <p pn="11">Upon the second period, that which I call the brawn in his
 life, these exercises will not permit me long to dwell. It bears the
 journals of twenty years, from the raising of the attorney's sign in
 '37 till he gave himself without reclamation to his country at the
@@ -429,7 +429,7 @@ congressmen, was that day and in that body unknown and unheard. But
 where are they all now,--and where is he,--in the benedictions of his
 countrymen, in the gratitude of an enfranchised race, in the love of
 mankind!</p>
-               <p>In 1858, only seven years ago, Mr. Lincoln was selected by
+               <p pn="13">In 1858, only seven years ago, Mr. Lincoln was selected by
 the Republicans of Illinois as the competitor of Mr. Douglas for a
 seat in the Senate of the United States. Thus opened the third and
 last period of his life. How strong he was at that time in the
@@ -490,7 +490,7 @@ state, from her frozen springs to her Egyptian heats, he upheld</p>
                   <l>"Th' imperial ensign, which, full high advanced,</l>
                   <l>Shone like a meteor streaming tot he wind."</l>
                </lg>
-               <p>By this unwavering fidelity to his convictions, his hour having not
+               <p pn="15">By this unwavering fidelity to his convictions, his hour having not
 yet come, under the over-ruling of Providence he accomplished both
 more and less than he set out for; he made his rival Senator, himself
 President, and his country Free. As I look backward over the events of
@@ -521,7 +521,7 @@ hundred fifty-eight had established him.</p>
                   <l>The Northern breezes swept his fame</l>
                   <l>From icy lake to warm bayou."</l>
                </lg>
-               <p>Our greatest Olympiad opened in eighteen hundred sixty. I need not
+               <p pn="16">Our greatest Olympiad opened in eighteen hundred sixty. I need not
 sketch the preceding or attendant circumstances of the convention and
 the nomination. Our first choice was another, and Massachusetts
 followed the fine arts of New York to give it success. They have a
@@ -532,7 +532,7 @@ with a myriad of large hearts and brazen throats ready to sound
 another and a loftier chant. Their candidate took the votes, and the
 voice of all rose to the sky like a chorus of nature. It was the echo
 of the voice of God.</p>
-               <p>Fortunate, providential selection! Any other apparently
+               <p pn="16">Fortunate, providential selection! Any other apparently
 would have shipwrecked the Ark of the Covenant. If you consider how
 inevitable are the jealousies of the West towards the East, to which we
 <pb n="17"/>
@@ -555,7 +555,7 @@ our voters, and our hearts united amid the afflictions and reverses
 that have rolled their thunders and their floods over us. And so the
 hand of our Fathers' God interposed against our calculations five
 years ago at the city of the Lakes.</p>
-               <p>Our departed hero accepted the nomination in written words
+               <p pn="17">Our departed hero accepted the nomination in written words
 which are a model for practical religion and modern statesmanship. In
 language which shows that the spirit of the Most High was upon him he
 wrapped the resolutions around his heart, and in terms which should
@@ -587,7 +587,7 @@ the impending struggle, and we entered upon it together, all of us
 rejoicing to have such a leader, and he only too willing to stake his
 life on the support of such friends and on such a sublime restoration
 and reconstruction of nationality.</p>
-               <p>He was chosen; the men in the South of our country had
+               <p pn="18">He was chosen; the men in the South of our country had
 decided that he should be chosen, and that the precipitation of their
 designs should attend with equal promptness the humanity and
 patriotism of the North. The work of secession began at the instant,
@@ -606,7 +606,7 @@ office four months since the election,--let the curtain drop over all
 that he did and over all that he neglected to do, and let us behold
 the new President approaching the frowning scene which confronted
 him.</p>
-               <p>Such work was his as no man had ever put hand to. A nation
+               <p pn="19">Such work was his as no man had ever put hand to. A nation
 was dissolving, and half its territory was bristling with the arms of
 revolt. In the loyal sections there was universal despondency, and
 among those upon whom he must rely there was every variety of counsel,
@@ -641,7 +641,7 @@ of you sighed for a Jackson and others for a Webster to take the helm;
 yet we now all believe that we have had the man raised up by God for
 this particular epoch, that few could have accomplished this mission
 at all, and none so well.</p>
-               <p>For he came to it devout, wise, patient, forecasting, and
+               <p pn="20">For he came to it devout, wise, patient, forecasting, and
 rich with insight. I read his Inaugural as a key to his whole policy
 for this strange time, and there I discern the dawn of the lustre of
 his qualities for administration, which blended a certain Roman
@@ -722,7 +722,7 @@ epic of all countries and gave triumphant direction to the greatest
 war of human annals. It will be the task of the historian and
 biographer to classify and present these high themes hereafter, but a
 few words ought to be said about them now over his new-made grave.</p>
-               <p>Having neither the taste nor the education of a soldier, he
+               <p pn="23">Having neither the taste nor the education of a soldier, he
 so practiced his intuitions as to become master of the field of
 war. If you consider how extended and complicated the objective field
 soon became, and how in consultation and oversight he was its
@@ -789,7 +789,7 @@ reduces the involutions of armies and campaigns to simplicity and
 analysis, even in this, all this, which belongs to arms, our plain
 civilian will be proved to have outwitted the other, educated soldier
 though he was.</p>
-               <p>Then I cannot help thinking that, as a part of the military
+               <p pn="25">Then I cannot help thinking that, as a part of the military
 questions he had to treat, there were such grave matters of what I may
 call legislative jurisprudence as had not been thought of before. To
 weaken the rebellion by the destruction of its civil rights, and this
@@ -833,7 +833,7 @@ Philanthropist.</figDesc>
                   </figure>
 passage in his life by which he could have illustrated his capacity
 for the comprehensive field of an interstate and national war.</p>
-               <p>And then I reckon it another striking feature of his
+               <p pn="27">And then I reckon it another striking feature of his
 military administration, that under all circumstances he took
 accountability and censure to himself. We may acknowledge, once for
 all, that there was a modest, conscious power in that; for no
@@ -898,7 +898,7 @@ performed he suggested and was willing to be held responsible for
 it. Said the ablest of Englishmen: "The minister who does those things
 is a great man--but the king who desires that they should be done, is
 a far greater."</p>
-               <p>How can I within the limits of these remarks speak fitly or
+               <p pn="29">How can I within the limits of these remarks speak fitly or
 sufficiently of the part he bore in the cause of emancipation? Think
 what height and depth stood in the way, how history and providence
 only shed darkness over his approaches, how the free states were rent
@@ -928,7 +928,7 @@ search after the will of the last arbiter? Undoubtedly, he thought the
 necessity of emancipation might come, probably it would come; but it
 would come as a question of arms and must be supported by public
 opinion. That was the day of all which tried him as a statesman.</p>
-               <p>In the presence of such a question, large enough to occupy
+               <p pn="30">In the presence of such a question, large enough to occupy
 the thoughts and agitations of a generation, behold the unambitious
 practical statesmanship of Abraham Lincoln. No age has been blessed
 with a better. We are constantly looking back through the coloring
@@ -961,7 +961,7 @@ discern the present tone and probable direction of public opinion; he
 must distinguish between intelligent and unintelligent censure, and he
 must know how much of public outcry can safely be disregarded, as well
 as that amount which he cannot afford to withstand.</p>
-               <p>Such statesmanlike qualities Mr. Lincoln illustrated in
+               <p pn="31">Such statesmanlike qualities Mr. Lincoln illustrated in
 those many months of hesitation, anxiety, seeming then almost
 inability to act, which ushered in that day on which he emerged from
 his closet, bearing in his own arms the effulgent guidon of
@@ -993,7 +993,7 @@ irrevocable while the earth shall stand. Then he said: "I have done
 this after a very full deliberation, and under a very heavy and solemn
 sense of responsibility. I can only trust in God I have made no
 mistake. It is now for the country and the world to pass judgment."</p>
-               <p>Yes, yes, that judgment his country and the world have
+               <p pn="32">Yes, yes, that judgment his country and the world have
 already passed. His returning armies share their laurels with him and
 pay their resounding fusilade over the turf which covers their father
 and their friend! But higher honors await him! A nation rescued from
@@ -1012,7 +1012,7 @@ tomb till the resurrection! And wherever Freedom shall have a home, or
 America a name, or Washington a praise, over the whole globe, mankind
 shall revere the memory of him who sealed the baptism of emancipation
 with his own blood!</p>
-               <p>And I desire for myself to express the opinion that no
+               <p pn="33">And I desire for myself to express the opinion that no
 monument that may be erected to commemorate his name can rise so high
 or endure so long, as that whose foundations shall be laid in those
 immutable and universal rights of man for which he gave his life. As
@@ -1035,7 +1035,7 @@ Philanthropist.</figDesc>
                   </figure>
 of every distinction, if the oligarchy shall not have its roots
 plucked to their uttermost fibre out of the land.</p>
-               <p>I do not forget to-day that probably one-half of all those
+               <p pn="34">I do not forget to-day that probably one-half of all those
 who now help to extend the funeral train, have at one time or another
 in four years pronounced their complaint that Mr. Lincoln was too much
 the follower, not sufficiently the leader of public opinion. The stern
@@ -1113,7 +1113,7 @@ vindication. So, as I have observed, Lincoln was summoned to submit to
 the same test of fame; and so we all see this day that his name
 ascends henceforth among the stars.</p>
                <pb n="37"/>
-               <p>
+               <p pn="37">
                   <figure entity="bullock37">
                      <figDesc>37th page of
 Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
@@ -1121,7 +1121,7 @@ Representative Statesman, the Practical
 Philanthropist.</figDesc>
                   </figure>
                </p>
-               <p>His speech, though not uniform, was not unworthy of his
+               <p pn="37">His speech, though not uniform, was not unworthy of his
 action. Consider how opposite are the requisitions in this respect
 which empires make upon their rulers, and take the two leading powers
 of the East and the West for the illustration. The Czar of
@@ -1184,7 +1184,7 @@ time in the courts of France and England; and though they may have
 been obliterated or obscured there by royal art, they will reappear
 for luminous and prophetic reading when Europe and America shall
 settle their accounts.</p>
-               <p>In these state papers posterity will recognize a style of
+               <p pn="39">In these state papers posterity will recognize a style of
 power that is not more unique in its form than in its produced
 effect. It is in sympathy with the national characteristics and with
 the traditional choice of the people. His mind was acute, logical, and
@@ -1247,7 +1247,7 @@ ingenuous patriotism it would reflect credit upon the tender heart and
 robust nationalism of Washington. I admired it when it first appeared,
 and now after a second and third reading I think it to be the best of
 all his papers.</p>
-               <p>The moral and humane qualities of the good President set
+               <p pn="41">The moral and humane qualities of the good President set
 off and gilded his term. Did you ever know a potentate whose rule bore
 such blazonry of events, civic and martial, and whose daily life was
 so simple, plain and temperate? I believe that not Sir Matthew Hale
@@ -1269,7 +1269,7 @@ North to consult on the national safety with a retired chieftain. He
 gave attentive ear to humblest men and women, was as faithful in small
 acts of kindness as in great acts of justice, as amiable in little
 things in private as in high matters of state.</p>
-               <p>His magnanimity became proverbial. His soul was no nursery
+               <p pn="42">His magnanimity became proverbial. His soul was no nursery
 for a brood of resentments. He conferred the bars, and stars, and
 eagles of war generously upon those who had not given him a vote or a
 sympathy, if only they were true to the flag. He bared his own breast
@@ -1311,7 +1311,7 @@ duty, forgetful of wrong and injustice to himself, conferred upon his
 late secretary the appointment, and placed the jurisprudence of the
 United States and the rights of human nature under perpetual
 obligations to his magnanimity.</p>
-               <p>He believed in God. You know how he left his home for
+               <p pn="43">He believed in God. You know how he left his home for
 Washington in February, '61, in his parting words requesting that his
 neighbors would array in his support the mysterious power of the
 legions of prayer; and after he had assumed his high trust at the
@@ -1343,7 +1343,7 @@ surprise at the novelty of Mr. Lincoln's theory of Christian ethics as
 a rule for official conduct; and the difference between us will have
 to be postponed to the adjustments which are yet to come of American
 and European ideas.</p>
-               <p>Your President was kind and tender to a fault. 
+               <p pn="44">Your President was kind and tender to a fault. 
 <pb n="45"/>
                   <figure entity="bullock45">
                      <figDesc>45th page of
@@ -1371,14 +1371,14 @@ however, he only meant to say:--</p>
                   <l>
                      <hi rend="italic">Them</hi> fully satisfied, and <hi rend="italic">then</hi> appease."</l>
                </lg>
-               <p>Nay, more, I catch the language of his last Inaugural for his
+               <p pn="45">Nay, more, I catch the language of his last Inaugural for his
 eulogy:--"WITH MALICE TOWARD NONE, WITH CHARITY FOR ALL." Lofty words!
 He knew not what those men had in preparation for him, and the Lord in
 his infinite mercy was preparing him to go at their bidding,
 whispering as he ascended, "Father, forgive them, for they know not
 what they do!"</p>
                <pb n="46"/>
-               <p>
+               <p pn="46">
                   <figure entity="bullock46">
                      <figDesc>46th page of
 Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
@@ -1386,7 +1386,7 @@ Representative Statesman, the Practical
 Philanthropist.</figDesc>
                   </figure>
                </p>
-               <p>As you look backward along the galleries of history, you
+               <p pn="46">As you look backward along the galleries of history, you
 are surprised when you think how few are found whose fame has outlived
 their period or country, how few have passed into the constellations
 of immortal light. Those only are privileged with that imperishable
@@ -1404,9 +1404,9 @@ years ago as to the limitation of his previous life, or his natural
 parts, or his acquired culture, now that the four years have passed it
 has become apparent that Almighty God had selected him for world-wide
 honor and benignity.</p>
-               <p>I appropriate to him the language of our own fellow-citizen
+               <p pn="46">I appropriate to him the language of our own fellow-citizen
 and historian, Mr. Motley, which he applied to William of Orange:</p>
-               <p>"No man was ever more devoted to a high purpose:
+               <p pn="46">"No man was ever more devoted to a high purpose:
 <pb n="47"/>
                   <figure entity="bullock47">
                      <figDesc>47th page of
@@ -1424,14 +1424,14 @@ recognize his purity. It was natural for grovelling natures to search
 in the gross soil of self-interest for the sustaining roots of the
 tree beneath whose branches a nation found its shelter. What could
 they comprehend of living fountains or of heavenly dews?"</p>
-               <p>But his untimely hour had come. You remember the fatal
+               <p pn="47">But his untimely hour had come. You remember the fatal
 evening only too well already, and I do not desire to disturb your
 sensibilities by anything more than this allusion to it. In our
 poetry, and art, and annals, that fourteenth of April shall henceforth
 be known and remembered as the <hi rend="italic">noche triste</hi>--the
 sorrowful night. The just and good magistrate then went away out of
 our sight.</p>
-               <p>The flag on spire, pinnacle, and cottage, had scarcely been
+               <p pn="47">The flag on spire, pinnacle, and cottage, had scarcely been
 restored from its depression of mourning, nor the muffled drum had
 ceased to beat, when the rival of the dead, the representative cause
 of our sorrows, was overtaken by retribution. He enjoys this evening
@@ -1456,7 +1456,7 @@ matter when, or where, or how Jefferson Davis shall die,--his death
 cannot be less ignominious than that of the assassin who performed his
 purpose,--and all generations shall welcome him to the immortality of
 the representative Traitor of the race!</p>
-               <p>But another guerdon awaits our president. He sought to
+               <p pn="48">But another guerdon awaits our president. He sought to
 save, not to destroy. He labored to uphold the pillars of the Temple
 whose grace and beauty, if magistrates prove faithful, can never
 decay. He studied policy and wisdom day and night in a civil war which

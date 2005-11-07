@@ -81,7 +81,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="leffingwell.001" n="Strength in Sorrow" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>Strength in
 Sorrow</title> 
@@ -97,44 +97,44 @@ Rev. C. S.</author>
                   </imprint>
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="leffingwell1">
                   <figDesc>1st page of
 Rev. C. S. Leffingwell's Strength in Sorrow.</figDesc>
                </figure>
             </p>
-            <p>STRENGTH IN SORROW.</p>
-            <p>A SERMON,</p>
-            <p>Preached in St. John's Church, Canandaigua,</p>
-            <p>JUNE lst, 1865,</p>
-            <p>ON THE OCCASION OF THE</p>
-            <p>NATIONAL FAST, FOLLOWING UPON THE</p>
-            <p>ASSASSINATION OF</p>
-            <p>PRESIDENT LINCOLN.</p>
-            <p>BY THE</p>
-            <p>REV. C. S. LEFFINGWELL, M. A.,</p>
-            <p>RECTOR</p>
-            <p>CANANDAIGUA:</p>
-            <p>Printed at C. Jobson's office, Bemis Block, 2d
+            <p pn="1">STRENGTH IN SORROW.</p>
+            <p pn="1">A SERMON,</p>
+            <p pn="1">Preached in St. John's Church, Canandaigua,</p>
+            <p pn="1">JUNE lst, 1865,</p>
+            <p pn="1">ON THE OCCASION OF THE</p>
+            <p pn="1">NATIONAL FAST, FOLLOWING UPON THE</p>
+            <p pn="1">ASSASSINATION OF</p>
+            <p pn="1">PRESIDENT LINCOLN.</p>
+            <p pn="1">BY THE</p>
+            <p pn="1">REV. C. S. LEFFINGWELL, M. A.,</p>
+            <p pn="1">RECTOR</p>
+            <p pn="1">CANANDAIGUA:</p>
+            <p pn="1">Printed at C. Jobson's office, Bemis Block, 2d
 story.</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="leffingwell2">
                   <figDesc>2nd page
 of Rev. C. S. Leffingwell's Strength in Sorrow.</figDesc>
                </figure>
             </p>
-            <p>CANANDAIGUA,</p>
-            <p>THURSDAY, 1ST JUNE, 1865.</p>
-            <p>Rev. C.S. LEFFINGWELL:--</p>
-            <p>DEAR SIR:</p>
-            <p>The undersigned respectfully
+            <p pn="2">CANANDAIGUA,</p>
+            <p pn="2">THURSDAY, 1ST JUNE, 1865.</p>
+            <p pn="2">Rev. C.S. LEFFINGWELL:--</p>
+            <p pn="2">DEAR SIR:</p>
+            <p pn="2">The undersigned respectfully
 solicit for publication, a copy of the excellent and interesting
 sermon delivered by you at St. John's Church, this morning, on the
 occasion of the Fast day appointed in consequence of the assassination
 of President Lincoln.</p>
-            <p>Respectfully Yours,
+            <p pn="2">Respectfully Yours,
 						<lb/>JAMES C. SMITH,
 						<lb/>EBENEZER HALE,
 						<lb/>CHAS. B. MEEK,
@@ -143,31 +143,31 @@ of President Lincoln.</p>
 						<lb/>WILLIAM H. ADAMS,
 						<lb/>W. FITCH CHENEY,
 						<lb/>A.G. MURRAY.</p>
-            <p>Hon. JAMES C. SMITH, EBENEZER HALE, Esq., and others:</p>
-            <p>GENTLEMEN:--</p>
-            <p>I have to acknowledge the
+            <p pn="2">Hon. JAMES C. SMITH, EBENEZER HALE, Esq., and others:</p>
+            <p pn="2">GENTLEMEN:--</p>
+            <p pn="2">I have to acknowledge the
 receipt of your complimentary favor of the 1st inst; and in acting
 upon the subject matter of your note, rely upon your judgement rather
 than on my own, and so, I place at your disposal the Sermon delivered
 in St. John's Church, on the memorable day of our National Fast.</p>
-            <p>Respectfully Yours,</p>
-            <p>C.S. LEFFINGWELL.</p>
-            <p>St. John's Rectory,</p>
-            <p>June 3, 1865.</p>
+            <p pn="2">Respectfully Yours,</p>
+            <p pn="2">C.S. LEFFINGWELL.</p>
+            <p pn="2">St. John's Rectory,</p>
+            <p pn="2">June 3, 1865.</p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="leffingwell3">
                   <figDesc>3rd page
 of Rev. C. S. Leffingwell's Strength in Sorrow.</figDesc>
                </figure>
             </p>
             <div2 id="leffingwell.002" n="SERMON" type="sermon">
-               <head>SERMON.</head>
-               <epigraph>
-                  <p>What hath God wrought!"-(NUMBERS. XXIII:
+               <head pn="3">SERMON.</head>
+               <epigraph pn="3">
+                  <p pn="3">What hath God wrought!"-(NUMBERS. XXIII:
 23.)</p>
                </epigraph>
-               <p>There is a duty laid upon me to-day from which I would
+               <p pn="3">There is a duty laid upon me to-day from which I would
 almost willingly shrink; the task of addressing you upon a subject,
 concerning which, although our thoughts are all in unison, yet a
 subject upon which a number of my congregation could speak with fuller
@@ -176,23 +176,23 @@ own number would address our citizens this evening, from whose wisdom,
 and large experience in dealing with legal and national topics, we
 might have gleaned more valuable lessons than it may be in my power to
 offer.</p>
-               <p>But, though I feel myself incompetent to the task of the
+               <p pn="3">But, though I feel myself incompetent to the task of the
 hour, I shall gladly utter the honest convictions of my heart, and in
 doing this, I feel assured from the oneness of sentiment among us,
 that my words will meet a response in the breast of all.</p>
-               <p>A month and a half has passed by, since the murder of
+               <p pn="3">A month and a half has passed by, since the murder of
 President Lincoln, but that brief period will not suffice to enable us
 fully to estimate the worth of his character, or rightly to judge of
 the influence which his official work and untimely death will have
 upon our national future.</p>
                <pb n="4"/>
-               <p>
+               <p pn="4">
                   <figure entity="leffingwell4">
                      <figDesc>4th page of
 Rev. C. S. Leffingwell's Strength in Sorrow.</figDesc>
                   </figure>
                </p>
-               <p>Greater men, intellectually, doubtless our land could
+               <p pn="4">Greater men, intellectually, doubtless our land could
 boast. There were those of a higher culture and refinement among us;
 there were men of more gracefulness and elegance of manner, and there
 may have been men of a deeper toned religious life. But he had that
@@ -202,17 +202,17 @@ infuse into his writings the spirit of our common Christianity, and to
 make the rare acknowledgment in those public records and official
 papers, of our utter dependence, as a nation, upon the Supreme
 being.</p>
-               <p>Had others a native exterior grace which he did not share,
+               <p pn="4">Had others a native exterior grace which he did not share,
 or an acquired outward refinement which he did not reach? He had the
 grace of honesty of purpose and singleness of heart, to do his duty
 well in that state of life whereunto he had been called.</p>
-               <p>Had
+               <p pn="4">Had
 others greater charms of manner, and acceptableness of person? He had
 that degree of attractiveness which has won for him a higher and more
 enduring place in the national esteem,--than has been gained by any
 man, since the noble form of Washington was laid clown to its quiet
 rest in the hallowed shades of Mount Vernon.</p>
-               <p>Could others be
+               <p pn="4">Could others be
 found of stronger intellect or more vivid mental brilliance? He had
 that degree of mental power which enabled him, under God, to
 accomplish by his steady, persistent efforts, the great hope of a
@@ -229,23 +229,23 @@ issues we shall never fully realize; an undertaking whose results only
 our children and our children's children will appreciate; an
 experiment testing the strength,--and, thanks to our God,--proving the
 stability of our republican form of government.</p>
-               <p>The winds of division beat fiercely upon it; the waves of
+               <p pn="5">The winds of division beat fiercely upon it; the waves of
 rebellion rolled with gigantic force against it, but it stood,--and
 stands to-day stronger than it stood before,--more firmly established
 than ever, by earnest hearts and patriotic hands, upon the great rock
 of eternal right.</p>
-               <p>Friends abroad withdrew their sympathy, and foes abroad
+               <p pn="5">Friends abroad withdrew their sympathy, and foes abroad
 gave aid to foes at home, but we think they would to-day gladly bury
 the remembrance of their ill-judged deeds, and join with us in
 rendering honor to the man who, under God, guided our nation through
 those perilous times; the man who is remembered and mourned all
 through our land to-day.</p>
-               <p>Again, it was au experiment which forced upon our
+               <p pn="5">Again, it was au experiment which forced upon our
 government the final solution of the long vexing question, whether it
 would continue to nurse, to feed, and fatten, with the life blood of
 the nation,--that offspring of Satan, Human Slavery, or suffer it to
 die a suicidal death, its hands imbrued in its own blood.</p>
-               <p>For long and weary years the wisdom of our sagest
+               <p pn="5">For long and weary years the wisdom of our sagest
 counsellors had been baffled in every plan and effort, to lift that
 evil weight from the bowed head and aching shoulders of American
 civilization. 
@@ -258,24 +258,24 @@ For long and weary years, that curse had been brooding over the land,
 its ominous threats growing louder, its intimidating menaces growing
 wilder and fiercer, alarming, the timorous and mocking the most
 confident and brave.</p>
-               <p>In an evil hour for itself, it gathered up its great
+               <p pn="6">In an evil hour for itself, it gathered up its great
 resources, and, snatching every adventitious aid, came rushing with
 demoniac determination to give to the American Union the full stroke
 of death.</p>
-               <p>And in that sad encounter, our quiet, peaceful nation
+               <p pn="6">And in that sad encounter, our quiet, peaceful nation
 reeled and tottered! Amazed and bewildered, is it strange that she
 should have reeled? Is it marvellous that she should have stumbled?</p>
-               <p>But she only stumbled. She did not fall. In her very
+               <p pn="6">But she only stumbled. She did not fall. In her very
 stumbling she learned her footing. She planted her feet more
 firmly. She arose with caution, called in the strength hitherto
 expended upon her accustomed peaceful acts, and renewed the contest
 with valiant earnestness, while each successive struggle gave to her
 the valued power of experience.</p>
-               <p>She gained by continual victories and even by seeming
+               <p pn="6">She gained by continual victories and even by seeming
 defeat, until now, at last, before her erect, well-knit frame and
 stalwart form, the foe which sought her ruin lies lifeless at her
 feet.</p>
-               <p>The cloud, the veil is removed. The curse of human Slavery
+               <p pn="6">The cloud, the veil is removed. The curse of human Slavery
 is lifted from the brow of American Freedom, while the world abroad
 looks on with wonder and amazement, and we at home are filled with
 earnest gladness. For here, in the very home of Freedom, has Tyranny
@@ -289,16 +289,16 @@ Rev. C. S. Leffingwell's Strength in Sorrow.</figDesc>
 history been made. Tyranny has sought the very life of Liberty and has
 fallen in the act. Human Slavery has reached its possible limits, and
 has perished in its own eventuatings.</p>
-               <p>The reaction of this event, the influence of this great
+               <p pn="7">The reaction of this event, the influence of this great
 stride of Liberty will be felt upon the world at large from this year
 of grace onward.</p>
-               <p>The rights of humanity have been asserted, defended and
+               <p pn="7">The rights of humanity have been asserted, defended and
 upheld. The privileges of the few have been weighed in the balance
 with the inalienable rights of the many, and, found wanting, have been
 condemned, and that condemnation has been sealed,--forever sealed,--on
 this continent, with the blood of the representative man of his
 age,--him whom we commemorate to-day.</p>
-               <p>His position as our President, during the fearful ordeal of
+               <p pn="7">His position as our President, during the fearful ordeal of
 the Rebellion, drew upon him the steady earnest gaze of every
 nation. He stood the foremost man of his time, the embodiment of the
 great American idea,--"Popular rights, Freedom for all, Oppression to
@@ -311,26 +311,26 @@ sharing, the long sleep of those other heroes, who poured out their
 life blood on the battle field, martyrs alike to the sacred work of
 advancing, human civilization.</p>
                <pb n="8"/>
-               <p>
+               <p pn="8">
                   <figure entity="leffingwell8">
                      <figDesc>8th page of
 Rev. C. S. Leffingwell's Strength in Sorrow.</figDesc>
                   </figure>
                </p>
-               <p>The first words transmitted over the Magnetic Telegraph, whose
+               <p pn="8">The first words transmitted over the Magnetic Telegraph, whose
 electric wires now encircle the land were these: "<hi rend="italic">What
 hath God wrought!</hi>"</p>
-               <p>Man, then only discovered what God had made from the
+               <p pn="8">Man, then only discovered what God had made from the
 first. It was God's doing, and in his own time, he permitted the mind
 of man to observe and apply the subtle element of Electricity to the
 purposes and wants of civilized life, and now that mystic cord runs in
 every direction over the world, and its varied uses have become a
 recognized, essential element, in the work of human progress.</p>
-               <p>But that first telegram,--"What hath God wrought!" has no
+               <p pn="8">But that first telegram,--"What hath God wrought!" has no
 more appropriate application to that one advance, than to any other
 great step of Civilization. The hand of God is to be recognized every
 where, and at all times.</p>
-               <p>Does any one ask, if I see the hand of God in the violent
+               <p pn="8">Does any one ask, if I see the hand of God in the violent
 scenes which were lately enacted in the city of Washington? I answer,
 that I recognize the kind, overruling Providence of God in preserving
 the lives of our national counsellors in their great extremity, and,
@@ -338,10 +338,10 @@ looking further back, I acknowledge the providence of God's overruling
 care, in continuing him, their chief, in life, and effective health,
 and strength, so long as he did,--in preserving him through all those
 imminent perils, until his work was done.</p>
-               <p>His life, to all human appearance, was in far greater
+               <p pn="8">His life, to all human appearance, was in far greater
 danger many times before. He had incurred risks which called forth the
 fears of the nation.</p>
-               <p>The memorable night of his inhuman slaughter, was marked by
+               <p pn="8">The memorable night of his inhuman slaughter, was marked by
 no sign of evil. No danger ap-
 <pb n="9"/>
                   <figure entity="leffingwell9">
@@ -353,11 +353,11 @@ been ventured before, and in and through them a good providence had
 sheltered him;--and now, when the work assigned him to be accomplished
 in active life had been done,--the work assigned him to be
 accomplished in death was <hi rend="italic">permitted to occur</hi>.</p>
-               <p>In that event, God has taught afresh, and with an emphasis never
+               <p pn="9">In that event, God has taught afresh, and with an emphasis never
 more thrilling, that any human arm, to which nations or individuals
 may cling for defence or safety, is frail as the bending reed, and
 fleeting as the passing hour.</p>
-               <p>That human aid, though given by God's goodness, and
+               <p pn="9">That human aid, though given by God's goodness, and
 sustained by God's providence, is only human and is to be given up in
 God's own time. That lesson we have been taught anew, which the
 Psalmist inculcated long centuries ago: "It is better to trust in the
@@ -371,7 +371,7 @@ worth. All earthly powers are tributary to the King of Terrors. He
 walks the palace floor, and climbs the very throne. He snatches the
 sceptre from the hand of power, and tramples on goodness, and mocks at
 greatness.</p>
-               <p>The worthiest princes, as was said of David must, after
+               <p pn="9">The worthiest princes, as was said of David must, after
 serving their, generation for a time, fall
 <pb n="10"/>
                   <figure entity="leffingwell10">
@@ -383,22 +383,22 @@ make it subordinate to the trust we should ever repose in God. Theirs,
 may indeed, be wise designs, and generous purposes for the nation's
 good, but when "their breath goeth forth, then all their thoughts
 perish!</p>
-               <p>What vain props are these, for a nation's security! What
+               <p pn="10">What vain props are these, for a nation's security! What
 uncertain support, what unsafe reliance, is any thing, short of God,
 upon whose direct guidance we all are freshly taught to lean.</p>
-               <p>In coming years, men will read the record of our late civil
+               <p pn="10">In coming years, men will read the record of our late civil
 strife, with a truer understanding of God's Providential guidings, and
 will be able to trace the steps of his wisdom and goodness and love in
 many of the complicated and trying events of the time, which we from
 our nearer position, may be unable fully to decipher.</p>
-               <p>But even now, blind is the eye, and unbelieving is the
+               <p pn="10">But even now, blind is the eye, and unbelieving is the
 heart, which does not recognize the Providence of the Lord of Hosts,
 in leading this great people, through broad fields of blood toward the
 quiet valley of rest, guiding our perilous march, made with agonizing
 hearts, through the black night of war, and bidding us to celebrate
 the dawn of peace, while gathered as one great mourning nation, even
 around the new-made grave of our slaughtered leader.</p>
-               <p>That death occurred with the fore-knowledge, and permission
+               <p pn="10">That death occurred with the fore-knowledge, and permission
 of the omniscient God, and, as concerning our great gladness in
 victory and peace, so concerning our great grief in tile loss of the
 President,--we may well exclaim with wondering awe:
@@ -413,13 +413,13 @@ sorrow,--and made that unforseen, abrupt commingling of smiles and
 tears, a nation's emblem of human life! How he evidenced to all, that
 which every christian man should remember in his private individual
 life, that the hour of victory is the hour of danger!</p>
-               <p>And even in minor and more personal matters, the providence
+               <p pn="11">And even in minor and more personal matters, the providence
 of God has been plainly apparent. How brief the victim's suffering!
 How promptly the foul assassin was brought to bay, and how wisely was
 his evil life disposed of! How quietly our government passed on, in
 its regular functions! How quickly was the great Rebellion ended! How
 rapid the events of those few days! Who can forget them!</p>
-               <p>There is such a majesty, such a power in solemn universal
+               <p pn="11">There is such a majesty, such a power in solemn universal
 grief, that in those dark hours of sorrow we felt within ourselves and
 in each other, a firm strength and a oneness, which gave to the
 American nation a presence and a mien, approaching the sublime! In
@@ -437,56 +437,56 @@ Rev. C. S. Leffingwell's Strength in Sorrow.</figDesc>
                   </figure>
 lost, is it too soon to exclaim with reverence,--"<hi rend="italic">What
 hath God wrought!</hi>"</p>
-               <p>Brethren, who of us hereafter will reckon upon any certain
+               <p pn="12">Brethren, who of us hereafter will reckon upon any certain
 morrow? A few weeks since,--in that holy season, when we were
 reviewing the sad scenes of Calvary,--on the last morning of the week,
 when as it were we watched the holy sepulchre where our Lord was
 laid--there came sudden tidings! In whispered tones men told them to
 each other. "Impossible!" we each one cried,--but it was true.</p>
-               <p>Our president was dead!--dead, while almost countless
+               <p pn="12">Our president was dead!--dead, while almost countless
 armies, awaited his bidding,--dead, while the great world was watching
 for his next movement.</p>
-               <p>Who then of us will count with certainty upon any
+               <p pn="12">Who then of us will count with certainty upon any
 to-morrow!</p>
-               <p>But while we do live, let us, as we now, led by the hand of
+               <p pn="12">But while we do live, let us, as we now, led by the hand of
 God are merging upon better and brighter times,--let us ever cherish
 the memory of the patriotic dead,--the heroes who have gone forth in
 our stead--who have fought our battles for us, and have perished.</p>
-               <p>Let them still live. Let their names be always fresh, and
+               <p pn="12">Let them still live. Let their names be always fresh, and
 their memory ever green, that in generations to come our children may
 cherish their worth, and honor their deeds,--as we have done honor to
 the heroes of revolutionary fame.</p>
                <pb n="13"/>
-               <p>
+               <p pn="13">
                   <figure entity="leffingwell13">
                      <figDesc>14th
 page of Rev. C. S. Leffingwell's Strength in
 Sorrow.</figDesc>
                   </figure>
                </p>
-               <p>Wherever they lie buried, in prison vault or open
+               <p pn="13">Wherever they lie buried, in prison vault or open
 field--there is a shrine for patriotic pilgrimage,--"there is a spot,
 at which, for ages to come, valor shall gain fresh life, and where
 freedom shall trim her torch."</p>
-               <p>They have not died in vain,--their death procures for us a
+               <p pn="13">They have not died in vain,--their death procures for us a
 lasting peace; enlarges the area of human freedom, builds up in every
 corner of our land, a tower of strength impregnable to any foe abroad,
 and points forever to the bloody doom of treachery at home!</p>
-               <p>Shall we not then, as Christian Patriots, give unto God the
+               <p pn="13">Shall we not then, as Christian Patriots, give unto God the
 glory due for his providential care, and in view of all that we have
 gained, as well as in view of all that we have lost, exclaim with
 reverence,--</p>
-               <p>"WHAT HATH GOD WROUGHT!"</p>
+               <p pn="13">"WHAT HATH GOD WROUGHT!"</p>
                <pb n="14"/>
-               <p>
+               <p pn="14">
                   <figure entity="leffingwell14">
                      <figDesc>14th
 page of Rev. C. S. Leffingwell's Strength in
 Sorrow.</figDesc>
                   </figure>
                </p>
-               <p>THE PRAYER FOR UNITY.</p>
-               <p>Almighty God, we implore Thy mercy for all the people of
+               <p pn="14">THE PRAYER FOR UNITY.</p>
+               <p pn="14">Almighty God, we implore Thy mercy for all the people of
 this land, and more especially therein for all Christians; beseeching
 Thee to give us grace, seriously to lay to heart, the great dangers we
 are in, by our unhappy divisions. Take away all hatred and prejudice,
