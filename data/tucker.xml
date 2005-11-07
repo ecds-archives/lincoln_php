@@ -37,7 +37,7 @@ Sermons Project</title>
             <bibl>Tucker,
 J. T. A Discourse in Memory of our Late President, Abraham Lincoln,
 Delivered in the First Parish Church, Holliston, Mass., Thursday, June
-1, 1865. Holliston: Plimpton &#x0026; Clark. 1865.</bibl>
+1, 1865. Holliston: Plimpton &amp; Clark. 1865.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -79,7 +79,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="tucker.001" n="A Discourse in Memory of our Late President, Abraham Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>A Discourse in
 Memory of our Late President, Abraham Lincoln </title> 
@@ -90,52 +90,52 @@ Mass.</pubPlace>
                   <author>Tucker, J. T.</author> 
                   <imprint>
                      <pubPlace>Holliston</pubPlace>
-                     <publisher>Plimpton &#x0026;
+                     <publisher>Plimpton &amp;
 Clark</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="tucker1">
                   <figDesc>1st page of J. T. Tucker's A
 Discourse in Memory of our Late President, Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>A</p>
-            <p>DISCOURSE</p>
-            <p>IN MEMORY OF OUR LATE PRESIDENT,</p>
-            <p>ABRAHAM LINCOLN,</p>
-            <p>DELIVERED IN THE</p>
-            <p>FIRST PARISH CHURCH, HOLLISTON, MASS.,</p>
-            <p>THURSDAY, JUNE 1, 1865,</p>
-            <p>By J. T. TUCKER,</p>
-            <p>PASTOR.</p>
-            <p>HOLLISTON:</p>
-            <p>PLIMPTON &#x0026; CLARK.</p>
-            <p>1865.</p>
+            <p pn="1">A</p>
+            <p pn="1">DISCOURSE</p>
+            <p pn="1">IN MEMORY OF OUR LATE PRESIDENT,</p>
+            <p pn="1">ABRAHAM LINCOLN,</p>
+            <p pn="1">DELIVERED IN THE</p>
+            <p pn="1">FIRST PARISH CHURCH, HOLLISTON, MASS.,</p>
+            <p pn="1">THURSDAY, JUNE 1, 1865,</p>
+            <p pn="1">By J. T. TUCKER,</p>
+            <p pn="1">PASTOR.</p>
+            <p pn="1">HOLLISTON:</p>
+            <p pn="1">PLIMPTON &amp; CLARK.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="tucker2">
                   <figDesc>2nd page of
 J. T. Tucker's A Discourse in Memory of our Late President, Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>NOTE.</p>
-            <p>Fully satisfied as I am of the justness of the conclusions reached
+            <p pn="2">NOTE.</p>
+            <p pn="2">Fully satisfied as I am of the justness of the conclusions reached
 in this discourse, my purpose in giving it to the public is not so
 much to declare my own individual opinions, as thus to become the
 medium of expressing the judgment, on our present affairs, of a large
 number of intelligent and influential hearers, by whose request these
 pages are sent to the press.</p>
-            <p>	J.T. TUCKER.</p>
-            <p>LAWNSIDE,</p>
-            <p>Holliston,</p>
-            <p>June 5th, 1865.</p>
+            <p pn="2">	J.T. TUCKER.</p>
+            <p pn="2">LAWNSIDE,</p>
+            <p pn="2">Holliston,</p>
+            <p pn="2">June 5th, 1865.</p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="tucker3">
                   <figDesc>3rd page of
 J. T. Tucker's A Discourse in Memory of our Late President, Abraham
@@ -143,14 +143,14 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="tucker.002" n="DISCOURSE." type="sermon">
-               <head>DISCOURSE.</head>
-               <epigraph>
-                  <p>LAMENTATIONS 4: 20.</p>
-                  <p>"THE BREATH OF OUR NOSTRILS, THE ANOINTED OF THE LORD, WAS TAKEN IN
+               <head pn="3">DISCOURSE.</head>
+               <epigraph pn="3">
+                  <p pn="3">LAMENTATIONS 4: 20.</p>
+                  <p pn="3">"THE BREATH OF OUR NOSTRILS, THE ANOINTED OF THE LORD, WAS TAKEN IN
 THEIR PITS, OF WHOM WE SAID, UNDER HIS SHADOWN WE SHALL LIVE AMONG THE
 HEATHEN."</p>
                </epigraph>
-               <p>In these mournful strains, the Hebrew prophet and poet bewailed the
+               <p pn="3">In these mournful strains, the Hebrew prophet and poet bewailed the
 captivity of the last of the kings of Judah, taken captive by his
 enemies and carried sightless and chained like a slave or a wild
 beast, to Babylon. That fallen prince had brought this heavy judgment
@@ -169,21 +169,21 @@ mourn the loss and honor the name of our great, good President: "The
 breath of our nostrils, the Anointed of the Lord, was taken in their
 pits, of whom we said, under his shadow we shall live among the
 nations."<ref target="tucker.002.n01">*</ref></p>
-               <p>We assemble at this hour, under a proclamation sent forth</p>
-               <note id="tucker.002.n01" n="*" place="foot" anchored="yes">
-                  <p>The words, <hi rend="italic">heathen</hi> and <hi rend="italic">nations</hi>, were used interchangeably by the early
+               <p pn="3">We assemble at this hour, under a proclamation sent forth</p>
+               <note pn="3" id="tucker.002.n01" n="*" place="foot" anchored="yes">
+                  <p pn="3">The words, <hi rend="italic">heathen</hi> and <hi rend="italic">nations</hi>, were used interchangeably by the early
 Jews. All other nations, <hi rend="italic">ethnoi</hi>, to them were
 heathen. V. LXX. <hi rend="italic">in loco</hi>.</p>
                </note>
                <pb n="4"/>
-               <p>
+               <p pn="4">
                   <figure entity="tucker4">
                      <figDesc>4th page of
 J. T. Tucker's A Discourse in Memory of our Late President, Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>to all the loyal people of this Republic, by its present Executive,
+               <p pn="4">to all the loyal people of this Republic, by its present Executive,
 summoning us to a memorial service for him, the late occupant of that
 high station, so ruthlessly cut off in the midst of his days. In the
 first gush of our sorrow and our indignation because of this atrocity,
@@ -216,14 +216,14 @@ our last great chief, which shall also help to keep his virtues, and
 his noble quarrel with gigantic wrong, fresh and fragrant in the
 memories of our children, and our children's children.</p>
                <pb n="5"/>
-               <p>
+               <p pn="5">
                   <figure entity="tucker5">
                      <figDesc>5th page of
 J. T. Tucker's A Discourse in Memory of our Late President, Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>If the labor which we thus assume be difficult, it is not because
+               <p pn="5">If the labor which we thus assume be difficult, it is not because
 the subject in itself is either intricate or obscure. Within the whole
 range of my historical reading, I know of no public character more
 thoroughly transparent, more readily understood than that of our late
@@ -238,7 +238,7 @@ the manliest proportions. This makes it no easy thing to speak rightly
 and intelligently of this mightier than kingly potentate, who wielded
 more than the power of a Louis XIV, with the artless rectitude, the
 child-like directness, of an Edward VI.</p>
-               <p>And this was an anomaly in the nineteenth century. By reason of bad
+               <p pn="5">And this was an anomaly in the nineteenth century. By reason of bad
 examples and sophistical theorizings, the idea of state-craft has come
 to be mainly localized in the last half of that suggestive
 word. Statesmanship has degenerated into state-cunning, has become the
@@ -252,7 +252,7 @@ eighteen hundred fifty-three and nine, to that of eighteen hundred
 sixty-one and five. It was like getting out of the dim and cob-webbed
 crypts of an Egyptian pyramid up to the pure air and free vision of
 its glorious summit.</p>
-               <p>The nation felt it, and loved and honored the man who had taken off
+               <p pn="5">The nation felt it, and loved and honored the man who had taken off
 the stricture from their lungs, the bandage from their eyes. It is a
 grand thing to look at--how heartily the
 <pb n="6"/>
@@ -274,7 +274,7 @@ tribute, not to brilliancy of mind or profoundness of statesmanly
 acquirements, but to genuine goodness. Two words might fitly grace his
 monument--the Beloved and the Trusted. Were not this a royal
 epitaph?</p>
-               <p>The seed of this character was in a peculiarly fortunate
+               <p pn="6">The seed of this character was in a peculiarly fortunate
 combination of constitutional qualities: it was as fortunately guarded
 and nourished by the circumstances of his early life. That Western
 home, so free from the dwarfing influences of artificial mannerisms,
@@ -291,7 +291,7 @@ selfish ambition or vicious tastes. Abraham Lincoln's first
 twenty-five or thirty years were very much like George Washington's,
 in their demand for self-reliance. And they fostered substantially the
 same manly probity and purity.</p>
-               <p>A few years include all that history will claim of Mr. Lincoln's
+               <p pn="6">A few years include all that history will claim of Mr. Lincoln's
 career. Within a decade his name begun to meet our eye in the public
 journals, as a shrewd, popular, self educated
 <pb n="7"/>
@@ -324,7 +324,7 @@ economical grounds. He knew, as he knew his own personal identity,
 that slavery was hostile, and would be fatal, if allowed to be, to the
 national life. That was motive enough, for a true patriot like him, to
 regard it as a public and common enemy.</p>
-               <p>But Mr. Lincoln entered upon his presidential career with no
+               <p pn="7">But Mr. Lincoln entered upon his presidential career with no
 settled purpose of slavery-extermination. He could not as an honest
 man. The millions of free citizens had not elected him for that
 object, much as the mass of them might have desired this result. He
@@ -350,7 +350,7 @@ understood something of Southern malice and treachery, and he was
 willing to risk it. But he did mean to govern the country--all of
 it--fairly, evenly, firmly, kindly, whatever might come. That was his
 business as "the Anointed of the Lord." And he did it. </p>
-               <p>Knowing, of course, that he was made President by Northern votes,
+               <p pn="8">Knowing, of course, that he was made President by Northern votes,
 he knew just as well that the withdrawal of the Southern vote was
 simply the result of that section's self-will, for which he was not
 responsible. This, however, would have made no difference with the
@@ -382,7 +382,7 @@ succeed, in an evil hour, in doing for its honored head. The President
 prevented the assassination of the nation. He could not prevent his
 own. The men, who were foiled by him in the first crime, accomplished
 in the madness of their disappointment, the second.</p>
-               <p>This tragic extinguishment of that good man's life puts the entire
+               <p pn="9">This tragic extinguishment of that good man's life puts the entire
 cause which compassed it, in its true historic position, from which no
 special pleading will avail to remove it, to the end of days. If any
 one shall wish to know, in remotest centuries, what kind of a mutiny
@@ -427,7 +427,7 @@ and nationality by that heroic act. Again the pen has been mightier
 than the sword. He sealed his testimony with his blood. But think you
 that this blood will have stained the earth in vain? Did the martyrs'?
 Look around you and answer.</p>
-               <p>A man's real character cannot be studied apart from his public
+               <p pn="10">A man's real character cannot be studied apart from his public
 deeds. It must be confessed that sometimes a wide discrepancy appears
 between the private and the official aspects of an individual life. We
 see very little of this in the late President. His personal
@@ -481,7 +481,7 @@ Richmond, where his military word was always omnipotent. If tyranny
 needs modern illustrations, let no one stop till he gets to the James
 River. There was not a vestige of it in the heart of our noble
 chief.</p>
-               <p>Some doleful censor has compared Mr. Lincoln's indulgence in
+               <p pn="11">Some doleful censor has compared Mr. Lincoln's indulgence in
 story-telling and a genial laugh to Nero's fiddling, up in that little
 grim tower, while Rome was burning. Verily, the
 <pb n="12"/>
@@ -516,7 +516,7 @@ and the happier, amidst those days of darkness, for this geniality of
 his temperament. The people understood it and enjoyed the wit and the
 wisdom which, like the oil on Aaron's beard, flowed down to the skirts
 of the garments.</p>
-               <p>The people understood more than this. They felt that there was, at
+               <p pn="12">The people understood more than this. They felt that there was, at
 the head of the government, a thoroughly honest man. It was not that
 kind of Poor Richard honesty which is only the best policy. It was an
 honesty which feared God. What commended itself, at first, as a lofty
@@ -547,7 +547,7 @@ with eternal shame the rebellion which he had crushed; which should
 hand him down to history with the splendor of his public glory made
 yet more beautiful by the personal love and sympathy of the purest
 souls that live, or shall live until the close of time.</p>
-               <p>It is not for me, or any one, to say that President Lincoln
+               <p pn="13">It is not for me, or any one, to say that President Lincoln
 committed no errors of judgment in the course of his administration,
 nor that he was faultless as a man. That were to be more than
 human. Whatever were his executive mistakes he can afford to have
@@ -598,19 +598,19 @@ inaugural, and that "the gigantic system of wrong, which had been the
 work of more than two centuries, is dashed down, we hope,
 forever."<ref target="tucker.002.n02">*</ref>
 What ruler, through the ages, has left a worthier record?</p>
-               <note id="tucker.002.n02" n="*" place="foot" anchored="yes">
-                  <p>Hon. George Bancroft's Oration in New York,
+               <note pn="14" id="tucker.002.n02" n="*" place="foot" anchored="yes">
+                  <p pn="14">Hon. George Bancroft's Oration in New York,
 April, 1865.</p>
                </note>
                <pb n="15"/>
-               <p>
+               <p pn="15">
                   <figure entity="tucker15">
                      <figDesc>15th page of
 J. T. Tucker's A Discourse in Memory of our Late President, Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>The topic is alluring, but it is time for its concluding
+               <p pn="15">The topic is alluring, but it is time for its concluding
 suggestions. Our annals are enriched with another rare model for
 youthful study and imitation, second only to that of the Father of our
 nation, in all the catalogue of our public men. For a long time we
@@ -638,7 +638,7 @@ the faces of England's poor. When his life shall have been worthily
 written, let it become the textbook of our generous youth, who would
 help to lift our national character and name to the loftiest point of
 a manly and a Christian honor.</p>
-               <p>Another view: Divine Providence is furnishing, through the progress
+               <p pn="15">Another view: Divine Providence is furnishing, through the progress
 and end of this rebellion, a more palpable
 <pb n="16"/>
                   <figure entity="tucker16">
@@ -695,7 +695,7 @@ will prove him to have been an accomplice, before the fact, in this
 plot of damnable guilt? I believe that he knows precisely so much. I
 do not wonder that his knees tremble like Belshazzar's, and that the
 bitterness of a felon's death is beginning to drink up his spirit.</p>
-               <p>What is thus putting its finishing blot on this Southern iniquity,
+               <p pn="17">What is thus putting its finishing blot on this Southern iniquity,
 to our convictions, will speedily consign it to a like detestation the
 world over. Into the pit which they digged have they themselves
 fallen. And it is bottomless. Their sin has found them out. The wicked
@@ -714,7 +714,7 @@ foolishness, as well as reprobated for his crimes. The Southern
 Confederacy of secession, oppression, rebellion, has found its
 definition, for all time, in the bloodiest of tragedies, and the most
 grotesque of farces.</p>
-               <p>Again: The Sovereign of us all is teaching us a lesson of the
+               <p pn="17">Again: The Sovereign of us all is teaching us a lesson of the
 sacredness of legitimate government, and the necessity of
 <pb n="18"/>
                   <figure entity="tucker18">
@@ -734,7 +734,7 @@ really as was a David or a Solomon. This is substantially true,
 irrespective of the personal qualities of the lawful incumbent of that
 office. To strike at him with murderous weapons is to fight against
 God in a most aggravated sense.</p>
-               <p>And this defines the crime of high treason. It is a wholesale
+               <p pn="18">And this defines the crime of high treason. It is a wholesale
 attempt to destroy a nation's organic life. No crime can surpass it in
 guilt. This Southern rebellion is that crime in. its superlative
 degree. It has dragged to its door, as their responsible author, all
@@ -765,7 +765,7 @@ up of the penalties of the statute-book against the floods of outlawry
 ever threatening the public security. And we must hold that barrier
 firmly, sternly, in these days when "evil men and seducers are waxing
 worse and worse."</p>
-               <p>It is not surprising that a class of anti-capital punishment
+               <p pn="19">It is not surprising that a class of anti-capital punishment
 philanthropists should already be pleading for the lives of these
 ring-leaders of rebellion, these accomplices in assassination and
 promiscuous plots of Northern ravage and slaughter. These persons are
@@ -781,7 +781,7 @@ officious and really impertinent interference. Surely we are better
 qualified than they to adjudicate this question. They have blundered
 enough about our affairs, to put their opinions at a ruinous
 discount.</p>
-               <p>This conclusion, with me, is the dictate of no personal feeling,
+               <p pn="19">This conclusion, with me, is the dictate of no personal feeling,
 for I sincerely pity the misguided men who have thus snared themselves
 in these meshes of iniquity. I devoutly pray that the Lord may have
 mercy on their souls. Two months ago, I thought that possibly a decree
@@ -792,7 +792,7 @@ of this rebellion, its voluntary heads, its representatives before the
 nations and the world--they must be made a solemn sacrifice to
 outraged righteousness, justice, mercy and truth. Humanity demands it,
 as God's own sentence against guilt like this.</p>
-               <p>Finally: The vast difficulty of securing our present vantage, in
+               <p pn="19">Finally: The vast difficulty of securing our present vantage, in
 this conflict, should put the nation on its guard lest
 <pb n="20"/>
                   <figure entity="tucker20">
@@ -830,21 +830,21 @@ heed lest he fall." Sleepless vigilance is yet to be the price of our
 freshly and dearly bought freedom. Prepare yourselves, then, for a
 vigorous controversy on this whole subject. The worst of causes, as
 of</p>
-               <note id="tucker.002.n03" n="*" place="foot" anchored="yes">
-                  <p>This and the next paragraph are introduced from
+               <note pn="20" id="tucker.002.n03" n="*" place="foot" anchored="yes">
+                  <p pn="20">This and the next paragraph are introduced from
 the author's Fast Day sermon, April 13, 1865; which was requested for
 publication, but the next day's tidings absorbed all other
 interests.</p>
                </note>
                <pb n="21"/>
-               <p>
+               <p pn="21">
                   <figure entity="tucker21">
                      <figDesc>21st page of
 J. T. Tucker's A Discourse in Memory of our Late President, Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>criminals, will never want apologists. We have suffered too much to
+               <p pn="21">criminals, will never want apologists. We have suffered too much to
 give an inch of ground here. If the administration needs instructions,
 it should have them, in a voice of millions, to make no terms
 legitimating slavery on American soil. The North should be a unit in
@@ -852,7 +852,7 @@ this demand. The South saw fit to stake their entire cause at this
 point, making it the head and front of their offending. They have
 failed. Let them abide the consequences of their own madness. They
 have nobody to blame but themselves.</p>
-               <p>Do not delude yourselves with the dream that the slave-system and
+               <p pn="21">Do not delude yourselves with the dream that the slave-system and
 spirit is so paralyzed and broken up that it will now die out in a few
 years, if left to itself. It will not, no more than idolatry died out
 of Canaan, no more than witchgrass will die out of your garden. It has
@@ -861,7 +861,7 @@ murderer--"until it is dead, dead, dead." And now is the time to do
 it, in compassion to the land which it has strewn with slaughtered
 heaps, and to the future which it must not curse with its evil
 power.</p>
-               <p>Respected hearers, I have detained you longer than my wont, with
+               <p pn="21">Respected hearers, I have detained you longer than my wont, with
 these observations. But such a day comes only once in a life-time and
 may well secure a patient listening to its instructions. We look
 onward now, from our recent troubles and depressions, to a brightening

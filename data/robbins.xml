@@ -80,7 +80,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="robbins.001" n="A Discourse on the Death of Abraham Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>A Discourse on
 the Death of Abraham Lincoln</title> 
@@ -95,25 +95,25 @@ Frank L.</author>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="robbins1">
                   <figDesc>1st page of Frank L. Robbins' A
 Discourse on the Death of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p>A DISCOURSE</p>
-            <p>ON THE</p>
-            <p>DEATH OF ABRAHAM LINCOLN,</p>
-            <p>DELIVERED IN THE</p>
-            <p>Greenhill Presbyterian Church,</p>
-            <p>ON SUNDAY EVENING, APRIL 23, 1865.</p>
-            <p>BY THE REV. FRANK L. ROBBINS, PASTOR OF THE CHURCH.</p>
-            <p>PHILADELPHIA:</p>
-            <p>HENRY B. ASHMEAD, BOOK AND JOB PRINTER, Nos. 1102 AND
+            <p pn="1">A DISCOURSE</p>
+            <p pn="1">ON THE</p>
+            <p pn="1">DEATH OF ABRAHAM LINCOLN,</p>
+            <p pn="1">DELIVERED IN THE</p>
+            <p pn="1">Greenhill Presbyterian Church,</p>
+            <p pn="1">ON SUNDAY EVENING, APRIL 23, 1865.</p>
+            <p pn="1">BY THE REV. FRANK L. ROBBINS, PASTOR OF THE CHURCH.</p>
+            <p pn="1">PHILADELPHIA:</p>
+            <p pn="1">HENRY B. ASHMEAD, BOOK AND JOB PRINTER, Nos. 1102 AND
 1104 SANSOM STREET.</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="robbins2">
                   <figDesc>2nd page of
 Frank L. Robbins' A Discourse on the Death of Abraham
@@ -121,14 +121,14 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="robbins3">
                   <figDesc>3rd page of
 Frank L. Robbins' A Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>PUBLISHED BY REQUEST OF THE CONGREGATION, FOR PRIVATE
+            <p pn="3">PUBLISHED BY REQUEST OF THE CONGREGATION, FOR PRIVATE
 DISTRIBUTION</p>
             <pb n="4"/>
 <!-- blank page -->
@@ -140,7 +140,7 @@ Lincoln.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="robbins5">
                   <figDesc>5th page of
 Frank L. Robbins' A Discourse on the Death of Abraham
@@ -148,13 +148,13 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="robbins.002" n="A DISCOURSE" type="sermon">
-               <head>A DISCOURSE</head>
-               <p>WHAT a contrast! How strange and startling the vicissitudes of
+               <head pn="5">A DISCOURSE</head>
+               <p pn="5">WHAT a contrast! How strange and startling the vicissitudes of
 human life!</p>
-               <p>A few weeks since, President Lincoln, for the second time, stood on
+               <p pn="5">A few weeks since, President Lincoln, for the second time, stood on
 the steps of the Capitol at Washington, to be re-invested with power
 and dominion over this vast empire.</p>
-               <p>He had been tried and was found faithful. He had been re-elected by
+               <p pn="5">He had been tried and was found faithful. He had been re-elected by
 overwhelming majorities, and on the fourth of March last he received
 and took the oath of office, amidst the homage of millions of
 rejoicing citizens. Under the brightest auspices he entered upon his
@@ -165,14 +165,14 @@ era of wild war is passing; the reign of peace and prosperity is at
 hand. Everywhere, victories upon victories were being piled up, and
 rebellion was going down before the resistless march of our armies.</p>
                <pb n="6"/>
-               <p>
+               <p pn="6">
                   <figure entity="robbins6">
                      <figDesc>6th page of
 Frank L. Robbins' A Discourse on the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>Soon came the news, stirring in its very depths the the mighty
+               <p pn="6">Soon came the news, stirring in its very depths the the mighty
 heart of the nation, and causing the Republic to rock, and heave, and
 sway, by reason of its profound emotions of joy and gratitude--"
 Richmond is taken!" Babylon is fallen, is fallen, that great city, for
@@ -181,11 +181,11 @@ made rich by reason of their merchandise of "slaves and souls of men,"
 stand afar off weeping and wailing for fear of her torment, saying,
 Alas! alas that strong city, for in one hour is she deserted and made
 desolate!</p>
-               <p>Then came the news--swift succeeding--"Lee has surrendered!"--the
+               <p pn="6">Then came the news--swift succeeding--"Lee has surrendered!"--the
 power that so long defied the Union armies is shivered at
 last-rebellion is crushed--the Union is saved--authority and law,
 justice and freedom are triumphant!</p>
-               <p>We were wild with excitement--delirious with joy. Probably the sun
+               <p pn="6">We were wild with excitement--delirious with joy. Probably the sun
 never shone upon a more intensely jubilant, self-confident people. <hi rend="italic">Now</hi>, we said, is it proven that our Government will
 stand like the everlasting mountains. <hi rend="italic">Now</hi>, is it
 demonstrated that our Republic, though rocked on the earthquake of
@@ -205,7 +205,7 @@ length emerging from the long and bloody struggle, triumphant over the
 old spirit of caste, the spirit of slavery, fell and fiendish, the
 spirit of oppression and wrong, and rising in a cloudless sky,
 glorious and resistless as the sun in its path of fiery splendor.</p>
-               <p>But alas, alas! while these grand anticipations for the future of
+               <p pn="7">But alas, alas! while these grand anticipations for the future of
 our Republic remain to us--while, indeed, under that mysterious
 Providence which rules our human affairs, the hearts of millions have
 been drawn together, and the nation has been made mightier in its
@@ -221,7 +221,7 @@ thick clouds of the nation's infinite grief, and our thrilling wail of
 sorrow has been increasingly ascending to Him--God over all immortal,
 eternal, invisible, and blessed forever--"in whose hands our breath
 is, and whose are all our ways."</p>
-               <p>"Our feasts have been turned into mourning, and all our songs into
+               <p pn="7">"Our feasts have been turned into mourning, and all our songs into
 lamentation; sackcloth was brought upon all loins and baldness upon
 every head; our sun has gone
 <pb n="8"/>
@@ -232,7 +232,7 @@ Lincoln.</figDesc>
                   </figure>
 down at noon; we are made to mourn as for an only son, and the end
 thereof as a bitter day."</p>
-               <p>Humanity has lost a lover. Freedom has lost a mighty champion. The
+               <p pn="8">Humanity has lost a lover. Freedom has lost a mighty champion. The
 poor slave has lost his true friend and deliverer-but, thank God, not
 his deliverance. ABRAHAM LINCOLN did his work well, and when he gave
 to the wings of the wind the immortal proclamation of emancipation, he
@@ -240,7 +240,7 @@ spake words which can never be recalled, and proclaimed a fiat of
 destiny which can never be annulled; he sent forth an influence which
 shall work on and on through the agencies of war and of statesmanship,
 nor cease, until not a slave in all our vast domain can be found.</p>
-               <p>Who, now that America's pure patriot and just ruler has hallowed
+               <p pn="8">Who, now that America's pure patriot and just ruler has hallowed
 the act of emancipation by his most precious blood, securing thus the
 permanence of his work, and the immortality of his fame, will dare to
 say aught in opposition to emancipation, or in extenuation of slavery
@@ -263,7 +263,7 @@ philanthropist, the emancipationist, the patriot, the incorruptible
 ruler, whom they with us had learned to love and reverence as the man
 raised up by God to achieve the redemption of the liberties of
 mankind.</p>
-               <p>To-day, this night, we have all that remains of our murdered
+               <p pn="9">To-day, this night, we have all that remains of our murdered
 President among us, and it seems befitting to consecrate this evening
 hour to meditation upon the character and virtues and services of the
 man gone from us to God, and his reward. Indeed, until the last
@@ -272,7 +272,7 @@ the church-yard at Springfield, there to await the resurrection
 morning, other feelings and other thoughts will be excluded from the
 heart of this great nation, and the people will continue to give
 themselves up to tears and suffocating emotions.</p>
-               <p>Perhaps I can say nothing that has not already been well said; but
+               <p pn="9">Perhaps I can say nothing that has not already been well said; but
 it is a relief to our oppressed and wounded feelings to meet together
 and tell each other how much we loved ABRAHAM LINCOLN; just as
 affectionate children incline to come together and talk over the
@@ -280,7 +280,7 @@ goodness and virtues of a beloved father, after his decease, speaking
 with loving charity of his traits, and recalling with fondness remote
 and almost forgotten, or of recent and familiar incidents in his
 life.</p>
-               <p>It is remarkable to notice how <hi rend="italic">personal</hi> is the
+               <p pn="9">It is remarkable to notice how <hi rend="italic">personal</hi> is the
 feeling we have, and how grievously the late President is mourned, as
 if indeed he were the real father of all the
 <pb n="10"/>
@@ -299,7 +299,7 @@ be the signal for a revolution. But our system of government is such,
 that upon the removal of the Chief Magistrate there is no revolution,
 no friction, no jar; the scheme of government and the order of society
 move on, undisturbed.</p>
-               <p>Indeed, our Government never was so firm, our institutions never
+               <p pn="10">Indeed, our Government never was so firm, our institutions never
 were so rooted and grounded in the hearts of the people as since the
 murder of Mr. Lincoln; for under the good providence of God, it seems
 that this last baptism of blood and tears is destined to inspire the
@@ -308,9 +308,9 @@ consolidate and intensify their love and devotion for the
 republic. Indeed, the blood of ABRAHAM LINCOLN seems destined to be
 the cement which is to fasten in its place the keystone of the arch of
 the restored, and henceforth indissoluble Union.</p>
-               <p>Why, then, was this man so tenderly loved? and why is there such
+               <p pn="10">Why, then, was this man so tenderly loved? and why is there such
 touching, pathetic, universal grief over his death?</p>
-               <p>The people loved him because he was a man of blame
+               <p pn="10">The people loved him because he was a man of blame
 <pb n="11"/>
                   <figure entity="robbins11">
                      <figDesc>11th page of Frank
@@ -327,21 +327,21 @@ abilities above other men, the nation might have been proud of him,
 but never would common men--the millions--have felt that familiarity
 of friendship which was so generally felt, or loved him with so filial
 a love as they did.</p>
-               <p>Mr. LINCOLN was not highly prominent for intellectual abilities. He
+               <p pn="11">Mr. LINCOLN was not highly prominent for intellectual abilities. He
 had not the grand imperial mind of a Webster, nor the subtle,
 metaphysical, intense intellect of a Calhoun, nor the splendid and
 ready powers and eloquence of a Fox or a Chatham; and yet his
 intellectual abilities were adequate to every occasion; indeed, they
 were such as seem to have admirably fitted him for the work which he
 has so ably accomplished.</p>
-               <p>Where others with higher range and more profound faculties might
+               <p pn="11">Where others with higher range and more profound faculties might
 have failed, doubtless would have failed, he has succeeded, guided by
 his matchless sagacity, and prudence, and common sense, and native
 shrewdness.</p>
-               <p>His thoughts were his own; they were fresh and original, and were
+               <p pn="11">His thoughts were his own; they were fresh and original, and were
 clothed with a quaintness, a directness, a simplicity of style
 peculiar to himself.</p>
-               <p>The American mind is quick, rapid, eager, impatient of
+               <p pn="11">The American mind is quick, rapid, eager, impatient of
 <pb n="12"/>
                   <figure entity="robbins12">
                      <figDesc>12th page of Frank
@@ -356,11 +356,11 @@ have darkened "counsel by words without knowledge," as a subject has
 opened, and a practical solution of a perplexing question has been
 suggested in a few paragraphs put in his clear, concise, forcible
 manner.</p>
-               <p>But Mr. LINCOLN'S greatness was not the greatness of intellect, nor
+               <p pn="12">But Mr. LINCOLN'S greatness was not the greatness of intellect, nor
 of genius, nor of eloquence, nor of place and power. Like the
 illustrious Washington, he had no pre-eminent quality. <hi rend="italic">Like Washington, he was great by reason of the moral
 heroism of his transcendent character</hi>.</p>
-               <p>His affections were pure and ardent, and in his heart there was no
+               <p pn="12">His affections were pure and ardent, and in his heart there was no
 guile. His temperament was emotional; his disposition was sweet and
 gentle as a woman's; his sensibilities were quick and acute; his
 impulses were warm and generous. He understood and felt in his in most
@@ -379,7 +379,7 @@ Lincoln.</figDesc>
                   </figure>
 He knew them and they knew him. They read his character; they knew his
 heart; they understood him.</p>
-               <p>It may be that his work was done. Perhaps his death was not
+               <p pn="13">It may be that his work was done. Perhaps his death was not
 untimely. Possibly, had he survived, his disposition would have
 inclined him to a too lenient policy toward the leaders of this
 atrocious rebellion. It remains to be seen what their course will
@@ -387,43 +387,43 @@ be. I trust and pray God that their hearts may be touched by the
 influence of this last baptism of blood and sorrow, and that with deep
 penitence they will throw themselves upon the clemency of the
 Government.</p>
-               <p>But if it shall be otherwise--if they stubbornly, sullenly persist
+               <p pn="13">But if it shall be otherwise--if they stubbornly, sullenly persist
 in cherishing and manifesting the spirit of treason, making their
 motto to read, "Bound, but not broken, then let the severities of
 immutable justice be meted out to them: let them die the death. So let
 it be, and may God have mercy upon their guilty souls.</p>
-               <p>Ah! my friends, these are solemn words. But the unspeakably vast
+               <p pn="13">Ah! my friends, these are solemn words. But the unspeakably vast
 interests of this Republic and of mankind may summon this Government
 to their fulfillment. It may be that a man of sterner mood than the
 late President is required in the high p1ace which has been so ably
 filled for over four years.</p>
-               <p>In any event the Republic will survive, and the new President will
+               <p pn="13">In any event the Republic will survive, and the new President will
 receive the prayers and sympathies and support of the people, while
 they will not forget to bow down and thank God for the faithful
 services, the wisdom, the unostentatious goodness, and the Christian
 heroism of ABRAHAM LINCOLN.</p>
                <pb n="14"/>
-               <p>
+               <p pn="14">
                   <figure entity="robbins14">
                      <figDesc>14th page of
 Frank L. Robbins' A Discourse on the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>The deceased President, let me further add, was immeasurably above
+               <p pn="14">The deceased President, let me further add, was immeasurably above
 the use of those methods and arts to which men of inferior minds
 resort, to advertise themselves. He appeared to be all unconscious of
 himself. He never aimed <hi rend="italic">to seem</hi> to be, <hi rend="italic">but to be</hi> what he seemed. From centre to
 circumference his character was honest, luminous, truthful. He spake
 just what he believed, and believed just what he spake.</p>
-               <p>Was he a Christian man? I think he was. He said, "I do love Jesus."
+               <p pn="14">Was he a Christian man? I think he was. He said, "I do love Jesus."
 I believe what he said. We have it on unquestioned authority, that the
 first hour of the morning he was accustomed to devote to prayer and
 the reading of his Bible. I have myself been profoundly impressed,
 hearing him give utterances to the most devout sentiments in
 connection with the issue of this war, that he was a man of prayer and
 religious faith.</p>
-               <p>All his State papers breathed the very spirit of religious
+               <p pn="14">All his State papers breathed the very spirit of religious
 reverence and trust, especially the later ones. After he had
 promulgated the proclamation of emancipation, he said to an eminent
 clergyman of New York, "I did not think the people had been educated
@@ -450,10 +450,10 @@ perhaps there is no better thing I can wish for each of my audience
 than that when you come to stand before God's judgment, it may be as
 well with you as it is with him, and that your record may be as clean,
 and your destiny as high for eternity as was his.</p>
-               <p>In deliberation Mr. LINCOLN was not hasty, nor premature; but when
+               <p pn="15">In deliberation Mr. LINCOLN was not hasty, nor premature; but when
 once he had taken his stand, he was the last man to swerve from the
 course marked out for himself.</p>
-               <p>Tender and benignant as was his disposition, his conduct was marked
+               <p pn="15">Tender and benignant as was his disposition, his conduct was marked
 by unwavering fidelity to truth, justice, and right. If he deliberated
 well, and looked with clear-eyed sagacity down to the bottom before he
 ventured, there was no after hesitation, no quibbling, no fear of
@@ -471,22 +471,22 @@ Lincoln.</figDesc>
 religious rectitude; and to exhibit, in conjunction with his living,
 gushing sympathy for men, inflexible devotion to truth, justice, and
 right.</p>
-               <p>Such were the character and virtues and services of ABRAHAM
+               <p pn="16">Such were the character and virtues and services of ABRAHAM
 LINCOLN.</p>
-               <p>In after times the American people will cherish his memory as a
+               <p pn="16">In after times the American people will cherish his memory as a
 precious legacy, nor will they suffer any detraction from the merit of
 his character or his services. His name and fame will be identified
 with all that is great and glorious in the cause and principles for
 which the people have made such immense sacrifices in this great
 struggle, and to which he fell a martyr. May his illumined spirit find
 eternal repose above the skies!</p>
-               <p>My friends, I have ceased to think and feel as I did. At first I
+               <p pn="16">My friends, I have ceased to think and feel as I did. At first I
 was inexpressibly shocked, appalled, depressed. I said, is this so? Is
 the Chief Magistrate of this nation murdered? They have been trying
 for four years to do the deed. Is it accomplished at last? Is he dead?
 Are those dreamy eyes closed in death? Has that warm heart, that
 genial smile, that honest brain passed away forever?</p>
-               <p>I could not think at first of anything but the deed. In vain I
+               <p pn="16">I could not think at first of anything but the deed. In vain I
 strove, as we all did, for words to express my abhorrence of it. I
 could only think of ABRAHAM LINCOLN as a murdered man. But now I think
 of the glorious spirit--of the immortal part--which malignity and
@@ -503,7 +503,7 @@ has now put its impress upon his goodness and worth. My faith
 contemplates now only the image from which death can efface nothing
 more. Henceforth I shall think of him as numbered with the immortals,
 sharing their communion and their joys.</p>
-               <p>And now what shall we say of the spirit which slew him? He was no
+               <p pn="17">And now what shall we say of the spirit which slew him? He was no
 tyrant. He did no wrong for which he was worthy of death. In his great
 heart there was pity even for traitors. He was their best friend;
 and</p>
@@ -516,7 +516,7 @@ angels, trumpet-tongued, against</l>
                   <l>The deep damnation of his
 taking off."</l>
                </lg>
-               <p>As for the spirit which slew him, let us hate it, and pray God for
+               <p pn="17">As for the spirit which slew him, let us hate it, and pray God for
 more strength and more power and more intensity and more capacity to
 hate it. I tell you, my friends, it is the very spirit of hell. It is
 the very spirit that long defeated public justice, debauched the
@@ -540,7 +540,7 @@ forward by him, is completed; until treason is forever silenced, and
 slavery is forever dead, and the Republic, regenerated and redeemed,
 emerges from its long eclipse of darkness, "fair as the sun, clear as
 the moon, and terrible as an army with banners."</p>
-               <p>As for the miscreant that did the deed of murder, the brand of
+               <p pn="18">As for the miscreant that did the deed of murder, the brand of
 Cain's infamy is upon his brow--the eye of Omniscience is upon him. He
 may possibly elude detection, and baffle man's justice,--which is
 extremely doubtful--but God's vengeance will follow him wherever over
@@ -551,11 +551,11 @@ where he may hide himself." FOR EVER has he doomed himself to endure
 the burning consciousness that he is a murderer. Ten thousand years
 hence must he feel and know himself to be a guilty spirit the murderer
 of the innocent and just man.</p>
-               <p>What a doom and destiny is his! In my soul I pity this man of
+               <p pn="18">What a doom and destiny is his! In my soul I pity this man of
 blood, and I pray God that he may be overtaken by a sense of his
 guilt, surrender himself to justice, and apply to the infinite Saviour
 for pardon, ere his soul pass into eternity.</p>
-               <p>Meantime the Republic lives, and will live forever. The
+               <p pn="18">Meantime the Republic lives, and will live forever. The
 assassinating spirit that slew the man who, under God,
 <pb n="19"/>
                   <figure entity="robbins19">
@@ -565,36 +565,36 @@ Lincoln.</figDesc>
                   </figure>
 presided over the destinies of the nation, was, and is, powerless to
 harm the life of the nation.</p>
-               <p>So far from producing terror; so far from causing divided counsels
+               <p pn="19">So far from producing terror; so far from causing divided counsels
 or inaugurating a reign of anarchy; the deed of blood and murder has
 welded the people into an inflexible purpose, and into a tremendous
 power, bent upon accomplishing retributive justice. It has inclined
 the nation to think and determine, less upon clemency and more upon
 justice. There will be no concessions now to the master spirits of
 rebellion. They have made their self-destruction sure.</p>
-               <p>Meanwhile this Republic lives, and will live forever. Our grand
+               <p pn="19">Meanwhile this Republic lives, and will live forever. Our grand
 chief is slain, but our grand cause is triumphant. Men may die, but
 principles are immortal. Though treason had struck down every member
 of the cabinet, not a stone would have been misplaced or loosened in
 the arch of our nationality.</p>
-               <p>Slavery has staked all and lost.</p>
-               <p>Liberty has won for itself an immortal existence. Now let
+               <p pn="19">Slavery has staked all and lost.</p>
+               <p pn="19">Liberty has won for itself an immortal existence. Now let
 Republicanism, purer, better, stronger, holier, through sacrifices and
 martyrdoms, lift up her head among the family of nations.</p>
-               <p>Though our most eminent statesmen pass hence, and the delegated
+               <p pn="19">Though our most eminent statesmen pass hence, and the delegated
 head of the Government meet with sudden and violent death, the
 Government itself cannot be overthrown; for the foundations upon which
 it stands are Liberty, Justice, and Equality; and never were the
 friends of these so numerous, so determined, so devoted as now.</p>
                <pb n="20"/>
-               <p>
+               <p pn="20">
                   <figure entity="robbins20">
                      <figDesc>20th page of
 Frank L. Robbins' A Discourse on the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>Thank God, there is no hatred malignant enough, and no power strong
+               <p pn="20">Thank God, there is no hatred malignant enough, and no power strong
 enough to quench the nation's life, or arrest its advancing
 destiny. Now let the influence of Freedom go forth and encompass the
 earth. Now let the star of our destiny rise on the world's horizon,
@@ -602,7 +602,7 @@ bright and beautiful, climbing higher and higher, until it attracts
 the admiring gaze of distant nations, and becomes the world's star of
 hope. May God speed the day; and to Him be all the praise. Amen and
 amen!</p>
-               <p>And now shall I err, my friends, if I summon you--in view of all
+               <p pn="20">And now shall I err, my friends, if I summon you--in view of all
 that God is doing for us--in his most holy name, to put away sin; to
 put your trust in the infinite Redeemer and devote your lives to his
 service; to do justice, walk in the light, and live for immortality?
@@ -615,7 +615,7 @@ every life be holy, and every lover of his country be a lover of God
 and a follower of Jesus. Here and now, let us offer prayers for our
 country, invoking the blessing of our covenant-keeping God, with whom
 are the hidings of power, and the consolations of grace.</p>
-               <p>May our country be Immanuel's possession,--a delightsome land,
+               <p pn="20">May our country be Immanuel's possession,--a delightsome land,
 exalted, as in privileges so in right
 <pb n="21"/>
                   <figure entity="robbins21">

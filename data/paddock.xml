@@ -39,7 +39,7 @@ Sermons Project</title>
             <bibl>Paddock,
 Wilbur F. A Great Man Fallen! A Discourse on the Death of Abraham
 Lincoln.  Delivered in St. Andrew's Church, Philadelphia, Sunday
-Morning, April 23, 1865.  Philadelphia: Sherman &#x0026; Co.,
+Morning, April 23, 1865.  Philadelphia: Sherman &amp; Co.,
 Printers. 1865.  </bibl>
          </sourceDesc>
       </fileDesc>
@@ -82,7 +82,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="paddock.001" n="A Great Man Fallen!" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>A Great Man
 Fallen!</title> 
@@ -91,58 +91,58 @@ Fallen!</title>
                   <author>Paddock, Wilbur F.</author> 
                   <imprint>
                      <pubPlace>Philadelphia</pubPlace>
-                     <publisher>Sherman &#x0026; Co.,
+                     <publisher>Sherman &amp; Co.,
 Printers</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="paddock1">
                   <figDesc>1st page of Wilbur F. Paddock's
 A Great Man Fallen!</figDesc>
                </figure>
             </p>
-            <p>A GREAT MAN FALLEN!</p>
-            <p>A DISCOURSE</p>
-            <p>ON THE</p>
-            <p>DEATH OF ABRAHAM LINCOLN.</p>
-            <p>DELIVERED IN</p>
-            <p>St. Andrew's Church, Philadelphia,</p>
-            <p>SUNDAY MORNING, APRIL 23, 1865.</p>
-            <p>BY THE</p>
-            <p>REV. WILBUR F. PADDOCK.</p>
-            <p>PHILADELPHIA</p>
-            <p>SHERMAN &#x0026; CO., PRINTERS.</p>
-            <p>1865.</p>
+            <p pn="1">A GREAT MAN FALLEN!</p>
+            <p pn="1">A DISCOURSE</p>
+            <p pn="1">ON THE</p>
+            <p pn="1">DEATH OF ABRAHAM LINCOLN.</p>
+            <p pn="1">DELIVERED IN</p>
+            <p pn="1">St. Andrew's Church, Philadelphia,</p>
+            <p pn="1">SUNDAY MORNING, APRIL 23, 1865.</p>
+            <p pn="1">BY THE</p>
+            <p pn="1">REV. WILBUR F. PADDOCK.</p>
+            <p pn="1">PHILADELPHIA</p>
+            <p pn="1">SHERMAN &amp; CO., PRINTERS.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="paddock2">
                   <figDesc>2nd page of
 Wilbur F. Paddock's A Great Man Fallen!</figDesc>
                </figure>
             </p>
-            <p>This Discourse is published at the request of Governor Pickering,
+            <p pn="2">This Discourse is published at the request of Governor Pickering,
 Senator Williams, and others of the Funeral Escort of President
 Lincoln, who were present at the time of its delivery.</p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="paddock3">
                   <figDesc>3rd page of
 Wilbur F. Paddock's A Great Man Fallen!</figDesc>
                </figure>
             </p>
             <div2 id="paddock.002" n="DISCOURSE" type="sermon">
-               <head>DISCOURSE.</head>
-               <epigraph>
-                  <p> 2 SAMUEL 3:34, 38.</p>
-                  <p>"THY HANDS WERE NOT BOUND,
+               <head pn="3">DISCOURSE.</head>
+               <epigraph pn="3">
+                  <p pn="3"> 2 SAMUEL 3:34, 38.</p>
+                  <p pn="3">"THY HANDS WERE NOT BOUND,
 NOR THY FEET PUT INTO FETTERS: AS A MAN FALLETH  BEFORE WICKED MEN, SO
 FELLEST THOU. AND ALL THE PEOPLE WEPT AGAIN OVER HIM. AND THE KING
 SAID UNTO HIS SERVANTS, KNOW YE NOT THAT THERE IS A PRINCE AND A GREAT
 MAN FALLEN?"</p>
                </epigraph>
-               <p>A GREAT leader and a brave man had fallen in Israel. Not in
+               <p pn="3">A GREAT leader and a brave man had fallen in Israel. Not in
 battle, not by disease, not by the hands of the ministers of justice
 in satisfaction to violated law, but by the hand of an assassin,--a
 deed treacherously, cowardly, infamously and unsuspectedly
@@ -168,7 +168,7 @@ said unto his servants, Know ye not that there is a prince and a great
 man fallen this day in Israel? And I am this day weak, though anointed
 king; and these men, the sons of Zeruiah, be too hard for me. The Lord
 shall reward the doer of evil according to his wickedness."</p>
-               <p>How striking in many respects, the parallel between this
+               <p pn="4">How striking in many respects, the parallel between this
 deed of blood and that committed but little more than a week ago in
 our national capitol. A prince and a great man then fell by the hand
 of an assassin; unsuspectedly, cowardly, cruelly murdered in the place
@@ -194,7 +194,7 @@ universal and how great was the grief of the people. The angels of
 sorrow stretched a pall of darkness and gloom over the whole land. In
 every house there was, as it were, one dead; and that one--a
 father.</p>
-               <p>Twice, my friends, since this awful crime was committed,
+               <p pn="5">Twice, my friends, since this awful crime was committed,
 have we assembled in this church. Upon Easter Day we sought to catch
 the spirit of the service and ascend gladly in our hearts to the risen
 and glorified Saviour. We sought to meditate upon the precious hopes
@@ -205,7 +205,7 @@ thankfulness into notes of sadness and bereavement. Our thoughts and
 feelings would not but flow mournfully through the dark valley of
 affliction into which we had been called as a nation to enter. We
 could not, from very weeping, sing the songs of Zion.</p>
-               <p>Wednesday's solemn service brought with it the same deep
+               <p pn="5">Wednesday's solemn service brought with it the same deep
 impressions of the great and terrible loss we had sustained. We
 gathered in spirit around the cold and lifeless form of our martyr
 President, and paid, with distressed and weeping hearts, like offices
@@ -219,7 +219,7 @@ formed over his remains in Washington. We then realized as never
 before that our truthful, loving, and noble-hearted friend and
 benefactor had gone. No words could add solemnity or effect to those
 funeral services under the powerful impression of this conviction.</p>
-               <p>To-day, we are again assembled, and the same subject is
+               <p pn="6">To-day, we are again assembled, and the same subject is
 occupying our minds and moving the deepest emotions of our
 hearts. There is no possibility of escaping it. Nor, dear friends,
 would we if we could, until it shall produce the result God designed
@@ -235,8 +235,8 @@ Sabbath before his sepulture, lie in state in the hall where liberty
 was cradled, and in which were first authoritatively uttered those
 great principles of human freedom, equality and constitutional law, in
 the defence of which he died.<ref target="paddock.002.n01">*</ref> His lifeless and mutilated</p>
-               <note id="paddock.002.n01" n="*" place="foot" anchored="yes">
-                  <p>The remains of President Lincoln were placed in
+               <note pn="6" id="paddock.002.n01" n="*" place="foot" anchored="yes">
+                  <p pn="6">The remains of President Lincoln were placed in
 Independence Hall, Saturday evening, April 22, and remained there
 exposed to view until the following Monday morning. The head of the
 deceased was towards the pedestal upon which rests the old State House
@@ -246,27 +246,27 @@ serge festoons were allowed to reveal were six in number, and not
 inappropriate silent watchers of the dead. Upon the coffin was placed
 a beautiful cross, composed of perfectly white flowers of the choicest
 kinds. A card attached was inscribed as follows:</p>
-                  <p>"A tribute to our great and good President, fallen a martyr
+                  <p pn="6">"A tribute to our great and good President, fallen a martyr
 in the cause of human freedom.</p>
                   <lg type="stanza">
                      <l>"In my hand no price I bring,</l>
                      <l>Simply to Thy cross I cling."</l>
                   </lg>
-                  <p><hi rend="italic">Extract from Daily Paper.</hi></p>
+                  <p pn="6"><hi rend="italic">Extract from Daily Paper.</hi></p>
                </note>
                <pb n="7"/>
-               <p>
+               <p pn="7">
                   <figure entity="paddock7">
                      <figDesc>7th page of
 Wilbur F. Paddock's A Great Man Fallen!</figDesc>
                   </figure>
                </p>
-               <p>body calls upon us for a more extended notice of his character and
+               <p pn="7">body calls upon us for a more extended notice of his character and
 services than in this church has heretofore been given; and in so
 doing, I shall not, I am assured, do violence to the proprieties of
 time and place, or go counter to your just expectations and the
 demands of the present occasion.</p>
-               <p>I purpose, this morning, to show, first of all, the true
+               <p pn="7">I purpose, this morning, to show, first of all, the true
 greatness of him whom the nation now mourns and seeks to honor;
 second, to discover, if possible, the culprit by whose hand he fell;
 and third, to indicate the manner in which his death may best be
@@ -276,16 +276,16 @@ points, and cannot, therefore, do more than present a faint outline of
 the virtues and excellences of the illustrious dead, trusting that
 the</p>
                <pb n="8"/>
-               <p>
+               <p pn="8">
                   <figure entity="paddock8">
                      <figDesc>8th page of
 Wilbur F. Paddock's A Great Man Fallen!</figDesc>
                   </figure>
                </p>
-               <p>perfectness and moral grandeur of his character, may at least, not
+               <p pn="8">perfectness and moral grandeur of his character, may at least, not
 suffer in your estimation by this necessarily imperfect
 presentation.</p>
-               <p>I. Consider then, how great Abraham Lincoln was, first, <hi rend="italic">in his devotion to truth</hi>. It is said of him as of the
+               <p pn="8">I. Consider then, how great Abraham Lincoln was, first, <hi rend="italic">in his devotion to truth</hi>. It is said of him as of the
 immortal Washington, that he never told a lie. From the age of
 twenty-five to the time of his death, he was more or less in political
 life, and under its corrupting influences; and yet so sacredly did he
@@ -301,7 +301,7 @@ incapable of acting a part, and careful that he might not be deceived
 by others. No labor was too great, no pressure of business so severe,
 as to prevent him from learning, if possible, the truth of every case
 presented to him.</p>
-               <p>He was honest with himself, and honest in his dealings with
+               <p pn="8">He was honest with himself, and honest in his dealings with
 others. It shone forth from earliest years. When a mere child, he
 labored for two days to pay for
 <pb n="9"/>
@@ -312,7 +312,7 @@ F. Paddock's A Great Man Fallen!</figDesc>
 a borrowed book, which he promptly confessed had been by his own
 carelessness destroyed. Veracity and strict integrity marked all his
 boyhood plays, bargains and engagements.</p>
-               <p>In after life, this fidelity to truth in word, in principle
+               <p pn="9">In after life, this fidelity to truth in word, in principle
 and in conduct, was marvellously manifested. History furnishes no
 parallel of devotion so constant and unswerving,--under a combination
 of circumstances so powerfully arrayed in opposition,--as
@@ -338,7 +338,7 @@ F. Paddock's A Great Man Fallen!</figDesc>
 insinuations,--true to himself, true to his principles, true to his
 country, and true to his God. Oh, how noble such an exhibition of
 character! How rarely is it seen in the history of public men.</p>
-               <p>But again, the greatness of Abraham Lincoln was manifested
+               <p pn="10">But again, the greatness of Abraham Lincoln was manifested
 <hi rend="italic">in his devotion to the rights of humanity, and his
 sympathy with his race</hi>. We see him at the very beginning of his
 legal career, in the face of bitter prejudice and an intense feeling
@@ -372,7 +372,7 @@ successful defence, or the homage and praise of millions in this and
 other lands, for the liberation of a long-oppressed race and the
 preservation of the nation's life, he was the same modest,
 self-forgetting, unelated man.</p>
-               <p>This remarkable freedom from every form of pretension, from
+               <p pn="11">This remarkable freedom from every form of pretension, from
 self-commendation, and from all feelings of exultation over the defeat
 of others or his own success, arose not only from the native
 simplicity and generosity and divinely implanted humility of his
@@ -412,7 +412,7 @@ the weight of empire upon his shoulders, who daily decides great
 questions of state, and by his wise and far-seeing policy, and
 masterly direction of affairs, is largely shaping the future of other
 nations as well as our own?</p>
-               <p>Yes, even so. With Abraham Lincoln nothing was small or
+               <p pn="12">Yes, even so. With Abraham Lincoln nothing was small or
 unimportant which his sense of justice and
 <pb n="13"/>
                   <figure entity="paddock13">
@@ -450,7 +450,7 @@ by the great body of the people of this land; and to behold the dawn
 of a new era of privilege and blessing to the oppressed race, which,
 in the midst of peril and difficulty, he stretched forth his brave
 hand to save.</p>
-               <p>Never had humanity a more faithful, devoted and
+               <p pn="14">Never had humanity a more faithful, devoted and
 self-sacrificing friend. The principles of human liberty he
 enunciated, and the blows he dealt to tyranny, oppression and wrong,
 are felt the world over. The simple, unpretending man, whose body now
@@ -460,7 +460,7 @@ to every bondman who has been able to spell out his name and heard of
 his glorious deeds; and they will weep, too, as we to-day weep, over
 the cruel act that stilled the throbbings of his noble heart, and
 closed in violence and blood his earthly career.</p>
-               <p>Abraham Lincoln was great yet again, in his devotion to his
+               <p pn="14">Abraham Lincoln was great yet again, in his devotion to his
 country. No testimony of mine, I am sure, is needed to strengthen your
 convictions of the truth of this statement. His whole history, before
 as well as after his elevation to the chief office of authority in
@@ -485,7 +485,7 @@ cannot be found in the history of man than he has displayed for the
 salvation of the American Union. It was the sublime performance of
 sublime duties that made him so trusted, and which has given him a
 fame as solid as justice, and as genuine as truth.</p>
-               <p>And yet, once more. Chief above all things else, Abraham
+               <p pn="15">And yet, once more. Chief above all things else, Abraham
 Lincoln was to the Christian heart manifestly great <hi rend="italic">in
 his devotion to his God</hi>. Whatever other elements may enter into
 the composition of a great character, this undoubtedly is the noblest
@@ -547,7 +547,7 @@ not;</l>
                   <l>Thy God's, and truth's! Then if thou fallest, O Cromwell!</l>
                   <l>Thou fallest a blessed martyr!"</l>
                </lg>
-               <p>Thou <hi rend="italic">hast</hi> fallen, just and fearless
+               <p pn="17">Thou <hi rend="italic">hast</hi> fallen, just and fearless
 one! greater in thy devotion to truth, to country and to God, than
 Wolsey ever could have believed of man, or Cromwell ever was capable
 of being! And thou art a martyr blessed! Blessed with the honors of
@@ -560,7 +560,7 @@ F. Paddock's A Great Man Fallen!</figDesc>
 saved, and the love of the good and true, the loyal and the brave, in
 whatever clime thy name and thy history is known. We thank our God
 to-day for what thou hast been to us.</p>
-               <p>II. But who was his murderer? Whose the hand that dared to
+               <p pn="18">II. But who was his murderer? Whose the hand that dared to
 still the beatings of that noble heart, destroy the great champion of
 human freedom and the preserver of our national life, make desolate
 the home of pure affection and filial devotion, and plunge a whole
@@ -642,10 +642,10 @@ dent. Here we find the real author and perpetrator of this horrid
 crime. This is the criminal which we arraign in the sight of high
 Heaven, and charge with this foul murder, and with the agony of heart
 that now is felt throughout our beloved land.</p>
-               <p>III. How, then, may this cruel murder best be avenged, and
+               <p pn="21">III. How, then, may this cruel murder best be avenged, and
 our great and irreparable loss be made a blessing to ourselves and our
 country?</p>
-               <p>Dear friends, not by indiscriminate denunciation of all now
+               <p pn="21">Dear friends, not by indiscriminate denunciation of all now
 in rebellion against this Government. Not by giving vent to feelings
 of hatred and revenge against even its leaders, red as are their hands
 with this the best blood of our land. No. There is a better way of
@@ -674,7 +674,7 @@ body and mind and spirit--freedom, human and divine--such a
 magnificent exhibition of character as God gave us in Abraham
 Lincoln. Let us see for what end we live, and what God has placed us
 here to do.</p>
-               <p>Oh, what a momentous time is the present to the young men
+               <p pn="22">Oh, what a momentous time is the present to the young men
 of our country! What opportunity for noble effort, for a high
 development of character, for exerting great influence, and fighting
 glorious battles for truth, for humanity, for country and for God. Are
@@ -688,13 +688,13 @@ and in which they are to act a most important part? Are they preparing
 themselves for it by a full dedication to their Lord and Saviour as
 well as their country?</p>
                <pb n="23"/>
-               <p>
+               <p pn="23">
                   <figure entity="paddock23">
                      <figDesc>23rd page of
 Wilbur F. Paddock's A Great Man Fallen!</figDesc>
                   </figure>
                </p>
-               <p>Would God I could answer these questions in the
+               <p pn="23">Would God I could answer these questions in the
 affirmative, even as regards the young men of my own beloved
 flock. There are some who realize these times as they ought. Some who
 knowing their duty solemnly meet and perform it. Others are only
@@ -708,7 +708,7 @@ saved us, that we may extend far and wide His Gospel, while advocating
 at the same time, by theory and practice the cause of universal
 liberty and equality. Our mission as a people is the moral, social,
 political and religious elevation of mankind.</p>
-               <p>Let us, then, appreciate our work and its
+               <p pn="23">Let us, then, appreciate our work and its
 responsibilities. Let us begin with our own personal infirmities and
 sins, and seek to have them removed,--with individual aims, purposes,
 and positions, and seek to have them right. Let us take hold of every
@@ -723,7 +723,7 @@ F. Paddock's A Great Man Fallen!</figDesc>
                   </figure>
 called hereafter to lament our weakness, and suffer punishment again
 for our sins.</p>
-               <p>This day, when the body of our noble and sainted President
+               <p pn="24">This day, when the body of our noble and sainted President
 is in our midst, and our hearts are touched by feelings of grateful
 love, let us over his lifeless and disfigured corse, pledge ourselves
 to truth, to humanity, to our country and to our God. And that we may

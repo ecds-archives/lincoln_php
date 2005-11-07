@@ -37,7 +37,7 @@ Sermons Project</title>
 Morris C. Discourse on the Occasion of the Death of Abraham Lincoln,
 Late President of the United States, Preached in the Spring Garden
 Presbyterian Church, Philadelphia, April 16th, 1865.  Philadelphia:
-Jas. B. Rodgers, Printer, 52 &#x0026; 54 North Sixth Street. 1865.</bibl>
+Jas. B. Rodgers, Printer, 52 &amp; 54 North Sixth Street. 1865.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -80,7 +80,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="sutphen.001" n="Discourse on the Occasion of the Death of Abraham Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>Discourse on
 the Occasion of the Death of Abraham Lincoln</title> 
@@ -97,27 +97,27 @@ Printer</publisher>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="sutphen1">
                   <figDesc>1st page of Morris C. Sutphen's
 Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>ON THE OCCASION OF THE DEATH OF</p>
-            <p>ABRHAM LINCOLN,</p>
-            <p>LATE</p>
-            <p>President of the United States,</p>
-            <p>PREACHED IN THE SPRING GARDEN PRESBYTERIAN CHURCH, PHILADELPHIA,</p>
-            <p>BY THE PASTOR,</p>
-            <p>REV. MORRIS C. SUTPHEN,</p>
-            <p>APRIL  16th, 1865.</p>
-            <p>PHILADELPHIA</p>
-            <p>JAS.  B. RODGERS, PRINTER, 52 &#x0026; 54 NORTH
+            <p pn="1">ON THE OCCASION OF THE DEATH OF</p>
+            <p pn="1">ABRHAM LINCOLN,</p>
+            <p pn="1">LATE</p>
+            <p pn="1">President of the United States,</p>
+            <p pn="1">PREACHED IN THE SPRING GARDEN PRESBYTERIAN CHURCH, PHILADELPHIA,</p>
+            <p pn="1">BY THE PASTOR,</p>
+            <p pn="1">REV. MORRIS C. SUTPHEN,</p>
+            <p pn="1">APRIL  16th, 1865.</p>
+            <p pn="1">PHILADELPHIA</p>
+            <p pn="1">JAS.  B. RODGERS, PRINTER, 52 &amp; 54 NORTH
 SIXTH STREET.</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="sutphen2">
                   <figDesc>2nd page of
 Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
@@ -125,40 +125,40 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="sutphen3">
                   <figDesc>3rd page of
 Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>Philadelphia, Sabbath, April 16th, 1865.</p>
-            <p>Rev. Morris
+            <p pn="3">Philadelphia, Sabbath, April 16th, 1865.</p>
+            <p pn="3">Rev. Morris
 C. Sutphen:</p>
-            <p>
+            <p pn="3">
                <hi rend="italic">Dear Pastor</hi>-The satisfaction
 and as we hope the profit, with which we have just listened to this
 morning's sermon upon the death of our President, prompts us to
 requrest of you, for ourselves and others, a copy for publication,
 that the benefit may be more widely spread, and the discourse
 preserved.</p>
-            <p>Respectfully and truly yours,</p>
-            <p>WILLIAM
+            <p pn="3">Respectfully and truly yours,</p>
+            <p pn="3">WILLIAM
 A. DUFF,        GILBERT PARKER <lb/>CHAS. HENDERSON,        JOHN
 WIEGAND, JR., <lb/>JOHN McDOWELL,          S. G. DENNISSON,<lb/>
 H. H. SHILLINGFORD,     H. B. ARRISON, <lb/>GILBERT COMBS,
 H. D. GREGORY, <lb/>THOMAS POLLOCK,         B. L. HERKNESS.</p>
-            <p>Philadelphia, April 17th, 1865.</p>
-            <p>
+            <p pn="3">Philadelphia, April 17th, 1865.</p>
+            <p pn="3">
                <hi rend="italic">Gentlemen</hi>-Although perhaps justice to myself would
 dictate the withholding from print of a discourse prepared in a few
 hours of great confusion, yet I cheerfully consent to its publication,
 as my grateful tribute to the distinguished worth of our Martyr
 President, and my humble contribution to the consolation of an
 afflicted people.</p>
-            <p>With sincere regard, yours,</p>
-            <p>M. C. SUTPHEN.</p>
-            <p>To MESSRS. WILLIAM A. DUFF, <lb/>CHARLES
+            <p pn="3">With sincere regard, yours,</p>
+            <p pn="3">M. C. SUTPHEN.</p>
+            <p pn="3">To MESSRS. WILLIAM A. DUFF, <lb/>CHARLES
 HENDERSON, <lb/>and others.</p>
             <pb n="4"/>
 <!-- blank page -->
@@ -170,7 +170,7 @@ Lincoln.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="sutphen5">
                   <figDesc>5th page of
 Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
@@ -178,12 +178,12 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="sutphen.002" n="DISCOURSE." type="sermon">
-               <head>DISCOURSE.</head>
-               <epigraph>
-                  <p>"THOU DESTROYEST THE HOPE OF  MAN."--Job
+               <head pn="5">DISCOURSE.</head>
+               <epigraph pn="5">
+                  <p pn="5">"THOU DESTROYEST THE HOPE OF  MAN."--Job
 xiv. 19.</p>
                </epigraph>
-               <p>THIS world is a world of vicissitude. The joys of to-day and the
+               <p pn="5">THIS world is a world of vicissitude. The joys of to-day and the
 tears of to-morrow are life's constant interchanges. Of this truth we
 have had sad experience as a people within the last few hours. But
 yesterday our hearts were bounding with glee, to-day our hearts are
@@ -207,21 +207,21 @@ stall. In one short hour silence and sorrow, darkness and distress,
 weeping and wailing, have supplanted light and life, happiness and
 hope, elation and exultation, in the hamlets, and homes, and hearts
 throughout the land.</p>
-               <p>What has so suddenly dashed our cup of joy, changed our feastings
+               <p pn="6">What has so suddenly dashed our cup of joy, changed our feastings
 into fastings, our congratulations into commiserations? The answer is
 too well known to you. "Death is come into our windows, and is entered
 into our palaces." "The beauty of Israel is slain upon the high
 places: the mighty is fallen." The President of the United States,
 most suddenly and unexpectedly, most cowardly and cruelly, has been
 cut down by the hand of an assassin in human form.</p>
-               <p>And it is no wonder that the death of the nation's Chief Magistrate
+               <p pn="6">And it is no wonder that the death of the nation's Chief Magistrate
 sends a tide of sorrow over the land, and that houses hitherto
 uninvaded by the desolations of this desolating war, are now filled
 with grief. The loss of the loved head of a family, makes many
 mourners,--the loss of the loved head of a church more--the loss of
 the loved head of a State still more; but, more than all, the loss of
 the loved head of a nation.</p>
-               <p>But it is not simply because a respected and regarded Chief
+               <p pn="6">But it is not simply because a respected and regarded Chief
 Magistrate is so suddenly dashed from the high place of power, that
 the people mourn. This heavy blow we have felt once and again
 before. Two Pre-
@@ -241,7 +241,7 @@ of disrespect or injustice to either of these worthy dead, it may
 safely be said, this people mourns to-day as never before. And the
 reason is, that not only the head, but the HOPE of the nation is
 destroyed.</p>
-               <p>ABRAHAM LINCOLN was the human hope of the country. This is too
+               <p pn="7">ABRAHAM LINCOLN was the human hope of the country. This is too
 evident to be questioned. The man who disputes it, shows either
 pitiable ignorance, or still more pitiable prejudice. His original
 nomination to the Presidency, intimated that in him were thought, by a
@@ -277,7 +277,7 @@ leading men, we were looking for a happy termination of our
 troubles. Truly, from the beginning of our peril, without
 interruption, and without change, except by way of increase, the
 confidence of the country has centred in ABRAHAM LINCOLN.</p>
-               <p>And the reasons why our trust so largely reposed in him are
+               <p pn="8">And the reasons why our trust so largely reposed in him are
 obvious. One undoubtedly was his <hi rend="italic">successful conduct of
 our affairs during the four years of difficulty recently
 ended</hi>. For, recall the troubles that beset him at the time of his
@@ -324,7 +324,7 @@ ascended the staff, from which, just four years before, it had been
 lowered in Charleston harbor, he might have said--"Lord, now, lettest
 thou thy servant depart in peace, for mine eyes have seen thy
 salvation."</p>
-               <p>And not only the eminent success with which he conducted the
+               <p pn="10">And not only the eminent success with which he conducted the
 affairs of the nation, but also <hi rend="italic">the eminent
 qualities</hi> which he manifestly possessed, led the people to repose
 their confidence in him. Time will permit me only baldly to enumerate
@@ -355,7 +355,7 @@ moment, so wonderfully harmonized sentiment and action in our midst,
 will be respected and regarded by an admiring posterity, as eminently
 products and paragons of wisdom. No wonder that an insight so keen,
 commanded the confidence of the country.</p>
-               <p>Another distinguishing quality of the late President, and which
+               <p pn="11">Another distinguishing quality of the late President, and which
 made him justly the hope of the nation, was his singular <hi rend="italic">honesty</hi>. That he was eminently an honest man, may be
 asserted in any presence, without the fear of successful
 contradiction. In all the lying lampoons invented against him during
@@ -375,7 +375,7 @@ C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
 enroll Abraham Lincoln among the princes of the race.</p>
-               <p>And if he had honesty as a citizen, he had <hi rend="italic">integrity</hi> as a ruler. In all his official acts he
+               <p pn="12">And if he had honesty as a citizen, he had <hi rend="italic">integrity</hi> as a ruler. In all his official acts he
 showed most praiseworthy disinterestedness. I am not aware that he has
 been charged with corruption even by his most irresponsible
 detractors. And if such accusations have been preferred, I am sure
@@ -391,7 +391,7 @@ among his illustrious predecessors, directed the affairs of state with
 less regard to self, and his name will live in history as that of a
 man of unimpeachable integrity. No marvel that from such a character
 the country derived high expectation.</p>
-               <p>Another eminent quality of the lamented dead, which made him so
+               <p pn="12">Another eminent quality of the lamented dead, which made him so
 largely the nation's delight and dependence, was his broad-hearted <hi rend="italic">benevolence</hi>.  Indeed, he was by common consent kind
 to a fault; and it may well be questioned whether to his overflow
 <pb n="13"/>
@@ -431,7 +431,7 @@ Lincoln.</figDesc>
 der that the nation loved him, and looked to him, as to no other
 functionary, civil or military, for the reduction of the rebellion of
 Southern hearts, as well as the rebellion of Southern hands.</p>
-               <p>The only other prominent characteristic of President Lincoln which
+               <p pn="14">The only other prominent characteristic of President Lincoln which
 I can, on the present occasion, notice, and which made him the hope of
 the country, was his <hi rend="italic">dependence on Almighty
 God</hi>. I do not mean positively to assert that he was a man of
@@ -486,7 +486,7 @@ Lincoln.</figDesc>
                   </figure>
 to tears, and that doubt, and despondency, and dismay, should depict
 themselves on all faces throughout the land.</p>
-               <p>But should we yield to discouragement and despair, because of this
+               <p pn="16">But should we yield to discouragement and despair, because of this
 dark dispensation? NO, NO, NO. "Why art thou cast down, O my soul? and
 why art thou disquieted within me? Hope thou in God, for I shall yet
 praise him, who is the health of my countenance and my God." Though
@@ -507,7 +507,7 @@ there is light in this dark dispensation.</p>
                   <l>E'en crosses, from his sovereign hand,</l>
                   <l>Are blessings in disguise."</l>
                </lg>
-               <p>It is his province and prerogative to bring good out of evil; and
+               <p pn="16">It is his province and prerogative to bring good out of evil; and
 how often has he turned the gloomi-
 <pb n="17"/>
                   <figure entity="sutphen17">
@@ -550,7 +550,7 @@ all should acknowledge his agency and ascribe to him the praise due
 his great name? Do we not feel that now we are cast upon the Lord; and
 are we not prepared to say, when brought out of our straits into a
 large and wealthy place, "Behold what God hath wrought!"</p>
-               <p>Besides, is it not possible that the overflowing love of our late
+               <p pn="18">Besides, is it not possible that the overflowing love of our late
 President would have made concessions to rebels, calculated to imperil
 the peace and safety of the nation, and to tarnish the fair fame with
 which he will now descend to posterity? Is it not probable that the
@@ -583,7 +583,7 @@ thee all the days of thy life: as I was with Moses, so I will be with
 thee: I will not fail thee, nor forsake thee. Be strong and of good
 courage; for unto this people shalt thou divide for an inheritance the
 land, which I sware unto their fathers to give them."</p>
-               <p>There is then no reason for despair, or despondency, or even
+               <p pn="19">There is then no reason for despair, or despondency, or even
 discouragement, because of this seemingly dark dispensation. On this
 black cloud we may already behold the rainbow of promise. Let us only
 persevere in "loosing the bands of wickedness, in undoing heavy

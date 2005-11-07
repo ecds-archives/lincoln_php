@@ -41,7 +41,7 @@ Sermons Project</title>
 Reverend George Dana. An Address in Commemoration of the
 Re-Establishment of the National Flag at Fort Sumter, April 14, 1865.
 Delivered in the Meeting-House of the First Baptist Church of
-Philadelphia, on the Same Day.  Philadelphia: Sherman &#x0026; Co.,
+Philadelphia, on the Same Day.  Philadelphia: Sherman &amp; Co.,
 Printers.  1865.   </bibl>
          </sourceDesc>
       </fileDesc>
@@ -76,7 +76,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="boardman.001" n="An Address in Commemoration of the Re-Establishment of the National Flag at Fort Sumter." type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title> An Address in
 Commemoration of the Re-Establishment of the National Flag at Fort
@@ -88,34 +88,34 @@ Church of Philadelphia</pubPlace>
 Dana</author> 
                   <imprint>
                      <pubPlace>Philadelphia</pubPlace>
-                     <publisher>Sherman &#x0026; Co.</publisher>
+                     <publisher>Sherman &amp; Co.</publisher>
                      <date>1865</date>
                   </imprint>
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="boardman1">
                   <figDesc>1st page of Reverend George
 Dana Boardman's An Address in Commemoration of the Re-Establishment of
 the National Flag at Fort Sumter.</figDesc>
                </figure>
             </p>
-            <p>AN ADDRESS</p>
-            <p>IN COMMEMORATION</p>
-            <p>OF THE</p>
-            <p>RE-ESTABLISHMENT OF THE NATIONAL FLAG</p>
-            <p>AT FORT SUMTER,</p>
-            <p>April 14, 1865.</p>
-            <p>DELIVEBED IN THE MEETING-HOUSE</p>
-            <p>OF THE</p>
-            <p>FIRST BAPTIST CHURCH OF PHILADELPHIA,</p>
-            <p>On the Same Day,</p>
-            <p>BY THE</p>
-            <p>REVEREND GEORGE DANA BOARDMAN,</p>
-            <p>PASTOR.</p>
-            <p>PHILADELPHIA:</p>
-            <p>SHERMAN &#x0026; CO., PRINTERS</p>
-            <p>1865.</p>
+            <p pn="1">AN ADDRESS</p>
+            <p pn="1">IN COMMEMORATION</p>
+            <p pn="1">OF THE</p>
+            <p pn="1">RE-ESTABLISHMENT OF THE NATIONAL FLAG</p>
+            <p pn="1">AT FORT SUMTER,</p>
+            <p pn="1">April 14, 1865.</p>
+            <p pn="1">DELIVEBED IN THE MEETING-HOUSE</p>
+            <p pn="1">OF THE</p>
+            <p pn="1">FIRST BAPTIST CHURCH OF PHILADELPHIA,</p>
+            <p pn="1">On the Same Day,</p>
+            <p pn="1">BY THE</p>
+            <p pn="1">REVEREND GEORGE DANA BOARDMAN,</p>
+            <p pn="1">PASTOR.</p>
+            <p pn="1">PHILADELPHIA:</p>
+            <p pn="1">SHERMAN &amp; CO., PRINTERS</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
 <!-- blank page -->
 <!--            <p>
@@ -127,7 +127,7 @@ Sumter.</figDesc>
                </figure>
             </p> -->
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="boardman3">
                   <figDesc>3rd page of
 Reverend George Dana Boardman's An Address in Commemoration of the
@@ -135,8 +135,8 @@ Re-Establishment of the National Flag at Fort
 Sumter.</figDesc>
                </figure>
             </p>
-            <p>PHILADELPHIA, April 21st, 1865</p>
-            <p>THE REV. GEORGE DANA BOARDMAN. 
+            <p pn="3">PHILADELPHIA, April 21st, 1865</p>
+            <p pn="3">THE REV. GEORGE DANA BOARDMAN. 
 	<lb/>REVEREND AND DEAR SIR: Many of the undersigned were
 present at the First Baptist Church on Friday, the 14th instant,
 during the impressive services there held in commemoration of the
@@ -144,7 +144,7 @@ re-establishment of the National Flag at Fort Sumter. Some of us were
 also present the following Sabbath, and on Wednesday, the 19th
 instant, when our joy had so suddenly been changed into mourning and
 our rejoicing into deep grief.</p>
-            <p>The occasion of the delivery of your noble, patriotic, and
+            <p pn="3">The occasion of the delivery of your noble, patriotic, and
 eloquent Address being the fourth anniversary of the day when the
 gallant Major Anderson and his brave compatriots were compelled to
 evacuate the Fort, and being also the day and hour when, by direction
@@ -152,32 +152,32 @@ of the President of the United States, the same officer was ordered to
 raise the same flag over Sumter's ruined battlements,-once more in our
 possession,-rendered your remarks peculiarly fitting and
 appropriate.</p>
-            <p>Your words of cheer and hope, of joy and gratulation,
+            <p pn="3">Your words of cheer and hope, of joy and gratulation,
 stirred every heart, and they deserve to be handed down to posterity,
 so that future generations may know how Christians in this city felt
 at such a crisis in the history of our country. We believe that at a
 time when, even amid the sound of cannon and the smoke of our
 battle-fields, we can behold the dawning of Peace, such sentiments as
 fell from your lips should be disseminated far and wide.</p>
-            <p>The reference to our beloved President was as touching and
+            <p pn="3">The reference to our beloved President was as touching and
 truthful as it was eloquent, and the tribute to his eminent worth, to
 his nobleness of heart and integrity of purpose, is all the dearer to
 us now since the dastard hand of a traitor has deprived us, in our
 time of greatest need, of his wise counsels and safe guidance.</p>
-            <p>The addresses delivered by you last Sabbath and on the day
+            <p pn="3">The addresses delivered by you last Sabbath and on the day
 of his funeral, when the whole country was weeping and mourning as for
 the death of a dearly loved parent, well deserve to be pondered over
 by us in our homes,-by the quiet of our firesides.</p>
-            <p>Our noble President no longer lives on earth, but he will
+            <p pn="3">Our noble President no longer lives on earth, but he will
 live forever in the hearts of the people; and in all future history
 ABRAHAM LINCOLN will be known and revered as the Martyr President of
 the American Republic.</p>
-            <p>We therefore request a copy of your several Addresses for
+            <p pn="3">We therefore request a copy of your several Addresses for
 publication; and, while sorrowing at the great loss we have sustained
 as a Nation, we can heartily unite with you in rendering thanks to
 Almighty God for the gift of so pure a patriot and for the victories
 which have been achieved by the armies of the Union.</p>
-            <p>We remain, with sentiments of high regard,
+            <p pn="3">We remain, with sentiments of high regard,
 	<lb/>Your brethren and fellow-citizens,
 <lb/>
 THOMAS WATTSON,		WASHINGTON BUTCHER,<lb/>
@@ -188,7 +188,7 @@ A. CALDWELL <lb/>JOSEPH W. BULLOCK		EDWIN HALL, <lb/>JOSEPH
 F. PAGE		ALEXANDER T. LANE, <lb/>H. C. HOWELL,		ISAAC
 H. O'HARRA, <lb/>S.F. HANSELL,		HENRY CLAY BUTCHER</p>
             <pb n="4"/>
-            <p>
+            <p pn="4">
                <figure entity="boardman4">
                   <figDesc>4th page of
 Reverend George Dana Boardman's An Address in Commemoration of the
@@ -196,26 +196,26 @@ Re-Establishment of the National Flag at Fort
 Sumter.</figDesc>
                </figure>
             </p>
-            <p>No. 1712 VINE
+            <p pn="4">No. 1712 VINE
 STREET, April, 25, 1865.</p>
-            <p>TO THOMAS WATTSON, ESQ., WILLIAM S
+            <p pn="4">TO THOMAS WATTSON, ESQ., WILLIAM S
 HANSELL, ESQ.,
 	<lb/>HON. JAMES POLLOCK, HORATIO GATES JONES, ESQ., AND
 OTHERS.</p>
-            <p>GENTLEMEN: Your courteous note of the 21st instant, requesting for
+            <p pn="4">GENTLEMEN: Your courteous note of the 21st instant, requesting for
 publication the addresses delivered in the meeting-house of the First
 Baptist Church on the 14th, 16th, and 19th days of April, has been
 received.</p>
-            <p>Aware that the interest which attaches to these addresses
+            <p pn="4">Aware that the interest which attaches to these addresses
 springs altogether from the grandeur of the events which occasioned
 them, I accede to your generous request, feeling assured that their
 imperfections will be hidden in the intensity of the gloom which
 oppresses us all.</p>
-            <p>I am, gentlemen, with profound respect, </p>
-            <p>Your brother and townsman,</p>
-            <p>GEORGE DANA BOARDMAN.</p>
+            <p pn="4">I am, gentlemen, with profound respect, </p>
+            <p pn="4">Your brother and townsman,</p>
+            <p pn="4">GEORGE DANA BOARDMAN.</p>
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="boardman5">
                   <figDesc>5th page of
 Reverend George Dana Boardman's An Address in Commemoration of the
@@ -224,8 +224,8 @@ Sumter.</figDesc>
                </figure>
             </p>
             <div2 id="boardman.002" n="ADDRESS" type="sermon">
-               <head>ADDRESS.</head>
-               <p>On the night of December twenty-sixth, eighteen hundred and
+               <head pn="5">ADDRESS.</head>
+               <p pn="5">On the night of December twenty-sixth, eighteen hundred and
 sixty, a sudden stir began in the historic fort of Moultrie. Men
 hurried to and fro, in silent haste, gathering together the rations,
 accoutrements, ammunition, and other movable property of the fort; gun
@@ -267,22 +267,22 @@ burst forth into exultant hurras, again, again and again
 repeated. That thrilling scene lives in song as well as in
 history. Listen to an old man's ballad for December twenty-six,
 nineteen hundred and ten:</p>
-               <p>
-                  <q direct="unspecified">Come, children, leave your playing this dark and stormy night;
+               <p pn="6">
+                  <q pn="6" direct="unspecified">Come, children, leave your playing this dark and stormy night;
 Shut fast the rattling window-blinds, and make the fire burn bright;
 And hear an old man's story, while loud the fierce winds blow, Of
 gallant Major Anderson and fifty years ago.</q>
                </p>
-               <p>After a recital of the evacuation, the scarred veteran
+               <p pn="6">After a recital of the evacuation, the scarred veteran
 continues:</p>
-               <p>
-                  <q direct="unspecified">I never can forget, my boys how the next day, at noon, The drums
+               <p pn="6">
+                  <q pn="6" direct="unspecified">I never can forget, my boys how the next day, at noon, The drums
 beat and the bands played a stirring, martial tune, And silently we
 gathered round the flagstaff strong and high, Forever pointing upward
 to God's temple in the sky.</q>
                </p>
                <pb n="7"/>
-               <p>
+               <p pn="7">
                   <figure entity="boardman7">
                      <figDesc>7th page of
 Reverend George Dana Boardman's An Address in Commemoration of the
@@ -290,25 +290,25 @@ Re-Establishment of the National Flag at Fort
 Sumter.</figDesc>
                   </figure>
                </p>
-               <p>
-                  <q direct="unspecified">Our noble Major Anderson was good as he was brave, And he knew
+               <p pn="7">
+                  <q pn="7" direct="unspecified">Our noble Major Anderson was good as he was brave, And he knew
 without God's blessing no banner long could wave; So he knelt with
 head uncovered, while the chaplain made a prayer, And as the last amen
 was said, the flag rose high in air.</q>
                </p>
-               <p>
-                  <q direct="unspecified">Then our loud huzzas rung out, far and widely o'er the sea!  We
+               <p pn="7">
+                  <q pn="7" direct="unspecified">Then our loud huzzas rung out, far and widely o'er the sea!  We
 shouted for the Stars and Stripes, the standard of the free!  Every
 eye was fixed upon it; every heart beat warm and fast, As with eager
 lips we promised to defend it to the last!</q>
                </p>
-               <p>
-                  <q direct="unspecified">'Twas a sight to be remembered, boys, the chaplain with his
+               <p pn="7">
+                  <q pn="7" direct="unspecified">'Twas a sight to be remembered, boys, the chaplain with his
 book, Our leader humbly kneeling, with his calm, undaunted look; And
 the officers and men, crushing tears they would not shed, And the blue
 sea all around us, and the blue sky overhead!</q>
                </p>
-               <p>Three and a half months now crept away; months of gloom and
+               <p pn="7">Three and a half months now crept away; months of gloom and
 terrible apprehension. I need not go into particulars; it is enough to
 remind you that meantime Florida, Mississippi, Alabama, Georgia,
 Louisiana, Texas, and North Carolina followed the example of South
@@ -331,7 +331,7 @@ Re-Establishment of the National Flag at Fort
 Sumter.</figDesc>
                   </figure>
 the Moses of the New World. But I must press on with the narrative.</p>
-               <p>During these three months and a half, Fort Sumter was
+               <p pn="8">During these three months and a half, Fort Sumter was
 closely besieged. The South Carolina insurgents had strengthened the
 armament of Fort Moultrie and Castle Pinckney, and erected many new
 batteries, so as to place Sumter under the fire of nearly
@@ -343,23 +343,23 @@ of April they learned that Government was about to relieve the
 garrison by sending supplies and reinforcements. You will be
 interested, doubtless, if I recall to you some of the correspondence
 which then took place. It is historic.</p>
-               <p>MONTGOMERY, ALA., April 10, 1861.  <lb/>"TO GENERAL
+               <p pn="8">MONTGOMERY, ALA., April 10, 1861.  <lb/>"TO GENERAL
 P. G. T. BEAUREGARD,
 				<lb/>Charleston, S.C.</p>
-               <p>"If you have no doubt of the authorized character of the
+               <p pn="8">"If you have no doubt of the authorized character of the
 agent who communicated to you the intention of the Washington
 Government to supply Fort Sumter by force, you will at once demand its
 evacuation; and, if this is refused, proceed in such a manner as you
 may determine, to reduce it.</p>
-               <p>" L. P. WALKER, <lb/>"Secretary of War."</p>
-               <p>CHARLESTON, S.C.,
+               <p pn="8">" L. P. WALKER, <lb/>"Secretary of War."</p>
+               <p pn="8">CHARLESTON, S.C.,
 April 10, 1861.</p>
-               <p>"TO HON. L.P. WALKER, <lb/>"Secretary of
+               <p pn="8">"TO HON. L.P. WALKER, <lb/>"Secretary of
 War.</p>
-               <p>"The demand will be made to-morrow at twelve o'clock.<lb/>
+               <p pn="8">"The demand will be made to-morrow at twelve o'clock.<lb/>
 " P. G. T. BEAUREGARD."</p>
                <pb n="9"/>
-               <p>
+               <p pn="9">
                   <figure entity="boardman9">
                      <figDesc>9th page of
 Reverend George Dana Boardman's An Address in Commemoration of the
@@ -367,12 +367,12 @@ Re-Establishment of the National Flag at Fort
 Sumter.</figDesc>
                   </figure>
                </p>
-               <p>"HEADQUARTERS PROVISIONAL ARMY C.S.A.,
+               <p pn="9">"HEADQUARTERS PROVISIONAL ARMY C.S.A.,
 						<lb/>CHARLESTON, S.C.,
 April 11, 1861, 2 P.M.</p>
-               <p>"To MAJOR ROBERT ANDERBON, <lb/>"Commanding at Fort Sumter,
+               <p pn="9">"To MAJOR ROBERT ANDERBON, <lb/>"Commanding at Fort Sumter,
 Charleston Harbor, S.C.</p>
-               <p>"SIR: The Government of the Confederate States have
+               <p pn="9">"SIR: The Government of the Confederate States have
 hitherto forborne from any hostile demonstration against Fort Sumter,
 in the hope that the Government of the United States, with a view to
 the amicable adjustment of all questions between the two Governments,
@@ -380,32 +380,32 @@ and to avert the calamities of war, would voluntarily evacuate it
 . . .  . . . But the Confederate States can no longer delay assuming
 actual possession of a fortification commanding the entrance to one of
 our harbors, and necessary to its defense and security.</p>
-               <p>"I am, therefore, ordered by the Government of the
+               <p pn="9">"I am, therefore, ordered by the Government of the
 Confederate States to demand the evacuation of Fort Sumter. All proper
 facilities will be afforded for the removal of yourself and command,
 together with arms and all private property, to any post in the
 United	States which you may select...My aids, Colonel Chesnut and
 Captain Lee, will, for a reasonable time, await your answer.</p>
-               <p>"I am, sir, very respectfully, your obedient servant,
+               <p pn="9">"I am, sir, very respectfully, your obedient servant,
 		<lb/>"P. G. T. BEAUREGARD, <lb/>"Brigadier-General,
 Commanding."</p>
-               <p>"HEADQUARTERS, FORT SUMTER, S.C., <lb/>Apri1 11, 1861.</p>
-               <p>"To
+               <p pn="9">"HEADQUARTERS, FORT SUMTER, S.C., <lb/>Apri1 11, 1861.</p>
+               <p pn="9">"To
 BRIGADIER GENERAL P. G. T. BEAUREGARD.</p>
-               <p>"GENERAL: I have the honor to acknowledge the receipt of
+               <p pn="9">"GENERAL: I have the honor to acknowledge the receipt of
 your communication demanding the evacuation of this fort, and to say,
 in reply thereto, that it is a demand with which I regret that my
 sense of honor and of my obligations to my Government prevent my
 compliance. Thanking you for the fair, manly, and courteous terms
 proposed, I am, General,</p>
-               <p>"Very respectfully, your obedient
+               <p pn="9">"Very respectfully, your obedient
 servant,
 	<lb/>"ROBERT ANDERSON, <lb/>Major U. S. Army, Commanding."</p>
-               <p>HEADQUARTERS PROVISIONAL ARMY
+               <p pn="9">HEADQUARTERS PROVISIONAL ARMY
 C.S.A., <lb/>"CHARLESTON, April 11, 1861, 11 P. M.</p>
-               <p>"To MAJOR
+               <p pn="9">"To MAJOR
 ROBERT ANDERSON, <lb/>"Commanding at Fort Sumter, Charleston, S. C.</p>
-               <p>"MAJOR: In consequence of the verbal observations made by
+               <p pn="9">"MAJOR: In consequence of the verbal observations made by
 you to my aids, Messrs. Chesnut and Lee, in relation to the condition
 of
 <pb n="10"/>
@@ -424,12 +424,12 @@ unless ours shall be employed against Fort Sumter, we will abstain
 from opening fire upon you. Colonel Chesnut and Captain Lee are
 authorized by me to enter into such an agreement with you. I am,
 Major,</p>
-               <p>"Very respectfully, your obedient servant,<lb/>
+               <p pn="10">"Very respectfully, your obedient servant,<lb/>
 "P. G. T. BEAUREGARD."</p>
-               <p>"HEADQUARTERS, FORT SUMTER, S.C., <lb/>2.30 A.M., April 12,
+               <p pn="10">"HEADQUARTERS, FORT SUMTER, S.C., <lb/>2.30 A.M., April 12,
 1861.</p>
-               <p>TO BRIGADIER-GENRAL P.G.T. BEAUREGARD.</p>
-               <p>"GENERAL: I have the honor to acknowledge the receipt of
+               <p pn="10">TO BRIGADIER-GENRAL P.G.T. BEAUREGARD.</p>
+               <p pn="10">"GENERAL: I have the honor to acknowledge the receipt of
 your second communication of the 11th inst., by Colonel Chesnut, and
 to state, in reply, that, cordially uniting with you in the desire to
 avoid the useless effusion of blood, I will, if provided with the
@@ -442,10 +442,10 @@ against the flag of my Government by the forces under your command, or
 by some portion of them, or by the perpetration of some act showing a
 hostile intention on your part against this fort, or the flag it
 bears. I have the honor to be, General,</p>
-               <p>"Your obedient servant,
+               <p pn="10">"Your obedient servant,
 					 <lb/>"ROBERT ANDERSON,
  <lb/>"Major U. S. Army, Commanding."</p>
-               <p>You see from this correspondence just how matters
+               <p pn="10">You see from this correspondence just how matters
 stood. Major Anderson frankly states to the insurgents that, in
 consequence of the extreme scarcity of provisions in the fort, he
 would be compelled in all events to evacuate by noon of April 15th,
@@ -464,12 +464,12 @@ have us believe, " the useless effusion of blood," and fearing, it may
 be, that supplies would in the interim arrive, fifty minutes after
 Major Anderson's manly note was penned, the following paper, signed by
 Colonel Chesnut and Captain Lee, was put in his hands:</p>
-               <p>FORT SUMTER, S.C., April 12, 1861, 3.20 A.M</p>
-               <p>"SIR: By authority of Brigadier-General Beauregard,
+               <p pn="11">FORT SUMTER, S.C., April 12, 1861, 3.20 A.M</p>
+               <p pn="11">"SIR: By authority of Brigadier-General Beauregard,
 commanding the provisional forces of the Confederate States, we have
 the honor to notify you that he will open the fire of his batteries on
 Fort Sumter in one hour from this time."</p>
-               <p>In an hour the bombardment commenced. O, my countrymen!
+               <p pn="11">In an hour the bombardment commenced. O, my countrymen!
 what a scene then opened! I do not wonder that they did not wait till
 the sun rose, dreading to have that burning eye of God witness the
 inauguration of the dreadful fratricidal massacre. Fiercely thundered
@@ -480,7 +480,7 @@ gallant defence. Human powers could do no more. But it was all in
 vain. And from the steamship Baltic, off Sandy Hook, April 18,1861,
 the heroic Anderson sent the following stirring despatch to
 Mr. Cameron, then Secretary of War:</p>
-               <p>"SIR: Having defended Fort Sumter for thirty-four hours,
+               <p pn="11">"SIR: Having defended Fort Sumter for thirty-four hours,
 until the quarters were entirely burned, the main gates destroyed by
 fire, the gorge wall seriously injured, the magazine surrounded by
 flames, and its doors closed from the effects of the heat, four
@@ -499,10 +499,10 @@ the commencement of hostilities, and marched out of the fort Sunday
 afternoon the 14th inst., with colors flying and drums beating,
 bringing away company and private property, and saluting my flag with
 fifty guns.</p>
-               <p>"ROBERT ANDEBSON,
+               <p pn="12">"ROBERT ANDEBSON,
 							<lb/>"Major
 First Artillery."</p>
-               <p>Since then four years, I could almost say four centuries,
+               <p pn="12">Since then four years, I could almost say four centuries,
 have rolled away. O God! what years of national humiliation and agony
 have they been! Verily, Thou hast given us the bread of affliction to
 eat and the cup of tears to drink. Thou hast led us by way of the
@@ -558,7 +558,7 @@ Thy lightnings, and discomfited them!</l>
                   <l>So let all Thine enemies
 perish, O Jehovah!"</l>
                </lg>
-               <p>To-day we have met to celebrate this great victory. "But
+               <p pn="13">To-day we have met to celebrate this great victory. "But
 why," you ask me, "do you select this particular day, rather than
 that, for instance, which commemorates the fall of Richmond, or the
 surrender of Lee?" For this simple reason: The National Flag is the
@@ -607,10 +607,10 @@ Sumter.</figDesc>
                   </figure>
 vindication of Jehovah's ordinance of earthly government, is the same
 which celebrates the triumph of His celestial sovereignty.</p>
-               <p/>
-               <p>What now are some of the lessons which the scene
+               <p pn="15"/>
+               <p pn="15">What now are some of the lessons which the scene
 transpiring to-day at Fort Sumter teaches the ages?</p>
-               <p>The first
+               <p pn="15">The first
 is this: The American Republic is not a league, but a nation; not a
 confederacy, but a people; not a congeries of States, but a Union;
 being in fact the United States, which is but another name for the
@@ -630,7 +630,7 @@ even amputation: it is vivisection, suicide, murder, a death as real
 as that proposed in King Solomon's order for bisecting the child
 brought before him for adjudication.</p>
                <pb n="16"/>
-               <p>
+               <p pn="16">
                   <figure entity="boardman16">
                      <figDesc>16th page
 of Reverend George Dana Boardman's An Address in Commemoration of the
@@ -638,7 +638,7 @@ Re-Establishment of the National Flag at Fort
 Sumter.</figDesc>
                   </figure>
                </p>
-               <p>Another lesson which the scene now transpiring at Fort
+               <p pn="16">Another lesson which the scene now transpiring at Fort
 Sumter teaches, is one which is addressed to foreign
 nations. Democracy has been on trial, and we see the result. When we
 take into consideration the awful magnitude of the rebellion, gaining
@@ -711,7 +711,7 @@ with the free ballots of a free people. And, standing here, I echo
 back with joyous pride the diapason of the cannonade which rent the
 sky over Fort Sumter at noon to-day: <hi rend="italic">Long Live the
 Republic!</hi> LONG LIVE THE REPUBLIC!</p>
-               <p>Thoughts crowd upon me; but I must not detain you with
+               <p pn="18">Thoughts crowd upon me; but I must not detain you with
 them. The occasion is too simple for argument, too self-suggesting and
 exultant for explanation. Yet I cannot forbear alluding to a point
 which the swift rush of events is forcing on our attention. "What
@@ -760,7 +760,7 @@ did with the first murderer, and send them forth to be fugitives and
 vagabonds in the earth, setting a mark on their brows, lest any
 finding them should slay them. And then with Cain shall they exclaim:
 'My punishment is greater than I can bear!'"</p>
-               <p>But while I would thus sternly dispose of the leaders and
+               <p pn="19">But while I would thus sternly dispose of the leaders and
 arch-conspirators, I would speak words of forgiveness and
 <pb n="20"/>
                   <figure entity="boardman20">
@@ -791,7 +791,7 @@ triumph by heroic legions from the Chesapeake to the Mississippi; from
 Richmond to Mobile; thou art at last purified of thy stains, and
 to-day thou proudly floatest over "the land of the free," as thou
 always hast over " the home of the brave."</p>
-               <p>In conclusion, I congratulate you, my countrymen, of the
+               <p pn="20">In conclusion, I congratulate you, my countrymen, of the
 bright portents which are gilding the horizon. Watch man! what of the
 night? Watchman! what of the night? 
 <pb n="21"/>
@@ -829,7 +829,7 @@ longer, and the battle-flags were furl'd </l>
                   <l>In the Parliament of
 man, the Federation of the world.</l>
                </lg>
-               <p>Then shall dawn that blessed era, foretold by seers of
+               <p pn="21">Then shall dawn that blessed era, foretold by seers of
 every time, and sighed for by holy men of every clime, when all men's
 good shall</p>
                <lg type="stanza">
@@ -841,7 +841,7 @@ athwart the sea,</l>
                   <l>Through all the circle of the Golden
 Year.</l>
                </lg>
-               <p>Glory be to the Father, and to the Son, and to the Holy
+               <p pn="21">Glory be to the Father, and to the Son, and to the Holy
 Ghost; as it was in the beginning, is now, and ever shall be, world
 without end!</p>
                <pb n="22"/>
@@ -855,7 +855,7 @@ Sumter.</figDesc>
                   </figure>
                </p> -->
                <pb n="23"/>
-               <p>
+               <p pn="23">
                   <figure entity="boardman23">
                      <figDesc>23rd page
 of Reverend George Dana Boardman's An Address in Commemoration of the
@@ -865,28 +865,28 @@ Sumter.</figDesc>
                </p>
             </div2>
             <div2 id="boardman.003" n="APPENDIX" type="appendix">
-               <head>APPENDIX.</head>
+               <head pn="23">APPENDIX.</head>
                <argument>
-                  <p>
+                  <p pn="23">
                      <hi rend="italic">At the request of numerous friends, the
 Order of Services observed on the 14th inst. is
 subjoined.</hi>
                   </p>
                </argument>
-               <p>ORDER OF SERVICES.</p>
-               <p>I.	THE LORD'S PRAYER.</p>
-               <p>II. 	TE DEUM LAUDAMUS.</p>
-               <p>III.	READING FROM THE HOLY SCRIPTURES</p>
-               <p>THE TRIUMPHAL SONG OF
+               <p pn="23">ORDER OF SERVICES.</p>
+               <p pn="23">I.	THE LORD'S PRAYER.</p>
+               <p pn="23">II. 	TE DEUM LAUDAMUS.</p>
+               <p pn="23">III.	READING FROM THE HOLY SCRIPTURES</p>
+               <p pn="23">THE TRIUMPHAL SONG OF
 DEBORAH IN COMMEMORATION OF THE HEBBEW
 	VICTORY OVER THE CANAANITISH CONFEDERACY, 1300 B.C.</p>
                <lg type="stanza">
-                  <head>THE ODE.</head>
+                  <head pn="23">THE ODE.</head>
                   <l>Thus sang Deborah and Barak, Son of Abinoam,</l>
                   <l>In the day of victory thus they sang:</l>
                </lg>
                <lg type="stanza">
-                  <head>THE PRELUDE.</head>
+                  <head pn="23">THE PRELUDE.</head>
                   <l>For the avenging of Israel,</l>
                   <l>For the free self-offering of the people,</l>
                   <l>Praise ye Jehovah!</l>
@@ -896,7 +896,7 @@ ear, ye Princes!</l>
                   <l>I will sound the harp to Jehovah, God of Israel.</l>
                </lg>
                <lg type="stanza">
-                  <head>THE EXODUS.</head>
+                  <head pn="23">THE EXODUS.</head>
                   <l>O Jehovah! when Thou wentest forth
 from Seir,</l>
                   <l>When Thou marchest through the fields of Edom,</l>
@@ -909,7 +909,7 @@ melted,</l>
                   <l>The God of Israel.</l>
                </lg>
                <pb n="24"/>
-               <p>
+               <p pn="24">
                   <figure entity="boardman24">
                      <figDesc>24th page
 of Reverend George Dana Boardman's An Address in Commemoration of the
@@ -918,7 +918,7 @@ Sumter.</figDesc>
                   </figure>
                </p>
                <lg type="stanza">
-                  <head>THE DISMAY.</head>
+                  <head pn="24">THE DISMAY.</head>
                   <l>In the days of Shamgar, Son of
 Anath,</l>
                   <l>In Jael's days, untrodden were the highways;</l>
@@ -935,7 +935,7 @@ none or spear</l>
                   <l>Among forty thousand sons of Israel.</l>
                </lg>
                <lg type="stanza">
-                  <head>THE SUMMONS</head>
+                  <head pn="24">THE SUMMONS</head>
                   <l>My soul is yours, ye chiefs of
 Israel!</l>
                   <l>And ye, the self-devoted of the people,</l>
@@ -965,7 +965,7 @@ repeat the song!</l>
                   <l>Thou son of Abinoam!</l>
                </lg>
                <lg type="stanza">
-                  <head>THE GATHERING TO THE RENDEZVOUS.</head>
+                  <head pn="24">THE GATHERING TO THE RENDEZVOUS.</head>
                   <l>With Barak went
 down a valiant force against the mighty;</l>
                   <l>With me, Deborah, went
@@ -983,7 +983,7 @@ princes came with Deborah,</l>
                   <l>They burst into the valley in his footsteps.</l>
                </lg>
                <pb n="25"/>
-               <p>
+               <p pn="25">
                   <figure entity="boardman25">
                      <figDesc>25th page
 of Reverend George Dana Boardman's An Address in Commemoration of the
@@ -992,7 +992,7 @@ Sumter.</figDesc>
                   </figure>
                </p>
                <lg type="stanza">
-                  <head>THE RECREANTS.</head>
+                  <head pn="25">THE RECREANTS.</head>
                   <l>By Reuben's fountains there was
 deep debating;</l>
                   <l>Why sattest thou between the sheepfolds?</l>
@@ -1010,7 +1010,7 @@ harbors dwelt.</l>
                   <l>And Naphtali on the high places of the field.</l>
                </lg>
                <lg type="stanza">
-                  <head>THE BATTLE.</head>
+                  <head pn="25">THE BATTLE.</head>
                   <l>Came the kings and fought,</l>
                   <l>Fought the kings of Canaan</l>
                   <l>By Taanach, on Megiddo's
@@ -1032,7 +1032,7 @@ clattering hoofs of prancing horses</l>
 flight of the mighty.</l>
                </lg>
                <lg type="stanza">
-                  <head>THE CURSE.</head>
+                  <head pn="25">THE CURSE.</head>
                   <l>Curse ye Meroz, said the angel of
 Jehovah;</l>
                   <l>Curse ye with a curse the inhabitants thereof;</l>
@@ -1041,7 +1041,7 @@ Jehovah;</l>
 Jehovah, with the heroes!</l>
                </lg>
                <lg type="stanza">
-                  <head>THE AVENGER.</head>
+                  <head pn="25">THE AVENGER.</head>
                   <l>Blessed above women be Jael,</l>
                   <l>The wife of Heber the Kenite,</l>
                   <l>O'er all the women blessed,
@@ -1063,7 +1063,7 @@ fell: he lay:</l>
 he bowed, there he fell dead.</l>
                </lg>
                <pb n="26"/>
-               <p>
+               <p pn="26">
                   <figure entity="boardman26">
                      <figDesc>26th page
 of Reverend George Dana Boardman's An Address in Commemoration of the
@@ -1072,7 +1072,7 @@ Sumter.</figDesc>
                   </figure>
                </p>
                <lg type="stanza">
-                  <head>THE MOTHER OF SISERA.</head>
+                  <head pn="26">THE MOTHER OF SISERA.</head>
                   <l>Through the window stretched
 forth and lamented</l>
                   <l>The mother of Sisera through the
@@ -1095,32 +1095,32 @@ broidered,</l>
                   <l>Many-colored, and broidered round the neck!"</l>
                </lg>
                <lg type="stanza">
-                  <head>THE TRIUMPH.</head>
+                  <head pn="26">THE TRIUMPH.</head>
                   <l>So perish all Thine enemies, O
 Jehovah!</l>
                   <l>But they that love Thee,</l>
                   <l>Are as the sun, when
 he goes forth in his might.</l>
                </lg>
-               <p>IV. SINGING, NATIONAL HYMN.-"My country, 'tis of thee." </p>
-               <p>V. PRAYER-BY REV. THOMAS H. STOCKTON, D.D.</p>
-               <p>VI. SINGING, THE
+               <p pn="26">IV. SINGING, NATIONAL HYMN.-"My country, 'tis of thee." </p>
+               <p pn="26">V. PRAYER-BY REV. THOMAS H. STOCKTON, D.D.</p>
+               <p pn="26">VI. SINGING, THE
 STAR-SPANGLED BANNER.</p>
-               <p>VII. ADDRESS-BY THE PASTOR.</p>
-               <p>VIII. SINGING, BATTLE-HYMN OF THE REPUBLIC.-"Mine eyes have seen
+               <p pn="26">VII. ADDRESS-BY THE PASTOR.</p>
+               <p pn="26">VIII. SINGING, BATTLE-HYMN OF THE REPUBLIC.-"Mine eyes have seen
 the glory of the coming of the Lord."</p>
                <lg type="stanza">
-                  <head> DOXOLOGY.</head>
+                  <head pn="26"> DOXOLOGY.</head>
                   <l>Praise God from whom all blessings flow,</l>
                   <l>Praise Him all creatures here below,</l>
                   <l>Praise Him above, ye heavenly host,</l>
                   <l>Praise Father, Son, and Holy Ghost.</l>
                </lg>
-               <p>IX. BENEDICTION-BY REV. J. NEWTON BROWN, D.D.</p>
+               <p pn="26">IX. BENEDICTION-BY REV. J. NEWTON BROWN, D.D.</p>
             </div2>
          </div1>
          <div1 id="boardman.004" n="Death, the Law of Life" type="text">
-            <head> 
+            <head pn="26"> 
                <bibl> 
                   <title>Death, the Law of Life</title> 
                   <date>April 16,
@@ -1129,20 +1129,20 @@ the glory of the coming of the Lord."</p>
                   <author>Boardman, Rev. George Dana</author> 
                   <imprint>
                      <pubPlace>Philadelphia</pubPlace>
-                     <publisher>Sherman &#x0026; Co.,
+                     <publisher>Sherman &amp; Co.,
 Printers</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
                <pb n="27"/>
-               <p>
+               <p pn="27">
                   <figure entity="boardman27">
                      <figDesc>1st page of Reverend George Dana Boardman's Death, the Law of Life</figDesc>
                   </figure>
                </p>
 <!--            <epigraph> -->
-               <p>"Man, thou Pendulum betwixt a Smile and Tear."</p>
+               <p pn="27">"Man, thou Pendulum betwixt a Smile and Tear."</p>
 <!--            </epigraph> -->
             <pb n="28"/>
 <!-- blank page -->
@@ -1154,26 +1154,26 @@ Life</figDesc>
                </figure>
             </p> -->
             <pb n="29"/>
-            <p>
+            <p pn="29">
                <figure entity="boardman29">
                   <figDesc>3rd page of Reverend George Dana Boardman's
 Death, the Law of Life</figDesc>
                </figure>
             </p>
-            <p>DEATH, THE LAW OF LIFE.</p>
-            <p>A DISCOURSE,</p>
-            <p>DELIVERED ON THE SUNDAY MORNING AFTER THE</p>
-            <p>MURDER OF
+            <p pn="29">DEATH, THE LAW OF LIFE.</p>
+            <p pn="29">A DISCOURSE,</p>
+            <p pn="29">DELIVERED ON THE SUNDAY MORNING AFTER THE</p>
+            <p pn="29">MURDER OF
 PRESIDENT LINCOLN,</p>
-            <p>IN THE METING HOUSE OF THE</p>
-            <p>FIRST BAPTIST CHURCH OF PHILADELPHIA,</p>
-            <p>April 16, 1865.</p>
-            <p>BY THE</p>
-            <p>REVEREND GEORGE DANA BOARDMAN,</p>
-            <p>PASTOR.</p>
-            <p>PHILADELPHIA:</p>
-            <p>SHERMAN &#x0026; CO., PRINTERS.</p>
-            <p>1865.</p>
+            <p pn="29">IN THE METING HOUSE OF THE</p>
+            <p pn="29">FIRST BAPTIST CHURCH OF PHILADELPHIA,</p>
+            <p pn="29">April 16, 1865.</p>
+            <p pn="29">BY THE</p>
+            <p pn="29">REVEREND GEORGE DANA BOARDMAN,</p>
+            <p pn="29">PASTOR.</p>
+            <p pn="29">PHILADELPHIA:</p>
+            <p pn="29">SHERMAN &amp; CO., PRINTERS.</p>
+            <p pn="29">1865.</p>
             <pb n="30"/>
 <!-- blank page -->
 <!--            <p>
@@ -1184,7 +1184,7 @@ Life</figDesc>
                </figure>
             </p> -->
             <pb n="31"/>
-            <p>
+            <p pn="31">
                <figure entity="boardman31">
                   <figDesc>5th page
 of Reverend George Dana Boardman's Death, the Law of
@@ -1192,8 +1192,8 @@ Life</figDesc>
                </figure>
             </p>
             <div2 id="boardman.005" n="DISCOURSE" type="sermon">
-               <head>DISCOURSE.</head>
-               <p>WHAT a day, or rather night, is this, my countrymen! How
+               <head pn="31">DISCOURSE.</head>
+               <p pn="31">WHAT a day, or rather night, is this, my countrymen! How
 intolerable the burden that crushes us! What! Abraham Lincoln dead?
 The idol of his countrymen, the true, the pure, the good, the loving,
 the heroic, the great-souled father of his people dead, murdered, gone
@@ -1210,7 +1210,7 @@ the soul to loftier and calmer heights. May the father of consolation
 help us while we ponder those words of the Redeemer, which are
 recorded in the twenty-fourth verse of the twelfth chapter of the
 Gospel according to St. John:</p>
-               <p>
+               <p pn="31">
                   <hi rend="italic">"Verily, verily,
 I say unto you: except a corn of wheat</hi>
                   <pb n="32"/>
@@ -1221,7 +1221,7 @@ George Dana Boardman's Death, the Law of Life</figDesc>
                   <hi rend="italic">fall into the ground and die, it abideth alone; but if
 it die, it bringeth forth much fruit."</hi>
                </p>
-               <p>I.  Thoughtless or dull must that man's spirit be which
+               <p pn="32">I.  Thoughtless or dull must that man's spirit be which
 does not feel a quickening influence in these spring days of
 vegetative activity. He need not visit some great farm, or forest, in
 order to be assured of the wonderful transformations going on in
@@ -1279,7 +1279,7 @@ throne,--the sepulchre,</l>
 foe</l>
                   <l>Makes his own nourishment.</l>
                </lg>
-               <p>II.  The like principle holds in the animal kingdom. The life of
+               <p pn="33">II.  The like principle holds in the animal kingdom. The life of
 the body depends on the destruction of its own material. No part of an
 organism or living mechanism can act without wearing away. Every
 action of the organism, whether in motion that is voluntary or
@@ -1288,26 +1288,26 @@ wasting away, the absolute loss and death of animal material. The
 processes of life are at the same time the processes of death. The
 condition, the law of physical life, is physical death.</p>
                <pb n="34"/>
-               <p>
+               <p pn="34">
                   <figure entity="boardman34">
                      <figDesc>8th page of
 Reverend George Dana Boardman's Death, the Law of
 Life</figDesc>
                   </figure>
                </p>
-               <p>This, then, is the grand law of life that prevails in the
+               <p pn="34">This, then, is the grand law of life that prevails in the
 physical world, whether vegetable or animal. Death must precede
 life. Death is the source, or, rather, the means of life. The death of
 the seed is the law of the harvest. "Verily, verily, I say unto you,
 except a kernel of wheat fall into the ground and die, it abideth
 alone; but if it die, it bringeth forth much fruit."</p>
-               <p>Now, this multiplication of the seed through its own death
+               <p pn="34">Now, this multiplication of the seed through its own death
 our Lord uses as a most significant parable and lesson. As in the
 physical world, so in the spiritual: <hi rend="italic">Death must
 precede Life.</hi> Growth comes through decay; glory through disgrace;
 joy through woe; peace through war; victory through defeat; life
 through death.</p>
-               <p>III.  Observe how this principle holds true of the Son of God
+               <p pn="34">III.  Observe how this principle holds true of the Son of God
 Himself. He could not, as <hi rend="italic">the Son of Man</hi>, become
 perfect except through suffering. In fact, this is the primary and
 very particular application of the parable of the kernel of wheat
@@ -1357,7 +1357,7 @@ George Dana Boardman's Death, the Law of Life</figDesc>
 Gentiles that sought His presence, the hour of His death was the hour
 of His life; the hour of His defeat in crucifixion the hour of His
 triumph in redemption.</p>
-               <p>IV. Observe, again, how this principle holds true of man in all the
+               <p pn="36">IV. Observe, again, how this principle holds true of man in all the
 deeper aspects of his nature. If the Captain of our salvation could
 not be made perfect except through suffering, how can He lead forth
 His many sons unto glory, unless they, too, tread in the same path of
@@ -1375,7 +1375,7 @@ world calls ignominy and defeat, before it can be quickened into the
 new life, and enter on the fruitions of a bright eternity. Glance now
 at some illustrations of this principle as applied to man's spiritual
 nature.</p>
-               <p>1.  Look, for instance, at the prime doctrine of
+               <p pn="36">1.  Look, for instance, at the prime doctrine of
 Regeneration. What, in fact, is the great mystery of the New Birth but
 the decease of the spirit,--the old man dying, that it may rise again
 the new man and the
@@ -1393,7 +1393,7 @@ and the depth of your penitence, and the agony of your spirit, that,
 in very truth, in being born again, in being quickened by the
 vitalizing energies of the Holy Ghost, you passed through what may
 indeed be called the pangs of dissolution.</p>
-               <p>2.  So, too, does our parable explain the meaning and the ministry
+               <p pn="37">2.  So, too, does our parable explain the meaning and the ministry
 of affliction. There must be a bruising of the spirit--a lacerating,
 tearing away of the tendrils that cling to earthly props--a blighting
 and decay of the fondest hopes and plans--an utter abasement of pride
@@ -1417,7 +1417,7 @@ endure trial and sorrow, and die years before your body reaches the
 grave; for it is the law of the spiritual harvest. No man can become
 spiritually great till he has spiritually died. The <hi rend="italic">only</hi> way to the heavenly crown is from the earthly
 cross.</p>
-               <p>V.  The same principle is applicable to nations. So far as mortal
+               <p pn="38">V.  The same principle is applicable to nations. So far as mortal
 penetration can go, God's universal method of governing is this:
 Growth through decay; victory through defeat; life through death. And
 nations are no exceptions. It is not possible that a nation should
@@ -1427,7 +1427,7 @@ establishment. There are no Christians like those who have been tried
 in the fires of affliction. And there are no nations which attain such
 true majesty of character as those which successfully burst through
 the avenues of disaster and spiritual, heartfelt dissolution.</p>
-               <p>Here, then, in this terrific war, in the desolations of our
+               <p pn="38">Here, then, in this terrific war, in the desolations of our
 homesteads, in the occasional disasters and humiliations of the
 battle-field, and specially in this crushing blow which fell on us
 yesterday morning, do I discover evidences of the Father's
@@ -1480,9 +1480,9 @@ them in paths that they have not known, hedging up their way with
 briers, making a wall that they should not find the paths, alluring
 them into the wilderness, that He may at last speak comfortably unto
 them, and open for them in the Valley of Achor a door of hope.</p>
-               <p>Glance, now, at some of the blessed fruits which the dying of the
+               <p pn="40">Glance, now, at some of the blessed fruits which the dying of the
 nation has already yielded.</p>
-               <p>1.  See, for instance, how the calamities of this war have tended
+               <p pn="40">1.  See, for instance, how the calamities of this war have tended
 to reveal us unto ourselves. Prosperity is a miserable school for
 self-knowledge. But adversity has a wonderful self-revealing
 power. The nation understands itself a great deal better than it did
@@ -1513,7 +1513,7 @@ one of the grand elements of real greatness. The self-revealing power
 of suffering is making us humbler, and, therefore, greater. For he
 that humbleth himself shall be exalted. Thus does the dying seed
 unfold into the golden harvest.</p>
-               <p>2.  Another blessed fruit of this desolating war, and specially of
+               <p pn="41">2.  Another blessed fruit of this desolating war, and specially of
 the awful tragedy which is ensanguining its final act, is, that it has
 thrown us out of the benumbing routine of stiffening habits and
 tendencies, thus limbering us afresh to the manifold purposes of
@@ -1545,7 +1545,7 @@ shadow of the globe we sweep into the younger day:</l>
                   <l>Better fifty
 years of Europe than a cycle of Cathay!</l>
                </lg>
-               <p>But aside from its being essential to progress, it is an admirable
+               <p pn="42">But aside from its being essential to progress, it is an admirable
 thing to have the national heart ever and anon profoundly stirred; for
 it is thus made sensitive to the quickening and plastic influences of
 the Spirit of God. Calamities tend to make the human spirit flexible,
@@ -1573,7 +1573,7 @@ national heart has been touched and laid bare by the finger of
 Almighty God, and the lacerated organism wil1 be sensitive to the
 Divine Breath. Brethren in Jesus! This is your hour with God! Be ye
 princes with Him, and prevail!</p>
-               <p>3.  Still another fruit of this devastating scourge, is the
+               <p pn="43">3.  Still another fruit of this devastating scourge, is the
 development of the nation's true nobility. Never does a man know the
 force or grandeur that is in him, till some mighty calamity or passion
 has revealed his soul. Viewed in this light, war, terrible scourge as
@@ -1604,7 +1604,7 @@ the grandest <hi rend="italic">human</hi> illustration the world has
 ever witnessed of that sublime principle which seems to pervade the
 universe, and which lies as the very corner-stone of Redemption,--<hi rend="italic">Vicarious Sacrifice!</hi>
                </p>
-               <p>4.  I have been speaking of the application of this principle, <hi rend="italic">life through death</hi>, to nations. Let me bring this
+               <p pn="44">4.  I have been speaking of the application of this principle, <hi rend="italic">life through death</hi>, to nations. Let me bring this
 point stil1 nearer home, even to these bleeding hearts of ours that as
 yet refuse to be comforted. The richly kerneled and tasselled stalk
 springs from the death of the solitary seed. Even so, the nation's
@@ -1633,7 +1633,7 @@ it seemed good in Thy sight!</p>
             </div2>
          </div1>
          <div1 id="boardman.006" n="An Address in Commemoration of Abraham Lincoln" type="text">
-            <head> 
+            <head pn="45"> 
                <bibl> 
                   <title>An Address in Commemoration of Abraham
 Lincoln</title> 
@@ -1644,7 +1644,7 @@ Church of Philadelphia</pubPlace>
 Boardman</author> 
                   <imprint>
                      <pubPlace>Philadelphia</pubPlace>
-                     <publisher>Sherman &#x0026; Co., Printers</publisher>
+                     <publisher>Sherman &amp; Co., Printers</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
@@ -1659,14 +1659,14 @@ Lincoln</figDesc>
                </figure>
             </p> -->
             <pb n="47"/>
-            <p>
+            <p pn="47">
                <figure entity="boardman47">
                   <figDesc>2nd page
 of Reverend George Dana Boardman's An Address in Commemoration of
 Abraham Lincoln</figDesc>
                </figure>
             </p>
-            <p>In Memoriam</p>
+            <p pn="47">In Memoriam</p>
             <pb n="48"/>
 <!-- blank page -->
 <!--            <p>
@@ -1677,28 +1677,28 @@ Abraham Lincoln</figDesc>
                </figure>
             </p> -->
             <pb n="49"/>
-            <p>
+            <p pn="49">
                <figure entity="boardman49">
                   <figDesc>4th page
 of Reverend George Dana Boardman's An Address in Commemoration of
 Abraham Lincoln</figDesc>
                </figure>
             </p>
-            <p>AN ADDRESS</p>
-            <p>IN COMMEMORATION OF</p>
-            <p>ABRAHAM LINCOLN,</p>
-            <p>PRESIDENT OF THE UNITED STATES,</p>
-            <p>DELIVERED IN THE MEETING-HOUSE</p>
-            <p>OF THE</p>
-            <p>FIRST BAPTIST CHURCH OF PHILADELPHIA,</p>
-            <p>ON THE DAY OF HIS FUNERAL AT THE NATIONAL CAPITAL,</p>
-            <p>APRIL 19, 1865.</p>
-            <p>BY THE</p>
-            <p>REVEREND GEORGE DANA BOARDMAN.</p>
-            <p>PASTOR.</p>
-            <p>PHILADELPHIA</p>
-            <p>SHERMAN &#x0026; CO., PRINTERS.</p>
-            <p>1865.</p>
+            <p pn="49">AN ADDRESS</p>
+            <p pn="49">IN COMMEMORATION OF</p>
+            <p pn="49">ABRAHAM LINCOLN,</p>
+            <p pn="49">PRESIDENT OF THE UNITED STATES,</p>
+            <p pn="49">DELIVERED IN THE MEETING-HOUSE</p>
+            <p pn="49">OF THE</p>
+            <p pn="49">FIRST BAPTIST CHURCH OF PHILADELPHIA,</p>
+            <p pn="49">ON THE DAY OF HIS FUNERAL AT THE NATIONAL CAPITAL,</p>
+            <p pn="49">APRIL 19, 1865.</p>
+            <p pn="49">BY THE</p>
+            <p pn="49">REVEREND GEORGE DANA BOARDMAN.</p>
+            <p pn="49">PASTOR.</p>
+            <p pn="49">PHILADELPHIA</p>
+            <p pn="49">SHERMAN &amp; CO., PRINTERS.</p>
+            <p pn="49">1865.</p>
             <pb n="50"/>
 <!-- blank page -->
 <!--            <p>
@@ -1709,7 +1709,7 @@ Abraham Lincoln</figDesc>
                </figure>
             </p> -->
             <pb n="51"/>
-            <p>
+            <p pn="51">
                <figure entity="boardman51">
                   <figDesc>6th page
 of Reverend George Dana Boardman's An Address in Commemoration of
@@ -1717,8 +1717,8 @@ Abraham Lincoln</figDesc>
                </figure>
             </p>
             <div2 id="boardman.007" n="ADDRESS" type="sermon">
-               <head>ADDRESS.</head>
-               <p>How different this scene, my countrymen, from that which was
+               <head pn="51">ADDRESS.</head>
+               <p pn="51">How different this scene, my countrymen, from that which was
 witnessed last Friday morning within these walls!<ref target="boardman.007.n01">*</ref> Then all was
 gladness and triumph and festal song and gay festoon. Now all is grief
 and apprehension and requiem and ebon drapery. Why this awful change?
@@ -1734,7 +1734,7 @@ every flagstaff and window and balcony and colonnade, from car and
 engine and steed, float the funereal emblems, fluttering like the ebon
 wings of countless death-birds? Why this darkness that has fallen on
 all the land, a darkness so thick that
-<note id="boardman.007.n01" n="*" place="foot" anchored="yes">This allusion is to the festive services in
+<note pn="51" id="boardman.007.n01" n="*" place="foot" anchored="yes">This allusion is to the festive services in
 commemoration of the re-establishment of the national flag at Fort
 Sumter, April 14.</note>
                   <pb n="52"/>
@@ -1753,7 +1753,7 @@ anguish, closing around and enshrouding in its celestial pall the
 mighty heart that lies so still and cold and dead. O God! help us to
 be strong to-day as we gaze on Abraham Lincoln lying dead on the
 nation's bier!</p>
-               <p>I cannot, stricken countrymen, speak long to you today. I trusted,
+               <p pn="52">I cannot, stricken countrymen, speak long to you today. I trusted,
 last Sunday, when I gave the announcement for this occasion, that, ere
 this, I should have regained sway over myself. But in preparing for
 this solemn hour I have felt the same indescribable stupefaction that
@@ -1781,7 +1781,7 @@ forest-dell, where I may breathe out a sorrow too sacred for
 words. All I can do is to bring the briefest tribute, and reverently
 lay it, amidst the dew of your tears, at the feet of the mighty
 dead.</p>
-               <p>Abraham Lincoln was born of respectable parentage in Kentucky,
+               <p pn="53">Abraham Lincoln was born of respectable parentage in Kentucky,
 February 12, 1809. In 1816, his parents removed to Indiana, where in
 their new home Abraham spent the next ten years in hard manual labor
 on his father's farm. The only school education which he ever received
@@ -1872,7 +1872,7 @@ and on the evening of that memorable day the kingliest man that ever
 breathed the air of the Western hemisphere was laid low by a bullet
 thrice accursed, for it was sped by an assassin, a traitor, and a
 slavery worshipper.</p>
-               <p>Such, in briefest terms, is an outline of the career of America's
+               <p pn="56">Such, in briefest terms, is an outline of the career of America's
 foremost son. What more can be said as we gather in tearful reverence
 around his bier? Without distinction of lineage, he gained a
 distinction which no lineage could give. Born among and as one of the
@@ -1900,7 +1900,7 @@ great than it really was, because lost in its perfect equipoise and
 rounded globe. But let us proceed with our attempt at delineation. The
 historian to be born a hundred years hence will, I judge, say of
 Abraham Lincoln something as follows.</p>
-               <p>He was not a man lustrously brilliant in any one direction. No one
+               <p pn="57">He was not a man lustrously brilliant in any one direction. No one
 faculty of brain markedly towered over another. But he was none the
 less great in that his greatness was so rounded, having less the
 transient dazzle of the meteor than the steady quiet sparkle of the
@@ -1926,7 +1926,7 @@ applauding verdict of the people. Guided thus by a system of well-nigh
 infallible instincts, by which he knew what he ought to do, and when
 to do it, and how to do it, he might well have taken as his own motto
 the heraldic bearing of the Earl of Buckinghamshire, <hi rend="italic">Nulla vestigia retrorsum</hi>.</p>
-               <p>But because the <corr resp="editor">intellect</corr> of the late
+               <p pn="58">But because the <corr resp="editor">intellect</corr> of the late
 President was intuitive rather than ratiocinative, it does not follow
 that he was not intellectually great; for as, according to the
 profounder theologians, the intuitive John was greater than the
@@ -1955,7 +1955,7 @@ is that it is his policy to have no policy, content with keeping his
 ship trim as he permits her to sweep downwards with the precipitous
 torrent. That eulogy the late President deserves beyond any ruler the
 world has seen.</p>
-               <p>And yet Mr. Lincoln was not wanting in executive force. Because he
+               <p pn="59">And yet Mr. Lincoln was not wanting in executive force. Because he
 made no pretensions to special firmness, and vaunted not his purposes,
 people at first imagined that he was irresolute. But as time rolled on
 we began to see that beneath that mild, unassuming exterior lay an
@@ -1973,14 +1973,14 @@ ostentation. Like a wire-bridge across a mountain gorge, he could sway
 to the softest zephyr, yet, like the same wire-bridge, the whirlwind
 could not uproot him.</p>
                <pb n="60"/>
-               <p>
+               <p pn="60">
                   <figure entity="boardman60">
                      <figDesc>15th page
 of Reverend George Dana Boardman's An Address in Commemoration of
 Abraham Lincoln</figDesc>
                   </figure>
                </p>
-               <p>Gifted with this intellectual judgment so instinctively infallible,
+               <p pn="60">Gifted with this intellectual judgment so instinctively infallible,
 and this gentle steadfastness of will, the late President blended with
 it a moral nature remarkably pure, keen, sensitive, and
 controlling. He was the very soul of integrity. It were as much as a
@@ -1995,7 +1995,7 @@ single heart, that knew not how to</p>
                   <l>With 'vantage to the gale of others'
 passions.</l>
                </lg>
-               <p>Conscious of personal integrity, self-reliant, constitutionally
+               <p pn="60">Conscious of personal integrity, self-reliant, constitutionally
 genial, having an abiding faith in the instinct and persistence of the
 people as a corporate whole, assured of the justice of the majestic
 cause, and having a deep confidence in the overruling and merciful
@@ -2063,7 +2063,7 @@ be thy Country's,</l>
 O Cromwell!</l>
                   <l>Thou fall'st a blessed martyr!</l>
                </lg>
-               <p>And <hi rend="italic">this</hi> is the man so augustly rich in the
+               <p pn="62">And <hi rend="italic">this</hi> is the man so augustly rich in the
 elements of an exalted manhood, who has suddenly been stricken down,
 not by an adventurous invader from a foreign soil, seeking to avenge
 his own nationality; not by a reckless highwayman, who must needs
@@ -2109,11 +2109,11 @@ dying, mention it within their wills,</l>
 legacy </l>
                   <l>Unto their issue.</l>
                </lg>
-               <p>Yes, it shall be said of the martyred President as was said three
+               <p pn="63">Yes, it shall be said of the martyred President as was said three
 thousand years ago of the grand old Hebrew judge and patriot, "The
 dead which he slew at his death were more than they which he slew in
 his life."</p>
-               <p>My countrymen! I have woven my garland, simple and unworthy as it
+               <p pn="63">My countrymen! I have woven my garland, simple and unworthy as it
 is, and hung it on the bier. It is
 <pb n="64"/>
                   <figure entity="boardman64">
@@ -2131,7 +2131,7 @@ God grant that as the nation's dead heart reverently touches to-day
 the dead heart of the great patriot, it may be quickened into life
 again, and stand before the astonished nations in all the strength and
 splendor of a new-born majesty!</p>
-               <p>Yes! move on in majestic state to thy Illinois tomb, amidst the
+               <p pn="64">Yes! move on in majestic state to thy Illinois tomb, amidst the
 bowing ranks of a weeping nation, thou illustrious martyr for us all!
 Thy dead, murdered corse is the watchword, and, with God's grace, the
 victor paean of an emancipated, chastened, glorified Republic!</p>

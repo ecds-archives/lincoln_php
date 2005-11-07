@@ -36,7 +36,7 @@ Sermons Project</title>
             <bibl>Simpson,
 Rev. Matthew. Funeral Address Delivered at the Burial of President
 Lincoln, at Springfield, Illinois, May 4, 1865. New York: Published by
-Carlton &#x0026; Porter, 200 Mulberry-Street. 1865.</bibl>
+Carlton &amp; Porter, 200 Mulberry-Street. 1865.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -79,7 +79,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="simpson.001" n="Funeral Address Delivered at the Burial of President Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>Funeral Address
 Delivered at the Burial of President Lincoln</title> 
@@ -90,34 +90,34 @@ Illinois</pubPlace>
                   <author>Simpson, Rev. Matthew</author> 
                   <imprint>
                      <pubPlace>New York</pubPlace>
-                     <publisher>Carlton &#x0026;
+                     <publisher>Carlton &amp;
 Porter</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="simpson1">
                   <figDesc>1st page of Rev. Matthew
 Simpson's Funeral Address Delivered at the Burial of President
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>FUNERAL ADDRESS</p>
-            <p>Delivered at the Burial of</p>
-            <p>PRESIDENT LINCOLN,</p>
-            <p>AT SPRINGFIELD, ILLINOIS,</p>
-            <p>MAY 4, 1865.</p>
-            <p>By REV. MATTHEW SIMPSON, D.D.,</p>
-            <p>ONE OF THE BISHOPS OF THE
+            <p pn="1">FUNERAL ADDRESS</p>
+            <p pn="1">Delivered at the Burial of</p>
+            <p pn="1">PRESIDENT LINCOLN,</p>
+            <p pn="1">AT SPRINGFIELD, ILLINOIS,</p>
+            <p pn="1">MAY 4, 1865.</p>
+            <p pn="1">By REV. MATTHEW SIMPSON, D.D.,</p>
+            <p pn="1">ONE OF THE BISHOPS OF THE
 METHODIST EPISCOPAL CHURCH.</p>
-            <p>New York:</p>
-            <p>PUBLISHED BY CARLTON &#x0026; PORTER,</p>
-            <p>200
+            <p pn="1">New York:</p>
+            <p pn="1">PUBLISHED BY CARLTON &amp; PORTER,</p>
+            <p pn="1">200
 MULBERRY-STREET.</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="simpson2">
                   <figDesc>2nd page of
 Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
@@ -125,7 +125,7 @@ President Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="simpson3">
                   <figDesc>3rd page of
 Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
@@ -133,10 +133,10 @@ President Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="simpson.002" n="FUNERAL ADDRESS" type="sermon">
-               <head>FUNERAL ADDRESS.</head>
-               <p>FELLOW-CITIZENS OF ILLINOIS, AND OF MANY PARTS OF  OUR ENTIRE
+               <head pn="3">FUNERAL ADDRESS.</head>
+               <p pn="3">FELLOW-CITIZENS OF ILLINOIS, AND OF MANY PARTS OF  OUR ENTIRE
 UNION:</p>
-               <p>Near the capitol of this large and growing State of Illinois, in
+               <p pn="3">Near the capitol of this large and growing State of Illinois, in
 the midst of this beautiful grove, and at the open mouth of the vault
 which has just received the remains of our fallen chieftain, we gather
 to pay a tribute of respect and to drop the tears of sorrow around the
@@ -165,7 +165,7 @@ Washington; and I believe he escaped only through the vigilance of
 officers and the prayers of the people, so that the blow was suspended
 for more than four years, which was at last permitted, through the
 providence of God, to fall.</p>
-               <p>How different the occasion which witnessed his departure
+               <p pn="4">How different the occasion which witnessed his departure
 from that which witnessed his return! Doubtless you expected to take
 him by the hand, and to feel the warm grasp which you had felt in
 other days, and to see the tall form walking among you which you had
@@ -205,7 +205,7 @@ of all religious creeds, have united in paying this mournful
 tribute. The archbishop of the Roman Catholic Church in New York and a
 Protestant minister walked side by side in the sad procession, and a
 Jewish rabbi performed a part of the solemn services.</p>
-               <p>Here are gathered around his tomb the representatives of
+               <p pn="5">Here are gathered around his tomb the representatives of
 the army and navy, senators, judges, governors, and officers of all
 the branches of the government. Here, too, are members of civic
 processions, with men and women from the humblest as well as the
@@ -224,7 +224,7 @@ Lincoln.</figDesc>
 looked on the procession for sixteen hundred miles, by night and by
 day, by sunlight, dawn, twilight, and by torchlight, than ever before
 watched the progress of a procession.</p>
-               <p>We ask why this wonderful mourning, this great procession?
+               <p pn="6">We ask why this wonderful mourning, this great procession?
 I answer, first, a part of the interest has arisen from the times in
 which we live, and in which he that has fallen was a principal
 actor. It is a principle of our nature that feelings once excited turn
@@ -266,7 +266,7 @@ representatives of the chivalry, and who claimed to be the honorable
 ones of the earth; and as we read the stories of frames attenuated and
 reduced to mere skeletons, our grief turned partly into horror and
 partly into a cry for vengeance.</p>
-               <p>Then this feeling was changed to one of joy. There came
+               <p pn="7">Then this feeling was changed to one of joy. There came
 signs of the end of this rebellion. We followed the career of our
 glorious generals. We saw our army, under the command of the brave
 officer who is guiding this procession, climb up the heights of
@@ -274,7 +274,7 @@ Lookout Mountain, and drive the rebels from their strongholds. Another
 brave general swept through Georgia, South and North Carolina, and
 drove the combined armies of the rebels before him, while the honored
 Lieutenant-General held Lee and his hosts in a death-grasp.</p>
-               <p>Then the tidings came that Richmond was evacuated, and that
+               <p pn="7">Then the tidings came that Richmond was evacuated, and that
 Lee had surrendered. The bells rang
 <pb n="8"/>
                   <figure entity="simpson8">
@@ -292,7 +292,7 @@ hands of an assassin. Then all the feelings which had been gathering
 for four years in forms of excitement, grief, horror, and joy, turned
 into one wail of woe, a sadness inexpressible, an anguish
 unutterable.</p>
-               <p>But it is not the times merely which caused this
+               <p pn="8">But it is not the times merely which caused this
 mourning. The mode of his death must be taken into the account. Had he
 died on a bed of illness, with kind friends around him; had the sweat
 of death been wiped from his brow by gentle hands, while he was yet
@@ -323,7 +323,7 @@ possible by the memory of our nation's loss; and so filled with grief
 was every Christian heart that even all the joyous thought of Easter
 Sunday failed to remove the crushing sorrow under which the true
 worshiper bowed in the house of God.</p>
-               <p>But the great cause of this mourning is to be found in the
+               <p pn="9">But the great cause of this mourning is to be found in the
 man himself. Mr. Lincoln was no ordinary man. I believe the conviction
 has been growing on the nation's mind, as it certainly has been on my
 own, especially in the last years of his administration, that by the
@@ -355,7 +355,7 @@ stem the current of the broad Mississippi. His home was in the growing
 West, the heart of the republic and, invigorated by the wind which
 swept over its prairies, he learned lessons of self-reliance which
 sustained him in seasons of adversity.</p>
-               <p>His genius was soon recognized, as true genius always will
+               <p pn="10">His genius was soon recognized, as true genius always will
 be, and he was placed in the legislature of his state. Already
 acquainted with the principles of law, he devoted his thoughts to
 matters of public interest, and began to be looked on as the coming
@@ -365,7 +365,7 @@ with but rare exceptions, the whole popular mind of his state was
 opposed to the measure. From that hour he was a steady and uniform
 friend of humanity, and was preparing for the conflict of later
 years.</p>
-               <p>If you ask me on what mental characteristic his greatness
+               <p pn="10">If you ask me on what mental characteristic his greatness
 rested, I answer, On a quick and ready perception of facts; on a
 memory, unusually tenacious and retentive; and on a logical turn of
 mind, which followed sternly and unwaveringly every link in the chain
@@ -383,7 +383,7 @@ logical power, the points which he desired to illustrate. He gained
 this power by the close study of geometry, and by a determination to
 perceive the truth in all its relations and simplicity, and when
 found, to utter it.</p>
-               <p>It is said of him that in childhood when he had any
+               <p pn="11">It is said of him that in childhood when he had any
 difficulty in listening to a conversation, to ascertain what people
 meant, if he retired to rest he could not sleep till he tried to
 understand the precise point intended, and when understood, to frame
@@ -394,7 +394,7 @@ opponents, is now recognized as one of the strong points of that
 mighty mind which has so powerfully influenced the destiny of this
 nation, and which shall, for ages to come, influence the destiny of
 humanity.</p>
-               <p>It was not, however, chiefly by his mental faculties that
+               <p pn="11">It was not, however, chiefly by his mental faculties that
 he gained such control over mankind. His moral power gave him
 pre-eminence. The convictions of men that Abraham Lincoln was an
 honest man led them to yield to his guidance. As has been said of
@@ -417,7 +417,7 @@ Union, if I can, with slavery; if not, slavery must perish, for the
 Union must be preserved," became the rallying word. Men felt the
 struggle was for the Union, and all other questions must be
 subsidiary.</p>
-               <p>But after all, by the acts of a man shall his fame be
+               <p pn="12">But after all, by the acts of a man shall his fame be
 perpetuated. What are his acts? Much praise is due to the men who
 aided him. He called able counselors around him, some of whom have
 displayed the highest order of talent united with the purest and most
@@ -426,7 +426,7 @@ have borne the sword as bravely as ever any human arm has borne it. He
 had the aid of prayerful and thoughtful men everywhere. But, under his
 own guiding hands, wise counsels were combined and great movements
 conducted.</p>
-               <p>Turn toward the different departments. We had an
+               <p pn="12">Turn toward the different departments. We had an
 unorganized militia, a mere skeleton army, yet, under his care, that
 army has been enlarged into a force which, for skill, intelligence,
 efficiency, and bravery, surpasses any which the world had ever
@@ -448,7 +448,7 @@ of them felt that the battles they won were for humanity everywhere,
 and for all time; for I believe that God has not suffered this
 terrible rebellion to come upon our land merely for a chastisement to
 us, or as a lesson to our age.</p>
-               <p>There are moments which involve in themselves
+               <p pn="13">There are moments which involve in themselves
 eternities. There are instants which seem to contain germs which shall
 develop and bloom forever. Such a moment came in the tide of time to
 our land, when a question must be settled which affected all the
@@ -460,7 +460,7 @@ class-rule of any kind. This is the great question for which we have
 been fighting, and its decision is at hand, and the result of the
 contest will affect the ages to come. If successful, republics will
 spread, in spite of monarchs, all over this earth.</p>
-               <p>I turn from the army to the navy. What was it when the war
+               <p pn="13">I turn from the army to the navy. What was it when the war
 commenced? Now we have our ships-of-war at home and abroad, to guard
 privateers in foreign sympathizing ports, as well as to care for
 <pb n="14"/>
@@ -475,7 +475,7 @@ the world's history, lashed himself to the mast, there to remain as
 long as he had a particle of skill or strength to watch over his ship,
 while it engaged in the perilous contest of taking the strong forts of
 the rebels.</p>
-               <p>Then again I turn to the treasury department. Where should
+               <p pn="14">Then again I turn to the treasury department. Where should
 the money come from? Wise men predicted ruin, but our national credit
 has been maintained, and our currency is safer to-day than it ever was
 before. Not only so, but through our national bonds, if properly used,
@@ -483,7 +483,7 @@ we shall have a permanent basis for our currency, and an investment so
 desirable for capitalists of other nations that, under the laws of
 trade, I believe the center of exchange will speedily be transferred
 from England to the United States.</p>
-               <p>But the great act of the mighty chieftain, on which his
+               <p pn="14">But the great act of the mighty chieftain, on which his
 fame shall rest long after his frame shall moulder away, is that of
 giving freedom to a race. We have all been taught to revere the sacred
 characters. Among them Moses stands pre-eminently high. He received
@@ -507,7 +507,7 @@ everywhere, this act shall still be conspicuous on the pages of
 history. We are thankful that God gave to Abraham Lincoln the decision
 and wisdom and grace to issue that proclamation, which stands high
 above all other papers which have been penned by uninspired men.</p>
-               <p>Abraham Lincoln was a good man. He was known as an honest,
+               <p pn="15">Abraham Lincoln was a good man. He was known as an honest,
 temperate, forgiving man; a just man; a man of noble heart in every
 way. As to his religious experience, I cannot speak definitely,
 because I was not privileged to know much of his private
@@ -537,7 +537,7 @@ destruction. This morning we read a proclamation offering $25,000 for
 the arrest of these men as aiders and abettors of his assassination;
 so that, in his expiring acts, he was saying, "Father, forgive them,
 they know not what they do."</p>
-               <p>As a ruler I doubt if any president has ever shown such
+               <p pn="16">As a ruler I doubt if any president has ever shown such
 trust in God, or in public documents so frequently referred to Divine
 aid. Often did he remark to friends and to delegations that his hope
 for our success rested in his conviction that God would bless our
@@ -549,7 +549,7 @@ the Lord was on our side or not "For," he added, "I know the Lord is
 always on the side of right;" and with deep feeling added, "But God is
 my witness that it is my constant anxiety and prayer that both myself
 and this nation should be on the Lord's side."</p>
-               <p>In his domestic life he was exceedingly kind and
+               <p pn="16">In his domestic life he was exceedingly kind and
 affectionate. He was a devoted husband and father. During his
 presidential term he lost his second son, Willie. To an officer of the
 army he said, not long since, "Do you ever find yourself talking with
@@ -566,7 +566,7 @@ only invoke the blessing of Almighty God that she may be comforted and
 sustained. For his son, who has witnessed the exercises of this hour,
 all that I can desire is that the mantle of his father may fall upon
 him.</p>
-               <p>Let us pause a moment in the lesson of the hour before we
+               <p pn="17">Let us pause a moment in the lesson of the hour before we
 part. This man, though he fell by an assassin, still fell under the
 permissive hand of God. He had some wise purpose in allowing him so to
 fall. What more could he have desired of life for himself? Were not
@@ -578,7 +578,7 @@ of the fall of Richmond, and asked what nation would join him to
 protect him against our government under the guidance of such a
 man. His fame was full, his work was done, and he sealed his glory by
 becoming the nation's great martyr for liberty.</p>
-               <p>He appears to have had a strange presentiment, early in
+               <p pn="17">He appears to have had a strange presentiment, early in
 political life, that some day he would be president. You see it
 indicated in 1839. Of the slave power he said, "Broken by it I too may
 be; bow to it I never will. The probability that we may fail in the
@@ -606,7 +606,7 @@ work for which God had sent him, angels, I trust, were sent to shield
 him from one moment of pain or suffering, and to bear him from this
 world to the high and glorious realm where the patriot and the good
 shall live forever.</p>
-               <p>His career teaches young men that every position of
+               <p pn="18">His career teaches young men that every position of
 eminence is open before the diligent and the worthy. To the active men
 of the country his example is an incentive to trust in God and do
 right. To the ambitious there is this fearful lesson: Of the four
@@ -615,7 +615,7 @@ Lincoln--once competitors, but now sleeping patriots, rest from their
 labors; Bell abandoned to perish in poverty and misery, as a traitor
 might perish; and Breckinridge is a frightened fugitive, with the
 brand of traitor on his brow.</p>
-               <p>Standing, as, we do to-day, by his coffin and his
+               <p pn="18">Standing, as, we do to-day, by his coffin and his
 sepulcher, let us resolve to carry forward the policy which he so
 nobly begun. Let us do right to all
 <pb n="19"/>
@@ -632,7 +632,7 @@ state before Mr. Lincoln's career was ended! How singular that, to the
 fact of the assassin's heels being caught in the folds of the flag, we
 are probably indebted for his capture. The flag and the traitor must
 ever be enemies.</p>
-               <p>Traitors will probably suffer by the change of rulers, for
+               <p pn="19">Traitors will probably suffer by the change of rulers, for
 one of sterner mould, and who himself has deeply suffered from the
 rebellion, now wields the sword of justice. Our country, too, is
 stronger for the trial. A republic was declared by monarchists too
@@ -650,14 +650,14 @@ forms, occupied his chair, and the government moved forward without
 one single jar. The world will learn that republics are the strongest
 governments on earth.</p>
                <pb n="20"/>
-               <p>
+               <p pn="20">
                   <figure entity="simpson20">
                      <figDesc>20th page of
 Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
 President Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>And now, my friends, in the words of the departed, "with
+               <p pn="20">And now, my friends, in the words of the departed, "with
 malice toward none," free from all feelings of personal vengeance, yet
 believing that the sword must not be borne in vain, let us go forward
 even in painful duty. Let every man who was a senator or
@@ -678,7 +678,7 @@ be no safety for rebel leaders. But to the deluded masses we will
 extend the arms of forgiveness. We will take them to our hearts, and
 walk with them side by side, as we go forward to work out a glorious
 destiny.</p>
-               <p>The time will come when, in the beautiful words of him
+               <p pn="20">The time will come when, in the beautiful words of him
 whose lips are now forever sealed, "The mystic cords of memory,
 stretching from every battlefield and patriot grave to every living
 heart and hearthstone all over this broad land, will yet swell
@@ -690,7 +690,7 @@ President Lincoln.</figDesc>
                   </figure>
 the chorus of the Union, when again touched, as surely they will be,
 by the better angels of our nature."</p>
-               <p>Chieftain, farewell! The nation mourns thee. Mothers shall
+               <p pn="21">Chieftain, farewell! The nation mourns thee. Mothers shall
 teach thy name to their lisping children. The youth of our land shall
 emulate thy virtues. Statesmen shall study thy record and learn
 lessons of wisdom. Mute though thy lips be, yet they still

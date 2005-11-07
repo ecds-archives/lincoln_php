@@ -73,7 +73,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="dix.001" n="The Death of President Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>The Death of
 President Lincoln</title> 
@@ -89,27 +89,27 @@ Press</publisher>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="dix1">
                   <figDesc>1st page of Rev. Morgan Dix's The
 Death of President Lincoln.</figDesc>
                </figure>
             </p>
-            <p>The Death of President Lincoln.</p>
-            <p>A SERMON</p>
-            <p>PREACHED IN SAINT PAUL'S CHAPEL, NEW YORK, ON</p>
-            <p>WEDNESDAY,
+            <p pn="1">The Death of President Lincoln.</p>
+            <p pn="1">A SERMON</p>
+            <p pn="1">PREACHED IN SAINT PAUL'S CHAPEL, NEW YORK, ON</p>
+            <p pn="1">WEDNESDAY,
 APRIL 19, 1865.</p>
-            <p>BY THE</p>
-            <p>REVD. MORGAN DIX, S.T.D.,</p>
-            <p>RECTOR OF TRINITY
+            <p pn="1">BY THE</p>
+            <p pn="1">REVD. MORGAN DIX, S.T.D.,</p>
+            <p pn="1">RECTOR OF TRINITY
 CHURCH.</p>
-            <p>PRINTED BY ORDER OF THE VESTRY.</p>
-            <p>CAMBRIDGE:</p>
-            <p>PRINTED AT THE RIVERSIDE PRESS.</p>
-            <p>1865.</p>
+            <p pn="1">PRINTED BY ORDER OF THE VESTRY.</p>
+            <p pn="1">CAMBRIDGE:</p>
+            <p pn="1">PRINTED AT THE RIVERSIDE PRESS.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="dix2">
                   <figDesc>2nd page of
 Rev. Morgan Dix's The Death of President
@@ -117,20 +117,20 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="dix3">
                   <figDesc>3rd page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>RESOLUTIONS</p>
-            <p>ADOPTED BY THE VESTRY OF TRINITY CHURCH.</p>
-            <p>UPON receiving the news of the assassination of the
+            <p pn="3">RESOLUTIONS</p>
+            <p pn="3">ADOPTED BY THE VESTRY OF TRINITY CHURCH.</p>
+            <p pn="3">UPON receiving the news of the assassination of the
 President, the Vestry assembled, on the call of the Rector of the
 Parish, at 3 o'clock, P. M., on Saturday, April 15th, and adopted,
 unanimously, the following preamble and resolutions:-</p>
-            <p>WHEREAS, on the evening of the 14th day of April, 1865,
+            <p pn="3">WHEREAS, on the evening of the 14th day of April, 1865,
 being Good Friday, by an assassin as yet unknown, the venerated and
 beloved President of the United States, Abraham Lincoln, was suddenly
 assaulted and slain; and whereas the announcement of that appalling
@@ -139,28 +139,28 @@ grief, astonishment, and indignation which cannot be described; and
 whereas this Vestry has been called together by the Rector, to take
 such action as in their judgment may seem fit and becoming;
 therefore,-</p>
-            <p>
+            <p pn="3">
                <hi rend="italic">Resolved</hi>, That this Vestry, as sharers
 in the common distress and affliction, unite in the public lamentation
 over the untimely death of the honored Chief Magistrate of the Union,
 and shocked beyond measure at the intelligence which has just been
 received, remain without words adequate to express their sorrow.</p>
-            <p>
+            <p pn="3">
                <hi rend="italic">Resolved</hi>, That we recognize in this
 calamitous event one of those visitations, permitted by Almighty God,
 before which</p>
             <pb n="4"/>
-            <p>
+            <p pn="4">
                <figure entity="dix4">
                   <figDesc>4th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>RESOLUTIONS.</p>
-            <p>a nation can but bow in silence and awe, with the prayer that they
+            <p pn="4">RESOLUTIONS.</p>
+            <p pn="4">a nation can but bow in silence and awe, with the prayer that they
 may be overruled for the good of our country.</p>
-            <p>
+            <p pn="4">
                <hi rend="italic">Resolved</hi>, That while we regard the act
 by which our beloved country has thus been, through indescribable
 malice and fury, plunged into the deepest addiction, as one of those
@@ -176,7 +176,7 @@ essential character had previously been manifested in the July riots
 in this city, in 1863, in the attempt to destroy this city by
 incendiarism, in November last, and in the systematic outrages
 inflicted on our captured soldiers in the prisons of the South.</p>
-            <p>
+            <p pn="4">
                <hi rend="italic">Resolved</hi>, That this Vestry hereby
 record their tribute of respect to the memory of the late President
 with profound sorrow for his loss, recognizing in him a singleness of
@@ -189,34 +189,34 @@ culminated in the triumph of the national authority and the evident
 approach of the blessings of peace, we see the completion of a career
 which the nation will ever look back to with thankfulness, and hold in
 affectionate and tender remembrance.</p>
-            <p>
+            <p pn="4">
                <hi rend="italic">Resolved</hi>, That the Rector be requested
 to take order that the churches of this parish be draped in mourning,
 in token of our sympathy with the distress and anguish which have been
 caused throughout the length and breadth of the land</p>
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="dix5">
                   <figDesc>5th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>RESOLUTIONS.</p>
-            <p>by the murder of our venerated and beloved Chief Magistrate.</p>
-            <p>
+            <p pn="5">RESOLUTIONS.</p>
+            <p pn="5">by the murder of our venerated and beloved Chief Magistrate.</p>
+            <p pn="5">
                <hi rend="italic">Resolved</hi>, That the Rector be
 authorized to give such publication to the above Resolutions as he may
 deem expedient; also <hi rend="italic">Resolved</hi>, That an attested
 copy of the same be sent to the family of the deceased, and to the
 Department of State at Washington.</p>
-            <p>On Wednesday, April 19th, 1865, in compliance with the
+            <p pn="5">On Wednesday, April 19th, 1865, in compliance with the
 recommendation of the National Government, funeral solemnities were
 held, at 12 o'clock meridian, throughout the United States, in honor
 of the late President. The following Sermon was preached in St. Paul's
 Chapel on that occasion.</p>
             <pb n="6"/>
-            <p>
+            <p pn="6">
                <figure entity="dix6">
                   <figDesc>6th page of
 Rev. Morgan Dix's The Death of President
@@ -224,15 +224,15 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="dix.002" n="SERMON" type="sermon">
-               <head>SERMON.</head>
-               <epigraph>
-                  <p>"He that ruleth over men must be just, ruling in the fear
+               <head pn="6">SERMON.</head>
+               <epigraph pn="6">
+                  <p pn="6">"He that ruleth over men must be just, ruling in the fear
 of God. And he shall be as the light of the morning, when the sun
 riseth, even a morning without clouds; as the tender grass springing
 out of the earth by clear shining after rain."-2 SAMUEL xxiii. 3,
 4.</p>
                </epigraph>
-               <p>THESE were the last words of David. He spake them as he saw
+               <p pn="6">THESE were the last words of David. He spake them as he saw
 the time drawing near when he must go the way of all the earth; they
 were the last song of the Psalmist. Each man knows best the law of his
 own profession; he, as a ruler, knew what a ruler ought to be, and
@@ -241,7 +241,7 @@ his own performances he left his Lord to utter; but the general law by
 which he ought to have guided his course, he was moved so to state and
 express in the moment in which the rod of empire was about to be taken
 from his relaxing hand.</p>
-               <p>Those words of David, the ancient king, may be most aptly
+               <p pn="6">Those words of David, the ancient king, may be most aptly
 used as proper to a description of the dead President. We assemble
 to-day on an occasion without a precedent in our past history. There
 has been, on this side of the world, no sorrow like our sorrow, so far
@@ -249,15 +249,15 @@ as we can read back the history of the men who have dwelt
 here. Regarded in its cause and in its manner of manifestation, it
 stands beyond</p>
                <pb n="7"/>
-               <p>
+               <p pn="7">
                   <figure entity="dix7">
                      <figDesc>7th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON.</p>
-               <p>comparison in its awful grandeur. By that act, to which the sober
+               <p pn="7">SERMON.</p>
+               <p pn="7">comparison in its awful grandeur. By that act, to which the sober
 judgment of mankind has awarded the crown in degrees of atrocious
 crime; by that deed, of which language fails to paint the infamy; by
 that sin, against which Christian civilization cries out as involving
@@ -274,7 +274,7 @@ be personal to himself. There is a great cry throughout the land; it
 seems as though there was not a house where there is not one
 dead. Some few words would I reverently speak at this hour, when,
 perhaps, a solemn silence might better suit the occasion.</p>
-               <p>And first, of him who has been wrested from us by the
+               <p pn="7">And first, of him who has been wrested from us by the
 murderer's hand. That sanguinary fiend, that nocturnal demon of the
 darkness of this world, thought to have done him a harm when he lifted
 up the weapon against his life. How short-sighted are the calculations
@@ -283,15 +283,15 @@ immortalizing of the venerated and beloved victim. When or where, at
 any time, in any age, has a man gone to his grave as this ruler of the
 land is going to his, this</p>
                <pb n="8"/>
-               <p>
+               <p pn="8">
                   <figure entity="dix8">
                      <figDesc>8th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON.</p>
-               <p>hour? Who ever saw or dreamed of a manifestation of sorrow, of
+               <p pn="8">SERMON.</p>
+               <p pn="8">hour? Who ever saw or dreamed of a manifestation of sorrow, of
 anguish, of interest, of devotion to one human being like that which
 this hour is revealing? Unforced, unasked, the result of no national
 edict, of no proclamation by authority, it is the simple, unaffected,
@@ -316,15 +316,15 @@ brutal passion inflicted, so will the American people, to their
 remotest generations, speak tenderly and reverently of that good, that
 honest, that kindly-hearted man, their sixteenth President.</p>
                <pb n="9"/>
-               <p>
+               <p pn="9">
                   <figure entity="dix9">
                      <figDesc>9th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON.</p>
-               <p>"He that ruleth over man must be just, ruling in the fear of God."
+               <p pn="9">SERMON.</p>
+               <p pn="9">"He that ruleth over man must be just, ruling in the fear of God."
 How fairly do these words describe him. Who was just, if he was not?
 or who, if we may read the man's inmost heart from his words, did ever
 rule more conscientiously in the fear of God? Honesty and his name
@@ -349,15 +349,15 @@ much he could safely give them back of that which they had forfeited,
 who would, I think, have pardoned, if it came to the last, even the
 chief man of the insur-</p>
                <pb n="10"/>
-               <p>
+               <p pn="10">
                   <figure entity="dix10">
                      <figDesc>10th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON.</p>
-               <p>gents; who would have had the blood of no one on his hands; and
+               <p pn="10">SERMON.</p>
+               <p pn="10">gents; who would have had the blood of no one on his hands; and
 who, if he knew in those last hours what had happened to him, and who
 had done it, would, I verily believe, have prayed for his murderer,
 and been ready to do what no one else can do--forgive him. Oh, if
@@ -367,7 +367,7 @@ friendly man, let it be named, that we may see in the scale of
 wickedness one degree below any yet known! The people know of nothing
 worse, and, therefore, is he lamented as none was ever lamented for by
 them unto this day.</p>
-               <p>Whither can the assassin fly? Whither, that the justice of
+               <p pn="10">Whither can the assassin fly? Whither, that the justice of
 Heaven shall not fell him? Whither, that the arm of the government
 cannot lay hold of him? This is a case in which there need be no
 impatience, no hurry. The retribution may be deferred; but it will
@@ -383,17 +383,17 @@ do it sooner. There is small consolation in the thought; the evil
 cannot be repaired. But that man owes a debt to the nation, and sooner
 or later the hour of</p>
                <pb n="11"/>
-               <p>
+               <p pn="11">
                   <figure entity="dix11">
                      <figDesc>11th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON.</p>
-               <p>its payment wil1 come. Meanwhile we have but to be patient and
+               <p pn="11">SERMON.</p>
+               <p pn="11">its payment wil1 come. Meanwhile we have but to be patient and
 follow.</p>
-               <p>Among the thoughts which come upon the mind at such a
+               <p pn="11">Among the thoughts which come upon the mind at such a
 moment as this, is one of which I will briefly and dispassionately
 speak. One consequence of this ghastly crime will be, and is already,
 that an entire population is put on trial before the bar of the
@@ -417,15 +417,15 @@ nations, assassination is held to be a crime--an act which no
 circumstances can excuse. That was not the Pagan view. The change in
 opinion on this point has come with the</p>
                <pb n="12"/>
-               <p>
+               <p pn="12">
                   <figure entity="dix12">
                      <figDesc>12th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON.</p>
-               <p>acceptance of the teachings of Jesus Christ, and with the spread of
+               <p pn="12">SERMON.</p>
+               <p pn="12">acceptance of the teachings of Jesus Christ, and with the spread of
 His religion through the world. To defend assassination is no more
 possible in this age than to defend suicide; no more possible on
 Christian principles; it is classed among those frightful enormities
@@ -450,15 +450,15 @@ must speak, and the whole world wil1 listen to every word they
 utter. He who invaded the family circle of the President and did him
 to death; he who, with a dastardly cowardice which</p>
                <pb n="13"/>
-               <p>
+               <p pn="13">
                   <figure entity="dix13">
                      <figDesc>13th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON.</p>
-               <p>must simply be pronounced immense, entered the chamber of that sick
+               <p pn="13">SERMON.</p>
+               <p pn="13">must simply be pronounced immense, entered the chamber of that sick
 and helpless man, the Secretary of State, and stabbed him in his
 bed,--these wretches knew not all that they did; for among the results
 of those ferocious actions was this,--that they have arraigned the
@@ -483,15 +483,15 @@ will be those of honorable, though, as we deem, mistaken, men, and not
 the poisoned chalice, the midnight torch, the secret dagger, the
 muffled pistol. Then might good come even of this awful catas-</p>
                <pb n="14"/>
-               <p>
+               <p pn="14">
                   <figure entity="dix14">
                      <figDesc>14th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON.</p>
-               <p>trophe. We, loving the dead as we do, they, horrorstricken at his
+               <p pn="14">SERMON.</p>
+               <p pn="14">trophe. We, loving the dead as we do, they, horrorstricken at his
 murder, might yet join hands over his bloody grave, and ask
 forgiveness of God and of each other in whatsoever, all through these
 years, we have done amiss. Would to God it might be so; the blood of
@@ -516,15 +516,15 @@ the sick, the defenceless, a demigod? Is it a work of this age? or is
 it a thing of the past? Is it a system which rests on Gospel
 principles and Christian ideas? or is it a remnant</p>
                <pb n="15"/>
-               <p>
+               <p pn="15">
                   <figure entity="dix15">
                      <figDesc>15th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMON</p>
-               <p>of hard old Roman Paganism and an ally and friend of the Thugs? And
+               <p pn="15">SERMON</p>
+               <p pn="15">of hard old Roman Paganism and an ally and friend of the Thugs? And
 can there be peace while any vestige remains of those peculiarities,
 whatever they may be, which make that system what it is, and, under
 it, debase and distort those people from the very form of man?"
@@ -536,7 +536,7 @@ be so, then, indeed, will it seem as if all hope were at an end--as if
 all that has been said were just--as if the charges hitherto made had
 not been rash; and, so far as defence of that community is regarded,
 impartial lips must be silent henceforth.</p>
-               <p>A few words in conclusion. I return to my subject, to him
+               <p pn="15">A few words in conclusion. I return to my subject, to him
 whose memory we honor today, for whom we make loud and bitter
 lamentation. But he is beyond the reach of our cry; he is not,
 however, beyond that of our praise. His name is with us--in our
@@ -550,15 +550,15 @@ the fetters of slavery an entire race of human beings. Let the
 historian write of all these things in his account of that remarkable
 man. Let me rather repeat the</p>
                <pb n="16"/>
-               <p>
+               <p pn="16">
                   <figure entity="dix16">
                      <figDesc>16th page of
 Rev. Morgan Dix's The Death of President
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>SERMONS</p>
-               <p>words of King David, spoken concerning the just ruler that ruleth
+               <p pn="16">SERMONS</p>
+               <p pn="16">words of King David, spoken concerning the just ruler that ruleth
 in the fear of God:--For "he shall be as the light of the morning when
 the sun riseth, even a morning without clouds; as the tender grass
 springing out of the earth by clear shining after rain." To him, with

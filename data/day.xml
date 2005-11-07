@@ -39,7 +39,7 @@ Sermons Project</title>
             <bibl> Day, P. D. A
 Memorial Discourse on the Character of Abraham Lincoln, President of
 the United States, Delivered at Hollis, N. H., on the Day of the
-National Fast, June 1, 1865.  Concord: McFarland &#x0026; Jenks.  1865.</bibl>
+National Fast, June 1, 1865.  Concord: McFarland &amp; Jenks.  1865.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -76,7 +76,7 @@ compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="day.001" n="A Memorial Discourse on the Character of Abraham Lincoln" type="text">
-            <head>
+            <head pn="1">
                <bibl> 
                   <title>A Memorial Discourse on the Character of Abraham
 Lincoln</title> 
@@ -86,52 +86,52 @@ N. H.</pubPlace>
                   <author>Day, P. D.</author> 
                   <imprint>
                      <pubPlace>Concord</pubPlace>
-                     <publisher>McFarland &#x0026;
+                     <publisher>McFarland &amp;
 Jenks</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="day1">
                   <figDesc>1st page of P. D. Day's A Memorial
 Discourse on the Character of Abraham Lincoln </figDesc>
                </figure>
             </p>
-            <p>A</p>
-            <p>MEMORIAL DISCOURSE</p>
-            <p>ON THE</p>
-            <p>CHARACTER</p>
-            <p>OF</p>
-            <p>ABRAHAM LINCOLN,</p>
-            <p>PRESIDENT OF THE UNITED STATES,</p>
-            <p>DELIVERED AT HOLLIS, N. H.,</p>
-            <p>ON THE DAY OF THE NATIONAL FAST, JUNE 1, 1865.</p>
-            <p>BY</p>
-            <p>P. B. D AY,</p>
-            <p>PASTOR OF THE CONGREGATIONAL
+            <p pn="1">A</p>
+            <p pn="1">MEMORIAL DISCOURSE</p>
+            <p pn="1">ON THE</p>
+            <p pn="1">CHARACTER</p>
+            <p pn="1">OF</p>
+            <p pn="1">ABRAHAM LINCOLN,</p>
+            <p pn="1">PRESIDENT OF THE UNITED STATES,</p>
+            <p pn="1">DELIVERED AT HOLLIS, N. H.,</p>
+            <p pn="1">ON THE DAY OF THE NATIONAL FAST, JUNE 1, 1865.</p>
+            <p pn="1">BY</p>
+            <p pn="1">P. B. D AY,</p>
+            <p pn="1">PASTOR OF THE CONGREGATIONAL
 CHURCH.</p>
-            <p>PUBLISHED BY REQUEST.</p>
-            <p>CONCORD:</p>
-            <p>PRINTLD BY McFARLAND &#x0026; JENKS.</p>
-            <p>1865.</p>
+            <p pn="1">PUBLISHED BY REQUEST.</p>
+            <p pn="1">CONCORD:</p>
+            <p pn="1">PRINTLD BY McFARLAND &amp; JENKS.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="day2">
                   <figDesc>2nd page of
 P. D. Day's A Memorial Discourse on the Character of Abraham Lincoln</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="day3">
                   <figDesc>3rd page of
 P. D. Day's A Memorial Discourse on the Character of Abraham Lincoln</figDesc>
                </figure>
             </p>
             <div2 id="day.002" n="DISCOURSE" type="sermon">
-               <head>DISCOURSE.</head>
-               <p>WE are here to-day, my friends, at the request of the
+               <head pn="3">DISCOURSE.</head>
+               <p pn="3">WE are here to-day, my friends, at the request of the
 highest authority of our land, to unite with the great mass of our
 countrymen in the memorial services of our late lamented and endeared
 President. The mysterious events of a wise Providence have taken from
@@ -140,7 +140,7 @@ cruel and ruthless hand has smitten him down, and bathed us all in
 tears. We have come to mingle our sorrows; to dwell upon his virtues,
 and to learn such lessons as his untimely death is calculated to
 teach.</p>
-               <p>Never, since time began, has the departure of one man filled so
+               <p pn="3">Never, since time began, has the departure of one man filled so
 many hearts with sadness, and never have so many gathered, on one
 occasion of mourning, as will be gathered this day. The cruel manner
 of our President's death; the critical period of public affairs in
@@ -158,16 +158,16 @@ Memorial Discourse on the Character of Abraham Lincoln</figDesc>
 and all the enlightened world pause to sigh, and to utter their
 grief. The very Goddess of Liberty comes to the bier of her martyred
 chief, with folding robes, to weep.</p>
-               <p>That my remarks may take the form of a religious discourse,
+               <p pn="4">That my remarks may take the form of a religious discourse,
 they will be based upon--</p>
-               <p>II. SAMUEL 3: 32, 38.</p>
-               <p>
-                  <q direct="unspecified">"AND THE
+               <p pn="4">II. SAMUEL 3: 32, 38.</p>
+               <p pn="4">
+                  <q pn="4" direct="unspecified">"AND THE
 KING LIFTED UP HIS VOICE AND WEPT AT THE GRAVE OF ABNER, AND ALL THE
 PEOPLE WEPT....AND THE KING SAID UNTO HIS SERVANTS, KNOW YE NOT THAT
 THERE IS A PRINCE AND GREAT MAN FALLEN IN ISRAEL THIS DAY."</q>
                </p>
-               <p>There were <hi rend="italic">two</hi> things which made the
+               <p pn="4">There were <hi rend="italic">two</hi> things which made the
 death of Abner such an afflictive event among the Jews. <hi rend="italic">One</hi> was the <hi rend="italic">manner</hi> by which he
 came to his end. He was invited aside, to hold a friendly interview,
 by one of equal rank with himself, and there, while enjoying, as he
@@ -177,7 +177,7 @@ friends and foes, and all alike bewailed the event. David would have
 put to death the assassin, as he did those of Saul and Mephibosheth,
 but he found the sons of Zeruiah too hard for him, and he left the
 punishment to Solomon, who executed his father's command.</p>
-               <p>The other consideration which enhanced the grief of the
+               <p pn="4">The other consideration which enhanced the grief of the
 Jews was the fact that a man of <hi rend="italic">great worth</hi> had
 fallen. Precisely in what Abner's greatness consisted, his brief
 biography does not inform us, but certain it is he was a man
@@ -189,7 +189,7 @@ Memorial Discourse on the Character of Abraham Lincoln</figDesc>
                   </figure>
 virtues. It was the combination of these two circumstances that threw
 the whole Jewish people into such depths of sorrow.</p>
-               <p>It is these two considerations that have pierced so deeply
+               <p pn="5">It is these two considerations that have pierced so deeply
 the heart of this great nation, in the death of ABRAHAM LINCOLN. He
 had led this people through the most trying period that a people ever
 passed. He took the helm of state at a time when the storm was
@@ -211,7 +211,7 @@ atrocity are added, our cup is more than full. Our grief, our sense of
 justice, our holy and unholy cravings for revenge, are all aroused,
 and the national heart cries out for redress from the depths of her
 sorrow.</p>
-               <p>But MR. LINCOLN and his cruel murderer are both
+               <p pn="5">But MR. LINCOLN and his cruel murderer are both
 <pb n="6"/>
                   <figure entity="day6">
                      <figDesc>6th page of P. D. Day's A
@@ -228,7 +228,7 @@ great martyr of civil liberty, and will be honored and admired to the
 end of time. Washington and Franklin <hi rend="italic">lived</hi> for
 the Republic. MR LINCOLN <hi rend="italic">died</hi> for it; and so long
 as a monument of American greatness and virtue shall stand, <hi rend="italic">his</hi> will be visited and revered.</p>
-               <p>Among the many causes which have led to so deep and
+               <p pn="6">Among the many causes which have led to so deep and
 universal regret at his death is the fact that he was <hi rend="italic">beloved</hi> by the nation, and they loved him because he
 first loved them. Love is a rare attribute in the chief magistrate of
 a great people. We do not demand nor expect that he who stands at the
@@ -255,7 +255,7 @@ he threw around him a greater charm by the manly and lovely virtues of
 his great heart. He often denied men their requests, but he did it so
 kindly and convincingly that they went away feeling he was their best
 friend.</p>
-               <p>He had neither pomp nor aristocracy in his veins. He was
+               <p pn="7">He had neither pomp nor aristocracy in his veins. He was
 born and always lived among the common people. All his associations
 were with that class who obtained a livelihood by honest toil, and who
 cherish the domestic virtues. Believing these virtues to be the
@@ -263,12 +263,12 @@ underlying elements of all elevated humanity, whether in high life or
 in low, he took them to himself. He had no sympathy with that
 so-called high, chivalrous life, which ignores purity, affection and
 love.</p>
-               <p>Accordingly, when he was elevated to the chief office of
+               <p pn="7">Accordingly, when he was elevated to the chief office of
 the nation, he brought his character with him. He went into the White
 House determined to be a <hi rend="italic"> man</hi>, as well as a <hi rend="italic">ruler</hi>; and if compelled, in some measure, to conform
 to the common usages of diplomacy, he would not sink his <hi rend="italic">manhood</hi>. He would still be kind, merciful and true to
 christian and social virtue.</p>
-               <p>Hence the people <hi rend="italic">loved</hi> him--loved him
+               <p pn="7">Hence the people <hi rend="italic">loved</hi> him--loved him
 as they never loved a President before. He was plain, honest,
 straight-forward, unsophisticated. They saw he was unambitious, and
 had the courage to stand between intriguing politicians and
@@ -312,7 +312,7 @@ Memorial Discourse on the Character of Abraham Lincoln</figDesc>
 strains of the ancient bard, "Thou wast slain in thine high places. I
 am distressed for thee, my brother. Very pleasant hast thou been unto
 me; thy love to me was wonderful, passing the love of women."</p>
-               <p>The people also had great confidence in MR. LINCOLN'S <hi rend="italic">judgment</hi>, as well as <hi rend="italic">love</hi> for
+               <p pn="9">The people also had great confidence in MR. LINCOLN'S <hi rend="italic">judgment</hi>, as well as <hi rend="italic">love</hi> for
 his character. Burke said that confidence was a plant of slow growth;
 but under the pressure of emergencies it will sometimes grow
 fast. That was true of MR.LINCOLN. When he assumed his official trust,
@@ -350,7 +350,7 @@ tempestuous ocean. But thanks to Him who has hitherto shaped our
 destiny, we are still on our course, and, though guided by another
 compass, we trust <hi rend="italic">it</hi> will also be true to the
 polar star of Liberty and Union.</p>
-               <p>The people, likewise, had great confidence in MR. LINCOLN'S
+               <p pn="10">The people, likewise, had great confidence in MR. LINCOLN'S
 <hi rend="italic">honesty</hi>. He inherited this virtue from his
 boyhood, and brought it to the Presidential Chair. His early
 designation was "Honest Abe." This virtue was so fully constitutional,
@@ -383,7 +383,7 @@ dispensation in this respect. Who ever said or thought he was subtle
 or tricky? Who ever felt he would tolerate such a course in those over
 whom he had authority? We are grateful for his rare example of honest
 purpose.</p>
-               <p>The people also had confidence in his <hi rend="italic">sagacity</hi> to manage our great national conflict. We
+               <p pn="11">The people also had confidence in his <hi rend="italic">sagacity</hi> to manage our great national conflict. We
 sometimes speak of greatness in men, as if it always consisted in
 making eloquent speeches, in going deep into the mysteries of science,
 or in laying up masses of ancient learning. But greatness often runs
@@ -410,7 +410,7 @@ Mr. Lincoln was obliged to raise up one and put down another. It
 seemed he would not have a friend left, and yet his removals were
 always so kind and so clear in their necessity, that he secured the
 good will of nearly all.</p>
-               <p>But the rarest and highest virtue of our fallen chief was
+               <p pn="12">But the rarest and highest virtue of our fallen chief was
 his <hi rend="italic">christian faith</hi>. It is rare that we can speak
 with so much confidence and satisfaction of a statesman's religious
 character. The last request on leaving his fellow-citizens at his home
@@ -435,7 +435,7 @@ Memorial Discourse on the Character of Abraham Lincoln</figDesc>
 the work we are in, and to bind up the nation's wounds." Such were the
 noble christian sentiments of our departed chief, which secured love
 and respect for him among thousands at home and abroad.</p>
-               <p>When a company of clergymen called to pay Mr. Lincoln their
+               <p pn="13">When a company of clergymen called to pay Mr. Lincoln their
 respects in the darkest days of our civil conflict, he said,
 "Gentlemen, my hope of success in this great and terrible struggle
 rests on the immutable foundations of justice, and the goodness of
@@ -451,7 +451,7 @@ humble and heartfelt acknowledgments to the Almighty, for the triumph
 he had granted to the national cause."  It is in these little
 incidents, which speak volumes, that we see the workings of a
 christian heart.</p>
-               <p>"I can never think," says one, "of that toil-worn man,
+               <p pn="13">"I can never think," says one, "of that toil-worn man,
 rising long before the household, and spending an hour with his Maker
 and his Bible, without tears. In that silent hour of communion he has
 drawn from the fountain which has fed all those qualities that have so
@@ -480,7 +480,7 @@ commander-in-chief, our foremost man in all the nation, like Moses and
 David kneeling at the altar, a simple-hearted child of God. What a new
 and strange thing for these latter days! What a noble example is left
 on record for the rising young men of our land!</p>
-               <p>These are some of the leading features of this remarkable
+               <p pn="14">These are some of the leading features of this remarkable
 man who has been taken from us; and these features are the more
 remarkable when we remember the great deficiency in his early
 training. They show an extraordinary mind, and what a true and honest
@@ -491,10 +491,10 @@ without the advantages of schools.</p>
 all in all,</l>
                   <l>We shall not look upon his like again."</l>
                </lg>
-               <p>A late issue of a London paper sums up the character of
+               <p pn="14">A late issue of a London paper sums up the character of
 Mr. Lincoln in the following language:</p>
-               <p>
-                  <note id="day.002.n01" n="*" type="foot" anchored="yes">Dr. Holland's address at Springfield, Mass.</note>
+               <p pn="14">
+                  <note pn="14" id="day.002.n01" n="*" type="foot" anchored="yes">Dr. Holland's address at Springfield, Mass.</note>
                   <pb n="15"/>
                   <figure entity="day15">
                      <figDesc>15th page of P. D. Day's A
@@ -502,8 +502,8 @@ Memorial Discourse on the Character of Abraham Lincoln</figDesc>
                   </figure>
 And we take pleasure in presenting it, because it comes from a source
 where we should not be likely to find an over-drawn eulogy:</p>
-               <p>
-                  <q direct="unspecified">To us Abraham Lincoln has always seemed the finest
+               <p pn="15">
+                  <q pn="15" direct="unspecified">To us Abraham Lincoln has always seemed the finest
 character produced by the American war on either side of the
 struggle. He was great not merely by the force of genius--and only the
 word genius will describe the power of intellect by which he guided
@@ -556,10 +556,10 @@ has fallen by the coward hand of a vile assassin, exasperates and
 embitters the grief beyond any power of language to
 express."</q>--<title>London Star.</title>
                </p>
-               <p>Such at last came to be the estimate which our friends
+               <p pn="16">Such at last came to be the estimate which our friends
 across the water put upon our cherished President. Such we believe
 will be the final verdict of the civilized world.</p>
-               <p>Mr. Lincoln lived to see the last throes of the rebellion,
+               <p pn="16">Mr. Lincoln lived to see the last throes of the rebellion,
 and we thank God that, like Moses, he was permitted to see the
 promised land. He led his people to the borders, and gazed upon it,
 and we prayed he might go over Jordan and possess it. But God had a
@@ -586,7 +586,7 @@ his experience, and more than all, the manner of his death. He went
 into the place of public resort, not to please himself, but to please
 the people, and while there, in this act of kindness, a vile hand
 struck him down.</p>
-               <p>While we thus mourn, we are thankful that his sun went down
+               <p pn="17">While we thus mourn, we are thankful that his sun went down
 without a spot upon it. Few public men die without leaving some record
 of serious mistakes or folly. But Mr. Lincoln was a rare exception in
 this respect. Not that every act of his, in all its details, will be
@@ -594,7 +594,7 @@ found to be the wisest possible that might have been, but no blemish
 will adhere to his name. His memory will shine in ages to come like a
 fixed star in a cloudless night, on which continents may gaze with
 admiration.</p>
-               <p>As painful as the event of our President's death is
+               <p pn="17">As painful as the event of our President's death is
 <pb n="18"/>
                   <figure entity="day18">
                      <figDesc>18th page of P. D. Day's A
@@ -642,7 +642,7 @@ appear as monsters. Who does not see that this is offering a reward to
 the reckless and fanatical to cut them off.  Who does not see that our
 tree of liberty never can flourish under this constant girdling of its
 trunk.</p>
-               <p>Turning from the past to the future, let us be thankful
+               <p pn="19">Turning from the past to the future, let us be thankful
 that we have been carried through the perils of a gigantic civil war,
 and have secured a complete triumph, and not an ignoble peace. We
 have, surrendered to us, the last regiment of Confederate soldiers,
@@ -651,7 +651,7 @@ personification of the rebellion. And there will be strength and
 firmness enough we trust in the government to give him his dues. We
 have likewise destroyed the causes of the rebellion, by cutting up the
 roots of that institution out of which it grew.</p>
-               <p>Who would have thought that in so short time all these
+               <p pn="19">Who would have thought that in so short time all these
 portentous war clouds would have passed away, and the olive branch of
 peace would have cast its shadow on all our borders? Who would have
 thought that secession would have come to such an inglorious end, and
@@ -669,7 +669,7 @@ taught the wisdom and the safety of trusting in the right. Though our
 pathway is dark, and not a star is seen gleaming through the
 threatening clouds, it is safe to press onward in duty. It may cost us
 dear, but our reward is sure.</p>
-               <p>Let us then learn to prize our government more. Let us
+               <p pn="20">Let us then learn to prize our government more. Let us
 remember what it has done for us in these tempestuous times. How it
 has preserved order, and made our homes sacred amid the confusion of
 civil war. Let us cling more closely to the old ship of state that has

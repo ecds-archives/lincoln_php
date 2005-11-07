@@ -82,7 +82,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="rankin.001" n="Moses and Joshua" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl>
                   <title>Moses and Joshua</title> 
                   <date>Wednesday Noon, April 19, 1865</date>
@@ -96,62 +96,62 @@ Rev. J. E.</author>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="rankin1">
                   <figDesc>1st page of Rev. J. E. Rankin's
 Moses and Joshua.</figDesc>
                </figure>
             </p>
-            <p>MOSES AND JOSHUA.</p>
-            <p>A</p>
-            <p>DISCOURSE</p>
-            <p>ON THE DEATH OF</p>
-            <p>ABRAHAM LINCOLN</p>
-            <p>PREACHED IN THE</p>
-            <p>WINTHROP CHURCH, CHARLESTOWN,</p>
-            <p>Wednesday Noon, April 19, 1865.</p>
-            <p>BY</p>
-            <p>REV. J.E. RANKIN,</p>
-            <p>PASTOR</p>
-            <p>BOSTON:</p>
-            <p>PRESS OF DAKIN AND METCALF,</p>
-            <p>NO. 37
+            <p pn="1">MOSES AND JOSHUA.</p>
+            <p pn="1">A</p>
+            <p pn="1">DISCOURSE</p>
+            <p pn="1">ON THE DEATH OF</p>
+            <p pn="1">ABRAHAM LINCOLN</p>
+            <p pn="1">PREACHED IN THE</p>
+            <p pn="1">WINTHROP CHURCH, CHARLESTOWN,</p>
+            <p pn="1">Wednesday Noon, April 19, 1865.</p>
+            <p pn="1">BY</p>
+            <p pn="1">REV. J.E. RANKIN,</p>
+            <p pn="1">PASTOR</p>
+            <p pn="1">BOSTON:</p>
+            <p pn="1">PRESS OF DAKIN AND METCALF,</p>
+            <p pn="1">NO. 37
 CORNHILL.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="rankin2">
                   <figDesc>2nd page of
 Rev. J. E. Rankin's Moses and Joshua.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="rankin3">
                   <figDesc>3rd page of
 Rev. J. E. Rankin's Moses and Joshua.</figDesc>
                </figure>
             </p>
-            <p>REV. J.E. RANKIN:</p>
-            <p>
+            <p pn="3">REV. J.E. RANKIN:</p>
+            <p pn="3">
                <hi rend="italic">Dear Sir</hi>,--Having
 listened with great interest to your sermon, preached on Wednesday,
 April 19, 1865, in the Winthrop Church, on the occasion of the death
 of President Lincoln, we respectfully request, in behalf of ourselves
 and many others, who were present, a copy of the same for
 publication.</p>
-            <p>Respectfully and truly yours, <lb/>H. S. DOANE,<lb/>
+            <p pn="3">Respectfully and truly yours, <lb/>H. S. DOANE,<lb/>
 A. WHITNEY, <lb/>WM. CARLETON, <lb/>GEO. HYDE, <lb/>JAMES ADAMS,<lb/>
 ARTHUR W. TUFTS, <lb/>CALEB EMERY, <lb/>NATHAN A. TUFTS.</p>
-            <p>CHARLESTOWN, April 20, 1865.</p>
-            <p>CHARLESTOWN,
+            <p pn="3">CHARLESTOWN, April 20, 1865.</p>
+            <p pn="3">CHARLESTOWN,
 April 20, 1865.</p>
-            <p>DEAR FRIENDS,--</p>
-            <p>Your request has taken me entirely by surprise; and I fear
+            <p pn="3">DEAR FRIENDS,--</p>
+            <p pn="3">Your request has taken me entirely by surprise; and I fear
 that the hastily-prepared manuscript which I place at your disposal
 will only disappoint you when printed.</p>
-            <p>Wishing it were worthier of the occasion, your kindness,
+            <p pn="3">Wishing it were worthier of the occasion, your kindness,
 and my own feelings,</p>
-            <p>I am yours truly, <lb/>J.E. RANKIN.  <lb/>DEACON HEMAN S. DOANE, and
+            <p pn="3">I am yours truly, <lb/>J.E. RANKIN.  <lb/>DEACON HEMAN S. DOANE, and
 others.</p>
             <pb n="4"/>
 <!-- blank page -->
@@ -162,29 +162,29 @@ Rev. J. E. Rankin's Moses and Joshua.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="rankin5">
                   <figDesc>5th page of
 Rev. J. E. Rankin's Moses and Joshua.</figDesc>
                </figure>
             </p>
             <div2 id="rankin.002" n="DISCOURSE" type="sermon">
-               <head>DISCOURSE.</head>
-               <epigraph>
-                  <p>
+               <head pn="5">DISCOURSE.</head>
+               <epigraph pn="5">
+                  <p pn="5">
                      <hi rend="italic">Joshua I</hi>. 1, 2: "NOW AFTER THE DEATH
 OF MOSES, THE SERVANT OF THE LORD, IT CAME  TO PASS THAT THE LORD
 SPAKE UNTO JOSHUA, THE SON OF NUN, MOSES' MINISTER SAYING, MOSES MY
 SERVANT IS DEAD; NOW, THEREFORE, ARISE, GO OVER THIS JORDAN, THOU AND
 ALL THIS PEOPLE, UNTO THE LAND WHICH I DO GIVE TO THEM."</p>
                </epigraph>
-               <p>THE Bible contains the history of the human race in
+               <p pn="5">THE Bible contains the history of the human race in
 epitome; is the mirror in which every age and every generation may see
 reflected its own features and complexion. The prophecies of the Bible
 have a germinant fulfilment; have a manifold application. Its
 historical portions furnish illustrations and analogies for almost
 every type of character and event.</p>
-               <p>Nothing can be more beautiful or appropriate than many of
+               <p pn="5">Nothing can be more beautiful or appropriate than many of
 the parallels which the American people have traced between their own
 recent history and that of the children of Israel in their exodus from
 the house of bondage; and, doubtless, the parallels are far more
@@ -193,7 +193,7 @@ been a literal one, than in our own. And no parallel of this kind
 could be more appropriate or touching than that suggested by the
 melancholy passage in our national experience which is now
 transpiring.</p>
-               <p>From poverty, obscurity, and untold social disadvantages,
+               <p pn="5">From poverty, obscurity, and untold social disadvantages,
 God raised up Abraham Lincoln to enact a part, second to none in
 importance, in the history of the world, whose consequences are to
 affect the condition and happiness of
@@ -213,7 +213,7 @@ capital; there are words prompted by that great heart, whose kind
 beatings have been so rudely hushed forever, uttered by those lips,
 upon which the people nevermore will hang in expectancy or delight,
 which can never die.</p>
-               <p>The Emancipation Proclamation will always be classed with
+               <p pn="6">The Emancipation Proclamation will always be classed with
 the Declaration of Independence, as its suitable complement and
 fulfilment. Take the state papers of this Illinois lawyer, all of
 whose common-school education did not exceed a single year, and how
@@ -282,7 +282,7 @@ the purest and highest earthly ambition of the soul? And upon this
 summit he died,--died with this vision still lingering in his memory,
 with these acclamations of gratitude and trust still ringing in his
 ears!</p>
-               <p>"Thus always to tyrants!" muttered the lips of the cowardly
+               <p pn="8">"Thus always to tyrants!" muttered the lips of the cowardly
 assassin, as the fatal bullet sped to its mark. And the nation, as she
 drapes her proud mansions and her humble dwellings, her places of
 business, her sanctuaries, and public offices in mourning,--as her
@@ -292,7 +292,7 @@ she stands at this hour by the open grave of the man twice-honored
 with the highest position in her gift, takes up the word, "Thus always
 to patriot martyrs! So will we ever mourn the ruler thus true to his
 country and his country's God!"</p>
-               <p>Never had a President such a hold upon the affections of
+               <p pn="8">Never had a President such a hold upon the affections of
 the people! Every loyal man, woman, and child in the nation has felt,
 since his death occurred, as though the form of a cherished one lay
 unburied within their own dwellings, as though it were wrong to think
@@ -316,7 +316,7 @@ monuments to his memory, put his figure into bronze or marble, there
 shall be a memorial more enduring than these. They will always
 remember the pensive and sympathizing look of that deep-set eye, the
 holiest angles of that homely face.</p>
-               <p>Abraham Lincoln is dead! but his work lives, his memory
+               <p pn="9">Abraham Lincoln is dead! but his work lives, his memory
 lives. It is a rich inheritance for the American people to have the
 memory of one public man in modern times who has achieved such
 greatness as his, without a stain upon his personal character. There
@@ -344,7 +344,7 @@ prerogative and method to adapt the man to the work which he would
 have accomplished; and having accomplished the work, and all the work,
 which he had for Abraham Lincoln to do, he has taken him to
 himself.</p>
-               <p>Abraham Lincoln fell a victim to his own lenient and
+               <p pn="10">Abraham Lincoln fell a victim to his own lenient and
 unsuspecting nature. He knew there were as black-hearted traitors in
 Washington as anywhere in the South; and yet--because he loved that
 peculiarity of our institutions which surrounds the Chief Magistrate
@@ -354,7 +354,7 @@ regarded the most eminent ruler of modern times, the representative
 man of this epoch, came and went as though the thrust of a dagger or
 the ball of a revolver might not at any moment terminate his life, and
 leave the nation in mourning.</p>
-               <p>Every Christian man must deeply regret that the Chief
+               <p pn="10">Every Christian man must deeply regret that the Chief
 Executive of the nation was assassinated in a theatre. Theatre-going
 is too likely to train up just such desperate men as become assassins,
 and the frequenters of such amusements are never too select. Indeed,
@@ -367,13 +367,13 @@ taste for such places or such pleasures; but surely, his example had
 been better, his life had been safer, elsewhere. And this is all that
 need be said.</p>
                <pb n="11"/>
-               <p>
+               <p pn="11">
                   <figure entity="rankin11">
                      <figDesc>11th page of
 Rev. J. E. Rankin's Moses and Joshua.</figDesc>
                   </figure>
                </p>
-               <p>Our Chief Executive fell by the hand of an assassin. Thus
+               <p pn="11">Our Chief Executive fell by the hand of an assassin. Thus
 to terminate the life of the humblest and meanest citizen in the land
 is a most wicked and cowardly act, and is deserving of the most
 ignominious fate. But what shall we say of the creature who can
@@ -391,7 +391,7 @@ trumpet-tongued, against</l>
                   <l>The deep damnation of his taking
 off."</l>
                </lg>
-               <p>The life of a ruler was intended by God to be regarded as
+               <p pn="11">The life of a ruler was intended by God to be regarded as
 far more sacred than that of an ordinary man. Government is his
 ordinance, and the ruler his representative. And though our Chief
 Executive is chosen by the people, and but temporarily bears the
@@ -456,7 +456,7 @@ fellow-citizens. They have forever unfitted themselves for
 citizenship. The men who have been cognizant of, and have never
 attempted to discountenance, the cruelties inflicted upon our captured
 soldiers, can the people receive them back again?</p>
-               <p>In Abraham Lincoln, God gave us just the man to take us
+               <p pn="13">In Abraham Lincoln, God gave us just the man to take us
 safely through the past stages of the rebellion; just the man to
 determine the true policy of the nation, to inaugurate it and render
 it secure. But the nation had now reached the Jordan, beyond which
@@ -488,7 +488,7 @@ fate of John C. Calhoun, Jefferson Davis would have taken warning. But
 treason was permitted to make its nest in the very Cabinet, to utter
 its words of defiance upon the floor of the Senate, and then to depart
 unquestioned, unchallenged.</p>
-               <p>In Andrew Johnson, God has given us a man who, if we may
+               <p pn="14">In Andrew Johnson, God has given us a man who, if we may
 confide in his repeated utterances, knows how to define and to punish
 this crime against the life of a nation; a suitable workman to stitch
 the shroud of this rebellion. The leaders in this conspiracy lost all
@@ -503,7 +503,7 @@ concerned knew what they risked when they engaged in this contest. If
 they had succeeded, they would have been regarded as heroes fighting
 for their homes. They have failed. Let them take the fate of
 felons.</p>
-               <p>There is an incalculable moral influence proceeding, and to
+               <p pn="14">There is an incalculable moral influence proceeding, and to
 proceed from this contest. We are a spectacle to the nations of the
 earth, and God has a government to vindicate as well as man. It is not
 the misfortune of failure which sufficiently punishes such
@@ -512,7 +512,7 @@ our fathers. The world needs the exhibition of a justice more severe
 and exact. When rebellion failed in heaven, there were everlasting
 chains of darkness for those engaged in it:</p>
                <pb n="15"/>
-               <p>
+               <p pn="15">
                   <figure entity="rankin15">
                      <figDesc>15th page of
 Rev. J. E. Rankin's Moses and Joshua.</figDesc>
@@ -522,7 +522,7 @@ Rev. J. E. Rankin's Moses and Joshua.</figDesc>
                   <l>"Hurled headlong flaming from th' ethereal sky</l>
                   <l>With hideous ruin and combustion."</l>
                </lg>
-               <p>And I believe that God has ordained that what the world calls
+               <p pn="15">And I believe that God has ordained that what the world calls
 "poetical justice"--justice in some measure adequate to the crime
 committed--shall yet be meted out to the men most guilty in conspiring
 against the life of this nation; whose bloody hands would</p>
@@ -530,7 +530,7 @@ against the life of this nation; whose bloody hands would</p>
                   <l>"The multitudinous seas incarnadine,</l>
                   <l>Making the green one red."</l>
                </lg>
-               <p>Some individuals find it difficult to distinguish between
+               <p pn="15">Some individuals find it difficult to distinguish between
 vindictiveness and a sense of justice. They are afraid to urge the
 application of the divine law against murder, lest they may be
 regarded vindictive. But God intended human government to be a terror
@@ -544,7 +544,7 @@ evil-doers. And while we are cautious not to transcend the limits and
 methods of the law, let us not enervate and emasculate our national
 authority by mingling in our moral decisions too great tenderness
 toward the transgressor.</p>
-               <p>The mournful solemnities of this occasion,--the fourth
+               <p pn="15">The mournful solemnities of this occasion,--the fourth
 anniversary of the first shedding of blood in Baltimore, and the
 ninetieth anniversary of the battle of Lexington,--upon which a whole
 land, as one family, mingle their tears in sorrow, only illustrate the

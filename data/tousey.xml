@@ -38,7 +38,7 @@ Sermons Project</title>
             <bibl>Tousey,
 Thomas. Discourse on the Death of Abraham Lincoln, Preached at the
 Presbyterian Church, Palmyra, N. Y., April 19th, 1865.  Rochester,
-N.Y. C. D. Tracy &#x0026; Co., Printers, Evening Express
+N.Y. C. D. Tracy &amp; Co., Printers, Evening Express
 Office. 1865.</bibl>
          </sourceDesc>
       </fileDesc>
@@ -81,7 +81,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="tousey.001" n="Discourse on the Death of Abraham Lincoln" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>Discourse on
 the Death of Abraham Lincoln</title> 
@@ -91,32 +91,32 @@ the Death of Abraham Lincoln</title>
                   <imprint>
                      <pubPlace>Rochester,
 N.Y.</pubPlace>
-                     <publisher>C. D. Tracy &#x0026; Co., Printers, Evening
+                     <publisher>C. D. Tracy &amp; Co., Printers, Evening
 Express Office</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="tousey1">
                   <figDesc>1st page of Thomas Tousey's
 Discourse on the Death of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p>Discourse</p>
-            <p>ON THE DEATH OF</p>
-            <p>Abraham Lincoln</p>
-            <p>Preached at the Presbyterian Church, Palmyra, N. Y.</p>
-            <p>April
+            <p pn="1">Discourse</p>
+            <p pn="1">ON THE DEATH OF</p>
+            <p pn="1">Abraham Lincoln</p>
+            <p pn="1">Preached at the Presbyterian Church, Palmyra, N. Y.</p>
+            <p pn="1">April
 19th, 1865, by</p>
-            <p>REV. THOMAS TOUSEY,</p>
-            <p>PASTOR OF M.E. CHURCH.</p>
-            <p>PUBLISHED BY REQUEST.</p>
-            <p>ROCHESTER, N. Y.</p>
-            <p>C. D. TRACY &#x0026; CO., PRINTERS, EVENING EXPRESS OFFICE.</p>
-            <p>1865.</p>
+            <p pn="1">REV. THOMAS TOUSEY,</p>
+            <p pn="1">PASTOR OF M.E. CHURCH.</p>
+            <p pn="1">PUBLISHED BY REQUEST.</p>
+            <p pn="1">ROCHESTER, N. Y.</p>
+            <p pn="1">C. D. TRACY &amp; CO., PRINTERS, EVENING EXPRESS OFFICE.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="tousey2">
                   <figDesc>2nd page of
 Thomas Tousey's Discourse on the Death of Abraham
@@ -124,7 +124,7 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="tousey3">
                   <figDesc>3rd page of
 Thomas Tousey's Discourse on the Death of Abraham
@@ -132,15 +132,15 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="tousey.002" n="DISCOURSE." type="sermon">
-               <head>DISCOURSE.</head>
-               <epigraph>
-                  <p>THE JOY OF OUR HEART IS CEASED-OUR DANCE IS TURNED INTO
+               <head pn="3">DISCOURSE.</head>
+               <epigraph pn="3">
+                  <p pn="3">THE JOY OF OUR HEART IS CEASED-OUR DANCE IS TURNED INTO
 MOURNING. THE, CROWN IS FALLEN FROM OUR HEAD. WOE UNTO US THAT WE HAVE
 SINNED! FOR THIS OUR HEART IS FAINT FOR THESE THINGS OUR EYES ARE
 DIM.<hi rend="italic">-Lamentations 5: 15-17.</hi>
                   </p>
                </epigraph>
-               <p>The Bible is a wonderful book. It is God's book and man's book. God
+               <p pn="3">The Bible is a wonderful book. It is God's book and man's book. God
 made it and man made it. Just as Christ is verily God and verily man,
 so every word is verily divine and verily human. It came not to us
 ready written with an angel's plume, but with reeds from the Jordan,
@@ -150,7 +150,7 @@ ideas that span eternity, but the emotions, experiences, perplexities,
 anxieties, doubts, and oppressive sorrows of men, beautifully blended
 in majestic appeal, stern denunciation, overflowing tenderness, or
 melodious woe.</p>
-               <p>It appears to me that these words were inspired and given to us for
+               <p pn="3">It appears to me that these words were inspired and given to us for
 this very occasion-so appropriately do they describe our condition and
 express what seems to me to be the emotions of every heart. "One would
 think," says Dr. South, " that every letter was written with a tear
@@ -175,7 +175,7 @@ disgrace-when he might have been a companion of princes, and have sat
 at the table of kings; who only ceased to live for his country when he
 ceased to breathe-was a patriot, in comparison with whom. almost all
 others are obscured."</p>
-               <p>The great design of this sacred poem was to teach the suffering
+               <p pn="4">The great design of this sacred poem was to teach the suffering
 Jews the proper medium between obdurate insensibility and rebellious
 despondency under their calamities; to lead them to consider <hi rend="italic">God</hi> as the righteous author, and <hi rend="italic">sin</hi> as the deserving cause of their suffering-to call
 them to the exercise of submission, repentance, faith and prayer; to
@@ -183,7 +183,7 @@ show them the way of finding support under every trial and benefit
 from it; to inspire them with abhorrence of those crimes which had
 involved them in such complicated miseries, and with hopes of ultimate
 deliverance through the mercy of God.</p>
-               <p>A like object seems befitting a minister of God at such a time as
+               <p pn="4">A like object seems befitting a minister of God at such a time as
 this. It is no part of his duty to flatter the pride or quiet the
 consciences of godless men. Nor is he at
 <pb n="5"/>
@@ -197,7 +197,7 @@ neglects, from any. motive to speak, as the oracles of God speak, is
 false to his trust, a traitor to his profession, deserving the
 execration of men, and sure to meet the just judgments of the
 Almighty.</p>
-               <p>God has two modes of revealing his will to men-one by a written,
+               <p pn="5">God has two modes of revealing his will to men-one by a written,
 the other by an unwritten revelation. The former we call his Word the
 latter his Providence. Our text to day is taken from both these
 volumes, and if we speak as the Word of God and as the Providence of
@@ -208,7 +208,7 @@ children of a great nation--the banners mourning at half mast--the
 churches decked with the weeds of unaffected sorrow--even the private
 dwellings clad in the habiliments of mourning and woe--the melancholy
 countenances of all classes in society-these are our text to day.</p>
-               <p>But yesterday we were <hi rend="italic">electrified</hi> with
+               <p pn="5">But yesterday we were <hi rend="italic">electrified</hi> with
 joy. The proud, defiant, strongly fortified city, where treason walked
 and swaggered in her boasted strength and security-the capital of the
 so-called Southern Confederacy-had yielded to the pressure of the
@@ -224,7 +224,7 @@ Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
                   </figure>
 chieftain struck his colors and surrendered to the indomitable
 GRANT.</p>
-               <p>As the cheering news sped on the wings of lightning, in the still
+               <p pn="6">As the cheering news sped on the wings of lightning, in the still
 hour of night, a slumbering nation sprung to its feet in such
 transports of joy as is seldom the lot of mortals to experience. The
 booming cannon, the pealing bells, the exultant and almost frantic
@@ -267,7 +267,7 @@ welcome them home again.</p>
                   <l>To sigh a thankful prayer amid the glee</l>
                   <l>That hailed the traitor's fall, and peace and liberty."</l>
                </lg>
-               <p>Scarce bad the song of rejoicing died away ere we were again
+               <p pn="7">Scarce bad the song of rejoicing died away ere we were again
 startled from our slumbers by another message borne upon the flashing
 wires. But oh, how different its character! How different the emotions
 it excited! ABRAHAM LINCOLN <hi rend="italic">is dead! Fallen by the
@@ -295,7 +295,7 @@ dance is turned into mourning. The crown is fallen from our head. Woe
 unto us that we have sinned! For this our heart is faint-for these
 things our eyes are dim."</hi>
                </p>
-               <p>Nor are these evidences of almost frantic grief unwarranted. We had
+               <p pn="8">Nor are these evidences of almost frantic grief unwarranted. We had
 learned to love and trust ABRAHAM LINCOLN as we have loved and trusted
 no man since the days of GEORGE WASHINGTON. Called from comparative
 obscurity by the suffrages of a free people, he assumed the duties of
@@ -308,7 +308,7 @@ of purpose, zeal and devotion, worthy a better cause, the leaders and
 abettors of treason counted on a short struggle or no struggle at all,
 and an easy triumph. All was confusion, worse confounded. Men high in
 authority had joined in the conspiracy.</p>
-               <p>I need not trace the history of those dark and tumultuous days. It
+               <p pn="8">I need not trace the history of those dark and tumultuous days. It
 is written with fearful distinctness on our memory. We have hardly yet
 recovered from the horror and amazement, which almost froze the vital
 current of the nation, and settled in sullen gloom and despair upon
@@ -328,7 +328,7 @@ succeed without the same Divine aid which sustained him; and in the
 same Almighty Being I place my reliance for support. I hope you, my
 friends, will all pray, that I may receive that Divine assistance,
 without which I cannot succeed, but with which success is certain."</p>
-               <p>Oh, how did such devout language recall the memory of those godly
+               <p pn="9">Oh, how did such devout language recall the memory of those godly
 men of old, who by faith and prayer,  " subdued kingdoms, wrought
 righteousness, obtained promises, stopped the mouths of lions,
 quenched the violence of fire, escaped the edge of the sword, out of
@@ -338,7 +338,7 @@ breathed easier. Through the darkness and storms along our dangerous
 way-over mountains steep and rugged, and bare-under God, he has led us
 in safety during the four years of unparalleled anxiety, through which
 we have just passed.</p>
-               <p>I have neither time, ability, nor heart to attempt a sketch of his
+               <p pn="9">I have neither time, ability, nor heart to attempt a sketch of his
 character, or to write his eulogy. I believe he was raised up for the
 duties and responsibilities of his day by the same hand which is so
 clearly visible in all the past of our history-that in answer to the
@@ -354,7 +354,7 @@ the firm decision, and the invincible integrity which have
 characterized nearly his every official act, must have had a higher
 source and a stronger support than merely human endowments could
 give.</p>
-               <p>But it is comparatively easy to recognize God's hand in events that
+               <p pn="10">But it is comparatively easy to recognize God's hand in events that
 are past, and results that are known. It is in times like these, when
 "He removeth the mountains and they know not when He overturneth them
 in His anger--when He shaketh the earth out of her place and the
@@ -364,10 +364,10 @@ bewilderment; that "He goeth by us and we see Him not--He passeth on,
 also, and we perceive Him not." We are prone to regard favors and
 blessings as coming from God, while we forget that calamities and
 judgments are from the same infinite source.</p>
-               <p>The great comprehensive lesson taught throughout the Word of God,
+               <p pn="10">The great comprehensive lesson taught throughout the Word of God,
 written in flaming capitals on every event of Providence, and
 reiterated by the million voices of past history, is, that "<hi rend="italic">the Lord God omnipotent reigneth</hi>."</p>
-               <p>Far back in the annals of time, He distinctly announced His
+               <p pn="10">Far back in the annals of time, He distinctly announced His
 determination to reduce men and nations to a practical acknowledgment
 of His supremacy, and all along the track of ages past, He has erected
 monuments, more enduring than brass or marble, and on them re-written
@@ -398,7 +398,7 @@ lightnings enlightened the world-the earth saw and trembled. The hills
 melted like wax at the presence of the Lord, at the presence of the
 Lord of the whole earth. The heavens declare His righteousness and all
 the people see His glory."</p>
-               <p>The same great principles which have governed His administration in
+               <p pn="11">The same great principles which have governed His administration in
 ages past, govern Him still. They are changeless-eternal. It is not
 difficult then to trace substantially the line of consequences which
 must result from any given course pursued by any people. "Woe unto us,
@@ -431,7 +431,7 @@ invincible strength, been able to escape the terrible scourge, which
 has come to vindicate God's insulted majesty? Let the wasted wealth,
 the desolated homes, the bleeding hearts, the bloody fields of carnage
 and death, answer.</p>
-               <p>For years past it has required no prophet's ken to discover
+               <p pn="12">For years past it has required no prophet's ken to discover
 unmistakable indications of the gathering storm which has swept the
 land with such wide wasting ruin. Any one who had any just conception
 of God as a Ruler and Judge, who has declared that He "will be exalted
@@ -455,7 +455,7 @@ unmistakable as the oracles of heaven that a terrible retribution <hi rend="ital
 the legitimate outgrowth of such stupendous iniquity; for "out of the
 serpent's root shall come forth a cockatrice, and his fruit shall be a
 fiery, flying serpent."</p>
-               <p>We had no excuse for thus denying and insulting God. From the first
+               <p pn="13">We had no excuse for thus denying and insulting God. From the first
 He has watched over us with more than parental solicitude. He has
 rocked us in the cradle of blessings and nursed us on the bosom of
 piety. Amid the storm of elements, the howling wilderness, the savage
@@ -484,7 +484,7 @@ Chief Magistrates. Surely there is no excuse for such blind
 forgetfulness of God, and such glaring disregard of His righteous
 law. His name is written and His hand is seen on every page of our
 past history.</p>
-               <p>Nor is it at all strange or any departure from God's ancient ways
+               <p pn="14">Nor is it at all strange or any departure from God's ancient ways
 that the punishment due for the accumulated guilt of three-quarters of
 a century should be meted out to us in the untold horrors of the past
 four years of bloody, fratricidal war. If His retributions on nations
@@ -505,7 +505,7 @@ Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
 escutcheon, only by the blasting scourge of war. God saw this and
 hence His red, right hand of vengeance was called forth to the
 accomplishment of the work.</p>
-               <p>President LINCOLN came to see this. His clear, penetrating mind-his
+               <p pn="15">President LINCOLN came to see this. His clear, penetrating mind-his
 great and noble heart, were intent upon the study of the foundation
 principles of God's administration, until he grasped the mighty truth,
 and it opened with celestial clearness to his vision. The turning
@@ -519,7 +519,7 @@ day anew life has inspirited the nation. From that day the armies of
 the Union have been, in the main, victorious. From that day the power
 of treason, has waned, until scarcely a vestige remains to oppose the
 cohorts of freedom.</p>
-               <p>The last Inaugural of our lamented Chief Magistrate sounds
+               <p pn="15">The last Inaugural of our lamented Chief Magistrate sounds
 marvellously like the utterances of those holy men of old, who spake
 as they were moved by the Holy Ghost. We seem, while reading it, to be
 listening to the voice of Isaiah or Jeremiah as, they uttered the mind
@@ -550,7 +550,7 @@ work we are in--to bind up the nation's wounds, and care for him who
 shall have borne the battle, and for his widows and orphans-to do all
 which may achieve and cherish a just and lasting peace among
 ourselves-among all nations."</p>
-               <p>These thoughts and words will live forever, for they are God's
+               <p pn="16">These thoughts and words will live forever, for they are God's
 thoughts and many of them His words. They ought to be written with the
 point of a diamond on the heart of the American people. Encircled with
 a halo of glory they should be inscribed among the stars of our
@@ -574,7 +574,7 @@ uttered them are sealed with an everlasting frost. A nation weeps as
 she has never wept before. Nay, the great throbbing heart of humanity,
 world-wide, is pressed with a weight of sorrow, such as she has seldom
 borne before.</p>
-               <p>We have lost not only a wise, sagacious, God-fearing ruler, but a
+               <p pn="17">We have lost not only a wise, sagacious, God-fearing ruler, but a
 <hi rend="italic">personal friend!</hi> ABRAHAM LINCOLN was the friend
 of humanity--"the friend of God." He was your friend. He was my
 friend. Color did not exclude from his presence or kindly
@@ -584,7 +584,7 @@ finer qualities of the man, the friend, the Christian. I doubt whether
 the heart of any <hi rend="italic">loyal</hi> man in the land would
 suffer greater anguish at the death of the dearest personal friend,
 than it suffers to day.</p>
-               <p>But in our grief that such a man is dead, we should not forget to
+               <p pn="17">But in our grief that such a man is dead, we should not forget to
 be grateful to God that such a man has lived. As God raised up Moses
 to be the great leader and deliverer, of his people, Israel, so he
 raised up ABRAHAM LINCOLN to guide our ship of state over the stormy
@@ -599,7 +599,7 @@ Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
 such a time, and that He preserved him alive until the death knell of
 rebellion was sounded--, and the angel of peace, with her wings of
 light, was hovering over a regenerated land.</p>
-               <p>But who has done this deed? Not <hi rend="italic">Booth</hi>, wretch
+               <p pn="18">But who has done this deed? Not <hi rend="italic">Booth</hi>, wretch
 and miscreant that he is-not he alone. He only gave expression to a
 spirit deeper, darker-more nearly allied to hell than even murder or
 assassination-the <hi rend="italic">spirit of slavery, secession, and
@@ -618,7 +618,7 @@ only one of a long catalogue of crimes instigated by this diabolical
 spirit. ABRAHAM LINCOLN is only another martyr to the cause of
 freedom, and another victim of this foul conspiracy against God and
 humanity.</p>
-               <p>What else could be expected from a class of fiends in human shape?
+               <p pn="18">What else could be expected from a class of fiends in human shape?
 I will not call them men, who have for years past rioted in wealth,
 wrought from the tears, groans, sighs, blood, and outraged virtue of
 their fellow-man-who have been schooled in lowest vice, and educated
@@ -635,7 +635,7 @@ who have fallen into their hands by the fortunes of war! Surely those
 who look for any thing better from them have not deeply studied the
 laws of cause and effect in morals, or calculated rightly the force of
 evil in a heart depraved.</p>
-               <p>And now, that the rebellion is substantially crushed--now that the
+               <p pn="19">And now, that the rebellion is substantially crushed--now that the
 war is practically over--what shall be our treatment of the authors
 and leaders of, the rebellion--the murderers of our noble President?
 Shall a weak, dangerous and wicked leniency prevail? Shall they be
@@ -649,7 +649,7 @@ murdered President answer. Let the spirits of those ancient worthies
 who fought, and bled, and died to bequeath to us this glorious
 heritage of freedom answer. Nay! let mercy, humanity, justice, GOD,
 answer.</p>
-               <p>If I mistake not, here is our chief peril now. It is not safe to
+               <p pn="19">If I mistake not, here is our chief peril now. It is not safe to
 trust men guilty of murder and treason for devils are devils still in
 hell or heaven. When God shall welcome Satan back to heaven, <hi rend="italic">then</hi> it may be safe; <hi rend="italic">but not till
 then!</hi> When nature's laws can be broken and the offender escape
@@ -662,7 +662,7 @@ Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
 justice can be overthrown and no calamities result-when law and order
 give place to anarchy and disorder, and no evil ensue--then it may be
 safe to let leading traitors go unhung--but not till then.</p>
-               <p>Generations past and generations to come, will hold us accountable
+               <p pn="20">Generations past and generations to come, will hold us accountable
 for a strict, a firm, and a righteous policy towards these engineers
 of the darkest plot against human happiness that any age or any clime
 has witnessed. A grand license will be taken out. by all the ring
@@ -679,7 +679,7 @@ its solicitous eyes. All, all conjure us, by all that is dear and
 sacred in the past; by all that is hopeful and inspiring in the
 future, and by all that is high and holy in principle, to act wisely,
 firmly, justly, ill matters so momentous.</p>
-               <p>When the startling news of this terrible calamity first fell upon
+               <p pn="20">When the startling news of this terrible calamity first fell upon
 my ear, I said the American people will yet learn that <hi rend="italic">treason is a crime</hi>. I have seen no reason yet to
 alter or amend that opinion. There was danger before. We were "losing
 a just appreciation of the awful crimes of this rebellion." It seemed
@@ -698,7 +698,7 @@ cemented before. Our institutions are dearer to us for every drop of
 patriot blood that has been shed in their defence. How shall then
 their value be enhanced a million fold since they have cost the
 nation's best and most precious heart's blood!</p>
-               <p>The blood of the martyrs has ever been the seed of the church and
+               <p pn="21">The blood of the martyrs has ever been the seed of the church and
 the blood of martyred freemen--of martyred LINCOLN--will generate a
 host of earnest patriots that can not be trifled with. I have not the
 faintest idea, nor is there, in my opinion, the slightest foundation
@@ -712,7 +712,7 @@ murdering him the rebellion has but heightened its guilt and
 accelerated its doom. As certain as the ordinances of heaven, and as
 swift as the lightnings of God, a just and righteous retribution shall
 overtake them.</p>
-               <p>Too well we know that "we can never secure indemnity for the past,
+               <p pn="21">Too well we know that "we can never secure indemnity for the past,
 for our wasted treasure and blood more precious than gold;" but by the
 help of God, we will "exact
 <pb n="22"/>
@@ -735,7 +735,7 @@ must know, that <hi rend="italic">treason</hi> is considered a <hi rend="italic"
 contemplate the disruption of the Republic, they must see the frowning
 gallows and a yawning hell before them of deter them from such
 stupendous villiany.</p>
-               <p>I am happy to believe that such a policy will be pursued; and as a
+               <p pn="22">I am happy to believe that such a policy will be pursued; and as a
 pledge of this, hear a few sentences from the last public speech of
 ANDREW JOHNSON, who now occupies the post of trust and responsibility,
 made vacant by the assassination of ABRAHAM LINCOLN. "When you ask me
@@ -770,10 +770,10 @@ leniency. I would say, 'return to your allegiance; renew your support
 to the government, and became a good citizen; but the <hi rend="italic">leaders</hi> I would hang. We have put down the traitors
 in arms; let us put them down in public judgment, and in the morals of
 the world."</p>
-               <p>Brave words---and true, and just, and right! God bless ANDREW
+               <p pn="23">Brave words---and true, and just, and right! God bless ANDREW
 JOHNSON and preserve him to carry out to the fullest extent the policy
 thus indicated!</p>
-               <p>And now, my countrymen-under the impressive solemnities of this sad
+               <p pn="23">And now, my countrymen-under the impressive solemnities of this sad
 hour-amid the tears and sighs of a stricken nation--around the open
 grave of our murdered but glorified President--with the spirits of
 Washington,

@@ -74,7 +74,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="eddy.001" n="The Martyr to Liberty." type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>The Martyr to
 Liberty</title> 
@@ -91,43 +91,43 @@ W. Smith</publisher>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="eddy1">
                   <figDesc>1st page of Richard Eddy's The
 Martyr to Liberty.</figDesc>
                </figure>
             </p>
-            <p>"The Martyr to Liberty."</p>
-            <p>THREE SERMONS</p>
-            <p>PREACHED IN THE</p>
-            <p>First Universalist Church,</p>
-            <p>PHILADELPHIA.</p>
-            <p>Sunday, April 16th, Wednesday, April 19th, and Thursday, June
+            <p pn="1">"The Martyr to Liberty."</p>
+            <p pn="1">THREE SERMONS</p>
+            <p pn="1">PREACHED IN THE</p>
+            <p pn="1">First Universalist Church,</p>
+            <p pn="1">PHILADELPHIA.</p>
+            <p pn="1">Sunday, April 16th, Wednesday, April 19th, and Thursday, June
 1st,</p>
-            <p>By RICHARD EDDY, Pastor.</p>
-            <p>PHILADELPHIA:</p>
-            <p>PUBLISHED BY HORACE W. SMITH</p>
-            <p>1865.</p>
+            <p pn="1">By RICHARD EDDY, Pastor.</p>
+            <p pn="1">PHILADELPHIA:</p>
+            <p pn="1">PUBLISHED BY HORACE W. SMITH</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="eddy2">
                   <figDesc>2nd page of
 Richard Eddy's The Martyr to Liberty.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="eddy3">
                   <figDesc>3rd page of
 Richard Eddy's The Martyr to Liberty.</figDesc>
                </figure>
             </p>
             <div2 id="eddy.002" n="AND THE VICTORY THAT DAY WAS TURNED INTO MOURNING UNTO ALL THE PEOPLE-1 Samuel, xix., 2." type="sermon">
-               <epigraph>
-                  <p>AND THE VICTORY THAT DAY WAS TURNED INTO MOURNING UNTO
+               <epigraph pn="3">
+                  <p pn="3">AND THE VICTORY THAT DAY WAS TURNED INTO MOURNING UNTO
 ALL THE PEOPLE-1 Samuel, xix., 2.</p>
                </epigraph>
-               <p>Until within a little more than twenty-four hours what
+               <p pn="3">Until within a little more than twenty-four hours what
 preparations had been made for a joyous keeping of this day and of
 to-morrow. How many had rejoiced in the assurance that the brightest
 Easter sun that ever shone upon the earth, would this day smile upon
@@ -143,21 +143,21 @@ full. But on the opening of the busy week, yes, before we had closed
 our eyes in slumber on the Sabbath night, still more glorious tidings
 had come to us, and the joyous messages increased as each day brought
 us nearer to this day of blessed rest.</p>
-               <p>How beautifully all material and religious influences
+               <p pn="3">How beautifully all material and religious influences
 seemed conjoined to make this day ever memorable for its joyous,
 instead of as now, alas! its sad observance!</p>
-               <p>I had advertised that I would speak to you (as suggested by
+               <p pn="3">I had advertised that I would speak to you (as suggested by
 this Resurrection Morn,) on the New Life for Man, through the power of
 the revelation of immortal life by the Resurrection of Jesus Christ,
 and on the New Life for the Nation, planted as the richest shoot of
 Christian civilization, and now destined to a glorious career under
 Christian guidance, and the strong fidelity of the people to Christian
 principle.</p>
-               <p>I had thought that we might thus honor God and profit our
+               <p pn="3">I had thought that we might thus honor God and profit our
 own hearts, by such an observance of Easter. How much there was to
 furnish analogy, illustration and suggestion, and to enable us to look
 with cheerful hope on the changing condition of our Country.</p>
-               <p>I thought of the beautiful illustrations, the encouragement
+               <p pn="3">I thought of the beautiful illustrations, the encouragement
 to confident trust, the incitements to patient and cheerful waiting,
 the every day increasing beauties, and the constant preparations for
 future harvests so beautifully visible in this joyous Spring-time How
@@ -180,7 +180,7 @@ has our beloved Country passed through. Stripped of how many comforts,
 pinched by how many wants, agonized by how many chilling blasts of
 adversity, crushed by how many cold and heavy troubles, our hearts
 aching with their burdens.</p>
-               <p>I thought, too, to have you feel a fresher and livelier
+               <p pn="4">I thought, too, to have you feel a fresher and livelier
 interest in that great religious event which makes this day so
 glorious. How appropriate it was, that it should fall on this
 Spring-time of the year,-man's resurrection symbolized by nature, and
@@ -188,7 +188,7 @@ realized by the rising of the Sun of Righteousness. What fitness there
 was, that our AngloSaxon fathers should redeem this day from its
 heathen observances-from at least its merely natural uses, and make it
 evermore a religious-a Christian festival.</p>
-               <p>I thought, too, to have said some word that should make it
+               <p pn="4">I thought, too, to have said some word that should make it
 be felt, that this day celebrates that event which more than any other
 gives assurance that the Christian Religion rests not in
 imagination,-a merely beautiful, but, perhaps, also, a fictitious
@@ -218,7 +218,7 @@ Let us seek adjustments, settlements, reconstructions on any basis
 foreign to the Christian truth, and we have all our work to undo and
 can find no rest, no peace, till we set our feet on this immovable
 rock.</p>
-               <p>I hoped, too, to have set forth some recent indication of
+               <p pn="5">I hoped, too, to have set forth some recent indication of
 the life on which the Nation is about to enter. How the downfall of
 the main army of Rebellion, and the notice consequent thereon, that
 there was to be no more calls for soldiers, had given all
@@ -228,9 +228,9 @@ so much goodness and greatness of heart, had won their way to all
 men's consciences, and seemed to unite us still more closely and more
 warmly in the consciousness of one citizenship, and oneness of just
 pride in our honest, able, noble-hearted, patriotic President.</p>
-               <p>These thoughts I had revolved in my mind; had hoped to have
+               <p pn="5">These thoughts I had revolved in my mind; had hoped to have
 presented them somewhat fully to you this morning.</p>
-               <p>Rising at an early hour yesterday, that I might have time
+               <p pn="5">Rising at an early hour yesterday, that I might have time
 to arrange and write out my theme, I heard the tidings of the
 assassination of our Chief Magistrate, which I am sure must have
 affected you as they affected me- absorbed all other thoughts, and
@@ -246,9 +246,9 @@ for morning, that we are come to the burial of our fondest love,
 rather than to bask in the sunlight of an immortal day, and mounting
 up on the wings of an all victorious faith to shout, "0, death, where
 is thy sting? 0, grave, where is thy victory ?"</p>
-               <p>Surely, "the victory of our day is turned into mourning
+               <p pn="5">Surely, "the victory of our day is turned into mourning
 unto all the people."</p>
-               <p>And here, under the pressure of this common, this deeply
+               <p pn="5">And here, under the pressure of this common, this deeply
 oppressive grief, what can I say ? what can any man say this day ? I
 find myself continually repeating: "The Nation is bowed heavily with
 mourning. The man beloved, trusted, honored, and worthy of all trust,
@@ -256,15 +256,15 @@ honor and affection, is suddenly taken away, and we, like bewildered
 travelers, are bereft of our guide; like orphaned children, we mourn
 the departure of our father!"</p>
                <pb n="6"/>
-               <p>
+               <p pn="6">
                   <figure entity="eddy6">
                      <figDesc>6th page of
 Richard Eddy's The Martyr to Liberty.</figDesc>
                   </figure>
                </p>
-               <p>Surely this expresses the common sentiment; it tells for
+               <p pn="6">Surely this expresses the common sentiment; it tells for
 the time being all that, humanly speaking, can be said.</p>
-               <p>Was there ever since the death of the saviour of the world,
+               <p pn="6">Was there ever since the death of the saviour of the world,
 a more brutal, a more uncalled-for murder? Private ambition, or
 personal hate, had nerved the hearts and hands of men in other days,
 to the destruction of their ruler. Patriots risking all, and applauded
@@ -276,7 +276,7 @@ change of administration was provided for them. But no such
 contingencies, no such circumstances distract our thoughts from the
 awfulness of this murder, or alleviate the gloom of this terrible
 calamity.</p>
-               <p>A good man, a pure patriot, a man unselfishly devoted to
+               <p pn="6">A good man, a pure patriot, a man unselfishly devoted to
 the best interests of his Country; a man who was carried by the voice
 of millions to the highest point of earthly trust and honor; who bore
 himself meekly; who never failed to favorably impress either friend or
@@ -287,23 +287,23 @@ regarded more and more as the one truly wise man of the land, and to
 be loved and trusted by the common people with an affection and
 reverence hardly second to that which a grateful Country cherishes
 towards its Founder and Father, George Washington.</p>
-               <p>And here, in the midst of a career so glorious, while
+               <p pn="6">And here, in the midst of a career so glorious, while
 standing on the height from which he could survey the promised future
 of a united and free people, just as the words of peace were to drop
 from his lips, and the promises of still greater mercy were about to
 be made to the guilty, he is taken from his work and from his earthly
 reward.</p>
-               <p>Strange infatuation of his enemies, that they did not see
+               <p pn="6">Strange infatuation of his enemies, that they did not see
 that he was their best and truest friend, who with truly Christian
 virtue was meditating their good.</p>
-               <p>Fatal blindness that struck so murderously against the two
+               <p pn="6">Fatal blindness that struck so murderously against the two
 men of the Nation, who more than all others in power and influence,
 were subduing the vindictiveness which war creates, and leading the
 people step by step to a willingness for this most kind and most
 merciful treatment of those who have sinned so deeply against the
 welfare of our land, and the interests of humanity. Woe unto them!
 Alas for us!</p>
-               <p>Great need have we to strive and pray, that this wrong of
+               <p pn="6">Great need have we to strive and pray, that this wrong of
 theirs does not fill us with vindictiveness and hate; and for him who
 thus
 <pb n="7"/>
@@ -320,7 +320,7 @@ sagacity have kept us from trouble with foreign powers, and made us
 even in the day of our weakness and our trial, to be feared and
 respected among all the nations. May God be pleased to spare our
 Secretary of State to us!</p>
-               <p>My friends, though the pressure of a great calamity rest
+               <p pn="7">My friends, though the pressure of a great calamity rest
 upon our hearts, and we know not what counsels may now prevail, let us
 not be discouraged. As on all future issues of our coin there is to be
 stamped the words, "In God we trust," so let us grave them upon our
@@ -331,16 +331,16 @@ dead, has pronounced all mourners blessed, and promises them
 comfort. He lives forever, and His truth is alone the salvation of man
 and of the Nation. Let us accept it, heed it, seek its influence, walk
 in the path which it marks out.</p>
-               <p>To be a Christian people, and a Christian Nation, is ever
+               <p pn="7">To be a Christian people, and a Christian Nation, is ever
 possible to us; and now more than ever its importance presses on our
 hearts.</p>
-               <p>The Rebellion against our Country is in its dying gasps;
+               <p pn="7">The Rebellion against our Country is in its dying gasps;
 let us not fear that this terrible woe that is upon us can at all
 revive it. The policy of him who has gone, will, let us trust, be so
 far commended to the judgment of his successor, that the difficulties
 of final adjustment will not be insurmountable, but that out of them
 we shall come forth united, free, and forever secure!</p>
-               <p>And for him who has gone; for the loved ones of his home
+               <p pn="7">And for him who has gone; for the loved ones of his home
 who are bowed in anguish; for all whose tears flow that his earthly
 career is closed, how abundant the comforts beaming in the rays of the
 Sun of this Resurrection Morn! Our beloved President still lives in
@@ -358,7 +358,7 @@ Richard Eddy's The Martyr to Liberty.</figDesc>
                   </figure>
                </p> -->
                <pb n="9"/>
-               <p>
+               <p pn="9">
                   <figure entity="eddy9">
                      <figDesc>9th page of
 Richard Eddy's The Martyr to Liberty.</figDesc>
@@ -366,11 +366,11 @@ Richard Eddy's The Martyr to Liberty.</figDesc>
                </p>
             </div2>
             <div2 id="eddy.003" n="AND THEY BURIED HIM, AND ALL ISRAEL MOURNED FOR HIM.-1st. Kings, xiv., 18." type="sermon">
-               <epigraph>
-                  <p>AND THEY BURIED HIM, AND ALL ISRAEL MOURNED FOR
+               <epigraph pn="9">
+                  <p pn="9">AND THEY BURIED HIM, AND ALL ISRAEL MOURNED FOR
 HIM.-1st. Kings, xiv., 18.</p>
                </epigraph>
-               <p>Something less than fifty years ago, a young lad, strong,
+               <p pn="9">Something less than fifty years ago, a young lad, strong,
 muscular, and somewhat overgrown, spent his days, axe in hand, in
 laborious work among the thick standing trees of what is now a densely
 populated State; and industriously gave the leisure of his nights to
@@ -392,7 +392,7 @@ every hand, can realize only in a very imperfect manner. But we know
 that on many pages of our history there are glorious records of the
 achievements of some of our best and mightiest, whose early home and
 whose educational privileges were such as I have just intimated.</p>
-               <p>In a few years, this lad, having reached the years of
+               <p pn="9">In a few years, this lad, having reached the years of
 manhood, qualifies himself by the study and use of rude materials for
 a change in the sphere of his labor, and traverses the great river of
 the West; then for a while becomes a trafficker in a small country
@@ -415,7 +415,7 @@ manifestation of its brutal spirit, he steps forth into the arena of
 popular debate, and taking as his antagonist the Giant of the West,
 goes with him before the people, to the discussion of the great
 questions of that hour.</p>
-               <p>From this time he is the favorite of thousands, and yet,
+               <p pn="10">From this time he is the favorite of thousands, and yet,
 the Country, as a whole, knows but little of him. A convention
 assembles to put forth a candidate for the Presidency, and here, men
 who knew his worth, and appreciated his strength, present his name,
@@ -458,7 +458,7 @@ Eddy's The Martyr to Liberty.</figDesc>
                   </figure>
 we looked forward to the day when he should take the reins of
 Government out of the weak hands in which they were then lying.</p>
-               <p>The time came for him to journey towards Washington. His
+               <p pn="11">The time came for him to journey towards Washington. His
 beloved townsmen gathered at the railway station to bid him
 Godspeed. Turning towards them, when he had stepped on the platform,
 he said: "My friends, no one not in my position can appreciate the
@@ -474,7 +474,7 @@ the same Almighty Being I place my reliance for support; and I hope
 you, my friends, will all pray that I may receive that Divine
 assistance without which I cannot succeed, but with which success is
 certain. Again, I bid you all an affectionate farewell!"</p>
-               <p>These solemn and loving words were conveyed on the
+               <p pn="11">These solemn and loving words were conveyed on the
 lightning wings to every town and hamlet. The people felt that a good
 man was indeed their leader; and in enthusiastic crowds they thronged
 his way, content even with a word, and invoking the blessing of God
@@ -493,7 +493,7 @@ Government, I shall speak, and speak as well as I am able, for the
 good of the present and of the future of this Country--for the good of
 the North and of the South--for the good of one and of the other, and
 of all sections of it."</p>
-               <p>Arrived in this city, the intense desire of the people was
+               <p pn="11">Arrived in this city, the intense desire of the people was
 again communicated to him; and standing in Independence Hall, he spoke
 the deep feelings of his heart. It is not unfitting, I trust,
 certainly not
@@ -544,13 +544,13 @@ the flag. I may, therefore, have said something indiscreet. I have
 said nothing but what I am willing to live by, and, if it be the
 pleasure of Almighty God, to die by."</p>
                <pb n="13"/>
-               <p>
+               <p pn="13">
                   <figure entity="eddy13">
                      <figDesc>13th page of
 Richard Eddy's The Martyr to Liberty.</figDesc>
                   </figure>
                </p>
-               <p>Inaugurated as Chief Magistrate of the Nation, the
+               <p pn="13">Inaugurated as Chief Magistrate of the Nation, the
 President spoke in his address the words which wakened hope and
 confidence. Kind and conciliatory to the erring, and assuring them
 that the door was wide open for their return; that whatever grievances
@@ -572,7 +572,7 @@ battlefield and patriot grave to every living heart and hearth-stone,
 all over this broad land, will yet swell the chorus of the Union, when
 again touched, as surely they will be, by the better angels of our
 nature."</p>
-               <p>But the pleading voice availed not. Unprincipled men had
+               <p pn="13">But the pleading voice availed not. Unprincipled men had
 determined that the Union should be destroyed, and they boldly went to
 their murderous work. Since then they have furrowed the land with war,
 shed the best blood of the Nation, carried desolation to every part of
@@ -600,7 +600,7 @@ Eddy's The Martyr to Liberty.</figDesc>
 army of the insurgents dissolved, and so glorious the prospect of
 speedy peace, that the word goes forth that no more are to be called
 from their homes to the field of battle.</p>
-               <p>And he who had waited so long and so patiently for this
+               <p pn="14">And he who had waited so long and so patiently for this
 day, upon whose mind and heart a great burden had lain these four long
 and anxious years; he, who, as Commander-in-Chief of the forces that
 had beaten down the Rebellion, possessed power never known before in
@@ -614,7 +614,7 @@ few brief words on reconstruction, as he had set forth at the first
 his determination to "preserve, protect and defend " the Constitution
 and the Laws; as kindly and as magnanimously as at the first he had
 assured the dissatisfied, that the way was open for their return.</p>
-               <p>How universal was the feeling that he was the one wise man
+               <p pn="14">How universal was the feeling that he was the one wise man
 of the land to conciliate, restore and make anew. If we had
 misgivings, it was not concerning his intellectual nor his executive
 ability, but that his heart was too warm, too generous, his offers too
@@ -660,7 +660,7 @@ alone fully expresses his relationship to us,-he was our worthy
 father; and if ever the voice of the people echoes the Divine mandate,
 the universal offering of our hearts and lips this day, is the voice
 of God.</p>
-               <p>We do not need, though we deeply feel how touchingly
+               <p pn="15">We do not need, though we deeply feel how touchingly
 appropriate it is, the great poet's command:</p>
                <lg type="stanza">
                   <l>"Bear hence his
@@ -671,7 +671,7 @@ regarded</l>
 herald!</l>
                   <l>Did follow to his urn."</l>
                </lg>
-               <p>For with a spontaneousness the American people never
+               <p pn="15">For with a spontaneousness the American people never
 disclosed before, we bow our heads in sorrow in this hour of his
 funeral. Death has, we know, been in our high places before, and in
 sadness we now recall the memory of our honored dead; but we do not
@@ -696,14 +696,14 @@ Eddy's The Martyr to Liberty.</figDesc>
                   </figure>
 respected and beloved by many, it cannot in truth be said that the
 mourning for them was general.</p>
-               <p>Death has also been once and again at the
+               <p pn="16">Death has also been once and again at the
 Capitol. :Harrison and Taylor died while in the high office of
 President. They were worthy men, and the nation bowed down heavily at
 their death; but no great national trouble had bound either of them
 with peculiar interest to the common heart. Diseases also gave warning
 of their dissolution, and for the tidings of their departure we were
 not unprepared.</p>
-               <p>But the death which has now brought thousands to the White
+               <p pn="16">But the death which has now brought thousands to the White
 House, and is filling all the churches with sincere and deeply
 afflicted mourners, has its special significance, not alone in its
 suddenness and the appalling circumstances of crime connected with it,
@@ -745,7 +745,7 @@ nature might stand up</l>
                   <l>And say to all the world-this is a
 MAN."</l>
                </lg>
-               <p>The President was loved and honored, and he is now so
+               <p pn="16">The President was loved and honored, and he is now so
 deeply mourned, because the trying years of his public service had
 revealed
 <pb n="17"/>
@@ -775,14 +775,14 @@ thronged around him,</p>
                   <l>In shape and gesture proudly eminent,</l>
                   <l>Stood like a tower."</l>
                </lg>
-               <p>Some of the grandest flights of oratory the world has ever
+               <p pn="17">Some of the grandest flights of oratory the world has ever
 witnessed, have been manifest on the great occasions which called men
 together during our great war, and noblest sentiments have</p>
                <lg type="stanza">
                   <l>"Flowed from lips wet with Castilian
 dew;"</l>
                </lg>
-               <p>but none of them have so taken the popular heart as the homely
+               <p pn="17">but none of them have so taken the popular heart as the homely
 phrases of Abraham Lincoln, and not one of these would the common
 people now exchange for the most classic oration that has been
 made. Ever appealing to the judgment of mankind, the responsive
@@ -828,7 +828,7 @@ of our good Father Abraham, our Emancipator!" and shall tell to their
 children, as the badges which they this day wear tell to all
 observers, "Abraham Lincoln, the black man's friend, was murdered by
 the black man's enemy."</p>
-               <p>Nor they alone shall shrine him in their hearts. Once we
+               <p pn="18">Nor they alone shall shrine him in their hearts. Once we
 were content to have him named "the man of our party;" once we
 rejoiced that he was hailed as "the man of the Nation," but now he is
 the man universally beloved. Death has cut the tie which bound him to
@@ -841,13 +841,13 @@ now, and Fame's,--</l>
                   <l>One of the few, the immortal names</l>
                   <l>That wore not born to die."</l>
                </lg>
-               <p>His memory is safe. No human events now can affect it,
+               <p pn="18">His memory is safe. No human events now can affect it,
 other than to add to its already unrivaled lustre. The great
 qualities, the private virtues, the noble and magnanimous bearing, the
 loving heart,--all that is precious, has received the seal of
 death.</p>
                <pb n="19"/>
-               <p>
+               <p pn="19">
                   <figure entity="eddy19">
                      <figDesc>19th page of
 Richard Eddy's The Martyr to Liberty.</figDesc>
@@ -859,7 +859,7 @@ Richard Eddy's The Martyr to Liberty.</figDesc>
 chill, nor rival steal,</l>
                   <l>Nor falsehood disavow."</l>
                </lg>
-               <p>We may picture him, and we shall for the admiration of the
+               <p pn="19">We may picture him, and we shall for the admiration of the
 world, as that</p>
                <lg type="stanza">
                   <l>"Divinely gifted man,</l>
@@ -881,7 +881,7 @@ fortune's crowning slope,</l>
                   <l>The pillar of a people's hope,</l>
                   <l>The centre of a world's desire!"</l>
                </lg>
-               <p>Good man, dear, warm-hearted lover of the race, farewell!
+               <p pn="19">Good man, dear, warm-hearted lover of the race, farewell!
 For thee the paean yields to the dirge, and the heart-horrors of the
 Nation prepare the solemn funeral pageant. For thee the requiem is
 sung with deepest pathos, its plaintive music rolling up from a
@@ -909,7 +909,7 @@ Richard Eddy's The Martyr to Liberty.</figDesc>
                   </figure>
                </p> -->
                <pb n="21"/>
-               <p>
+               <p pn="21">
                   <figure entity="eddy21">
                      <figDesc>21st page of
 Richard Eddy's The Martyr to Liberty.</figDesc>
@@ -917,16 +917,16 @@ Richard Eddy's The Martyr to Liberty.</figDesc>
                </p>
             </div2>
             <div2 id="eddy.004" n="THE RIGHTEOUS SHALL BE IN EVERBLASTING REMEMBRANCE.-Psalm cxii., 6." type="sermon">
-               <epigraph>
-                  <p>THE RIGHTEOUS SHALL BE IN EVERBLASTING REMEMBRANCE.-Psalm
+               <epigraph pn="21">
+                  <p pn="21">THE RIGHTEOUS SHALL BE IN EVERBLASTING REMEMBRANCE.-Psalm
 cxii., 6.</p>
                </epigraph>
-               <p>It is too soon for any man to attempt a comprehensive
+               <p pn="21">It is too soon for any man to attempt a comprehensive
 analysis of the life of him, to whose memory this day is set apart;
 and it is already too late to revive that intense sorrow which bowed
 us all to the dust during the days which elapsed between his death and
 his burial.</p>
-               <p>In the one case, we must wait for the revelation of the
+               <p pn="21">In the one case, we must wait for the revelation of the
 secrets faithfully deposited with those who stood near him, bearing
 the heat and the burden of our long and weary day of war; and in the
 other, we already see the hand of God so clearly manifest in bringing
@@ -936,7 +936,7 @@ of man praises God, and, banding the people together in more
 determined purpose for righteousness, is overruled for the greater
 attainment and security of the best things possible to the Nation and
 to the world.</p>
-               <p>What, then, can we do this day, except to repeat the lesson
+               <p pn="21">What, then, can we do this day, except to repeat the lesson
 of the text, and to seek a clear understanding and a faithful use of
 some of the duties and obligations which it imposes. The dead do not
 pass into oblivion. Each family has its memory of those whose goodness
@@ -958,13 +958,13 @@ immortality. " Our days are gone like a shadow, and we are withered
 like grass; but Thou, O Lord, shalt endure forever, and Thy
 remembrance throughout all generations."</p>
                <pb n="22"/>
-               <p>
+               <p pn="22">
                   <figure entity="eddy22">
                      <figDesc>22nd page of
 Richard Eddy's The Martyr to Liberty.</figDesc>
                   </figure>
                </p>
-               <p>From this consideration, we are led to feel not alone that
+               <p pn="22">From this consideration, we are led to feel not alone that
 we cannot overrate the power and the worth of moral influence, but,
 also, that it is the highest wisdom in us to imitate that which we so
 much admire, and which has the promise of endurance. It is this lesson
@@ -973,7 +973,7 @@ will help us to honor most worthily our departed President. It is, I
 am sure, the lesson which he desires us to accept and to
 heed. Standing over the remains of the thousands who had fallen on the
 soil of this State, President Lincoln thus spoke at Gettysburg:</p>
-               <p>"We are met on a great battle-field of this war. We have
+               <p pn="22">"We are met on a great battle-field of this war. We have
 come to dedicate a portion of this field as a final resting place for
 those who here gave their lives that the Nation might live. It is
 altogether fitting and proper that we should do this. But in a larger
@@ -990,7 +990,7 @@ here highly resolve that these dead shall not have died in vain; that
 this Nation, under God, shall have a new birth of freedom, and that
 government of the people, by the people, and for the people, shall not
 perish from the earth."</p>
-               <p>There is energy in these words; there is majesty in the
+               <p pn="22">There is energy in these words; there is majesty in the
 thought they express; and in some of the sentences there is most
 exquisite felicity of expression. Is there not now most singular
 appropriateness to himself, and to us who mourn for him? Standing, as
@@ -1013,29 +1013,29 @@ Eddy's The Martyr to Liberty.</figDesc>
 would have been unworthy of neither Hampden nor of Cromwell, while his
 gentleness and generosity of feeling towards his foes was almost
 greater than we should expect from either of them."</p>
-               <p>How solemnly grand do the closing words of that Inaugural
+               <p pn="23">How solemnly grand do the closing words of that Inaugural
 appear, now that he has passed away:</p>
-               <p>"Fondly do we hope, fervently do we pray, that this mighty
+               <p pn="23">"Fondly do we hope, fervently do we pray, that this mighty
 scourge of war may soon pass away. Yet, if God wills that it continue
 until all the wealth piled by the bondman's two hundred years of
 unrequited toil shall be sunk, and until every drop of blood drawn
 with the lash shall be paid with another drawn with the sword, as was
 said three thousand years ago, so still it must be said, 'the
 judgments of the Lord are true and righteous altogether."</p>
-               <p>"With malice toward none; with charity for all; with
+               <p pn="23">"With malice toward none; with charity for all; with
 firmness in the right, as God gives us to see the right, let us strive
 on to finish the work we are in; to bind up the Nation's wounds; to
 care for him who shall have borne the battle, and for his widow and
 his orphans; to do all which may achieve and cherish a just and
 lasting peace among ourselves and with all nations."</p>
-               <p>As he who uttered these words was righteous, because he was
+               <p pn="23">As he who uttered these words was righteous, because he was
 true to the right which God gave him to see, let us as earnestly
 desire to know and do our duty.</p>
-               <p>There are three things, which it seems to me eminently
+               <p pn="23">There are three things, which it seems to me eminently
 fitting, just and right, that we who love and honor the illustrious
 dead, and who love the cause and the country for which he gave his
 life, should demand and secure:</p>
-               <p>1. That justice shall have its course with those who
+               <p pn="23">1. That justice shall have its course with those who
 instigated and led in this Rebellion. I speak: not of revenge,
 certainly not of wild and furious retaliation, urging to mob force and
 to indiscriminate horrors which attend on personal hate. I clamor not
@@ -1067,7 +1067,7 @@ Statesmanship, and especially put from us the foolish thought, that as
 a people we shall yet be proud of the talents and skill, the daring
 and sacrifice, or even of the military genius and skill of the
 managers of the Rebellion.</p>
-               <p>I regard him as a corrupter of our public morals, an enemy
+               <p pn="24">I regard him as a corrupter of our public morals, an enemy
 to our good, an unsafe and ruinous teacher of our young, who couples
 the names of Davis, Stephens, Stonewall Jackson and Robert E. Lee, or
 any of their associates, with anything that can appeal to American
@@ -1078,7 +1078,7 @@ baseness. Let their name, as "the name of the wicked, <hi rend="italic">rot</hi>
 whose earthly existence was put out by their sins against the Nation
 and the race, demands that they go into the catalogue of the enemies
 of man.</p>
-               <p>2. Justice also demands of us the utter extinction of that
+               <p pn="24">2. Justice also demands of us the utter extinction of that
 great evil from which our troubles sprung. Rebellion, which killed its
 thousands upon the battle field, and starved and murdered its
 thousands in prisons; which was nourished by perjury, and culminated
@@ -1089,7 +1089,7 @@ its horrors in assassination, ever manifesting</p>
                   <l>And courage never to
 submit nor yield,"</l>
                </lg>
-               <p>had its birth in slavery-the vilest and the blackest slavery ever
+               <p pn="24">had its birth in slavery-the vilest and the blackest slavery ever
 known on God's earth; "founded," so said Abraham Lincoln, twenty-eight
 years ago, "on both injustice and bad policy." None so blind now that
 they cannot see that this curse created thc Rebellion; none should
@@ -1097,7 +1097,7 @@ fail to note the warning,, voice of Mr. Lincoln, as he said to the
 convention which put him in nomination for the United States Senate:
 "This government cannot endure permanently half slave and half
 free. It will become all the one thing, or all the other."</p>
-               <p>And now, if justice demands the crushing out of the
+               <p pn="24">And now, if justice demands the crushing out of the
 Rebellion, the punishment of its leaders, and the entire submission to
 the law, of all
 <pb n="25"/>
@@ -1126,7 +1126,7 @@ condemnation of others must in a great measure react and fall back on
 ourselves, our way out of the trouble lies only in our doing the works
 of righteousness, confessing our folly and sin, and bringing forth "
 the fruits of repentance."</p>
-               <p>3. And this leads me to a brief mention, in conclusion, of
+               <p pn="25">3. And this leads me to a brief mention, in conclusion, of
 the third great demand of justice upon us, which is, that we bring the
 State and the Nation to a recognition and maintenance of the equality
 of all men before the law. Slavery has not only ruled us in making us
@@ -1143,7 +1143,7 @@ dictates of Christianity, all the lessons of history, and given the
 most emphatic lie to our national boast of universal suffrage, and
 that "governments derive their just power from the consent of the
 governed."</p>
-               <p>Now in rebuking this, I am not asking for sympathy for the
+               <p pn="25">Now in rebuking this, I am not asking for sympathy for the
 negroes, nor intimating what charity and good will ought to lead us to
 do in their behalf; but I make an appeal to your moral sense, to what
 <pb n="26"/>
@@ -1163,7 +1163,7 @@ neck, and the name of his master marked upon it. That is where we came
 from; and it ought to smite us to the dust, that the prejudice which
 the Norman then had against the Saxon, we the children of slaves have
 dared to transfer to others.</p>
-               <p>Our assertion of the inferiority of the races is all a lie,
+               <p pn="26">Our assertion of the inferiority of the races is all a lie,
 falsified by all history, condemned by all the inspired testimony of
 God. And the very moment we attempt to say that the negro, trampled
 upon for ages, accursed, despised by the proud, made the slave of the
@@ -1175,7 +1175,7 @@ assertion. As another has well asked, "Will you exchange the negro for
 the Esquimaux--for the Pacific Islander--for the South American
 tribes?" An unqualified negative will be our answer to this, and in
 our answer behold the reproach of our foolish prejudice.</p>
-               <p>Now our wickedness lies in this, that boasting of universal
+               <p pn="26">Now our wickedness lies in this, that boasting of universal
 suffrage and of universal right, we suffer mere prejudice to give the
 lie to our pretensions. The question of universal suffrage I do not
 debate here, neither its use nor its dangers. I merely state our
@@ -1203,7 +1203,7 @@ all; and the accumulated power of those simple-minded, true-hearted,
 inflexibly loyal negroes, who have bared their breasts to the Southern
 fire and steel, have been mightier and worth more than the heaviest
 brain that plotted treason against the land.</p>
-               <p>No tribute to liberty, no homage to the Stars and Stripes
+               <p pn="27">No tribute to liberty, no homage to the Stars and Stripes
 has been more impressive and magnanimous than that offered by the
 despised ones who owed the Nation nothing; but who freely gave their
 all, that the traitors who owed the Nation everything might not
@@ -1214,7 +1214,7 @@ and are more than equal to the mass of our foreign voters. In loyalty
 they are unsurpassed by none who tread our soil. Righteousness
 requires that for them we establish justice and secure liberty. Let us
 meet the demand.</p>
-               <p>In hints, rather than by labored argument, still less of
+               <p pn="27">In hints, rather than by labored argument, still less of
 exhaustive presentation, I have given you, my brethren, these
 thoughts. I trust they have not been inappropriate in the memorial
 service of Him who has taught us that it is by following the right,

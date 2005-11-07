@@ -81,7 +81,7 @@ compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="vincent.001" n="A Sermon on the Assassination of Abraham Lincoln" type="text">
-            <head>
+            <head pn="1">
                <bibl> 
                   <title>A Sermon on the Assassination of Abraham Lincoln</title>
                   <date>Sunday Morning April 23, 1865</date> 
@@ -96,27 +96,27 @@ R.</author>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="vincent1">
                   <figDesc>1st page of Rev. Marvin
 R. Vincent's A Sermon on the Assassination of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>A SERMON</p>
-            <p>ON THE,</p>
-            <p>Assassination of Abraham Lincoln,</p>
-            <p>DELIVERED IN THE</p>
-            <p>FIRST PRESBYTERIAN CHURCH, TROY,</p>
-            <p>ON SUNDAY MORNING, APRIL 23, 1865,</p>
-            <p>BY THE PASTOR,</p>
-            <p>REV. MARVIN R. VINCENT.</p>
-            <p>TROY, N. Y.:</p>
-            <p>A. W. SCRIBNER, BOOK AND JOB PRINTER, CANNON
+            <p pn="1">A SERMON</p>
+            <p pn="1">ON THE,</p>
+            <p pn="1">Assassination of Abraham Lincoln,</p>
+            <p pn="1">DELIVERED IN THE</p>
+            <p pn="1">FIRST PRESBYTERIAN CHURCH, TROY,</p>
+            <p pn="1">ON SUNDAY MORNING, APRIL 23, 1865,</p>
+            <p pn="1">BY THE PASTOR,</p>
+            <p pn="1">REV. MARVIN R. VINCENT.</p>
+            <p pn="1">TROY, N. Y.:</p>
+            <p pn="1">A. W. SCRIBNER, BOOK AND JOB PRINTER, CANNON
 PLACE.</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="vincent2">
                   <figDesc>2nd page of
 Rev. Marvin R. Vincent's A Sermon on the Assassination of Abraham
@@ -124,23 +124,23 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="vincent3">
                   <figDesc>3rd page of
 Rev. Marvin R. Vincent's A Sermon on the Assassination of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p>TROY, April 24, 1865.</p>
-            <p>Rev. M. R. VINCENT:</p>
-            <p>
+            <p pn="3">TROY, April 24, 1865.</p>
+            <p pn="3">Rev. M. R. VINCENT:</p>
+            <p pn="3">
                <hi rend="italic">Dear Sir.</hi>--The
 undersigned having listened, with great pleasure, to your  discourse
 on the 23d instant on the death of our beloved President, and heartily
 approving its sentiments, respectfully request a copy of it for
 publication.</p>
-            <p>Very Respectfully, &#x0026;c.,</p>
-            <p>J. F. WINSLOW,			JOHN E. WOOL,<lb/>
+            <p pn="3">Very Respectfully, &amp;c.,</p>
+            <p pn="3">J. F. WINSLOW,			JOHN E. WOOL,<lb/>
 A. L. HOLLEY,			GILES B. KELLOGG, <lb/>DAVID
 COWEE,		J. A. MILLARD,<lb/>
 H. J. KING,			BENJ. H. HALL,<lb/>
@@ -151,16 +151,16 @@ G. V. S. QUACKENBUSH,	J. SHERRY,<lb/>
 N. DAVENPORT,		A. B. MORGAN,<lb/>
 M. I. TOWNSEND,		GEORGE H. CRAMER, <lb/>JESSE
 A. HEYDRICK.</p>
-            <p>TROY, April 25, 1865.</p>
-            <p>Maj.-Gen. JOHN E. WOOL,
+            <p pn="3">TROY, April 25, 1865.</p>
+            <p pn="3">Maj.-Gen. JOHN E. WOOL,
 Messrs. WINSLOW,</p>
-            <p>HOLLEY,
+            <p pn="3">HOLLEY,
 COWEE, KELLOGG, and others.</p>
-            <p>GENTLEMEN:</p>
-            <p>In accordance with your request I transmit
+            <p pn="3">GENTLEMEN:</p>
+            <p pn="3">In accordance with your request I transmit
 to you the manuscript of my discourse of the 23d inst.</p>
-            <p>Very Respectfully Yours,</p>
-            <p>MARVIN
+            <p pn="3">Very Respectfully Yours,</p>
+            <p pn="3">MARVIN
 R. VINCENT.</p>
             <pb n="4"/>
 <!-- blank page -->
@@ -172,7 +172,7 @@ Lincoln.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="vincent5">
                   <figDesc>5th page of
 Rev. Marvin R. Vincent's A Sermon on the Assassination of Abraham
@@ -180,12 +180,12 @@ Lincoln.</figDesc>
                </figure>
             </p>
             <div2 id="vincent.002" n="SERMON." type="sermon">
-               <head>SERMON.</head>
-               <epigraph>
-                  <p>2 SAMUEL, III. 38: "Know ye not that there is a
+               <head pn="5">SERMON.</head>
+               <epigraph pn="5">
+                  <p pn="5">2 SAMUEL, III. 38: "Know ye not that there is a
 prince and a great man fallen this day in Israel?"</p>
                </epigraph>
-               <p>The events of history are often like figures in relief. We see but
+               <p pn="5">The events of history are often like figures in relief. We see but
 one side of them, that which the artist chooses to represent. But this
 is not an <hi rend="italic">universal</hi> truth. Some events have a
 dramatic interest inherent in them. They are independent of the
@@ -196,7 +196,7 @@ would have been a mountain still; so such events stand out from their
 age, bearing their own character and speaking for themselves under all
 the misrepresentations of history. They convey their own great
 lesson. They resolutely strip from themselves all palliations.</p>
-               <p>Concurrent events, moreover, have often much to do with the
+               <p pn="5">Concurrent events, moreover, have often much to do with the
 sharpness with which these historic eras or incidents are cut. Often
 the accumulated
 <pb n="6"/>
@@ -211,7 +211,7 @@ the condensed power of a century is behind a word or a blow. Often
 too, contemporary events are so disposed as to heighten to the utmost
 the effect of a single deed, and to form a background against which
 its lines come out with preternatural sharpness.</p>
-               <p>If these characteristics ever united in any event, they do so in
+               <p pn="6">If these characteristics ever united in any event, they do so in
 that which brings us here to-day. Death is not a new event. Death in
 high places is not a strange thing, even to us who twice before this
 have been called to mourn over the nation's chief magistrate. Even
@@ -270,17 +270,17 @@ will dare to palliate, and to insure to them a detestation the
 bitterness of which shall, be intensified with every succeeding
 generation. God has forestalled the judgment of history, and on this
 act, at least., its decision shall be unanimous.</p>
-               <p>There then stands the fact in its terrific proportions. <hi rend="italic">Abraham Lincoln, President of the United</hi>
+               <p pn="8">There then stands the fact in its terrific proportions. <hi rend="italic">Abraham Lincoln, President of the United</hi>
                </p>
                <pb n="9"/>
-               <p>
+               <p pn="9">
                   <figure entity="vincent9">
                      <figDesc>9th page of
 Rev. Marvin R. Vincent's A Sermon on the Assassination of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>
+               <p pn="9">
                   <hi rend="italic">States, has been foully murdered by an
 assassin</hi>. Truly the murderer must have well studied the effect of
 contrasts. Had the deed been done when, as it is said, it was first
@@ -296,7 +296,7 @@ of the people, was rejoicing with the people. For the moment</p>
                <lg type="stanza">
                   <l>"Grim visaged war had smoothed his wrinkled front."</l>
                </lg>
-               <p>For a moment the nation that had sailed so long under the gloomy,
+               <p pn="9">For a moment the nation that had sailed so long under the gloomy,
 bristling head-lands of war, had caught a glimpse of a calm, open bay,
 with the sun of peace shining down on its green encircling hills. And
 for an hour the man whose shoulders had borne, for over four years,
@@ -316,7 +316,7 @@ to the current of the nation's joy. And in that hour of grateful
 relaxation the blow fell. The assassin, inspired with hellish daring,
 threw his life upon the issue, and to-day the nation mourns his
 success.</p>
-               <p>I will not dwell upon the horrible fact. It is my duty to-day to
+               <p pn="10">I will not dwell upon the horrible fact. It is my duty to-day to
 gather up its lessons as far as may be; and I go back now to my
 introductory thought that some of the deeds of history are the
 concentrated expression of a long train of previous events, giving in
@@ -344,7 +344,7 @@ cruel thing, and it would fain call itself by other names, and make
 its way under a mask. But thank God its name is written, and to-day it
 stands baptized in the name of the devil and all his angels as the
 spirit of <hi rend="italic">assassination and murder</hi>.</p>
-               <p>For, look you calmly at this thing. I ask the most strenuous
+               <p pn="11">For, look you calmly at this thing. I ask the most strenuous
 advocate of slavery, if there be one left, whether, in reason, we
 could expect any other development? Go back to the fundamental
 principle of this institution which enables a man to own another, and
@@ -496,7 +496,7 @@ luxuriantly; and even in their summer loveliness, the voice of
 brothers' blood shall cry from the ground. The plow shall turn up mute
 witnesses, and the fields, with their multitudinous relics of battle,
 be vocal with slavery's reproach.</p>
-               <p>And the West shall remember it. It shall keep 
+               <p pn="17">And the West shall remember it. It shall keep 
 <pb n="18"/>
                   <figure entity="vincent18">
                      <figDesc>18th page of
@@ -513,9 +513,9 @@ remains, and his obelisk shall stand when our beloved land shall have
 emerged purified and triumphant from this bloody ordeal, with its
 marble finger ever pointing to heaven in protest against the barbarism
 which tore him from the hearts of a loving people.</p>
-               <p>But I turn now from the authorship of this calamity to the
+               <p pn="18">But I turn now from the authorship of this calamity to the
 illustrious dead himself.</p>
-               <p>Our late beloved President, while in no sense a sectional
+               <p pn="18">Our late beloved President, while in no sense a sectional
 President, represented nevertheless a peculiar phase of our national
 life--its youngest, its most progressive side. The West was his
 birth-place; the West, that grand theatre where the pent up energy and
@@ -672,14 +672,14 @@ lost her best friend, and however little <hi rend="italic">we</hi> could
 afford to spare him, <hi rend="italic">she</hi> could afford it still
 less.</p>
                <pb n="25"/>
-               <p>
+               <p pn="25">
                   <figure entity="vincent25">
                      <figDesc>25th page of
 Rev. Marvin R. Vincent's A Sermon on the Assassination of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>The lightness and jocularity of which I have spoken, were but a
+               <p pn="25">The lightness and jocularity of which I have spoken, were but a
 veil for sterner traits. They were but as the waving verdure, flecked
 with passing shadows, and toyed with by every wind, yet growing upon
 the everlasting hills whose heart is rock, and whose foundations are
@@ -736,7 +736,7 @@ strength, his patriotism and his success. And this, it seems to me,
 after being near him steadily, and with him often for more than four
 years, is the principle by which, more than by any other, he being
 dead yet speaketh."</p>
-               <p>Oh! were it my lot to speak this day to men in high places, I would
+               <p pn="27">Oh! were it my lot to speak this day to men in high places, I would
 commend to him who comes to Abraham Lincoln's place, this trait above
 any in Abraham Lincoln's character. I would implore him by the great
 interests of humanity now committed to him, in view of the fact that
@@ -758,7 +758,7 @@ have his thought drawn into sympathy with the Divine purposes, there
 to be clad in the mantle of Lincoln's unswerving faith, and thence to
 come forth and place himself at the nation's head, girt with a
 sublimer strength, a purer patriotism, and a holier wisdom.</p>
-               <p>The elements of the President's intellectual character were not
+               <p pn="28">The elements of the President's intellectual character were not
 complex. It has been taken for granted that he did not exhibit the
 characteristics of a great statesman. But without presuming to deny
 this, I would not be too certain that he was wanting in the capacities
@@ -812,10 +812,10 @@ strong sense saved the Constitution from its greatest danger, the
 danger of tying its own hands; and this was what enabled him to cut
 the Gordian knot where some men would have found themselves
 embarrassed by a mere technicality or formula.</p>
-               <p>A recent article from the London <title>Spectator</title> so
+               <p pn="30">A recent article from the London <title>Spectator</title> so
 forcibly illustrates these views that I may be pardoned for quoting an
 extract:</p>
-               <p>"But without the advantages of Washington's education or training,
+               <p pn="30">"But without the advantages of Washington's education or training,
 Mr Lincoln was called from a humble station at the opening, of a
 mighty civil war to form a government out of a party in which the
 habits and traditions of official life did not exist. Finding himself
@@ -856,7 +856,7 @@ Lincoln.</figDesc>
                   </figure>
 gentleness and generosity of feeling towards his foes are almost
 greater than we should expect from either of them."</p>
-               <p>At once the representative fact of his administration, and that
+               <p pn="32">At once the representative fact of his administration, and that
 which distinguished it above any other in our history, is its
 relations to the great question of human bondage. In this respect his
 administration forms an era in the history of the race. The status of
@@ -962,26 +962,26 @@ rise from the grave in its fiery indignation. No, the hand cannot be
 found that shall rivet the chains again, and this deed of his shall
 stand in time to come, a monument more enduring than brass, whose
 inscription angels shall pause to read on their messages of peace.</p>
-               <p>But he could not be spared to us longer. His work here was
+               <p pn="36">But he could not be spared to us longer. His work here was
 done. Heaven had new and higher purposes concerning him which it does
 not reveal to us; and now that he has been so mysteriously and
 suddenly snatched from us, it becomes us to ask with all due
 reverence, "What does it mean?"</p>
-               <p>He must be presumptuous indeed who shall assume to interpret such a
+               <p pn="36">He must be presumptuous indeed who shall assume to interpret such a
 providence, and to say for what end this blow hath fallen. We can do
 little more than sit reverently at God's closed gates, and wait until
 He shall tell us more. Yet there are some thoughts so naturally
 suggested to us that we should not be justified in wholly passing them
 by.</p>
                <pb n="37"/>
-               <p>
+               <p pn="37">
                   <figure entity="vincent37">
                      <figDesc>37th page of
 Rev. Marvin R. Vincent's A Sermon on the Assassination of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>The juncture at which the event occurred is significant. The
+               <p pn="37">The juncture at which the event occurred is significant. The
 President was fully committed to a vigorous prosecution of the war,
 and to the submission of the rebels as the first condition of
 peace. He was re-elected on this basis over a man who, in all human
@@ -1076,14 +1076,14 @@ resolved to foster a public sentiment that shall from this time forth
 sternly silence the press or the man, no matter what his position,
 that dares to lift up a voice in favor of extenuation of treason.</p>
                <pb n="41"/>
-               <p>
+               <p pn="41">
                   <figure entity="vincent41">
                      <figDesc>41st page of
 Rev. Marvin R. Vincent's A Sermon on the Assassination of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p>As another lesson, we are taught to respect our own government
+               <p pn="41">As another lesson, we are taught to respect our own government
 more; to cherish it more fondly than ever. What has it done for us in
 the present crisis? There are nations where such an event would have
 blocked the wheels of legislation, and thrown all things into direst
@@ -1095,7 +1095,7 @@ retiring leader's bier pass out, to look for one moment on his beloved
 face, to exchange a word on his many virtues, and then closes up fast
 and firm round his successor, with a sterner determination to push its
 great work to its completion.</p>
-               <p>Again we are reminded "Little children keep yourselves from idols."
+               <p pn="41">Again we are reminded "Little children keep yourselves from idols."
 As much as any other people we are hero-worshipers. With all our
 vaunted independence, popular leaders sway us mightily. All through
 this conflict God's voice has been saying to us, as one after another
@@ -1116,7 +1116,7 @@ anxiously and tearfully asking: "What shall we do now?" but forward to
 where his pillar of fire moves steadily on through the night in solemn
 and mysterious majesty, and saying to our fainting hearts, "<hi rend="italic">God is left</hi>! and in the name of the Lord will we set
 up our banners."</p>
-               <p>And this event draws us more closely together. Around the coffin of
+               <p pn="42">And this event draws us more closely together. Around the coffin of
 our beloved dead we clasp hands, and feel shoulder touch shoulder, and
 even amid the bitterness of this bereavement it is a blessed thing to
 know that we are more nearly one than ever. If the South had striven
@@ -1158,7 +1158,7 @@ Lincoln.</figDesc>
 look upon the legitimate fruit of Southern principles, and from this
 time forth, in the name of God and humanity, come out from among them
 and be separate, and touch not the unclean thing.</p>
-               <p>And still we linger by the open grave. One look more ere the clods
+               <p pn="44">And still we linger by the open grave. One look more ere the clods
 fall and the tomb enfolds him in its cold embrace. Is it not some
 ghastly nightmare--some dreadful dream from which we shall awake by
 and by to find the nation still undisgraced by murder, and him still
@@ -1186,9 +1186,9 @@ lamentation;</p>
                   <l>Its storms
 roll up the sky.'</l>
                </lg>
-               <p>and the meekest of saints may find stern work to do. Up and be
+               <p pn="45">and the meekest of saints may find stern work to do. Up and be
 doing!"</p>
-               <p>We hear thee beloved leader, and here, beside thy tomb, we put off
+               <p pn="45">We hear thee beloved leader, and here, beside thy tomb, we put off
 our sackcloth and ashes and take our armor to ourselves again. We turn
 our faces to the future, and from under the shadow of this
 dispensation we go forth with girded loins and trimmed lamps and in

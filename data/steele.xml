@@ -38,7 +38,7 @@ Sermons Project</title>
 Rev. Richard H. Victory and Mourning. A Sermon Occasioned by the Death
 of Abraham Lincoln, Late President of the United States; Preached in
 the First Reformed Dutch Church, New-Brunswick, N. J., June 1st,
-1865. New-Brunswick, N. J.: Terhune &#x0026; Van Anglen's Press, Albany
+1865. New-Brunswick, N. J.: Terhune &amp; Van Anglen's Press, Albany
 St. 1865.</bibl>
          </sourceDesc>
       </fileDesc>
@@ -82,7 +82,7 @@ compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="steele.001" n="Victory and Mourning" type="text">
-            <head>
+            <head pn="1">
                <bibl> 
                   <title>Victory and Mourning</title> 
                   <date>June 1st, 1865</date>
@@ -90,80 +90,80 @@ compliance with TEI guidelines using TEILITE</item>
                   <author>Steele, Rev. Richard H.</author> 
                   <imprint>
                      <pubPlace>New-Brunswick, N. J.</pubPlace>
-                     <publisher>Terhune &#x0026; Van
+                     <publisher>Terhune &amp; Van
 Anglen's Press</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="steele1">
                   <figDesc>1st page of Rev. Richard
 H. Steele's Victory and Mourning.</figDesc>
                </figure>
             </p>
-            <p>Victory and Mourning.</p>
-            <p>A</p>
-            <p>SERMON</p>
-            <p>OCCASIONED BY THE DEATH OF</p>
-            <p>ABRAHAM LINCOLN,</p>
-            <p>LATE PRESIDENT OF THE UNITED STATES;</p>
-            <p>PREACHED IN THE</p>
-            <p>FIRST REFORMED DUTCH CHURCH.</p>
-            <p>NEW-BRUNSWICK, N.J.,</p>
-            <p>JUNE 1st, 1865,</p>
-            <p>By</p>
-            <p>REV. RICHARD H. STEELE,</p>
-            <p>PASTOR OF THE CHURCH.</p>
-            <p>NEW-BRUNSWICK, N. J:</p>
-            <p>TERHUME &#x0026; VAN ANGLEN'S PRESS,
+            <p pn="1">Victory and Mourning.</p>
+            <p pn="1">A</p>
+            <p pn="1">SERMON</p>
+            <p pn="1">OCCASIONED BY THE DEATH OF</p>
+            <p pn="1">ABRAHAM LINCOLN,</p>
+            <p pn="1">LATE PRESIDENT OF THE UNITED STATES;</p>
+            <p pn="1">PREACHED IN THE</p>
+            <p pn="1">FIRST REFORMED DUTCH CHURCH.</p>
+            <p pn="1">NEW-BRUNSWICK, N.J.,</p>
+            <p pn="1">JUNE 1st, 1865,</p>
+            <p pn="1">By</p>
+            <p pn="1">REV. RICHARD H. STEELE,</p>
+            <p pn="1">PASTOR OF THE CHURCH.</p>
+            <p pn="1">NEW-BRUNSWICK, N. J:</p>
+            <p pn="1">TERHUME &amp; VAN ANGLEN'S PRESS,
 ALBANY ST.</p>
-            <p>1865.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="steele2">
                   <figDesc>1st page of
 Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="steele3">
                   <figDesc>3rd page of
 Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                </figure>
             </p>
-            <p>Correspondence.</p>
-            <p>NEW-BRUNSWICK, JUNE 1ST, 1865.</p>
-            <p>REV. RICHARD H. STEELE,</p>
-            <p>DEAR SIR:-</p>
-            <p>The
+            <p pn="3">Correspondence.</p>
+            <p pn="3">NEW-BRUNSWICK, JUNE 1ST, 1865.</p>
+            <p pn="3">REV. RICHARD H. STEELE,</p>
+            <p pn="3">DEAR SIR:-</p>
+            <p pn="3">The
 undersigned, members of the Congregation of the First  Dutch Church,
 heard with profound satisfaction your discourse to-day. An utterance
 so distinct and manly, and so admirably adapted to the times,
 deserves, to be put into more enduring form, and to have a free
 circulation. The congregation earnestly desire to have it
 printed. Will you give it for the purpose?</p>
-            <p>Very truly yours,</p>
-            <p>JOHNSON LETSON,		DAVID COLE	       LEWIS
+            <p pn="3">Very truly yours,</p>
+            <p pn="3">JOHNSON LETSON,		DAVID COLE	       LEWIS
 APPLEGATE, <lb/>HENRY VAN  LIEW,		K. T. B. SPADE,        JOHN
 VAN DEVENTER, <lb/>JOHN R. VAN ARSDALE,             JOHN BRUNSON,
 DAVID CODDINGTON, <lb/>H. V. D. SCHENCK,		JOHN JOHNSON,    HENRY
 McDONALD, <lb/>R. A. VAN ARSDALE,                   G. S. VAN PELT,
 ISAAC V. VAN DOREN, <lb/>WILLIAM VAN DEURSEN.</p>
-            <p>NEW-BRUNSWICK, JUNE, 2D, 1865.</p>
-            <p>TO JOHNSON LETSON,</p>
-            <p>PROF. COLE, AND OTHERS:</p>
-            <p>Gentlemen:-</p>
-            <p>The
+            <p pn="3">NEW-BRUNSWICK, JUNE, 2D, 1865.</p>
+            <p pn="3">TO JOHNSON LETSON,</p>
+            <p pn="3">PROF. COLE, AND OTHERS:</p>
+            <p pn="3">Gentlemen:-</p>
+            <p pn="3">The
 discourse commemorative of our lamented Chief Magistrate, of which you
 make such kind mention, is at your disposal. I have no doubt that your
 just admiration for the Illustrious Dead has led you to overestimate
 the worth of the sermon, yet I yield to your wishes in the hope that
 we may all receive profit from the contemplation of a character so
 worthy of study and admiration as that of President Lincoln.</p>
-            <p>With great respect, your friend and Pastor,</p>
-            <p>RICHARD
+            <p pn="3">With great respect, your friend and Pastor,</p>
+            <p pn="3">RICHARD
 H. STEELE.</p>
             <pb n="4"/>
 <!-- blank page -->
@@ -174,20 +174,20 @@ Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="steele5">
                   <figDesc>5th page of
 Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                </figure>
             </p>
             <div2 id="steele.002" n="SERMON" type="sermon">
-               <head>SERMON.</head>
-               <epigraph>
-                  <p>2ND SAMUEL, 19; 2.</p>
-                  <p>AND THE VICTORY THAT DAY WAS
+               <head pn="5">SERMON.</head>
+               <epigraph pn="5">
+                  <p pn="5">2ND SAMUEL, 19; 2.</p>
+                  <p pn="5">AND THE VICTORY THAT DAY WAS
 TURNED INTO MOURNING UNTO ALL THE PEOPLE.</p>
                </epigraph>
-               <p>Never perhaps in the whole history of the world did two such
+               <p pn="5">Never perhaps in the whole history of the world did two such
 extremes of experience occur as that which our nation passed through
 during the second week of April last. Joy in its wildest delight, and
 sorrow in its deepest wail of anguish, in most rapid succession rolled
@@ -198,7 +198,7 @@ Capital of the rebellion was not only in our possession, but that now
 also the great army of the Confederacy under the leadership of its
 ablest General, had surrendered to the greatest living commander of
 the world, Lieutenant General Grant.</p>
-               <p>We remember how the daily papers greeted us that morning with the
+               <p pn="5">We remember how the daily papers greeted us that morning with the
 broad capitals--Union--Victory--Peace--The surrender of General Lee
 and his whole army--The work of Palm Sunday. This was the climax of
 glad tidings, and after the four long dark dreary years, years in
@@ -214,7 +214,7 @@ our armies, "Thanks be to Almighty God for the great victory with
 which he has this day crowned you and the gallant armies under your
 command," was enough to awaken the most latent patriotism, and to make
 each loyal heart beat with gratitude.</p>
-               <p>It was not altogether unlooked for. And yet it was so sudden in its
+               <p pn="6">It was not altogether unlooked for. And yet it was so sudden in its
 announcement; so promising in its significance; and even the
 circumstances connected with the capitulation, displaying in the
 character of our Lieutenant General the diplomacy of the statesman, as
@@ -242,7 +242,7 @@ H. Steele's Victory and Mourning.</figDesc>
 suffering, and make its way through the ages. All these emotions, and
 even more, than the most exuberant fancy could kindle, sent their
 surge of joy over the soul.</p>
-               <p>The next Sabbath was the Easter Sunday, the joyful festival of the
+               <p pn="7">The next Sabbath was the Easter Sunday, the joyful festival of the
 church. And the event of national victory occurring just at this
 juncture, it seemed as if the good God intended to link the salvation
 of our land with that event which was the crowning triumph of the
@@ -250,7 +250,7 @@ Redeemer's life--his Ressurrection from the dead. We were preparing to
 observe the day in this appropriate joyful manner, when in an hour all
 our hopes were dashed to the earth, and a chill of horror froze our
 very life-blood.</p>
-               <p>During that very week occurred Good Friday, the day on which our
+               <p pn="7">During that very week occurred Good Friday, the day on which our
 Lord was crucified, and ever kept in remembrance of that event in the
 history of the Christian church. The succeeding morning brought to us
 the intelligence of the most awful event that had ever occurred, save
@@ -283,8 +283,8 @@ fallen a victim of the dark assassin? We can only stand in profoundest
 awe before the scene. Did ever two such extremes of experience meet?
 Did human hearts ever touch two such opposite emotions? Verily, "The
 victory that day was turned into mourning unto all the people."</p>
-               <p>THE FUNERAL PROCESSION.</p>
-               <p>What a change has Providence made in the order of our
+               <p pn="8">THE FUNERAL PROCESSION.</p>
+               <p pn="8">What a change has Providence made in the order of our
 proceedings. We were on the eve of arranging great civic processions,
 and calling the people together to study the lessons of victory, and
 learn the duties now devolving upon the American citizen in this new
@@ -303,7 +303,7 @@ Joseph, the remains of our Chief Magistrate through the cities and
 villages of the land to his distant place of burial, among the people
 who knew and loved him well, and a nation following the bier as
 mourners.</p>
-               <p>Never among the events of history has there been such a pageant
+               <p pn="9">Never among the events of history has there been such a pageant
 witnessed as that; and its chief interest arose from the fact that it
 was the heart-felt expression of national grief. There have been great
 funeral processions upon earth. When Samuel died, all Israel was
@@ -320,7 +320,7 @@ her the love of the nation. When the ashes of Napoleon Bonaparte were
 brought back to France in his coffin, the whole land rose up to
 receive him at his coming, and the dead Emperor received more honor
 than the living hero.</p>
-               <p>But never was grief so profound and mourning so sincere, as that
+               <p pn="9">But never was grief so profound and mourning so sincere, as that
 which has followed the funeral march of Abraham Lincoln to his burial
 place at Springfield. In yonder city I stood for two hours beholding
 the funeral pageant following the train of the dead chieftain. And as
@@ -338,16 +338,16 @@ than have ever gazed upon the face of any other departed man. More
 eyes have looked upon the procession for sixteen hundred miles or
 more, by night and by day, by sunlight, dawn, twilight and torchlight,
 than ever before watched the progress of a procession."</p>
-               <p>THE
+               <p pn="10">THE
 MEANING.</p>
-               <p>We are here to inquire, why was all this mourning in the nation? Is
+               <p pn="10">We are here to inquire, why was all this mourning in the nation? Is
 there an adequate cause for this swelling grief of the land? My answer
 is-</p>
-               <p>I. <hi rend="italic">The man himself, his position, and the
+               <p pn="10">I. <hi rend="italic">The man himself, his position, and the
 circumstances of his death, warrant this expression of national
 mourning.</hi>
                </p>
-               <p>The man himself was simply Abraham Lincoln; in some respects no
+               <p pn="10">The man himself was simply Abraham Lincoln; in some respects no
 more than a man, and standing in the same relation to God with you and
 me. And yet in the native cast of his character, and in his training,
 he was a man of commanding influence and mark, with endowments mental
@@ -368,7 +368,7 @@ characters. We must take our estimate from the circumstances of his
 early, training, from the times in which he lived, the various
 disadvantages under which he established himself, and the native force
 of his intellect and heart.</p>
-               <p>He had by nature a kind, companionable, and jovial disposition,
+               <p pn="11">He had by nature a kind, companionable, and jovial disposition,
 free from every taint of vanity, adulation, or conceit of, his own
 greatness; and on the first interview he would awaken in one's mind a
 deep impression of solid worth, sound common sense, perfect simplicity
@@ -395,7 +395,7 @@ Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                   </figure>
 man only by his life, who felt toward him all the warmth of personal
 attachment.</p>
-               <p>In the character of his mind, and modes of thought and expression,
+               <p pn="12">In the character of his mind, and modes of thought and expression,
 he was entirely himself. While he was constitutionally slow in forming
 his plans, and arriving at a decision; this did not denote any
 weakness of character, or lack of moral courage. We know that he
@@ -410,7 +410,7 @@ every leading act of his administration was an act of his own
 mind. And when once formed no power could reverse his decision. He had
 made up his judgment deliberately, and with a sagacity which took in
 all its bearings, and after that he did not waver for a moment.</p>
-               <p>One striking peculiarity of the man was the style of his
+               <p pn="12">One striking peculiarity of the man was the style of his
 composition, and the character of his eloquence. This was his own as
 decidedly as were his manners, and personal appearance. He read few
 works, but we are informed that among his favorites, were Bunyan's
@@ -432,13 +432,13 @@ awaken a smile, yet what it lost in comeliness, it more than gained in
 point and vigor. His last inaugural address is a fair sample of his
 style of thought and expression; and its solemn religious tone seems
 to have been written under the shadow of approaching martyrdom.</p>
-               <p>That he was a sincere Christian we have every reason to believe
+               <p pn="13">That he was a sincere Christian we have every reason to believe
 from the frequent declarations of his lips, and the acts of his
 life. With a mind always pervaded with deep reverence for God and
 divine things, and chastened with many afflictions, he had the
 consciousness of the forgiveness of sin through atoning merits, of
 love to Jesus, and the character of an heir of his great salvation.</p>
-               <p>The place which our lamented President is to fill in history is not
+               <p pn="13">The place which our lamented President is to fill in history is not
 now ours to determine, though we have the privilege with others to
 form a philosophical estimate. The circumstances of his elevation to
 office will after a few years have elapsed be lost sight of, and
@@ -481,13 +481,13 @@ the pedestal of fame the perhaps externally ungraceful, but truly
 noble figure of Abraham Lincoln, as the great vindicator and conserver
 of our popular form of free institutions.</p>
                <pb n="15"/>
-               <p>
+               <p pn="15">
                   <figure entity="steele15">
                      <figDesc>15th page of
 Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                   </figure>
                </p>
-               <p>Passing from the man himself to the <hi rend="italic">position that
+               <p pn="15">Passing from the man himself to the <hi rend="italic">position that
 he occupied</hi>, and the <hi rend="italic">circumstances of his
 death</hi>, we justify the mourning of the nation when we reflect that
 he was our President. Contemplated in itself it was the death of one
@@ -504,7 +504,7 @@ and tear down the pillars of our national edifice. I know indeed that
 the act most signally failed--thanks to the overruling Providence of
 God; but the spirit in which it was conceived and executed was the
 very essence--the ripened fruit of this accursed rebellion.</p>
-               <p>The miserable wretch whose grave no one wants to know, and his aids
+               <p pn="15">The miserable wretch whose grave no one wants to know, and his aids
 and accomplices now on trial, did not stand alone. We are told by the
 Government that the plan was known by the authorities in rebellion,
 and approved by them. And I for my part believe that the Southern
@@ -541,7 +541,7 @@ Stanton, the job would be complete;" I believe that these men are
 capable of instituting the diabolical plot of the assassin to attempt
 the overthrow of a Government which they could not accomplish by the
 system of honorable warfare.</p>
-               <p>While we know that there are thousands at the South who look upon
+               <p pn="16">While we know that there are thousands at the South who look upon
 this closing drama of rebellion
 <pb n="17"/>
                   <figure entity="steele17">
@@ -562,13 +562,13 @@ rest. We may well justify a nation's tears. Though in the hour of
 triumph, we may well grieve, under a deep impression of the greatness
 of our loss. For surely "The victory that day was turned into mourning
 unto all the people."</p>
-               <p>II. <hi rend="italic">A principal part of the interest awakened
+               <p pn="17">II. <hi rend="italic">A principal part of the interest awakened
 arises from the circumstances connected with the times, the principles
 which have been brought to light by these circumstances, and God's
 meaning in our great national conflict now, so happily terminated.</hi>
                </p>
-               <p>VICTORY AND ITS LESSONS.</p>
-               <p>As far as its military features are concerned we have come to the
+               <p pn="17">VICTORY AND ITS LESSONS.</p>
+               <p pn="17">As far as its military features are concerned we have come to the
 close of the great rebellion; the greatest conflict through which any
 nation has ever passed. The end is not entirely reached, and there are
 difficult questions about reconstruction, which will need the wisest
@@ -586,7 +586,7 @@ bad better pursue. We are very willing to leave all these questions in
 the hands of Andrew Johnson, a man who keeps his own counsels, who
 makes up his mind carefully, who loves his country, who believes that
 treason should be punished, and who has no indecision of character.</p>
-               <p>During the progress of this war we have had prophecies almost
+               <p pn="18">During the progress of this war we have had prophecies almost
 without number, and as is often the case in reference to human
 calculations, most of them have failed. It is easier to study the
 lessons which God is teaching by the progress of events, than to
@@ -594,9 +594,9 @@ forecast the probable future. And there are certain great facts which
 have been brought to light by this contest and in its progress, and
 which have culminated in the death of President Lincoln, which we do
 well to understand.</p>
-               <p>I. <hi rend="italic">God has been on our side.</hi>
+               <p pn="18">I. <hi rend="italic">God has been on our side.</hi>
                </p>
-               <p>It is easy to see this now that the end is reached; though our
+               <p pn="18">It is easy to see this now that the end is reached; though our
 hearts sometimes trembled at the bloody way along which he was leading
 us. No other nation has ever passed through what ours has and lived,
 not even the Netherlands in that long contest with the combined powers
@@ -622,7 +622,7 @@ attempted to advance upon our Northern territory, and threatened to
 carry devastation through our cities and towns, and over our land. It
 would be foolish to deny to the Southern generals and armies a spirit,
 a determination, and a courage worthy of a better cause.</p>
-               <p>But in the midst of it all God has been with us, enabling us to
+               <p pn="19">But in the midst of it all God has been with us, enabling us to
 overcome. We have followed the march of General Grant, then almost
 unknown, in his triumphant way through the West, at Fort Donelson, and
 Corinth, and Vicksburgh; we saw our gallant officers of the Navy doing
@@ -651,21 +651,21 @@ into the heart of the capital, and in the end surrounding the great
 army of the rebellion in his iron grasp and grinding it to powder. It
 is impossible not to discover in all this the hand of God leading us
 to victory.</p>
-               <p>It has been brought to light that in this struggle Providence has
+               <p pn="20">It has been brought to light that in this struggle Providence has
 been against this Southern rebellion; and Providence is
 irresistible. The very weapons they had forged against us have been
 turned against themselves. And the whole scene as it lies before us is
 a picture of the wonderful Providence of God. How clearly is there
 revealed in all this a mightier will than human!</p>
-               <p>No one was more ready to recognize this than our lamented
+               <p pn="20">No one was more ready to recognize this than our lamented
 President. The secret of his wonderful patience, and strength and
 confidence of success, was his implicit trust in God. And among the
 pleasing recollections of his life are his proclamations of
 thanksgiving, calling upon the people to give thanks unto God who
 alone maketh us to triumph.</p>
-               <p>2.  <hi rend="italic">God means the end of Slavery.</hi>
+               <p pn="20">2.  <hi rend="italic">God means the end of Slavery.</hi>
                </p>
-               <p>If any man has lingering doubt on the subject, the recent Amnesty
+               <p pn="20">If any man has lingering doubt on the subject, the recent Amnesty
 Proclamation of President Johnson
 <pb n="21"/>
                   <figure entity="steele21">
@@ -677,7 +677,7 @@ most reluctant understanding. Slavery is dead, and buried so deep that
 it can never be raised again.  This is now an accepted fact, and one
 of  the lessons of Divine Providence. God meant that it should be
 destroyed, and there is written the result.</p>
-               <p>It has been a remarkable school of discipline through which we have
+               <p pn="21">It has been a remarkable school of discipline through which we have
 passed in coming to this result, but there is the fact; and we must
 accept it, or be blind to one of the plainest indications of the
 hour. The time has passed for us to enter into discussion upon this
@@ -692,7 +692,7 @@ war, than the arguments of philanthropists the world over. We now see
 more fully than ever what its spirit is; what a gigantic wrong
 national, social, and religious; and now that it is so near its end,
 we ought to sing praises and thank God fervently.</p>
-               <p>It would have been better for all classes if the evil of slavery
+               <p pn="21">It would have been better for all classes if the evil of slavery
 had been removed gradually and by the arts of peace. But if its end is
 near at hand, violently if it must be so, let all the people say
 Amen. To President Lincoln will belong the honor of giving to four
@@ -711,14 +711,14 @@ of professed liberty, such an institution as that of Slavery was a
 reproach to ourselves, and to the whole civilized world; and that it
 ought to die. And now that the end is so near reached, every Christian
 heart should rejoice.</p>
-               <p>3. <hi rend="italic">God intends that there shall be only one
+               <p pn="22">3. <hi rend="italic">God intends that there shall be only one
 Government in the land.</hi>
                </p>
-               <p>That question is now fixed, and if we have ever had any misgivings
+               <p pn="22">That question is now fixed, and if we have ever had any misgivings
 on the subject, we may as well amend our judgments, and come to the
 conclusion which has now been written in characters of blood, that
 this land is to be henceforth one and undivided.</p>
-               <p>There has been a class of men from the beginning of our national
+               <p pn="22">There has been a class of men from the beginning of our national
 existence, who have been haunted with the idea, that any State might
 withdraw from the Union, and enter upon its own independent
 career. That spirit Daniel Webster combated in his argument with Rayne
@@ -740,7 +740,7 @@ has given us a hard struggle, millions on millions of property, and
 more than half a million of precious lives, have been the price paid
 for our noble government. It has had a hard death, and the whole
 fabric of civilization has been shaken in its fall.</p>
-               <p>Secession in this land has been more than a ghost, it is a
+               <p pn="23">Secession in this land has been more than a ghost, it is a
 monster. The idea that any body of men can throw off their allegiance,
 and set up a power of their own, is a monstrous doctrine, and fraught
 with untold evil. But we have fought that radical error down. This is
@@ -749,7 +749,7 @@ fair advantages again. It is a controversy that is decided. Battle is
 the last dread argument, and it is conclusive. It is a fixed fact now
 and forever that in this system of government the majority shall elect
 the rulers, and the minority shall submit.</p>
-               <p>The shocking murder of President Lincoln in the hour of
+               <p pn="23">The shocking murder of President Lincoln in the hour of
 unsuspecting repose and in the moment of triumph, and the assassin's
 assault upon Secretary Seward, in the helplessness of sickness, and in
 the quiet of home; a scheme that was well arranged, and in open day,
@@ -766,10 +766,10 @@ Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                   </figure>
 President Lincoln under God, has been so complete, that we are left to
 gaze in perfect wonder on the dissolving scene.</p>
-               <p>4. <hi rend="italic">God means to show us that he alone gives the
+               <p pn="24">4. <hi rend="italic">God means to show us that he alone gives the
 victory.</hi>
                </p>
-               <p>It is said that Napoleon Bonaparte once made the remark "The
+               <p pn="24">It is said that Napoleon Bonaparte once made the remark "The
 Providence of God is always on the side of the heaviest battalions."
 The expression is so contrary to his doctrine of fixed fate, and is so
 entirely disproved by the great facts of history of which we know that
@@ -791,13 +791,13 @@ win who are on the righteous side; and it matters not what skill of
 generalship, what prowess of concentrated hosts, what desperate valor
 is arrayed against the right.  The victory is the Lord's.</p>
                <pb n="25"/>
-               <p>
+               <p pn="25">
                   <figure entity="steele25">
                      <figDesc>25th page of
 Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                   </figure>
                </p>
-               <p>More times than commanders of armies are willing to acknowledge has
+               <p pn="25">More times than commanders of armies are willing to acknowledge has
 it been shown, that the race is not to the swift, nor the battle to
 the strong. The feeble David's have crushed the mighty Golioth's, and
 in a way that puts to naught all the rules of scientific warfare. The
@@ -816,7 +816,7 @@ a patriot captain; and at her guns stood brave hearts fighting for
 their country and homes. On the deck of the other stood a man whose
 cause was unrighteous; and the crew were miserable hirelings who
 fought only for pay and plunder.</p>
-               <p>The whole scene of our civil contest has brought to light the fact,
+               <p pn="25">The whole scene of our civil contest has brought to light the fact,
 that it is God alone who has crowned us with victory. The work is a
 completed work; and he whom we lament to day acknowledged that while
 he labored with a patient heart, the result was the Lord's. All honor
@@ -838,10 +838,10 @@ of man. Every trumpet note was the clarion of liberty. And every
 victory shall send its triumph along the path of ages. Surely to the
 cause in which God is present, every man will be a hero, and the
 result is plain.</p>
-               <p>5. <hi rend="italic">God means the perpetuity of our free
+               <p pn="26">5. <hi rend="italic">God means the perpetuity of our free
 institutions.</hi>
                </p>
-               <p>A sublimer spectacle has not been witnessed than the inauguration
+               <p pn="26">A sublimer spectacle has not been witnessed than the inauguration
 of President Johnson, and the unanimity with which the people stand
 around his administration. In the midst of the most appalling
 circumstances, and at a most critical juncture, the Chief Magistrate
@@ -852,7 +852,7 @@ progress to cut off all the heads of government. Lieutenant General
 Grant was to have been one of the victims, and Secretary Stanton
 another. No one could tell but that a bullet from some unseen hand
 might pierce his heart.</p>
-               <p>But the leaders of the nation during that awful night did not waver
+               <p pn="26">But the leaders of the nation during that awful night did not waver
 for a moment in their allegiance to the government. In a short time
 after the death
 <pb n="27"/>
@@ -871,7 +871,7 @@ in the brief period of his office, has given us the promise of a
 wisdom so sagacious, and of a policy so sound, that we will trust him
 as the agent under a higher power, to complete the work of rebuilding
 the glorious edifice of our free institutions.</p>
-               <p>Let every Christian heart pray God that he will bless and prosper
+               <p pn="27">Let every Christian heart pray God that he will bless and prosper
 Andrew Johnson, and give him wisdom to bring back this land to its
 ancient renown. Let us all cherish for our country the best hopes and
 anticipations. Let us free our minds of prejudice, passion, and the

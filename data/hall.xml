@@ -38,7 +38,7 @@ Sermons Project</title>
             <bibl>Hall,
 Gordon. President Lincoln's Death: Its Voice to the People. A
 Discourse.  Preached in the First Church, Northampton, April 19,
-1865. Northampton, Mass. Trumbull &#x0026; Gere
+1865. Northampton, Mass. Trumbull &amp; Gere
 . . . . . Printers. 1865.</bibl>
          </sourceDesc>
       </fileDesc>
@@ -81,7 +81,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="hall.001" n="President Lincoln's Death: Its Voice to the People" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>President
 Lincoln's Death: Its Voice to the People </title> 
@@ -92,30 +92,30 @@ Lincoln's Death: Its Voice to the People </title>
                   <imprint>
                      <pubPlace>Northampton,
 Mass.</pubPlace>
-                     <publisher>Trumbull &#x0026; Gere . . . . . Printers</publisher>
+                     <publisher>Trumbull &amp; Gere . . . . . Printers</publisher>
                      <date>1865</date>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="hall1">
                   <figDesc>1st page of Gordon Hall's President
 Lincoln's Death: Its Voice to the People.</figDesc>
                </figure>
             </p>
-            <p>PRESIDENT LINCOLN'S DEATH;</p>
-            <p>Its Voice to the People.</p>
-            <p>A DISCOURSE</p>
-            <p>BY</p>
-            <p>GORDON HALL, D.D.,</p>
-            <p>Pastor of the Edwards Church.</p>
-            <p>PREACHED IN THE FIRST CHURCH, NORTHAMPTON,</p>
-            <p>April 19, 1865.</p>
-            <p>NORTHAMPTON, MASS.</p>
-            <p>TRUMBULL &#x0026; GERE PRINTERS</p>
-            <p>1865.</p>
+            <p pn="1">PRESIDENT LINCOLN'S DEATH;</p>
+            <p pn="1">Its Voice to the People.</p>
+            <p pn="1">A DISCOURSE</p>
+            <p pn="1">BY</p>
+            <p pn="1">GORDON HALL, D.D.,</p>
+            <p pn="1">Pastor of the Edwards Church.</p>
+            <p pn="1">PREACHED IN THE FIRST CHURCH, NORTHAMPTON,</p>
+            <p pn="1">April 19, 1865.</p>
+            <p pn="1">NORTHAMPTON, MASS.</p>
+            <p pn="1">TRUMBULL &amp; GERE PRINTERS</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="hall2">
                   <figDesc>2nd page of
 Gordon Hall's President Lincoln's Death: Its Voice to the
@@ -123,27 +123,27 @@ People.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="hall3">
                   <figDesc>3rd page of
 Gordon Hall's President Lincoln's Death: Its Voice to the
 People.</figDesc>
                </figure>
             </p>
-            <p>NORTHAMPTON, APRIL
+            <p pn="3">NORTHAMPTON, APRIL
 20TH, 1865.</p>
-            <p>REV. GORDON HALL, D. D.,</p>
-            <p>Dear Sir:</p>
-            <p>In common with our
+            <p pn="3">REV. GORDON HALL, D. D.,</p>
+            <p pn="3">Dear Sir:</p>
+            <p pn="3">In common with our
 fellow-citizens, we listened with great interest to your discourse
 delivered on the 19th inst., co-temporaneously with the funeral
 obsequies of the late lamented President of the United States.</p>
-            <p>Whatever may be the ultimate verdict of contemplative minds
+            <p pn="3">Whatever may be the ultimate verdict of contemplative minds
 on the suggestions contained in that discourse, we hesitate not to say
 that they are deserving of the most serious consideration, and we
 respectfully solicit a copy for publication. Your compliance with this
 request will gratify great numbers of your fellow-citizens.</p>
-            <p>WM. ALLEN, D.D., First
+            <p pn="3">WM. ALLEN, D.D., First
 Cong. Church,
 					<lb/>E. WILLIAMS, Deacon
 do.		do. 
@@ -161,18 +161,18 @@ Cong. Church,
 Church,
 					<lb/>J. S. BAKER, Deacon
 Baptist Church.</p>
-            <p>TO PRES. WM. ALLEN, D.D., and others.</p>
-            <p>The discourse which you
+            <p pn="3">TO PRES. WM. ALLEN, D.D., and others.</p>
+            <p pn="3">The discourse which you
 request for publication was, as you are aware, hastily prepared. Some
 of its points are not propositions or averments, but to use your own
 expression, "suggestions," not positive opinions in my own mind. If
 you believe that good would come of publishing the discourse, it is at
 your service.</p>
-            <p>Yours very
+            <p pn="3">Yours very
 respectfully,</p>
-            <p>GORDON
+            <p pn="3">GORDON
 HALL.</p>
-            <p>Northampton, April 21st, 1866.</p>
+            <p pn="3">Northampton, April 21st, 1866.</p>
             <pb n="4"/>
 <!-- blank page -->
 <!--            <p>
@@ -183,7 +183,7 @@ People.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p>
+            <p pn="5">
                <figure entity="hall5">
                   <figDesc>5th page of
 Gordon Hall's President Lincoln's Death: Its Voice to the
@@ -191,39 +191,39 @@ People.</figDesc>
                </figure>
             </p>
             <div2 id="hall.002" n="PRES. LINCOLN'S DEATH--ITS VOICE T0 THE PEOPLE." type="sermon">
-               <head>PRES. LINCOLN'S DEATH--ITS VOICE T0 THE PEOPLE.</head>
-               <epigraph>
-                  <p>PS. XLVI: 10.--BE STILL AND KNOW THAT I AM GOD.</p>
-                  <p>PS. XXXVI: 6.--THY JUDGMENTS ARE A GREAT DEEP.</p>
-                  <p>JOB XXVI: 14.--LO THESE ARE PARTS OF HIS WAYS; BUT HOW LITTLE A
+               <head pn="5">PRES. LINCOLN'S DEATH--ITS VOICE T0 THE PEOPLE.</head>
+               <epigraph pn="5">
+                  <p pn="5">PS. XLVI: 10.--BE STILL AND KNOW THAT I AM GOD.</p>
+                  <p pn="5">PS. XXXVI: 6.--THY JUDGMENTS ARE A GREAT DEEP.</p>
+                  <p pn="5">JOB XXVI: 14.--LO THESE ARE PARTS OF HIS WAYS; BUT HOW LITTLE A
 PORTION IS HEARD OF HIM?</p>
                </epigraph>
-               <p>GOD'S PROVIDENCE SOVEREIGN--UNSEARCHABLE--INSRUCTIVE,--these are
+               <p pn="5">GOD'S PROVIDENCE SOVEREIGN--UNSEARCHABLE--INSRUCTIVE,--these are
 the thoughts to occupy us.</p>
-               <p>THERE are times when we can only be still, wonder and
+               <p pn="5">THERE are times when we can only be still, wonder and
 adore. We are awe-struck. We cease from man and are thrown entirely
 upon a sovereign God. The only voice we hear bids us be still and know
 that it is God.</p>
-               <p>When, on wings of lightning, the intelligence went abroad
+               <p pn="5">When, on wings of lightning, the intelligence went abroad
 that our honored and beloved President had been assassinated, we were
 speechless with amazement and horror. We thought of God upon the
 throne,--of God as appointing all events. For the moment we forgot the
 pistol, the wound, the assassin, and in silent reverence bowed before
 the ever-living, only wise and sovereign God.</p>
-               <p>Then the distressing fact began to take possession of
+               <p pn="5">Then the distressing fact began to take possession of
 us. We realized it. The plot had succeeded. The assassin's weapon had
 done the deed. Murder accomplished--other murders
 attempted--blood-shedding not more extensive, only because frustrated
 by a merciful Providence.</p>
                <pb n="6"/>
-               <p>
+               <p pn="6">
                   <figure entity="hall6">
                      <figDesc>6th page of Gordon
 Hall's President Lincoln's Death: Its Voice to the
 People.</figDesc>
                   </figure>
                </p>
-               <p>Assassination in our Capital! The victim, the nation's
+               <p pn="6">Assassination in our Capital! The victim, the nation's
 President! Even so. We had thought, we had feared, he might die of
 over-exertion and fatigue, and of disease thus induced. We had not
 forgotten the attempt made upon his life on the way from his western
@@ -248,33 +248,33 @@ disclosed in the question which so many of us have heard and asked,
 What shall we now do? What is to become of us now? Much as is the
 throne of heaven were vacated. "God is a jealous God. His glory he
 will not give to another."</p>
-               <p>Perhaps it would have been too much glory for one man to
+               <p pn="6">Perhaps it would have been too much glory for one man to
 have conducted us quite through the perils and difficulties of these
 times. It was enough for Moses to lead the Lord's hosts through the
 wilderness. At the borders of Canaan his office ceased. Joshua must
 put God's elect into possession of the land of promise, and so Jehovah
 is seen the God of both Moses and Joshua.</p>
-               <p>Thus is God A SOVEREIGN. He can raise up an
+               <p pn="6">Thus is God A SOVEREIGN. He can raise up an
 instrumentality--employ it so long as seems good to him--then set it
 aside for another; while we, impotent, astounded, can only behold in
 silence, be still and know that it is God.</p>
                <pb n="7"/>
-               <p>
+               <p pn="7">
                   <figure entity="hall7">
                      <figDesc>7th page of Gordon
 Hall's President Lincoln's Death: Its Voice to the
 People.</figDesc>
                   </figure>
                </p>
-               <p>Not only SOVEREIGN is God's Providence, but UNSEARCHABLE. As it is
+               <p pn="7">Not only SOVEREIGN is God's Providence, but UNSEARCHABLE. As it is
 above our power, so is it beyond our comprehension.</p>
-               <p>How wonderful the raising up of this man! How few of us had
+               <p pn="7">How wonderful the raising up of this man! How few of us had
 thought of him as a candidate for the chief magistracy, before his
 nomination. And when the telegraph announced him as the man selected
 for the vote of the nation, how many of us inquired, Why? What have
 been his antecedents? What are his claims? What fitness has he for
 this supremely honorable and responsible position?</p>
-               <p>But what remarkable qualifications he developed!
+               <p pn="7">But what remarkable qualifications he developed!
 Conscientiousness--practical
 wisdom--independence--firmness--magnanimity and
 generosity-gentleness--power of endurance--control of men. We came to
@@ -288,7 +288,7 @@ sagacious ruler. And now that he is deceased we shall find them using
 towards him terms of high respect. Here, among ourselves, criticisms
 are hushed, political differences forgotten, party rancor nobly
 subdued and we are all one great family of mourners.</p>
-               <p>We had, I said, feared at times for his life. Early in his
+               <p pn="7">We had, I said, feared at times for his life. Early in his
 administration we had trembled, lest that same spirit which aimed a
 death-blow at the nation's life should strike for the life of its
 President. But so kindly had he been protected and spared, amid such
@@ -296,7 +296,7 @@ malignity and perils, that we had become confident, much as if we
 supposed him to possess a charmed life, under the divine
 guardianship. Then he was stricken down. Jehovah's judgments are a
 great deep.</p>
-               <p>Taken away, just when we wanted his practical
+               <p pn="7">Taken away, just when we wanted his practical
 sagacity--when great, difficult questions were coming up, calling for
 his wise intuitions. How common was it for our public prints to touch
 upon matters of vast concern soon to demand solu-
@@ -308,17 +308,17 @@ President Lincoln's Death: Its Voice to the People.</figDesc>
 tion, and then dismiss them with the conclusion, the President's good
 sense will guide him to the right result; better that, even, was
 sometimes said, than the deliberations of Congress.</p>
-               <p>We do not know why God has taken him just now--and why he
+               <p pn="8">We do not know why God has taken him just now--and why he
 allows such vindictive malice to triumph. God's ways are SOVEREIGN and
 UNSEARCHABLE. "Be still and know that I am God. Humble thyself under
 his mighty hand."</p>
-               <p>And yet God's ways are INSTRUCTIVE to us. We profoundly
+               <p pn="8">And yet God's ways are INSTRUCTIVE to us. We profoundly
 acknowledge the truthfulness of Job's exclamation, "How little a
 portion is heard of him;" but it is also true that these are "parts of
 his ways." Part of his plan we can understand. His ways and meaning we
 can interpret to some extent.</p>
-               <p>Among the lessons plainly taught us, this is one:--</p>
-               <p>That the Most High is not dependent upon instrumentalities
+               <p pn="8">Among the lessons plainly taught us, this is one:--</p>
+               <p pn="8">That the Most High is not dependent upon instrumentalities
 which seem to us indispensable. If consulted, we should have said
 ABRAHAM LINCOLN is the man, <hi rend="italic">the only man</hi>, for the
 place he occupies. We do not see upon whose shoulders his mantle could
@@ -333,7 +333,7 @@ hand. I almost thought Providence could not set forth the man. But the
 Infinite One is teaching us that he can work out his own plans--can
 lead on our republic to its destiny--without being limited to servants
 who seem to us indispensable.</p>
-               <p>Another part of God's way which we understand is the lesson
+               <p pn="8">Another part of God's way which we understand is the lesson
 of submission, and trust in him. Not a doubt this is a part of the
 instruction God would give us. We are to submit--and it is not to the
 treasonable plot that we submit, to the vindictiveness or malice of
@@ -348,7 +348,7 @@ hath not done it?" This momentous event has not taken place unbeknown
 to God. He is not surprised or taken at unawares. He has not been
 false to the rectitude and goodness of his character. For <hi rend="italic">some good end</hi> he has suffered it--<hi rend="italic">he
 knows why</hi>--we submit and we trust.</p>
-               <p>Another plain lesson from the event which brings us
+               <p pn="9">Another plain lesson from the event which brings us
 together is the call to thankfulness that our honored President was
 spared to do his great work. To conclude entirely this gigantic
 conflict--to adjust the terms of reconstruction --to bring the
@@ -366,7 +366,7 @@ had subdued the great rebellion--this was his work in our behalf. And
 NOW instead of complaining that we are bereaved of him, we will thank
 a favoring Providence that he was so long spared, to achieve for us
 blessings so invaluable.</p>
-               <p>Another lesson. We are called to gratitude that we have
+               <p pn="9">Another lesson. We are called to gratitude that we have
 hope for our deceased President as a christian man. We have not loved
 him in a manner altogether selfish--have we? Simply for what he was to
 us? We wished him good. It was a sincere ejaculation often uttered,
@@ -385,15 +385,15 @@ ways to God in prayer, and loved the Savior, he testified. That he
 rested his hope on the Great Redeemer, we believe, and that he has
 been called up higher,--his warfare accomplished,--the crown of the
 faithful bestowed upon him by the Prince of glory.</p>
-               <p>Furthermore, we know that <hi rend="italic">Mr. LINCOLN'S
+               <p pn="10">Furthermore, we know that <hi rend="italic">Mr. LINCOLN'S
 continuance in office would not have been so favorable to God's plan
 as his removal</hi>. How do we know that? Because God removed
 him. This proves it.</p>
-               <p>Now, my friends, I have a few plain, honest words to
+               <p pn="10">Now, my friends, I have a few plain, honest words to
 say. And be pleased not to misunderstand neither misrepresent. Honest
 words should be spoken and honestly received at the funeral of honest
 ABRAHAM LINCOLN.</p>
-               <p>I have, I trust, a conscientious regard for charity. I make
+               <p pn="10">I have, I trust, a conscientious regard for charity. I make
 a broad distinction between the instigators and leaders--the
 influential, responsible conspirators in this great rebellion and
 their deluded instruments. With the great mass of the common people at
@@ -406,13 +406,13 @@ No such thing. All these I would treat tenderly and afford them every
 facility, every inducement to return to allegiance and live
 comfortably again under the old flag of the union. I am willing to
 overlook the past and call such my Southern brethren.</p>
-               <p>But when it is proposed that the intelligent, deliberate,
+               <p pn="10">But when it is proposed that the intelligent, deliberate,
 persistent authors and master-spirits of this rebellion--the
 intentional and voluntary assassins of the nation, should be released
 from punishment--when you ask this, you ask me, for the sake of
 sparing traitors, myself to turn traitor to justice and my
 country. You ask too much.</p>
-               <p>But how much has this to do with
+               <p pn="10">But how much has this to do with
 Mr. Lincoln's death? I do not know. Perhaps nothing. I do not claim to
 have had
 <pb n="11"/>
@@ -424,13 +424,13 @@ People.</figDesc>
 access to heaven's counsels. Mark me, I do not assert,--I only
 inquire. Would the policy of Mr. LINCOLN have been too lenient? Was he
 tending, out of his great and good heart, to the extreme of mercy?</p>
-               <p>But is not <hi rend="italic">mercy a sacred thing</hi>? Yes,
+               <p pn="11">But is not <hi rend="italic">mercy a sacred thing</hi>? Yes,
 and I will tell you <hi rend="italic">what else is sacred</hi>. IT IS
 JUSTICE. Is not the Gospel full of mercy? Yes, and I will tell you
 why. Because atonement has been made--because justice was first
 satisfied--the law was first "magnified and made honorable." "Without
 the shedding of blood was no remission."</p>
-               <p>I believe it should be said, in truth, that at the outset
+               <p pn="11">I believe it should be said, in truth, that at the outset
 of this war, the great study was how to restore the union without
 harming slavery--the great study among our public men. And lately, it
 was getting to be the great question, how to reconstruct the union
@@ -444,14 +444,14 @@ sacrifice--whose blood was shed in warring with traitors--colored
 forces, the very men who first entered the city and planted the
 national banner there, must not be seen parading the streets, lest it
 should interfere with the prejudices and sensibilities of traitors.</p>
-               <p>For the same reason prayer must not be offered up in
+               <p pn="11">For the same reason prayer must not be offered up in
 Richmond for our President--and this was connived at. Well, <hi rend="italic">prayer was not offered; and a little after the President
 was assassinated.</hi>
                </p>
-               <p>It was even attempted to call back the flying rebels to ask
+               <p pn="11">It was even attempted to call back the flying rebels to ask
 their advice as to how we should reconstruct Virginia's government. I
 am not rehearsing fables. These are sober facts.</p>
-               <p>I am forced to believe we were on the way to a mischievous
+               <p pn="11">I am forced to believe we were on the way to a mischievous
 policy--well-meant, perhaps, but a mistaken and ruinous policy--one
 which would have brought back upon us a refluent wave of corruption,
 convulsion and distress. Treason was to be passed over as trivial. The
@@ -473,7 +473,7 @@ league together and be masters of state action. They could make their
 way back to Congress, renew covenant with unprincipled politicians of
 the South, and we should have all the intrigue and corruption, and
 violence and perils and war and blood-shed of days already past.</p>
-               <p>Perhaps God meant us better things--so took his own way and
+               <p pn="12">Perhaps God meant us better things--so took his own way and
 time to call us to vigilance and action. He showed us anew the temper
 of this conspiracy. Its ruthless malignity was to be disclosed in the
 assassination of our President. Who killed Mr. LINCOLN? The man that
@@ -482,7 +482,7 @@ was a mere out-growth of this great rebellion. The spirit which
 attempted that same life four years ago--which has massacred and
 starved our soldiers, which has shot down union men, has now
 culminated in the horrible deed of the President's assassination.</p>
-               <p>And this comes just at the time when the great military
+               <p pn="12">And this comes just at the time when the great military
 leader of the rebellion, with his associate officers and forces was
 let off, unhumbled even. How desperately we had fought! what
 sacrifices! what rivers of blood, to reach the advantage we had
@@ -509,7 +509,7 @@ given us to be thus made light of? The rebel-chieftain is let go with
 the honors of war. Then our President is stricken down in death. Did a
 voice from on high say, "Let this man go and thy life for it?" I do
 not affirm. I do not know.</p>
-               <p>But of this I am confident, that the Almighty has
+               <p pn="13">But of this I am confident, that the Almighty has
 undertaken in behalf of the enslaved, oppressed millions of the
 South. And this I know, that it is a dark day for the blacks when
 Northern leaders and the arch-conspirators of the South fraternize,
@@ -517,13 +517,13 @@ and we take the hands that are reeking with the blood of our brothers
 and sons and husbands. That was a dark cloud rising. Perhaps God meant
 to scatter it with the winds and bolts of his righteous
 indignation.</p>
-               <p>It <hi rend="italic">is</hi> scattered. This awful atrocity
+               <p pn="13">It <hi rend="italic">is</hi> scattered. This awful atrocity
 in our capital--this outbreak--this dread omen of the dangers which
 slumber beneath us will stir up the cry for vigor and justice. NOT FOR
 REVENGE, BUT JUSTICE. I am addressing men of sense. You know there is
 a difference between revenge and justice. Do not allow yourselves to
 be imposed upon by a juggle of words.</p>
-               <p>Oh! the nation's heart is reached when the nation's Father
+               <p pn="13">Oh! the nation's heart is reached when the nation's Father
 is murdered--that very man who most earnestly and tenderly sought the
 best interests of those, his Southern children, who, with parricidal
 arm, have laid him low in death. It was a second firing upon Sumter--a
@@ -531,9 +531,9 @@ firing upon the national life, which has fired the people anew to
 self-defense--to see that gentleness with such traitors is a suicidal
 crime, and to demand that they be put beyond the power of doing
 further mischief.</p>
-               <p>It is an event too which places in the chair a man whose
+               <p pn="13">It is an event too which places in the chair a man whose
 failing probably will not be a weak leniency.</p>
-               <p>We have just had reported to us views of our now President
+               <p pn="13">We have just had reported to us views of our now President
 Johnson, expressed at a meeting of Iowa citizens in
 <pb n="14"/>
                   <figure entity="hall14">
@@ -556,7 +556,7 @@ regarding them as the proper material for reconstructing the Southern
 states. For them he expressed deep sympathy--the betrayed and deluded
 masses--earnestly desiring their return to allegiance and their
 restoration to their former peace and prosperity.</p>
-               <p>The same views he expressed in a speech made just after the
+               <p pn="14">The same views he expressed in a speech made just after the
 taking of Richmond. "Death, he says, to the conspirators--clemency to
 their victims. I am in favor of leniency; but in my opinion evil-doers
 should be punished. I say this--the halter for intelligent,
@@ -565,11 +565,11 @@ has been deceived into the rebel ranks, I would extend leniency. I
 would say, Return to your allegiance, renew your support to the
 government and become a good citizen. But the leaders I would
 hang."</p>
-               <p>These are sound sentiments and the people will support him
+               <p pn="14">These are sound sentiments and the people will support him
 in them. It verily seems as if the time was at hand when other
 interests were to be held as precious as the honor and pride, the
 property and the sensibilities of traitors.</p>
-               <p>Perhaps Mr. LINCOLN died not only in God's good time but in
+               <p pn="14">Perhaps Mr. LINCOLN died not only in God's good time but in
 his own best time. I yield to no one in my veneration for that
 wonderful man. I know not whether I would assign him a place inferior
 even to that of Washington. But no man is infallible. What he would
@@ -595,7 +595,7 @@ not only served his country, but died for it. Too good, I almost
 think--too kind to deal with unscrupulous, truculent traitors--he has
 been taken to heaven, where there is a call only for gentle and loving
 ministries.</p>
-               <p>It becomes us to look earnestly at our own duty touching the
+               <p pn="15">It becomes us to look earnestly at our own duty touching the
 interests of justice--justice to the traitor--to the colored man--to
 our country. There are times when God insists upon the infliction of
 justice. His ancient covenant people he visited with defeat and
@@ -610,7 +610,7 @@ consummation be reached? I do not know. But it may be. Take care that
 we do not stand in the way of the Almighty's purposes. Some meaning
 and intent God doubtless has. It is not wrong to do justice. It may be
 wrong to withhold it.</p>
-               <p>It may be the duty of the people to hold meetings in their
+               <p pn="15">It may be the duty of the people to hold meetings in their
 respective towns, to frame resolutions or petitions, calm,
 <pb n="16"/>
                   <figure entity="hall16">
@@ -620,7 +620,7 @@ People.</figDesc>
                   </figure>
 firm, wise, and through their representatives at Washington to make
 their voice heard in our high places.</p>
-               <p>You and I shall not live
+               <p pn="16">You and I shall not live
 to see any other crimes so great as have been perpetrated by the
 instigators of this rebellion. It is not in human power to commit such
 crimes but once in many centuries--crimes so vast, far-reaching and
@@ -630,20 +630,20 @@ them pass your lips. Oh! a God of righteousness and equity must be
 incensed at seeing us execute the poor, ignorant deserter, while we
 excuse the clear-headed, deliberate, arch-traitor, and the eminent
 rebel-general at whose doors lies the blood of thousands.</p>
-               <p>It is comforting, I remark in closing, to reflect that God
+               <p pn="16">It is comforting, I remark in closing, to reflect that God
 can raise up for us men suited to our emergency. He who called Moses
 from the desert of Midian to conduct the Exodus of Israel--who called
 David from the sheep-fold to be a victorious and illustrious
 Ruler--who raised up our late President, our wise men and counsellors,
 our able Generals and gallant Admirals, can still supply our
 wants. "They shall not be ashamed that wait upon him."</p>
-               <p>We must rally around and support him who is now our
+               <p pn="16">We must rally around and support him who is now our
 President. By the constitution of the land and by the Providence of
 God, Mr. Johnson is now the President of this American Republic. We
 must accept such testimony in his favor as that of Gen. Burnside and
 Mr. LINCOLN, and give him our confidence, our prayers, our
 encouragement in every good word and work.</p>
-               <p>And now as our almost adorable ABRAHAM LINCOLN lies cold in
+               <p pn="16">And now as our almost adorable ABRAHAM LINCOLN lies cold in
 death--a benignant smile, it is said, resting upon his fixed and
 pallid countenance--Thou Great Departed, Emancipator and Patriot, we
 will adopt thy noble utterance, "Charity to all and malice for

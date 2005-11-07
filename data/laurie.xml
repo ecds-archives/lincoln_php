@@ -78,7 +78,7 @@ with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="laurie.001" n="Three Discourses" type="text">
-            <head> 
+            <head pn="1"> 
                <bibl> 
                   <title>Three
 Discourses</title> 
@@ -93,50 +93,50 @@ Mass.</pubPlace>
                   </imprint> 
                </bibl> 
             </head>
-            <p>
+            <p pn="1">
                <figure entity="laurie1">
                   <figDesc>1st page of Thomas Laurie's Three
 Discourses.</figDesc>
                </figure>
             </p>
-            <p>THREE</p>
-            <p>DISCOURSES</p>
-            <p>PREACHED IN</p>
-            <p>The South Evangelical Church</p>
-            <p>WEST R0XBURY, MASS.,</p>
-            <p>April 13th, 19th, and 23d, 1865,</p>
-            <p>BY THOMAS LAURIE.</p>
-            <p>Published by Request.</p>
-            <p>DEDHAM, MASS.:</p>
-            <p>PRINTED BY JOHN COX, Jr.</p>
-            <p>1865.</p>
+            <p pn="1">THREE</p>
+            <p pn="1">DISCOURSES</p>
+            <p pn="1">PREACHED IN</p>
+            <p pn="1">The South Evangelical Church</p>
+            <p pn="1">WEST R0XBURY, MASS.,</p>
+            <p pn="1">April 13th, 19th, and 23d, 1865,</p>
+            <p pn="1">BY THOMAS LAURIE.</p>
+            <p pn="1">Published by Request.</p>
+            <p pn="1">DEDHAM, MASS.:</p>
+            <p pn="1">PRINTED BY JOHN COX, Jr.</p>
+            <p pn="1">1865.</p>
             <pb n="2"/>
-            <p>
+            <p pn="2">
                <figure entity="laurie2">
                   <figDesc>2nd page of
 Thomas Laurie's Three Discourses.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p>
+            <p pn="3">
                <figure entity="laurie3">
                   <figDesc>3rd page of
 Thomas Laurie's Three Discourses.</figDesc>
                </figure>
             </p>
             <div2 id="laurie.002" n="DISCOURSE I." type="sermon">
-               <head>DISCOURSE I.</head>
+               <head pn="3">DISCOURSE I.</head>
                <argument>
-                  <p>Preached on Fast Day, Apri1 13, 1865, and repeated in
+                  <p pn="3">Preached on Fast Day, Apri1 13, 1865, and repeated in
 Rev. Mr. Edwards's Church, Dedham in the afternoon.</p>
                </argument>
-               <epigraph>
-                  <p>Ezra 8, 21: Then I proclaimed a Fast there at the river
+               <epigraph pn="3">
+                  <p pn="3">Ezra 8, 21: Then I proclaimed a Fast there at the river
 of Ahava, that we might afflict ourselves before our God, to seek of
 Him a right way for us and for our little ones, and for all our
 substance.</p>
                </epigraph>
-               <p>IT is written in holy scripture, "Is any addicted, let him pray. Is
+               <p pn="3">IT is written in holy scripture, "Is any addicted, let him pray. Is
 any merry, let him sing psalms." This is also the voice of nature. But
 sometimes an occasion of great joy is only a louder call for prayer,
 and such were the circumstances referred to in the text. That we may
@@ -160,7 +160,7 @@ disposed, to engage in the good work. He also encouraged such as could
 not go in person to send their contributions, and it is a remarkable
 fact, that in this royal edict the King of Persia acknowledged
 Jehovah, God of Israel, to be <hi rend="italic">the</hi> God.</p>
-               <p>In consequence of this proclamation, a company of nearly
+               <p pn="4">In consequence of this proclamation, a company of nearly
 fifty thousand went up to Jerusalem under Zerubbabel, and it is
 interesting to note that out of so large a multitude only eight
 thousand one hundred and thirty-six, or less than one in six, were
@@ -170,12 +170,12 @@ smallest of all beasts of burden. Yet though so poor, they carried up
 with them offerings to the amount of sixty-one thousand pieces of
 gold, and five thousand pounds of silver--this last worth about
 seventy-five thousand dollars.</p>
-               <p>Fourteen years after, a royal order was procured from
+               <p pn="4">Fourteen years after, a royal order was procured from
 Cambyses to put a stop to the work; but only three years after that,
 Darius Hystaspes commanded it to go on. He restored the sacred vessels
 plundered by Nebuchadnezzar, and appropriated sufficient from the
 royal tribute to meet all expenses.</p>
-               <p>Surely in all this Israel had abundant occasion for
+               <p pn="4">Surely in all this Israel had abundant occasion for
 praise. But in addition to this, Ezra, a scribe well instructed in the
 law, and devoted to the religious instruction of his people, received
 a commission from Artaxerxes Longimanus to go up to Jerusalem and
@@ -225,7 +225,7 @@ him, or any plague come nigh the camp. Thank God that faith is not
 confined to any one age, but shines out upon us from them all; and
 thank God that it still lives to the praise of Him who works in His
 waiting servants the work of faith with power.</p>
-               <p>My hearers, I need not tell you that to-day is a day of joy
+               <p pn="6">My hearers, I need not tell you that to-day is a day of joy
 far greater than that ancient joy in Persia, when those who carried
 Israel away captive became the builders and guardians of a renovated
 temple. A rebellion vaster, fiercer and more defiant than earth ever
@@ -242,7 +242,7 @@ peace. Peace, to all intents and purposes, has been wrenched from
 their unwilling hands. The arm that refused it has been broken--broken
 by the mightier power of Him who doeth His will in the army of heaven
 and among the inhabitants of the earth.</p>
-               <p>On Monday, when the news spread from city to city, and
+               <p pn="6">On Monday, when the news spread from city to city, and
 <pb n="7"/>
                   <figure entity="laurie7">
                      <figDesc>7th page of Thomas
@@ -260,7 +260,7 @@ praises are less impulsive, they are more hearty, for we have had time
 to think, to look at our mercies; and if not to grasp all their
 greatness, yet to let them sink into our hearts till they are running
 over.</p>
-               <p>My friends, we have very great occasion for praise, and no
+               <p pn="7">My friends, we have very great occasion for praise, and no
 doubt we shall soon have an opportunity for its expression; would that
 when it comes, it might find us in the spirit of him who wrote,
 "Praise ye the Lord, for it is good to sing praises unto our God, for
@@ -271,7 +271,7 @@ to-day. Even more than that pilgrim band at the river of Ahava, we
 have occasion for prayer as well as praise, and to that need let us
 now direct our thoughts, so that pleading, like that multitude by the
 river of Babylonia, we may, like them, prevail.</p>
-               <p>Why then, after so great victories, and in the midst of
+               <p pn="7">Why then, after so great victories, and in the midst of
 such universal joy, should we devote ourselves to the work of fasting
 and prayer? I answer, in brief, because much
 <pb n="8"/>
@@ -317,7 +317,7 @@ the sweet thought that each pain is purchasing their country's good,
 wake up to the greater agony of seeing the enemy sow tares in the
 field watered by their blood, while those who ought to have sowed it
 with good seed spend the time in thoughtless jubilation?</p>
-               <p>But you will ask, What can we do? We are private citizens;
+               <p pn="9">But you will ask, What can we do? We are private citizens;
 we fill no position of influence; we have no control over public
 affairs. Permit me, in all plainness, to answer: This last is not
 true. You may be private citizens; you may hold no office. But it is
@@ -346,7 +346,7 @@ because her people gave themselves up to revelry when they should have
 been every man at his post, alert and vigilant. And if now, when our
 destiny as a nation is taking new form, we be found among those who
 restrain prayer, shall we be guiltless?</p>
-               <p>I have already said, in various forms, that the present is
+               <p pn="10">I have already said, in various forms, that the present is
 a turning point of destiny. Look for a moment at some of the things
 that make it such. The fate of the leaders of this rebellion is now to
 be decided. They, with others now gone to appear before a higher
@@ -390,7 +390,7 @@ are of retribution; either in this world or the world to come, I
 tremble when I think what judgments may yet be in store for a land
 where "judgment is so turned away backward, and justice standeth afar
 off."</p>
-               <p>My hearers, we need prayer here to guard us on both
+               <p pn="11">My hearers, we need prayer here to guard us on both
 sides. On the one hand, from a passionate and ungodly wrath, that so
 far from being religious, unfits the soul for prayer; and on the
 other, from an antagonism to the demands of justice, which is, in
@@ -409,7 +409,7 @@ would not shrink from the difficult questions which our rulers must
 decide, and from the painful duties which they must perform? Can we do
 less than help them by our prayers, and still the more as we see the
 day approaching?</p>
-               <p>Then, besides the leaders, there is the whole population at
+               <p pn="12">Then, besides the leaders, there is the whole population at
 the South. What dark masses of perplexity mount the sky, with the
 approach of peace, like clouds driven by the storm. How can the guilty
 be punished, and the innocent saved from further suffering? How can
@@ -455,7 +455,7 @@ with its partizans, quick to insult and take offence, and slow to
 forget an injury. But I mean not to paint the picture in full; I only
 sketch such outlines as may serve to show the urgent need of prayer
 to-day.</p>
-               <p>Turn to another class, hitherto kept in the background, but
+               <p pn="13">Turn to another class, hitherto kept in the background, but
 now brought, by their God and ours, into unwonted prominence. Thank
 God, they are bondmen no longer, but freedmen. But does the
 Proclamation of Freedom complete the work? Nay, verily. The shackles
@@ -499,7 +499,7 @@ Laurie's Three Discourses.</figDesc>
 the gospel in which God stoops to the sinner in infinite love, that
 through the redemption that is in Christ He may lift him up to
 Heaven.</p>
-               <p>This gospel, and this alone, can fit the freedman for the
+               <p pn="15">This gospel, and this alone, can fit the freedman for the
 right discharge of his duties; and there is no other power that can
 transform rebels into loyal citizens. Armies can break their power,
 but grace alone can break their hearts, and teach them to look with
@@ -531,7 +531,7 @@ Laurie's Three Discourses.</figDesc>
 either our political or religious institutions than the rebels at the
 South, whom God may use to chastise His churches as He has used the
 other to chastise the nation.</p>
-               <p>But if we rightly discern the signs of the times; if in the
+               <p pn="16">But if we rightly discern the signs of the times; if in the
 spirit of our Master we meet the demands of the hour, all the
 deliverance God has wrought for us these four years on so many fields
 of strife; all the answers He has given to prayer for our rulers and
@@ -542,7 +542,7 @@ bless us with a still greater blessing. He will subdue rebel hearts as
 well as rebel armies. He will bless the negro in his new position, and
 we shall be that happy people whose God is the Lord.</p>
                <pb n="17"/>
-               <p>
+               <p pn="17">
                   <figure entity="laurie17">
                      <figDesc>17th page of Thomas
 Laurie's Three Discourses.</figDesc>
@@ -550,16 +550,16 @@ Laurie's Three Discourses.</figDesc>
                </p>
             </div2>
             <div2 id="laurie.003" n="DISCOURSE II." type="sermon">
-               <head>DISCOURSE II.</head>
+               <head pn="17">DISCOURSE II.</head>
                <argument>
-                  <p>Preached April 19th, the day of the Funeral of Abraham
+                  <p pn="17">Preached April 19th, the day of the Funeral of Abraham
 Lincoln.</p>
                </argument>
-               <epigraph>
-                  <p>1 Samuel 3, 18: It is the Lord. Let Him do what seemeth
+               <epigraph pn="17">
+                  <p pn="17">1 Samuel 3, 18: It is the Lord. Let Him do what seemeth
 Him good.</p>
                </epigraph>
-               <p>WE are all mourners to-day. At ordinary funerals, we see a little
+               <p pn="17">WE are all mourners to-day. At ordinary funerals, we see a little
 bereaved band, and a larger circle of spectators, sympathizing,
 indeed, but not suffering the distress of those immediately
 afflicted. On public occasions like this we are accustomed to see much
@@ -618,7 +618,7 @@ counter attractions? Here, too, we learned to love, as well as
 confide. Now and then things occurred to try our faith, but in the end
 they only rooted it the firmer. Each blast that swept over it only
 made it stronger for the next encounter with the storm.</p>
-               <p>The war
+               <p pn="19">The war
 lengthened out beyond all our anticipations. But still our leader
 stood firm--firm in his own principles--firm in the confidence of
 loyal men. Then came the time for a new election. Would not men grow
@@ -635,7 +635,7 @@ certainly turn against their steadfast deliverer. But not such was the
 will of God. You remember how He strengthened the heart of His
 faithful servant, and confounded His enemies by a result as gratifying
 as it was triumphant.</p>
-               <p>Thus was our confidence in the leader God
+               <p pn="19">Thus was our confidence in the leader God
 had given us
 <pb n="20"/>
                   <figure entity="laurie20">
@@ -648,7 +648,7 @@ him for his work. We loved to pray for him, and watch the blessings
 conferred on him in answer to prayer. So we went on; and though most
 of us had never looked on his honest face, we felt toward him as a
 father.</p>
-               <p>When the blow fell--O, how sudden, and how sore!--we could
+               <p pn="20">When the blow fell--O, how sudden, and how sore!--we could
 not work; we could not eat. We scarce knew what we did or said; one
 crushing weight pressed all hearts into the dust. We had just begun to
 feel at home with him; we were just tasting the sweets of unbounded
@@ -658,7 +658,7 @@ him enjoy the remainder of his presidential term in reaping the
 harvest ripened under his care. But his work is done, and well done;
 his race is finished, and we rejoice that his character is so
 universally appreciated as it is to-day.</p>
-               <p>It is customary, on such an occasion, to say a word of
+               <p pn="20">It is customary, on such an occasion, to say a word of
 comfort to the bereaved,--but :what shall I say? I cannot point you to
 all the reasons for such an event, for I know them not any more than
 you; but we can together enjoy the consoling thought--it is not
@@ -694,7 +694,7 @@ permitted sin at first, or why He allowed such a tempter to enter
 Eden. We only know that where sin abounds, grace does much more
 abound; and that the visit of Satan to destroy, gave occasion to the
 visit of Christ to save.</p>
-               <p>But why enlarge? Such things are tests of our confidence in
+               <p pn="21">But why enlarge? Such things are tests of our confidence in
 God; and however clouds and darkness may for a moment hide the sun,
 the Christian knows that it still shines--that there is a perfectly
 holy motive at the beginning--a pure and blameless management all the
@@ -724,7 +724,7 @@ done," but without any sinful agency of God on their minds inclining
 them so to act. Then do we not see clearly why we should adopt the
 language of the text, concerning this cowardly murder of our beloved
 chief magistrate, in humble and holy, aye, joy-giving faith?</p>
-               <p>For even if the course of events to-day, and for a long
+               <p pn="22">For even if the course of events to-day, and for a long
 time to come, should give no ray of light; though so far as tendencies
 and manifest results of Providence were concerned, we should be left
 in darkness, yet the character of God is so perfect that we cannot do
@@ -746,7 +746,7 @@ face and sing, "As for God, His way is perfect; a just God, without
 iniquity, just and right is He;" "Therefore will we not fear, though
 the earth be removed and the mountains be cast into the midst of the
 sea."</p>
-               <p>But God has not shut us up to such darkness. As though He
+               <p pn="23">But God has not shut us up to such darkness. As though He
 knew us too well to trust us in such entire absence of all sensible
 comfort, He has not left Himself without witness in this time of
 national calamity. For He has been with us all through the war, and
@@ -777,7 +777,7 @@ the nail thus driven home? What if it makes popular
 sentiment--proverbially fickle--as inflexible as the orbits of the
 stars? What if it secure a condemnation of this whole rebellion as
 lasting as the race?</p>
-               <p>But there is another view of this matter no less
+               <p pn="24">But there is another view of this matter no less
 encouraging. It is not in my heart to breathe one syllable in
 disparagement of the departed. I know it is the opinion of many that
 the heart now forever at rest was too tender for the stern work of
@@ -819,7 +819,7 @@ understand either duty or justice. It is one of the attributes of our
 God that He will by no means acquit the wicked. It is said in His
 praise, "Also unto Thee, O Lord! belongeth mercy, for Thou renderest
 to every man according to his works."</p>
-               <p>I said that public sentiment stood in the way of our
+               <p pn="25">I said that public sentiment stood in the way of our
 departed President, and hindered his performance of duty here; but his
 death has transformed that public sentiment. In murdering him, rebels
 removed the last barrier that stood between them and retribution. They
@@ -834,7 +834,7 @@ present prosperity, into a stern demand for righteousness. The great
 danger now is that the righteous demand for justice shall degenerate
 into a ferocious cry for vengeance, and so err as far on one side as
 it has done on the other.</p>
-               <p>It is a significant fact that at this moment Providence has
+               <p pn="26">It is a significant fact that at this moment Providence has
 called to the chair, so sadly vacated, a man who thus expresses his
 views and purposes: "I am in favor of lenity, but in my opinion
 evildoers ought to be punished." "Treason stands highest in the
@@ -842,7 +842,7 @@ catalogue of crimes." "The halter to intelligent, influential
 traitors; but to the honest man, deluded into the rebel ranks, I would
 show mercy." Later, "Let it be engraven on every heart, that treason
 is a crime, and traitors shall suffer its penalty."</p>
-               <p>Take it, my hearers, as a mark of Divine favor, that in a
+               <p pn="26">Take it, my hearers, as a mark of Divine favor, that in a
 day like this, He calls a man to be the President of our country who
 advances sentiments like these. Let us cherish revenge towards no man;
 but if blood must be shed, it is better that it should be that of the
@@ -865,7 +865,7 @@ Laurie's Three Discourses.</figDesc>
 benevolent than God. He calls us to no spirit of vengeance, but to
 such a reverent regard for right as shall make us willing to maintain
 it in His appointed way.</p>
-               <p>Four years ago we did not dare to hope that God would be
+               <p pn="27">Four years ago we did not dare to hope that God would be
 acknowledged in our land as He is to-day; that our coins would bear
 the inscription, "In God we trust;" that our rulers would implore the
 prayers of Christians; that our victories would be ascribed to
@@ -881,7 +881,7 @@ us give to his successor the confidence and love that we gave to him,
 and seek to turn the rushing stream out of the channel of blind
 revenge into that of holy, loving loyalty to God and right.</p>
                <pb n="28"/>
-               <p>
+               <p pn="28">
                   <figure entity="laurie28">
                      <figDesc>28th page of Thomas
 Laurie's Three Discourses.</figDesc>
@@ -889,16 +889,16 @@ Laurie's Three Discourses.</figDesc>
                </p>
             </div2>
             <div2 id="laurie.004" n="DISCOURSE III." type="sermon">
-               <head>DISCOURSE III.</head>
+               <head pn="28">DISCOURSE III.</head>
                <argument>
-                  <p>Preached on the Sabbath after the
+                  <p pn="28">Preached on the Sabbath after the
 Assassination.</p>
                </argument>
-               <epigraph>
-                  <p>Gen. v, 5: And all the days that Adam lived were nine
+               <epigraph pn="28">
+                  <p pn="28">Gen. v, 5: And all the days that Adam lived were nine
 hundred and thirty years, and he died.</p>
                </epigraph>
-               <p>MAN was formed of the dust of the ground, and so was named Adam:
+               <p pn="28">MAN was formed of the dust of the ground, and so was named Adam:
 i.e., red earth. Was it not intended that thus his name should be a
 constant memento of the word, "Dust thou art, and unto dust shalt thou
 return"? It may seem inconsistent with this that he should live
@@ -936,7 +936,7 @@ wherein dwelleth righteousness. But even after so long a life, Adam
 died, and though Jared and Methuselah both lived longer than he, yet
 of them, also, the short biography closes with the same record: "and
 he died."</p>
-               <p>It might not be profitable to dwell on the life and death
+               <p pn="29">It might not be profitable to dwell on the life and death
 of our first parent. For we know so little of the incidents that
 filled up those nine hundred and thirty years, that we can only
 imagine what they were. But we need not go so far away. These emblems
@@ -952,7 +952,7 @@ Laurie's Three Discourses.</figDesc>
 to die, and after death, the judgment. Yes, we shall follow after
 him--every one of us in his time--and of us it shall be true, as it
 now is true of him, that we shall not return.</p>
-               <p>The death of our beloved President, then, admonishes us
+               <p pn="30">The death of our beloved President, then, admonishes us
 that exalted station is no shield from death. Men sometimes have the
 feeling that while ordinary mortals die, those lifted up to
 responsible positions have a firmer hold on life; that Providence owes
@@ -966,7 +966,7 @@ moment, without delay. And if it was so with him on whom rested so
 much of responsibility and such great interests, much more is it true
 of us. As with a trumpet voice this Providence says to you and me,
 "Prepare to meet thy God."</p>
-               <p>There is another feeling somewhat akin to this, which leads
+               <p pn="30">There is another feeling somewhat akin to this, which leads
 us to expect that a man zealously engaged in a good work will be
 allowed to finish it; that if it involve the welfare of millions of
 his fellowmen, and he prosecutes it with rare discretion or unusual
@@ -991,7 +991,7 @@ strong ones, who use their strength so profitably, how is it with us?
 Does not this Providence say to you and me, "Whatsoever thy hand
 findeth to do, do it with thy might, for there is no work nor device
 nor knowledge nor wisdom in the grave whither thou goest."</p>
-               <p>After these things, I need not speak of that very common
+               <p pn="31">After these things, I need not speak of that very common
 but far less reasonable feeling, that when, after passing through much
 tribulation, our feet are on the verge of quiet enjoyment, God will
 surely suffer us to live to see it; or that when, through much toil
@@ -1003,7 +1003,7 @@ saith concerning such hopes. After long and patient toil we may say to
 our souls: "Soul! thou hast much good laid up for many years; take
 shine ease." But another may say: "Thou fool, this night thy soul
 shall be required of thee."</p>
-               <p>So, too, we may have said, Life is indeed uncertain, but
+               <p pn="31">So, too, we may have said, Life is indeed uncertain, but
 God will give me some warning ere he takes it away. He may not allow
 me to finish the undertaking in which I am engaged, but He will let me
 know when He would have me
@@ -1017,7 +1017,7 @@ needful before probation ends. My hearers, it is written of one, "I
 gave her space to repent, and she repented not." God is now giving us
 the same, and of how many may the recording angel write this moment,
 "not repented?"</p>
-               <p>But let this Providence speak--"The Lord said unto Moses,
+               <p pn="32">But let this Providence speak--"The Lord said unto Moses,
 get thee up into this Mount Abarim, and see the land which I have
 given unto the children of Israel, and when thou hast seen it, thou
 shalt be gathered unto thy people." But did He give any such warning
@@ -1031,7 +1031,7 @@ nation? Oh, that it might be heeded! Oh, that along with the universal
 grief might be a heart to hear the voice of Him who says, "Be ye
 therefore ready also, for in such an hour as ye think not the Son of
 Man cometh."</p>
-               <p>And here I am constrained to turn aside a moment to another
+               <p pn="32">And here I am constrained to turn aside a moment to another
 lesson of this great national sorrow: From whatever side we view it,
 we are appalled by its magnitude. Like some lofty peak that rises so
 far above the rest of the mountain range that it seems to stand alone,
@@ -1085,7 +1085,7 @@ keep the heart with all diligence, because out of it are the issues of
 life; to cultivate those inward graces, whose praise is not of men but
 of God--the nation might have been spared the tears it weeps
 to-day.</p>
-               <p>Through such a crime, in such a place, by such a hand, God
+               <p pn="34">Through such a crime, in such a place, by such a hand, God
 points us to those words of Jesus: "By their fruits ye shall know
 them;" and bids us decide which we shall choose for our children--the
 education of the theatre or of the church: of the book of plays, or
@@ -1097,7 +1097,7 @@ steady conflict with evil, that makes meet for an inheritance among
 the saints in light. Here is the training for adultery, treason and
 murder. There is the training to be like Christ, and be with Him where
 He is.</p>
-               <p>Some may fear that the death of so good a man in such a
+               <p pn="34">Some may fear that the death of so good a man in such a
 place may draw multitudes within its gates. But the fact that it
 trained his assassin for that deed of blood; that it blinded him to
 its damning infamy so as to glory in shame, from which a good
@@ -1112,7 +1112,7 @@ or no depends on the character of each spectator of the crime. But its
 testimony concerning the influence of the theatre is one which no good
 man will fail to regard; and in this matter, as a parent soweth, so
 shall not only himself but his children reap.</p>
-               <p>We speak of being prepared for sudden death. It has become
+               <p pn="35">We speak of being prepared for sudden death. It has become
 a stereotyped phrase, "so to live every day as if it were our last;"
 but have we a definite idea of what such a life involves? It is not a
 few hasty prayers sandwiched between a life of ungodliness and our
@@ -1140,11 +1140,11 @@ Laurie's Three Discourses.</figDesc>
                   </figure>
 It is easy to do this; but that is not laying up treasure in
 Heaven.</p>
-               <p>On this point the life of our martyred President speaks as
+               <p pn="36">On this point the life of our martyred President speaks as
 loudly as his death. Says one who knew him intimately ever since he
 entered on the duties of the office he performed so well, and here I
 condense somewhat the testimony of his pastor, Rev. Dr. Gurley:</p>
-               <p>"He deserved the confidence and love of the nation by the whole
+               <p pn="36">"He deserved the confidence and love of the nation by the whole
 tenor and spirit of his life. Always and everywhere he endeavored to
 be right and to do right. His integrity was thorough and
 incorruptible, all pervading and all controlling. It was the same in
@@ -1170,7 +1170,7 @@ success, and by this
 Laurie's Three Discourses.</figDesc>
                   </figure>
 more than by any other excellence, he being dead, yet speaketh."</p>
-               <p>So did President Lincoln perform the duties of each day;
+               <p pn="37">So did President Lincoln perform the duties of each day;
 and so through trust in the atoning blood of Jesus was he prepared to
 die. God grant that while we seek to be found in Christ, not having
 our own righteousness, but that which is through the faith of Christ,
@@ -1210,7 +1210,7 @@ wrath, tribulation and anguish upon every soul of man that doeth evil,
 of the Jews first and also of the Gentiles; of the two, I had rather
 be an ignorant slave in Africa than a barren professor in New
 England.</p>
-               <p>And ye who make no profession, look after the fatal stroke,
+               <p pn="38">And ye who make no profession, look after the fatal stroke,
 at that heaving breast, that unconscious brain, and think what had
 become of him had the work of preparation for eternity been put of
 till then? And is your preparation all made? If not what security have
@@ -1219,7 +1219,7 @@ be equally incapable of thought and feeling. God is not shut up to one
 method of arresting mental activity. And have you any claim, that
 Abraham Lincoln had not, to a continuance of consciousness even to the
 last?</p>
-               <p>Finally, my hearers, this event is eminently fitted to
+               <p pn="38">Finally, my hearers, this event is eminently fitted to
 correct some popular errors concerning death. One of these errors is,
 to search the death-bed for evidences of piety rather than the
 life. But where does the Bible sanction such a course? Does it
@@ -1240,7 +1240,7 @@ when or how or where she died, who can tell? Of Samuel it is simply
 said, "And Samuel died," and not even so much is said of Ezra, or
 Isaiah, or any of the prophets. And was that death at Washington an
 exception?</p>
-               <p>Another popular error is an expectation that everything
+               <p pn="39">Another popular error is an expectation that everything
 pleasant and peaceful will attend the death of the righteous. But it
 is of the wicked that it is written, "There are no bands in their
 death--their strength is firm." And how many of the people of God have
@@ -1253,7 +1253,7 @@ whether a death even of shame and insult be a token of perdition. Then
 enter many a house of luxury, and enquire whether death in tapestried
 chambers and amid all the alleviations of earthly love and wealth, be
 a token of salvation.</p>
-               <p>My hearers, even in death man looketh on the outward
+               <p pn="39">My hearers, even in death man looketh on the outward
 appearance, but God looketh on the heart, and on its preparation for
 heaven--not the physical comforts of a dying hour. What are all the
 comforts of the home of Dives, if they end in perdition? What are all
@@ -1274,7 +1274,7 @@ unrebukable before the throne, and so rest, singing "The Lord is my
 Shepherd, I shall not want." "Even in the valley of the shadow of
 death, I will fear no evil! for Thou art with me. Thy presence is all,
 all else is nothing."</p>
-               <p>And you who do not call yourselves disciples--you who do
+               <p pn="40">And you who do not call yourselves disciples--you who do
 not look to Jesus as your Saviour--think what would all his
 well-earned fame, what would all this affection, this universal
 mourning avail for our beloved President, if he were not washed from
