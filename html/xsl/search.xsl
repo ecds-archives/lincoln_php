@@ -60,6 +60,13 @@
 	<!-- number of matches for a search -->
         <xsl:apply-templates select="count" mode="count"/>
     </xsl:element>
+      <xsl:element name="td">
+        <xsl:attribute name="class">link</xsl:attribute>
+  	  <xsl:element name="a">  
+    	    <xsl:attribute name="href"><xsl:value-of select="$selflink"/>&amp;id=<xsl:value-of select="@id"/>&amp;kwic=true</xsl:attribute> 
+    	view context 
+  	</xsl:element>  <!-- a -->
+      </xsl:element> <!-- td -->
   </xsl:element>
 </xsl:template>
 
@@ -93,10 +100,10 @@
 
 <!-- # of matches within a sermon -->
 <xsl:template match="count" mode="count"> 
-<!--  <xsl:element name="a">  -->
-<!--   <xsl:attribute name="href"><xsl:value-of select="$selflink"/>&amp;id=<xsl:value-of select="../@id"/>&amp;kwic=true</xsl:attribute> -->
-  <xsl:value-of select="."/>
-<!-- </xsl:element> -->
+  <xsl:element name="a">  
+    <xsl:attribute name="href"><xsl:value-of select="$selflink"/>&amp;id=<xsl:value-of select="../@id"/>&amp;kwic=true</xsl:attribute> 
+    <xsl:value-of select="."/>
+  </xsl:element> 
 </xsl:template>
 
 <!-- # of matches within a sermon -->
