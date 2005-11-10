@@ -39,7 +39,7 @@
       <xsl:with-param name="count"><xsl:value-of select="$context"/></xsl:with-param>
     </xsl:apply-templates>
 
-    <span class="match"><xsl:apply-templates select="."/></span>
+      <xsl:apply-templates select="."/>
 
     <xsl:apply-templates select="following-sibling::w[1]" mode="kwic-next">
       <!--      <xsl:with-param name="count"><xsl:value-of select="$context"/></xsl:with-param> -->
