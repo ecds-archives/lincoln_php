@@ -166,8 +166,8 @@ class xmlDbConnection {
 
      // only do highlighting if the term is defined
      for ($i = 0; (isset($term[$i]) && ($term[$i] != '')); $i++) {
-       // replace tamino wildcard (*) with regexp -- 1 or more word characters 
-       $_term = str_replace("*", "\w+", $term[$i]);
+       // replace tamino wildcard (*) with regexp -- 0 or more word characters 
+       $_term = str_replace("*", "\w*", $term[$i]);
      // Note: regexp is constructed to avoid matching/highlighting the terms in a url 
        $str = preg_replace("/([^=|']\b)($_term)(\b)/i",
 	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
