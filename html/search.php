@@ -192,12 +192,13 @@ $xsl_params = array("term_list"  => $term_list);
 
 
 print '<div class="content">';
-print "<h2 align='center'>" . ($kwic == "true" ? "Keyword in Context " : "") . "Search Results</h2>";
 
 if ($total == 0){
  print "<p><b>No matches found.</b> You may want to broaden your search and see search tips for suggestions.</p>";
   include ("searchoptions.php");
 } else {
+
+  print "<h2 align='center'>" . ($kwic == "true" ? "Keyword in Context " : "") . "Search Results</h2>";
 
   if (!($docid)) {
     // only display # of results if we are looking at more than one document
