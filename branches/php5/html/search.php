@@ -4,8 +4,6 @@ include("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
 
-$id = $_GET['id'];
-
 // use tamino settings from config file
 $args = $tamino_args;
 $args{"debug"} = false;
@@ -44,40 +42,40 @@ html_head($doctitle);
 print "<body>";
 include("header.html");
 
-
-
 $declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" 
 declare namespace xs="http://www.w3.org/2001/XMLSchema"';
 $for = ' for $a in input()/TEI.2/:text/body/div1';
-$let = 'let $b := $a/head/bibl 
-	let $myref := tf:createTextReference($a//p, "' . $kw . '")';
+if ($docid != '') { $for .= "[@id = '$docid']"; }
+$let = 'let $b := $a/head/bibl ';
 
+//	let $myref := tf:createTextReference($a//p, "' . $kw . '")';
+
+// create an array of conditions, depending on the search terms used
 $conditions = array();
 
 //Working queries. format: $where = "where tf:containsText(\$a, '$kw')";
 if ($kw) {
     if ($mode == "exact") {
         array_push($conditions, "tf:containsText(\$a, '$kw')");
-	$ref_let = "let \$ref := tf:createTextReference(\$a, '$kw') ";
-    }
-    if ($mode == "synonym") {
+	$ref_let = "let \$ref := tf:createTextReference(\$a//p, '$kw') let \$allrefs := (\$ref) ";
+	$wordcount = count($kwarray);
+    } else if ($mode == "synonym") {
         array_push($conditions, "tf:containsText(\$a, tf:synonym('$kw'))");
-    }
-    else {
-      // create a "near text" ref for counting matches
-      $ref_let = 'let $ref := tf:createNearTextReference($a, 50, ';
-        foreach ($kwarray as $k){
-            $term = ($mode == "phonetic") ? "tf:phonetic('$k')" : "'$k'";
-            array_push($conditions, "tf:containsText(\$a, $term)");
-	    if ($k != $kwarray[0]) { $ref_let .= ", "; }	// any term but the first, add a comma
-	    $ref_let .= '"' . $k . '"';	
-		
-        }
-	$ref_let .= ') ';
+    } else {
+      $all = 'let $allrefs := (';
+      for ($i = 0; $i < count($kwarray); $i++) {
+	$term = ($mode == "phonetic") ? "tf:phonetic('$kwarray[$i]')" : "'$kwarray[$i]'";
+	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
+	if ($i > 0) { $all .= ", "; }
+	$all .= "\$ref$i"; 
+        array_push($conditions, "tf:containsText(\$a, $term)");
+      }
+      $all .= ") ";
+      $let .= $all;
     }
 }
 if ($title) {
-        foreach ($ttlarray as $t){
+    foreach ($ttlarray as $t){
         array_push($conditions, "tf:containsText(\$b/title, '$t') ");
     }
 }
@@ -104,23 +102,57 @@ foreach ($conditions as $c) {
             }
 }
 
-//have to take each individual keyword into an array.
+// put all search terms into an array for highlighting 
 $myterms = array();
-if ($kw) {$myterms = array_merge($myterms, $kwarray); }
-if ($title) {$myterms = array_merge($myterms, $ttlarray); }
-if ($author) {$myterms = array_merge($myterms, $autharray); }
-if ($date) {$myterms = array_merge($myterms, $darray); }
-if ($place) {$myterms = array_merge($myterms, $plarray); }
+if ($mode == "exact") {
+  array_push($myterms, $kw);
+} else {
+  if ($kw) {$myterms = array_merge($myterms, $kwarray); }
+  if ($title) {$myterms = array_merge($myterms, $ttlarray); }
+  if ($author) {$myterms = array_merge($myterms, $autharray); }
+  if ($date) {$myterms = array_merge($myterms, $darray); }
+  if ($place) {$myterms = array_merge($myterms, $plarray); }
+}
+
 
 
 
 //$return = ' return <div1> {$a/@id} {$b} ' . "<total>{count($for $let $where return \$a)}</total>" . '</div1>';
 // FIXME: still need to return count of # of matches within sermon
-$return = ' return <div1> {$a/@id} {$b} <count>{count($ref)}</count>';
+$return = ' return <div1> {$a/@id} {$b} ';
+
+// numbers are based on keyword match; only include if keyword terms are part of the search
+if ($kw) {
+  if ($mode == "exact") {   
+    /* note: in exact mode, Tamino still tokenizes the text references, so count is off for the phrase (e.g., one match for a 4-word phrase counts as 4);
+       this divide-by-wordcount correctly calculates the number of occurrences of the entire phrase. */
+    $return .= "<matches><total>{xs:integer(count(\$allrefs) div $wordcount)}</total>"; 
+  } else { $return .= '<matches><total>{count($allrefs)}</total>'; }
+  if ($mode != "exact") {	// exact mode - treat string as a phrase, not multiple terms
+    if (count($kwarray) > 1) {	// if there are multiple terms, display count for each term
+      for ($i = 0; $i < count($kwarray); $i++) {
+        $return .= "<term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>";
+      }
+    }
+  }
+  $return .= '</matches>';
+}
 
 // if this is a keyword in context search, get context nodes
 // return previous pagebreak (get closest by max of previous sibling pb & previous p/pb)
-$return .= ($kwic == "true" ? '<context><page>{tf:highlight($a//p[tf:containsText(.,"' . $kw . '")], $myref , "MATCH")}</page></context>' : ''); 
+if ($kwic == "true") {
+  $return .= '<context><page>{tf:highlight($a//p[';
+  if ($mode == "exact") { 
+    $return .= "tf:containsText(., '$kw')"; 
+  } else {
+    for ($i = 0; $i < count($kwarray); $i++) { 
+      $term = ($mode == "phonetic") ? "tf:phonetic('$kwarray[$i]')" : "'$kwarray[$i]'";
+      if ($i > 0) { $return .= " or "; }
+      $return .= "tf:containsText(., $term) ";
+    }
+  }
+  $return .= '], $allrefs, "MATCH")}</page></context>';
+}
 $return .= '</div1>';
 //$order = 'order by $b/author'; 
 // order results by relevance
@@ -133,7 +165,9 @@ let $pb := max($seq)
 */
 
 //$sort = 'sort by (author)';
-$sort = 'sort by (xs:int(count) descending)';
+if ($kw) {	// only sort by # of matches if it is defined
+   $sort = 'sort by (xs:int(matches/total) descending)';
+}
 
 $countquery = "$declare <total>{count($for $let $where return \$a)}</total>";
 $query = "$declare $for $let $ref_let $where $return $sort";
@@ -163,7 +197,10 @@ if (!($docid)) {
   // only display # of results if we are looking at more than one document
   print "<p align='center'>Found <b>" . $total . "</b> matching sermon";
   if ($exist->count != 1) { print "s"; }
-  print ". Results sorted by relevance.</p>"; 
+  // sort is only operative when keywords are included in search terms
+  if ($kw) {
+    print ". Results sorted by relevance.</p>"; 
+  }
 }
 
 $myopts = "keyword=$kw&title=$title&author=$author&date=$date&place=$place&mode=$mode";
@@ -177,7 +214,7 @@ switch ($kwic) {
 		//		  $tamino->displayXML(1);
 		$tamino->xslTransformResult($kwic2_xsl);
 		//		print "DEBUG: went through second transform.";
-		//  $tamino->displayXML(1);
+		//$tamino->displayXML(1);
 		$xsl_params{"mode"} = "kwic";
 		$tamino->xslTransformResult($xsl_file, $xsl_params);
 		break;
@@ -188,11 +225,16 @@ switch ($kwic) {
 		break;
 }
 
-$tamino->highlightInfo($myterms);
+// in phonetic mode, php highlighting will be inaccurate and/or useless... 
+if ($mode != "phonetic") { $tamino->highlightInfo($myterms); }
+
 $tamino->count = $total;	// set tamino count from first (count) query, so resultLinks will work
 $rlinks = $tamino->resultLinks("search.php?$myopts", $position, $maxdisplay);
 print $rlinks;
-print "<p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
+// kwic/summary results toggle only relevant if search includes keywords
+if ($kw) {
+  print "<p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
+}
 $tamino->printResult($myterms);
 print '</div>';
 
@@ -207,6 +249,7 @@ function processterms ($str) {
 }
 
 
+include("footer.html");
 ?>
 
 </body>
