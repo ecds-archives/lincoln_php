@@ -61,15 +61,17 @@
   </xsl:template>
 
   <!-- keyword mark in tamino -->
-  <xsl:template match="processing-instruction('MATCH')" mode="split">
+  <!-- get only the text immediately between the start (+) and end (-) processing instructions -->
+   <xsl:template match="text()[preceding-sibling::processing-instruction('MATCH')[1][starts-with(., '+')] and 
+                        following-sibling::processing-instruction('MATCH')[1][starts-with(., '-')]]" mode="split"> 
     <match>
       <xsl:if test="../@rend">
          <xsl:attribute name="rend"><xsl:value-of select="../@rend"/></xsl:attribute>
       </xsl:if>
-      <xsl:apply-templates/>
+      <xsl:value-of select="."/>
     </match>
-  </xsl:template>
 
+  </xsl:template> 
 
   <!-- get rid of figures (not needed for kwic) -->
   <xsl:template match="context//p/figure" mode="split"/>
@@ -123,6 +125,7 @@
           <xsl:with-param name="string" select="substring-after($string, $space)"/>
         </xsl:call-template>
       </xsl:if>
+
   </xsl:template>
 
 
