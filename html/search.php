@@ -193,19 +193,25 @@ $xsl_params = array("term_list"  => $term_list);
 
 print '<div class="content">';
 print "<h2 align='center'>" . ($kwic == "true" ? "Keyword in Context " : "") . "Search Results</h2>";
-if (!($docid)) {
-  // only display # of results if we are looking at more than one document
-  print "<p align='center'>Found <b>" . $total . "</b> matching sermon";
-  if ($exist->count != 1) { print "s"; }
-  // sort is only operative when keywords are included in search terms
-  if ($kw) {
-    print ". Results sorted by relevance.</p>"; 
-  }
-}
 
-$myopts = "keyword=$kw&title=$title&author=$author&date=$date&place=$place&mode=$mode";
-// based on KWIC mode, set options for search link & transform result appropriately
-switch ($kwic) {
+if ($total == 0){
+ print "<p><b>No matches found.</b> You may want to broaden your search and see search tips for suggestions.</p>";
+  include ("searchoptions.php");
+} else {
+
+  if (!($docid)) {
+    // only display # of results if we are looking at more than one document
+    print "<p align='center'>Found <b>" . $total . "</b> matching sermon";
+    if ($exist->count != 1) { print "s"; }
+    // sort is only operative when keywords are included in search terms
+    if ($kw) {
+      print ". Results sorted by relevance.</p>"; 
+    }
+  }
+
+  $myopts = "keyword=$kw&title=$title&author=$author&date=$date&place=$place&mode=$mode";
+  // based on KWIC mode, set options for search link & transform result appropriately
+  switch ($kwic) {
      case "true": $altopts = "$myopts&pos=$position&max=$maxdisplay&kwic=false";
  	    	$mylink = "Summary"; 
 	        $myopts .= "&kwic=true";	// preserve for result links
@@ -223,20 +229,21 @@ switch ($kwic) {
 		$xsl_params{"selflink"} = "search.php?$myopts";
 		$tamino->xslTransform($xsl_file, $xsl_params);
 		break;
-}
+  }
 
-// in phonetic mode, php highlighting will be inaccurate and/or useless... 
-if ($mode != "phonetic") { $tamino->highlightInfo($myterms); }
+  // in phonetic mode, php highlighting will be inaccurate and/or useless... 
+  if ($mode != "phonetic") { $tamino->highlightInfo($myterms); }
 
-$tamino->count = $total;	// set tamino count from first (count) query, so resultLinks will work
-$rlinks = $tamino->resultLinks("search.php?$myopts", $position, $maxdisplay);
-print $rlinks;
-// kwic/summary results toggle only relevant if search includes keywords
-if ($kw) {
-  print "<p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
+  $tamino->count = $total;	// set tamino count from first (count) query, so resultLinks will work
+  $rlinks = $tamino->resultLinks("search.php?$myopts", $position, $maxdisplay);
+  print $rlinks;
+  // kwic/summary results toggle only relevant if search includes keywords
+  if ($kw) {
+    print "<p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
+  }
+  $tamino->printResult($myterms);
 }
-$tamino->printResult($myterms);
-print '</div>';
+print '</div>';		// end of content div
 
 //Function that takes multiple terms separated by white spaces and puts them into an array
 function processterms ($str) {
