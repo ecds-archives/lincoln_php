@@ -29,7 +29,7 @@
         <!-- don't put in a table, use # of matches -->
         <xsl:apply-templates select="//div1" mode="kwic"/>
       </xsl:when>
-      <xsl:when test="//div1/count">
+      <xsl:when test="//div1/matches">
         <xsl:element name="table">
           <xsl:attribute name="class">searchresults</xsl:attribute>
 	  <xsl:element name="tr">
@@ -58,7 +58,7 @@
     <xsl:element name="td">
       <xsl:attribute name="class">count</xsl:attribute>
 	<!-- number of matches for a search -->
-        <xsl:apply-templates select="count" mode="count"/>
+        <xsl:apply-templates select="matches" mode="count"/>
     </xsl:element>
       <xsl:element name="td">
         <xsl:attribute name="class">link</xsl:attribute>
@@ -83,7 +83,7 @@
       <xsl:element name="td">
         <xsl:attribute name="class">count</xsl:attribute>
 	<!-- number of matches for a search -->
-        <xsl:apply-templates select="count" mode="kwic"/>
+        <xsl:apply-templates select="matches" mode="kwic"/>
       </xsl:element> <!-- td -->
     </xsl:element> <!-- tr -->
   </xsl:element> <!-- table -->
@@ -94,23 +94,35 @@
 
 
 <!-- # of matches within a sermon -->
-<xsl:template match="count"> 
+<xsl:template match="matches"> 
   <!-- do nothing in normal mode, for now -->  
 </xsl:template>
 
 <!-- # of matches within a sermon -->
-<xsl:template match="count" mode="count"> 
+<xsl:template match="matches" mode="count"> 
   <xsl:element name="a">  
     <xsl:attribute name="href"><xsl:value-of select="$selflink"/>&amp;id=<xsl:value-of select="../@id"/>&amp;kwic=true</xsl:attribute> 
-    <xsl:value-of select="."/>
+    <xsl:value-of select="total"/>
   </xsl:element> 
+
+  <span class="term-totals">
+    <xsl:apply-templates select="term"/>
+  </span>
+</xsl:template>
+
+<xsl:template match="term">
+  <br/><xsl:value-of select="text()"/> : <xsl:apply-templates select="count"/>
 </xsl:template>
 
 <!-- # of matches within a sermon -->
-<xsl:template match="count" mode="kwic"> 
-<xsl:element name="b">	<!-- bold -->
-  <xsl:value-of select="."/> match<xsl:if test=". &gt; 1">es</xsl:if>
-</xsl:element>
+<xsl:template match="matches" mode="kwic"> 
+  <xsl:element name="b">	<!-- bold -->
+    <xsl:value-of select="total"/> match<xsl:if test="total &gt; 1">es</xsl:if>
+  </xsl:element>
+
+  <span class="term-totals">
+    <xsl:apply-templates select="term"/>
+  </span>
 </xsl:template>
 
 
@@ -144,6 +156,9 @@
 
 <xsl:template match="total"/>
 
+<xsl:template match="match">
+  <span class="match"><xsl:apply-templates/></span>
+</xsl:template>
 
 <xsl:template name="highlight-params">
   <xsl:param name="str"/>
