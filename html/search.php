@@ -50,28 +50,41 @@ $let = 'let $b := $a/head/bibl ';
 
 //	let $myref := tf:createTextReference($a//p, "' . $kw . '")';
 
-// create an array of conditions, depending on the search terms used
+// create an array of conditions for the query, depending on the search terms submitted
 $conditions = array();
 
 //Working queries. format: $where = "where tf:containsText(\$a, '$kw')";
+
+
+/* Note: for counting & highlighting search results without matching
+   text in the figure descriptions, it is necessary to make two
+   separate text references-- one that will work for highlighting, and
+   one that will give an accurate count (excluding text in figure
+   descriptions).  */
 if ($kw) {
     if ($mode == "exact") {
         array_push($conditions, "tf:containsText(\$a, '$kw')");
-	$ref_let = "let \$ref := tf:createTextReference(\$a//p, '$kw') let \$allrefs := (\$ref) ";
+	$ref_let = "let \$ref := tf:createTextReference(\$a//p, '$kw') let \$allrefs := (\$ref) 
+	let \$countref := tf:createTextReference(\$a//p//text()[not(../figDesc)], '$kw') let \$allcounts := (\$countref) ";
 	$wordcount = count($kwarray);
     } else if ($mode == "synonym") {
         array_push($conditions, "tf:containsText(\$a, tf:synonym('$kw'))");
     } else {
       $all = 'let $allrefs := (';
+      $allcount = 'let $allcounts := (';
       for ($i = 0; $i < count($kwarray); $i++) {
 	$term = ($mode == "phonetic") ? "tf:phonetic('$kwarray[$i]')" : "'$kwarray[$i]'";
 	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
-	if ($i > 0) { $all .= ", "; }
+	$let .= "let \$count$i := tf:createTextReference(\$a//p//text()[not(parent::figDesc)], $term) ";
+	if ($i > 0) { $all .= ", "; $allcount .= ", "; }
 	$all .= "\$ref$i"; 
+	$allcount .= "\$count$i"; 
         array_push($conditions, "tf:containsText(\$a, $term)");
       }
       $all .= ") ";
       $let .= $all;
+      $allcount .= ") ";
+      $let .= $allcount;
     }
 }
 if ($title) {
@@ -126,12 +139,12 @@ if ($kw) {
   if ($mode == "exact") {   
     /* note: in exact mode, Tamino still tokenizes the text references, so count is off for the phrase (e.g., one match for a 4-word phrase counts as 4);
        this divide-by-wordcount correctly calculates the number of occurrences of the entire phrase. */
-    $return .= "<matches><total>{xs:integer(count(\$allrefs) div $wordcount)}</total>"; 
-  } else { $return .= '<matches><total>{count($allrefs)}</total>'; }
+    $return .= "<matches><total>{xs:integer(count(\$allcounts) div $wordcount)}</total>"; 
+  } else { $return .= '<matches><total>{count($allcounts)}</total>'; }
   if ($mode != "exact") {	// exact mode - treat string as a phrase, not multiple terms
     if (count($kwarray) > 1) {	// if there are multiple terms, display count for each term
       for ($i = 0; $i < count($kwarray); $i++) {
-        $return .= "<term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>";
+        $return .= "<term>$kwarray[$i]<count>{count(\$count$i)}</count></term>";
       }
     }
   }
@@ -143,12 +156,12 @@ if ($kw) {
 if ($kwic == "true") {
   $return .= '<context><page>{tf:highlight($a//p[';
   if ($mode == "exact") { 
-    $return .= "tf:containsText(., '$kw')"; 
+    $return .= "tf:containsText(.//text()[not(parent::figDesc)], '$kw')"; 
   } else {
     for ($i = 0; $i < count($kwarray); $i++) { 
       $term = ($mode == "phonetic") ? "tf:phonetic('$kwarray[$i]')" : "'$kwarray[$i]'";
       if ($i > 0) { $return .= " or "; }
-      $return .= "tf:containsText(., $term) ";
+      $return .= "tf:containsText(.//text()[not(parent::figDesc)], $term) ";
     }
   }
   $return .= '], $allrefs, "MATCH")}</page></context>';
@@ -200,6 +213,7 @@ if ($total == 0){
 
   print "<h2 align='center'>" . ($kwic == "true" ? "Keyword in Context " : "") . "Search Results</h2>";
 
+
   if (!($docid)) {
     // only display # of results if we are looking at more than one document
     print "<p align='center'>Found <b>" . $total . "</b> matching sermon";
@@ -217,7 +231,7 @@ if ($total == 0){
  	    	$mylink = "Summary"; 
 	        $myopts .= "&kwic=true";	// preserve for result links
 		$tamino->xslTransform($kwic1_xsl);
-		//				print "DEBUG: went through one transform.";
+		//		print "DEBUG: went through one transform.";
 		//		  $tamino->displayXML(1);
 		$tamino->xslTransformResult($kwic2_xsl);
 		//		print "DEBUG: went through second transform.";
@@ -242,6 +256,12 @@ if ($total == 0){
   if ($kw) {
     print "<p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
   }
+
+
+  if ($kwic == "true") {
+    print "<p class='tip'>Page numbers indicate where paragraphs containing search terms begin.</p>";
+  }
+
   $tamino->printResult($myterms);
 }
 print '</div>';		// end of content div
