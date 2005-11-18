@@ -5,7 +5,7 @@
   xmlns:xq="http://namespaces.softwareag.com/tamino/XQuery/result">
 
 <xsl:param name="context">150</xsl:param>
-<xsl:param name="minParaSize">30</xsl:param>
+<xsl:param name="minParaSize">10</xsl:param>
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
 
@@ -86,6 +86,24 @@
   <!-- make sure to tokenize text in hi tags, too -->
   <xsl:template match="context//p/hi" mode="split">
       <xsl:apply-templates mode="split"/>	<!-- handle text nodes -->
+  </xsl:template>
+
+
+  <!-- special case: if a single word is inside a hi tag, the tamino
+       highlighting may not necessarily be nested properly 
+       (e.g., looks something like <hi><MATCH>word</hi><MATCH> ) -->
+  <xsl:template match="context//p/hi[processing-instruction('MATCH')]" mode="split">
+    <xsl:choose>
+      <xsl:when test="contains(., ' ')">
+      <xsl:apply-templates mode="split"/>	<!-- handle text nodes normally -->
+      </xsl:when>
+      <xsl:otherwise>
+        <match>
+         <xsl:attribute name="rend"><xsl:value-of select="@rend"/></xsl:attribute>
+         <xsl:value-of select="."/>
+        </match>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
 
