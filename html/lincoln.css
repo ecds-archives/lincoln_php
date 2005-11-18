@@ -66,7 +66,7 @@ p.searchtips {text-align:center;}
 
 div#overview {margin: 1in; margin-top:0.5in;}
 
-span.match { font-weight: bold; }	
+span.match { font-weight: bold;}	
 p.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
 table.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
 table.kwic td.pn { width: 65px; vertical-align: center;}
@@ -78,6 +78,7 @@ td.count { width:15%; text-align: center; }
 td.link {width:25px; font-size:75%; text-align:center;}
 th.tip { font-size: 85%; font-weight: normal; font-style: italic; text-align: center; }
 span.term-totals { font-size: 85%; }
+p.tip { font-size: 85%; font-weight: normal; font-style: italic; margin-left:2in; margin-top:5px;}
 
 /* link results - display as horizontal list, inline, with lines between */
 li.resultlink, li.firstresultlink { 
