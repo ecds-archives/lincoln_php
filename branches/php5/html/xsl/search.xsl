@@ -160,6 +160,15 @@
   <span class="match"><xsl:apply-templates/></span>
 </xsl:template>
 
+<xsl:template match="hi">
+  <xsl:choose>
+    <xsl:when test="@rend = 'italic'">
+      <i><xsl:apply-templates/></i>
+    </xsl:when>
+  </xsl:choose>
+</xsl:template>
+
+
 <xsl:template name="highlight-params">
   <xsl:param name="str"/>
   <xsl:choose>
