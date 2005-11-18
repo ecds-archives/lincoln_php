@@ -95,6 +95,14 @@
   <xsl:apply-templates/><br/>  
 </xsl:template>
 
+<xsl:template match="hi">
+  <xsl:choose>
+    <xsl:when test="@rend = 'italic'">
+      <i><xsl:apply-templates/></i>
+    </xsl:when>
+  </xsl:choose>
+</xsl:template>
+
 <!--
 <xsl:template match="p">
   <xsl:if test="preceding::*[name() = 'pb' or name() = 'figure'][1]">
