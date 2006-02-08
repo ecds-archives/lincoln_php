@@ -33,7 +33,7 @@
 <td class="searchtips">
 <ul class ="searchtips"><b>Search tips:</b>
 <li>Search terms are matched against <i>whole words</i></li>
-<li>Multiple words are allowed.</li>
+<li>Multiple words are allowed, and will return documents containing all terms anywhere in the text.</li>
 <li>Asterisks may be used when using a part of a word or words. <br>
 For example, enter <b>resign*</b> to match <b>resign</b>, <b>resigned</b>, and
 <b>resignation</b>. </li>

@@ -1,9 +1,10 @@
 @import "highlight.css";
 
 /* link colors to match header */
-a { color:  #02023a; }
+a:link { color:  #02023a; }
 a:visited { color: #660000; }
-a:hover { background: #ebebeb; }
+a:link:hover { background: #ebebeb; }
+/* note: color & background is for links only, not anchors */
 
 body {
      text-align:center;
@@ -42,6 +43,7 @@ div.header p {margin: 0px; }
 div.header p.links,div.footer p.links { border-top: 2px solid #000033; margin: 5px; text-align: center; vertical-align: middle; font-size: 90%; color: #000033;}
 div.header p#nav {margin-left:2in; margin-right:2in; margin-bottom:-4px; }
 div.header p#resources {clear: left;}
+div.footer { padding-top: 10px; }
 div.footer p#nav { border: none }
 p.clear { clear: left; }
 div.footer p#nav-foot { border: none }
@@ -65,3 +67,33 @@ p.center {align: center;}
 
 div#overview {margin: 1in; margin-top:0.5in;}
 
+span.match { font-weight: bold;}	
+p.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
+table.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
+table.kwic td.pn { width: 65px; vertical-align: center;}
+
+table.searchresults { width:90%;  border-collapse: collapse; }
+table.searchresults td { border-bottom: 1px solid #cccccc; }
+table.kwicsearchresults { width:90%; }
+td.count { width:15%; text-align: center; }
+td.link {width:25px; font-size:75%; text-align:center;}
+th.tip { font-size: 85%; font-weight: normal; font-style: italic; text-align: center; }
+span.term-totals { font-size: 85%; }
+p.tip { font-size: 85%; font-weight: normal; font-style: italic; margin-left:2in; margin-top:5px;}
+
+/* link results - display as horizontal list, inline, with lines between */
+li.resultlink, li.firstresultlink { 
+     display:inline; 
+     padding-left: 7px;
+     padding-right: 7px;
+     border-left: 2px solid #666;
+  }
+/* (no left border on first item) */
+li.firstresultlink { border-left: none; }
+div.resultlink { float: right; padding-right: 0.5in;}
+
+/* styles for full-size page image display  */
+p.fullpage { text-align:center; }
+p.fullpage img { border: 1px solid #02023a; }
+table.pagenav { width: 100%; }
+td.desc {text-align:center;}
