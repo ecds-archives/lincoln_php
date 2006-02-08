@@ -36,11 +36,12 @@ $author = $tamino->findNode("author");
 $a = explode(",", $author, 2);
 $author = $a[0];
 
-print "<html>
+html_head("Sermon : $author - $title", "sermons.css");
+/* print "<html>
          <head>
             <title>The Martyred President : Sermon : $author - $title</title>
              <link rel='stylesheet' type='text/css' href='sermons.css'>
-";
+	     "; */
 $tamino->printResult();
 print "          </head>";
 
