@@ -22,14 +22,16 @@ $tamino_args = array('host'   => $config{"server"},
 
 
 /* function to print html header in all php files */
-function html_head ($pagetitle, $pagecss = "lincoln.css") {     // lincoln.css is default css file
+// lincoln.css is default css file
+// finish option - hack to allow including DC metadata for sermons in the header
+function html_head ($pagetitle, $pagecss = "lincoln.css", $finish = true) {
     print "<html>
             <head>
                 <title>The Martyred President : $pagetitle</title>
                 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
                 <link rel=\"stylesheet\" type=\"text/css\" href=\"$pagecss\">
-		<link rel=\"shortcut icon\" href=\"images/lincoln.ico\">
-             </head>";
+		<link rel=\"shortcut icon\" href=\"images/lincoln.ico\">";
+    if ($finish) print "\n</head>";
 }
 ?>
 
