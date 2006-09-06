@@ -4,7 +4,7 @@
 
   <xsl:output method="xml"/>
 
-<xsl:variable name="graphicsPrefix">http://chaucer.library.emory.edu/lincoln/images/</xsl:variable>
+<xsl:variable name="graphicsPrefix">http://beck.library.emory.edu/lincoln/image-content/</xsl:variable>
 <xsl:variable name="graphicsSuffix">.jpg</xsl:variable>
 
 
