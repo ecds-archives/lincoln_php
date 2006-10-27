@@ -67,6 +67,7 @@
 
 <!-- do some initialization (needed for popups) -->
 <xsl:template name="footnote-init">
+ <xsl:if test="count(//note) > 0">
   <!-- include the overlib script -->
   <xsl:element name="script">
     <xsl:attribute name="type">text/javascript</xsl:attribute>
@@ -85,6 +86,7 @@
     <xsl:attribute name="id">overDiv</xsl:attribute>
     <xsl:attribute name="style">position:absolute;visibility:hidden;z-index:1000;</xsl:attribute>
   </xsl:element> -->
+</xsl:if>
 
 </xsl:template>
 
