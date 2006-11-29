@@ -23,10 +23,7 @@ $header_xsl1 = "teiheader-dc.xsl";
 $header_xsl2 = "dc-htmldc.xsl";
 
 $tamino->xslTransform($header_xsl1);
-//$tamino->displayXML(1);
 $tamino->xslTransformResult($header_xsl2);
-//$tamino->displayXML(1);
-
 
 $title = $tamino->findNode("bibl/title");
 $t = explode(":", $title, 2);
@@ -36,7 +33,7 @@ $author = $tamino->findNode("author");
 $a = explode(",", $author, 2);
 $author = $a[0];
 
-html_head("Sermon : $author - $title", "sermons.css");
+html_head("Sermon : $author - $title", "sermons.css", false);
 /* print "<html>
          <head>
             <title>The Martyred President : Sermon : $author - $title</title>
