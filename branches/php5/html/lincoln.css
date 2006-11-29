@@ -33,8 +33,8 @@ p.searchbox input#go{margin-left:5px;}
 
 
 
-/*div.header h1 { font-size: 36pt; margin: -1px; background-color:red;}*/
-/*div.header h2 { font-size: 13pt; margin: -4px; background-color:green;}*/
+div.header h1 { font-size: 34pt; margin: -1px; padding-left:25px; text-align:center;}
+div.header h2 { font-size: 13pt; margin: -4px; }
 div.header a { text-decoration: none; padding-right: 1px; padding-left: 1px; }
 div.header img#head{margin-top:4px; float: left;}
 div.header p {margin: 0px; }
