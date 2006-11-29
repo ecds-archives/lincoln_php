@@ -26,7 +26,7 @@ div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ ma
 /*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
 div.header { border: 3px solid #02023a; text-align:center;} 
 
-p.searchbox{font-size:80%; width:50%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }
+p.searchbox{font-size:80%; /*width:50%;*/ text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }
 /*p.searchbox{font-size:80%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }*/
 p.searchbox b {padding-right: 5px;}
 p.searchbox input#go{margin-left:5px;}
