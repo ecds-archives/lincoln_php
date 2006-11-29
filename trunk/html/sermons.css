@@ -2,8 +2,8 @@
 @import "footnotes.css";
 
 /* settings to make page images appear to the left of the text */
-div.content { margin-left: 100; }
-p.pageimage, p.pagebreak { margin-left: -75; clear: left;}
+div.content { margin-left: 100px; }
+p.pageimage, p.pagebreak { margin-left: -75px; clear: left;}
 hr.pb { float: right; width: 100%; } 
 /* note: this is hard-coded to thumnbnail size, to contain in case image is missing */
 img.page { float: left; clear: left; width: 46px; height: 72px;} 
