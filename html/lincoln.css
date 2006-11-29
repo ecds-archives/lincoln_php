@@ -26,9 +26,7 @@ div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ ma
 /*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
 div.header { border: 3px solid #02023a; text-align:center;} 
 
-div.header h1 { font-family: Book Antiqua; font-size: 36pt; margin: -1px; line-height:120%;}
-div.header h2 { font-family: Book Antiqua; font-size: 13pt; margin: -4px; line-height:120%;}
-p.searchbox{font-size:80%; width=50%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }
+p.searchbox{font-size:80%; width:50%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }
 /*p.searchbox{font-size:80%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }*/
 p.searchbox b {padding-right: 5px;}
 p.searchbox input#go{margin-left:5px;}
@@ -56,12 +54,13 @@ div.content#search h2 {text-align:center;}
 table.searchtable {vertical-align:top; width: 90%;}
 table.searchtable td{vertical-align:top;}
 td.searchtips {width:30%;}
-table.searchform { vertical-align:top; align:left; padding-left: 5px; padding-bottom: 5px; width: 100%;}
+table.searchform { vertical-align:top; text-align:left; padding-left: 5px; padding-bottom: 5px; width: 100%;}
 table.searchform th {text-align: right; width:2in; }
 table.searchform h4 {text-align: center;}
-table.searchform td.input {padding-left:4px; text-size:70%; padding:5px; background-color: #eeeeee;}
-p.searchtips {text-align:center;}
-/*ul.searchtips {width: 100%; /*height: 4in;*/ text-align:left; border: 2px solid #0000FF;}*/
+table.searchform td.input {padding-left:4px; font-size:70%; padding:5px; background-color: #eeeeee;}
+p.searchtips {text-align: center;}
+p.center {text-align: center;}
+/*ul.searchtips {width: 100%; height: 4in; text-align:left; border: 2px solid #0000FF;}*/
 
 
 div#overview {margin: 1in; margin-top:0.5in;}
@@ -96,3 +95,4 @@ p.fullpage { text-align:center; }
 p.fullpage img { border: 1px solid #02023a; }
 table.pagenav { width: 100%; }
 td.desc {text-align:center;}
+
