@@ -102,6 +102,7 @@ class xmlDbConnection {
      }
      /* transform the xml document and store the result */
      $this->xsl_result = $proc->transformToDoc($this->xmldb->xml);
+     if ($this->xsl_result == false) print "Error! XSL transform failed.<br>\n";
    }
 
    // transform the created xsl result  with a specified stylesheet
