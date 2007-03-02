@@ -684,7 +684,7 @@ select="$depth"/></xsl:message>
   <xsl:otherwise>
       <xsl:if test="not($Type = '')">
        <xsl:element name="h{$Type + $divOffset}">
-        <a name="{$ident}"></a><xsl:call-template name="header"/>
+        <!-- <a name="{$ident}"></a> --><xsl:call-template name="header"/>
        </xsl:element>
       </xsl:if>
    <xsl:apply-templates/>
