@@ -1,5 +1,16 @@
-<?php 
+<?php
 
+  
+/**
+ * Send xquery or xql (x-query) requests to a Tamino db; process results, including cursor & error messages
+ * 
+ * This class handles tamino database related functions, including running
+ * xqueries or xql-stlye x-queries.  It also handles tamino cursors and error messages in the returned result.
+ * Intended to be used via xmlDbConnection.class.php.
+ * 
+ * @author Rebecca Sutton Koeser rebecca.s.koeser@emory.edu
+*/
+  
 class taminoConnection {
 
   // connection parameters
@@ -23,11 +34,7 @@ class taminoConnection {
   var $cursor;
   var $count;
   var $position;
-
-  // variables for highlighting search terms
-  var $begin_hi;
-  var $end_hi;
-  
+  var $quantity;
 
   function taminoConnection($argArray) {
     $this->host = $argArray['host'];
@@ -36,12 +43,6 @@ class taminoConnection {
     $this->debug = $argArray['debug'];
 
     $this->base_url = "http://$this->host/tamino/$this->db/$this->coll?";
-
-    // variables for highlighting search terms
-    $this->begin_hi[0]  = "<span class='term1'>";
-    $this->begin_hi[1] = "<span class='term2'>";
-    $this->begin_hi[2] = "<span class='term3'>";
-    $this->end_hi = "</span>";
   }
 
   // send an xquery to tamino & get xml result
@@ -52,19 +53,17 @@ class taminoConnection {
       $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague";
     }
     if ($this->debug) {
-      print "DEBUG: In function taminoConnection::xquery, url is $myurl.<p>";
+      print "DEBUG: In function taminoConnection::xquery, url is " . htmlentities($myurl) . ".<p>";
+      print "<a href=\"".htmlentities($myurl)."\">run xquery</a><br>";
     }
 
     $this->xmlContent = file_get_contents($myurl);
 
     if ($this->xmlContent) {
       $this->initializeXML();
-      if ($this->debug) {
-        $this->displayXML();
-      }
       
       if (!($this->xq_rval)) {    // tamino Error code (0 = success)
-         $this->getXQueryCursor();
+         $this->getCursor();
       } else if ($this->xq_rval == "8306") {
       // invalid cursor position (returned when there are no matches)
         $this->count = $this->position = $this->quantity = 0;
@@ -106,9 +105,6 @@ class taminoConnection {
 
     if ($this->xmlContent) {
       $this->initializeXML();
-      if ($this->debug) {
-        $this->displayXML();
-      }
     } else {
       print "<p><b>Error:</b> unable to access database.</p>";
       $this->xq_rval = -1;
@@ -118,7 +114,7 @@ class taminoConnection {
   }
 
    // retrieve the cursor & get the total count
-   function getCursor () {
+   function getXqlCursor () {
      // NOTE: this is an xql style cursor, not xquery
      if ($this->xml) {
        $nl = $this->xpath->query("/ino:response/ino:cursor/@ino:count");
@@ -129,13 +125,13 @@ class taminoConnection {
    }
 
       // retrieve the XQuery style cursor & get the total count
-   function getXQueryCursor () {
+   function getCursor () {
      if ($this->xml) {
        $nl = $this->xpath->query("/ino:response/ino:cursor/ino:current/@ino:position");
        if ($nl) {  $this->position = $nl->item(0)->textContent; }
        $nl = $this->xpath->query("/ino:response/ino:cursor/ino:current/@ino:quantity");
        if ($nl) { $this->quantity = $nl->item(0)->textContent; }
-
+       // note: Tamino doesn't return a total count by default; pick up from xquery count (this is a hack)
        $total = $this->xml->getElementsByTagName("total");
        if ($total) { $this->count = $total->item(0)->textContent; }
      } else {
@@ -149,7 +145,7 @@ class taminoConnection {
     $this->xml = new domDocument();
     $this->xml->loadXML($this->xmlContent);
     if (!$this->xml) {
-      print "TaminoConnection::xquery error: unable to parse xml content.<br>";
+      print "TaminoConnection::initializeXml error: unable to parse xml content.<br>";
       $this->xq_rval = 0;	// not a tamino error but a dom error
     } else {
      $this->xpath = new domxpath($this->xml);
@@ -172,14 +168,4 @@ class taminoConnection {
     }
    }
 
-   // print out xml (for debugging purposes)
-   function displayXML () {
-     if ($this->xml) {
-       $this->xml->formatOutput = true;
-       print "<pre>";
-       print htmlentities($this->xml->saveXML());
-       print "</pre>";
-     }
-   }
-   
 }

@@ -6,22 +6,22 @@ $id = $_GET['id'];
 $terms = $_GET['term'];
 
 // use tamino settings from config file
-$args = $tamino_args;
-$args{"debug"} = false;
+$args = $exist_args;
+$args{"debug"} = true;
 
-$tamino = new xmlDbConnection($args);
+$xmldb = new xmlDbConnection($args);
 
-$query = 'for $div in input()/TEI.2/:text/body/div1,
+$query = 'for $div in /TEI.2/text/body/div1,
  $fig in $div//figure[@entity  = "' . $id . '"]
 return <div>{$div/@id}{$div/head}{$fig}
 <siblings>{for $f in $div//figure return <figure>{$f/@entity}</figure>}</siblings>
 </div>';
 
-$xsl_file = "page.xsl";
+$xsl_file = "xsl/page.xsl";
 
-$tamino->xquery($query);
+$xmldb->xquery($query);
 
-$fig = $tamino->findNode("figDesc");
+$fig = $xmldb->findNode("figDesc");
 
 html_head("Page Image : $fig");
 /* print "<html>
@@ -29,7 +29,7 @@ html_head("Page Image : $fig");
             <title>The Martyred President : Page Image : $fig</title>
              <link rel='stylesheet' type='text/css' href='lincoln.css'>
 	     "; */
-$tamino->printResult();
+$xmldb->printResult();
 print "          </head>";
 
 print "\n<body>";
@@ -37,8 +37,8 @@ include("header.html");
 
 
 print '<div class="content">'; 
-$tamino->xslTransform($xsl_file);
-$tamino->printResult($terms);
+$xmldb->xslTransform($xsl_file);
+$xmldb->printResult($terms);
 
 print "<p class='clear'>&nbsp;</p>";
 print "</div>";
