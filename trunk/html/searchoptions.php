@@ -16,16 +16,16 @@
 </table>
 </form>
 
-
+   <!-- not using in exist
 <h2>Specialized Search</h2>
 <form name="advancedquery" action="search.php" method="get">
 <table class="searchform" border="0">
 <tr><th>Enter word or phrase:</th><td class="input"><input type="text" size="40" name="keyword"></td></tr>
 <tr><th>Type of search:</th><td><input type="radio" name="mode" value="phonetic">Phonetic
-<input type="radio" name="mode" value="exact">Exact Phrase
+<input type="radio" name="mode" value="exact">Exact Phrase -->
 <!-- This requires a defined dictionary which we do not have yet<input type="radio" name="mode" value="synonym">Synonym</td>-->
-</tr>
-<tr><td></td><td><input type="submit" value="Submit"><input type="reset" value="Reset"></td></tr> 
+<!--</tr> 
+<tr><td></td><td><input type="submit" value="Submit"><input type="reset" value="Reset"></td></tr> -->
 </table>
 </form>
 </td>
@@ -47,8 +47,15 @@ to see search results for both.</li>
 </table>
 
 <p class="searchtips">If you are interested in doing a more complex search, please
-contact the <a href="mailto:beckcenter@emory.edu">Beck Center
-Staff</a>.</p>
+contact the <script language="javascript">
+<!--
+var username = "beckctr";
+var hostname = "emory.edu";
+var linktext = "Beck Center Staff";
+document.write("<a href=" + "mail" + "to:" + username +
+"@" + hostname + ">" + linktext + "</a>")
+//-->
+</script><noscript> beckctr<img src="images/at.gif" alt=" at "/>emory.edu</noscript>.</p>
 
 
 </div>

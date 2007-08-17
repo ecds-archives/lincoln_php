@@ -2,23 +2,44 @@
 
 
 /* Configuration settings for entire site */
+// set level of php error reporting --  ONLY display errors
+// (will hide ugly warnings if databse goes offline/is unreachable)
+//error_reporting(E_ERROR);	// for production
+error_reporting(E_ERROR | E_PARSE);    // for development
 
-// set level of php error reporting -- turn off warnings when in production
-error_reporting(E_ERROR | E_PARSE); 
+
+/* exist settings */
+//development
+$basedir = "/home/ahickco/public_html/lincoln";
+$server = "wilson.library.emory.edu";
+$base_path = "/~ahickco/lincoln/";
+$base_url = "http://$server$base_path/";
+
+// root directory and url where the website resides
+// production version
+/* $basedir = "/home/httpd/html/beck/lincoln";
+$server = "beck.library.emory.edu";
+$base_path = "/lincoln";
+$base_url = "http://$server$base_path/";
+*/
+
+// add basedir to the php include path (for header/footer files and lib directory)
+set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/xsl");
+
+//shorthand for link to main css file
+$cssfile = "lincoln.css";
+$csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
+
+$port = "8080";
+$db = "lincoln";
+
+$exist_args = array('host'   => $server,
+	      	    'port'   => $port,
+		    'db'     => $db,
+		    'dbtype' => "exist");
 
 
 
-/* tamino settings common to all pages */
-
-/* exist settings  */
-$config{"server"} = "vip.library.emory.edu";
-$config{"db"} = "LINCOLN";
-$config{"coll"} = "sermons";
-
-// base settings for all connections to exist
-$tamino_args = array('host'   => $config{"server"},
- 		    'db'     => $config{"db"},
-		     'coll'   => $config{"coll"});
 
 
 /* function to print html header in all php files */
