@@ -25,9 +25,9 @@
 <input type="radio" name="mode" value="exact">Exact Phrase -->
 <!-- This requires a defined dictionary which we do not have yet<input type="radio" name="mode" value="synonym">Synonym</td>-->
 <!--</tr> 
-<tr><td></td><td><input type="submit" value="Submit"><input type="reset" value="Reset"></td></tr> -->
+<tr><td></td><td><input type="submit" value="Submit"><input type="reset" value="Reset"></td></tr> 
 </table>
-</form>
+</form> -->
 </td>
 
 <td class="searchtips">
@@ -55,7 +55,7 @@ var linktext = "Beck Center Staff";
 document.write("<a href=" + "mail" + "to:" + username +
 "@" + hostname + ">" + linktext + "</a>")
 //-->
-</script><noscript> beckctr<img src="images/at.gif" alt=" at "/>emory.edu</noscript>.</p>
+</script><noscript> beckctr<img src="web/images/at.gif" alt=" at "/>emory.edu</noscript>.</p>
 
 
 </div>

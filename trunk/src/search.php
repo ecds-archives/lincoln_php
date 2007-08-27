@@ -31,7 +31,7 @@ $doctitle .= ($kwic == "true" ? " - Keyword in Context" : "");
 
 html_head($doctitle);
 print "<body>";
-include("header.html");
+include("web/html/header.html");
 
 $options = array();
 if ($kw) 
@@ -62,7 +62,7 @@ return <item>{\$a/@id}";
   {\$t}";
   $query .= "</item>";
 
-$xsl_file = "xsl/exist-search.xsl";
+$xsl_file = "xslt/exist-search.xsl";
 // only execute the query if there are search terms
 if (count($options)) {
 $xmldb->xquery($query, $position, $maxdisplay); 
@@ -79,7 +79,7 @@ $xsl_params = array('mode' => "search", 'keyword' => $kw, 'title' => $title, 'au
     print "<li>author matches '$auth'</li>";
   if ($date)
     print "<li>date matches '$date'</li>";
-include("footer.html");
+include("web/html/footer.html");
 
   print "</ul>";
   

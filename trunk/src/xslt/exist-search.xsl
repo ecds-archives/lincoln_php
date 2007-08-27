@@ -12,16 +12,16 @@
   <xsl:param name="author"/>
   <xsl:param name="date"/>
   <xsl:param name="keyword"/>
-  <xsl:param name="subject"/>
 
-  <xsl:variable name="url_suffix">keyword=<xsl:value-of select="$keyword"/>&amp;title=<xsl:value-of select="$title"/>&amp;date=<xsl:value-of select="$date"/>&amp;author=<xsl:value-of select="$author"/>&amp;subject=<xsl:value-of select="$subject"/>&amp;</xsl:variable>
+
+  <xsl:variable name="url_suffix">keyword=<xsl:value-of select="$keyword"/>&amp;title=<xsl:value-of select="$title"/>&amp;date=<xsl:value-of select="$date"/>&amp;author=<xsl:value-of select="$author"/></xsl:variable>
 
   <!-- information about current set of results  -->
   <xsl:variable name="position"><xsl:value-of select="//@exist:start"/></xsl:variable>
   <xsl:param name="max"/>
   <xsl:variable name="total"><xsl:value-of select="//@exist:hits"/></xsl:variable>
 
-  <!--  <xsl:include href="utils.xsl"/> -->
+<!--  <xsl:include href="utils.xsl"/> -->
   <xsl:include href="common.xsl"/>
 
   <xsl:variable name="nl"><xsl:text> 
@@ -29,7 +29,6 @@
 
 
   <xsl:template match="/">
-<xsl:text>DEBUG: root template matched</xsl:text>
     <xsl:call-template name="itemlist"/>
   </xsl:template>
 
@@ -72,20 +71,20 @@
       <!-- there should ALWAYS be a table cell for a field if any of
       the records include that field (e.g., some texts that have no date) -->
 
-      <xsl:if test="//title"> 
+      <xsl:if test="head//title">
 	<td class="title"><xsl:element name="a">
 	  <xsl:attribute name="href">sermon.php?id=<xsl:value-of
 	select="id/@id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
-	  <xsl:apply-templates select="title" mode="table"/>
+	  <xsl:apply-templates select="head//title" mode="table"/>
 	</xsl:element></td>
       </xsl:if>
-      <xsl:if test="//author">
+      <xsl:if test="head//author">
         <td class="author"  width="20%">
-<xsl:apply-templates select="name" />
+<xsl:apply-templates select="head//author" />
     </td>
       </xsl:if>
-      <xsl:if test="//date">
-        <td class="date"  width="25%"><xsl:apply-templates select="date" mode="table"/></td>
+      <xsl:if test="head/bibl/date">
+        <td class="date"  width="25%"><xsl:apply-templates select="head/bibl/date" mode="table"/></td>
       </xsl:if>
     </tr>
     <xsl:value-of select="$nl"/>
@@ -246,14 +245,11 @@
               <xsl:attribute name="value"><xsl:value-of select="$keyword"/></xsl:attribute>
             </input>
             <input name="author" type="hidden">
-              <xsl:attribute name="value"><xsl:value-of select="$auth"/></xsl:attribute>
+              <xsl:attribute name="value"><xsl:value-of select="$author"/></xsl:attribute>
             </input>            <input name="doctitle" type="hidden">
-              <xsl:attribute name="value"><xsl:value-of select="$doctitle"/></xsl:attribute>
+              <xsl:attribute name="value"><xsl:value-of select="$title"/></xsl:attribute>
             </input>            <input name="date" type="hidden">
               <xsl:attribute name="value"><xsl:value-of select="$date"/></xsl:attribute>
-            </input>
-            <input name="subject" type="hidden">
-              <xsl:attribute name="value"><xsl:value-of select="$subject"/></xsl:attribute>
             </input>
           </xsl:when>
         </xsl:choose>
@@ -307,6 +303,35 @@
       </xsl:with-param>
     </xsl:call-template>
   </xsl:if>
+</xsl:template>
+
+<!-- return the smaller of two numbers -->
+<xsl:template name="min">
+  <xsl:param name="num1"/>
+  <xsl:param name="num2"/>
+
+  <xsl:choose>
+    <xsl:when test="$num1 > $num2">
+      <xsl:value-of select="$num2"/>
+    </xsl:when>
+    <xsl:otherwise>
+      <xsl:value-of select="$num1"/>
+    </xsl:otherwise>
+  </xsl:choose>
+</xsl:template>
+
+<!-- return the larger of two numbers -->
+<xsl:template name="max">
+  <xsl:param name="num1"/>
+  <xsl:param name="num2"/>
+  <xsl:choose>
+    <xsl:when test="number($num1) > number($num2)">
+      <xsl:value-of select="$num1"/>
+    </xsl:when>
+    <xsl:otherwise>
+      <xsl:value-of select="$num2"/>
+    </xsl:otherwise>
+  </xsl:choose>
 </xsl:template>
 
 </xsl:stylesheet>

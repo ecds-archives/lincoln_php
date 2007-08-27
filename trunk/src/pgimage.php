@@ -2,7 +2,7 @@
 include ("config.php");
 
 print "<body>";
-include("header.html");
+include("web/html/header.html");
 
 
 

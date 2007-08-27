@@ -2,13 +2,13 @@
 include("config.php");
 html_head("Overview");
 
-include("header.html");
+include("web/html/header.html");
 
 print "<div class='content'>";
-include("overview.html");
+include("web/html/overview.html");
 print "</div>";
 
-include("footer.html");
+include("web/html/footer.html");
 
 ?>
 

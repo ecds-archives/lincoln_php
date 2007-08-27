@@ -3,8 +3,8 @@
   xmlns:exist="http://exist.sourceforge.net/NS/exist"
   exclude-result-prefixes="exist" version="1.0">
 
-  <xsl:include href="utils.xsl"/>
-  <xsl:include href="tei-table.xsl"/>
+<!--  <xsl:include href="utils.xsl"/> -->
+  <xsl:include href="html/teihtml-tables.xsl"/>
 
   <xsl:param name="url_suffix"/>
   <xsl:variable name="myurlsuffix"><xsl:if test="$url_suffix != ''">&amp;<xsl:value-of select="$url_suffix"/></xsl:if></xsl:variable>

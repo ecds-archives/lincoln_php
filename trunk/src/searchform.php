@@ -1,10 +1,10 @@
 <?php
 include("config.php");
-html_head("Search", "search.css");
+html_head("Search", "web/css/search.css");
 
-include("header.html");
+include("web/html/header.html");
 include("searchoptions.php");
-include("footer.html");
+include("web/html/footer.html");
 ?>
 
 </body>

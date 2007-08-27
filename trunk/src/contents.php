@@ -1,12 +1,12 @@
 <?php
 
 include("config.php");
-html_head("Contents", "lincoln.css");
+html_head("Contents", "web/css/lincoln.css");
 include_once("lib/xmlDbConnection.class.php");
 
 print "<body>";
 
-include("header.html");
+include("web/html/header.html");
 
 // use settings from config file
 //$args = $exist_args;
@@ -48,7 +48,7 @@ $xmldb->xquery($query, $position, $maxdisplay);
 print '<div class="content">  
           <h2>Contents</h2>';
 print "<hr>";
-$xsl_file = "xsl/contents.xsl";
+$xsl_file = "xslt/contents.xsl";
 
 
 $xmldb->xslTransform($xsl_file); 
@@ -56,7 +56,7 @@ $xmldb->printResult();
 
 print "</div>";
 
-include("footer.html");
+include("web/html/footer.html");
 ?> 
    
   </div>
