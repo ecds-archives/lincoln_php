@@ -17,7 +17,7 @@ return <div>{$div/@id}{$div/head}{$fig}
 <siblings>{for $f in $div//figure return <figure>{$f/@entity}</figure>}</siblings>
 </div>';
 
-$xsl_file = "xsl/page.xsl";
+$xsl_file = "xslt/page.xsl";
 
 $xmldb->xquery($query);
 
@@ -27,13 +27,13 @@ html_head("Page Image : $fig");
 /* print "<html>
          <head>
             <title>The Martyred President : Page Image : $fig</title>
-             <link rel='stylesheet' type='text/css' href='lincoln.css'>
+             <link rel='stylesheet' type='text/css' href='web/css/lincoln.css'>
 	     "; */
 $xmldb->printResult();
 print "          </head>";
 
 print "\n<body>";
-include("header.html");
+include("web/html/header.html");
 
 
 print '<div class="content">'; 
@@ -43,7 +43,7 @@ $xmldb->printResult($terms);
 print "<p class='clear'>&nbsp;</p>";
 print "</div>";
 
-include("footer.html");
+include("web/html/footer.html");
 ?> 
    
   </div>

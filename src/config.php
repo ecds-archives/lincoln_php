@@ -24,10 +24,10 @@ $base_url = "http://$server$base_path/";
 */
 
 // add basedir to the php include path (for header/footer files and lib directory)
-set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/xsl");
+set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/xslt");
 
 //shorthand for link to main css file
-$cssfile = "lincoln.css";
+$cssfile = "web/css/lincoln.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
 $port = "8080";
@@ -45,7 +45,7 @@ $exist_args = array('host'   => $server,
 /* function to print html header in all php files */
 // lincoln.css is default css file
 // finish option - hack to allow including DC metadata for sermons in the header
-function html_head ($pagetitle, $pagecss = "lincoln.css", $finish = true) {
+function html_head ($pagetitle, $pagecss = "web/css/lincoln.css", $finish = true) {
     print "<html>
             <head>
                 <title>The Martyred President : $pagetitle</title>
