@@ -11,14 +11,14 @@ $exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
 // search terms
-$kw = $_GET["keyword"];
-$title = $_GET["title"];
-$author = $_GET["author"];
-$date = $_GET["date"];
-$place= $_GET["place"];
-$kwic = $_GET["kwic"];		// is this a kwic search or not? defaults to no
-$position = $_GET["pos"];  // position (i.e, cursor)
-$maxdisplay = $_GET["max"];  // maximum  # results to display
+$kw = $_REQUEST["keyword"];
+$title = $_REQUEST["title"];
+$author = $_REQUEST["author"];
+$date = $_REQUEST["date"];
+$place= $_REQUEST["place"];
+$kwic = $_REQUEST["kwic"];		// is this a kwic search or not? defaults to no
+$position = $_REQUEST["position"];  // position (i.e, cursor)
+$maxdisplay = $_REQUEST["max"];  // maximum  # results to display
 
 // set some defaults
 // if no position is specified, start at 1
@@ -39,7 +39,7 @@ if ($kw)
 if ($title)
   array_push($options, ".//head/bibl/title &= '$title'");
 if ($author)
-  array_push($options, ".//head/bibl/author &= '$auth'");
+  array_push($options, ".//head/bibl/author &= '$author'");
 if ($date)
   array_push($options, ".//head/bibl/date &= '$date'");
 if ($place)

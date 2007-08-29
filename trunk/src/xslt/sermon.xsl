@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?> 
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-	xmlns:html="http://www.w3.org/TR/REC-html40" version="1.0">
+  xmlns:exist="http://exist.sourceforge.net/NS/exist" version="1.0" exclude-result-prefixes="exist">
 
 <!--	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
 	xmlns:xq="http://metalab.unc.edu/xq/"> -->
@@ -13,7 +13,7 @@
 <xsl:variable name="numberHeadings"></xsl:variable>
 <xsl:variable name="numberHeadingsDepth"></xsl:variable>
 <xsl:variable name="graphicsSuffix">.gif</xsl:variable>
-<xsl:variable name="graphicsPrefix">http://chaucer.library.emory.edu/lincoln/images/</xsl:variable>
+<xsl:variable name="graphicsPrefix">http://beck.library.emory.edu/lincoln/image-content/</xsl:variable>
 <xsl:variable name="headingNumberSuffix"></xsl:variable>
 <xsl:param name="makePageTable">true</xsl:param>
 <xsl:param name="showFigures">true</xsl:param>
@@ -22,13 +22,13 @@
 <!-- <xsl:include href="teinote.xsl"/> -->
 <xsl:include href="footnotes.xsl"/>
 <!--<xsl:include href="html/teihtml-notes.xsl"/>-->
-<xsl:include href="html/teihtml-bibl.xsl"/>
+<!-- <xsl:include href="html/teihtml-bibl.xsl"/> -->
 <xsl:include href="html/teihtml-front.xsl"/>
 <xsl:include href="html/teihtml-figures.xsl"/>
 <xsl:include href="html/teihtml-lists.xsl"/>
-<xsl:include href="html/teihtml-struct.xsl"/>
+<!-- <xsl:include href="html/teihtml-struct.xsl"/> -->
 <xsl:include href="html/teihtml-tables.xsl"/>
-<xsl:include href="html/teihtml-pagetable.xsl"/>
+<xsl:include href="html/teihtml-pagetable.xsl"/> 
 <!-- xref needed for locateParentdiv -->
 <!--<xsl:include href="html/teihtml-xref.xsl"/>-->
 
@@ -43,15 +43,14 @@
 </xsl:template>
 
 
-<!-- <xsl:template match="div1">
-  <table>
-   <tr><td></td><td>
-      <xsl:apply-templates select="head"/>
-     </td></tr>
-      <xsl:apply-templates/>
-  </table>
+<xsl:template match="head/bibl">
+  <xsl:element name="h2">
+  <xsl:element name="i">
+      <xsl:value-of select="title"/>
+  </xsl:element>, <xsl:value-of select="author"/>, <xsl:value-of select="date"/>,<br/>
+  <xsl:value-of select="pubPlace"/>.
+  </xsl:element>
 </xsl:template>
--->
 
 <xsl:template match="p/figure|figure">
 <p class="pageimage"> 
@@ -80,6 +79,11 @@
     </p> 
 </xsl:template>
 
+<xsl:template match="p">
+<p><xsl:apply-templates/></p>
+</xsl:template>
+
+
 <xsl:template match="lb">
   <br/>
 </xsl:template>
@@ -102,6 +106,12 @@
     </xsl:when>
   </xsl:choose>
 </xsl:template>
+
+<!-- mark exist matches for highlighting -->
+  <xsl:template match="exist:match">
+    <span class="match"><xsl:apply-templates/></span>
+  </xsl:template>
+
 
 <!--
 <xsl:template match="p">

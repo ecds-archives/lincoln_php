@@ -3,7 +3,7 @@ include("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
 $id = $_GET['id'];
-$terms = $_GET['term'];
+$terms = $_GET['keyword'];
 
 // use tamino settings from config file
 //$args = $exist_args;
@@ -11,16 +11,19 @@ $exist_args{"debug"} = true;
 
 $xmldb = new xmlDbConnection($exist_args);
 
-$query = 'for $div in /TEI.2/text/body/div1[@id  = "' . $id . '"]
-let $hdr := root($div)/TEI.2/teiHeader
-return <result>{$hdr}{$div}</result>';
-$xsl_file = "xsl/sermon.xsl";
+$for = 'for $div in /TEI.2/text/body/div1[@id  = "' . $id . '"]';
+if ($terms != '') {$for .= "[. |= \"$terms\"]";}
+$let = 'let $hdr := root($div)/TEI.2/teiHeader';
+$return = 'return <result>{$hdr}{$div}</result>';
+$xsl_file = "xslt/sermon.xsl";
+
+$query = "$for $let $return";
 
 $xmldb->xquery($query);
 
 // metadata information for cataloging
-$header_xsl1 = "xsl/teiheader-dc.xsl";
-$header_xsl2 = "xsl/dc-htmldc.xsl";
+$header_xsl1 = "xslt/teiheader-dc.xsl";
+$header_xsl2 = "xslt/dc-htmldc.xsl";
 
 $xmldb->xslTransform($header_xsl1);
 $xmldb->xslTransformResult($header_xsl2);
@@ -33,7 +36,7 @@ $author = $xmldb->findNode("author");
 $a = explode(",", $author, 2);
 $author = $a[0];
 
-html_head("Sermon : $author - $title", "sermons.css", false);
+html_head("Sermon : $author - $title", "web/css/sermons.css", false);
 /* print "<html>
          <head>
             <title>The Martyred President : Sermon : $author - $title</title>
@@ -43,19 +46,19 @@ $xmldb->printResult();
 print "          </head>";
 
 print "\n<body>";
-include("header.html");
+include("web/html/header.html");
 
 
 print '<div class="content">';
-$xmldb->highlightInfo($terms);
+/*$xmldb->highlightInfo($terms);*/ //using exist highlight
 
 $xmldb->xslTransform($xsl_file);
-$xmldb->printResult($terms);
+$xmldb->printResult();
 
 print "<p class='clear'>&nbsp;</p>";
 print "</div>";
 
-include("footer.html");
+include("web/html/footer.html");
 ?> 
    
   </div>
