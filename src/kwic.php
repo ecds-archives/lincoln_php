@@ -2,7 +2,7 @@
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 
 $db = new xmlDbConnection($exist_args);
 
@@ -15,7 +15,8 @@ $id = $_REQUEST["id"];
 $keyword = $_REQUEST["keyword"];
 
 
-$htmltitle = "Southern Changes Digital Archive";
+$htmltitle = "Search Results: Keyword in Context";
+
 
 
 // what should be displayed here?  for sc: article title, author, date
@@ -23,13 +24,13 @@ $htmltitle = "Southern Changes Digital Archive";
 // use article query with context added
 // note: using |= instead of &= because we want context for any of the
 // keyword terms, whether they appear together or not
-$xquery = "let \$doc := /TEI.2//div2[@id = \"$id\"]
+$xquery = "let \$doc := /TEI.2//div1[@id = \"$id\"]
 return 
 <item>
 {\$doc/@id}
 {\$doc/head}
-{\$doc/byline/docAuthor}
-{\$doc/docDate}
+{\$doc/head/bibl/author}
+{\$doc/head/date}
 <context>
 {for \$c in \$doc//*[. |= \"$keyword\"]
    return if (name(\$c) = 'hi') then \$c/..[. |= \"$keyword\"] else  \$c }</context>
@@ -44,14 +45,15 @@ return
 
 $db->xquery($xquery);
 
+html_head($htmltitle);
 
-print "$doctype
+/*print "$doctype
 <html>
  <head>
     <title>$htmltitle : $doctitle : Keyword in Context</title>
-    <link rel='stylesheet' type='text/css' href='web/css/schanges.css'>";
+    <link rel='stylesheet' type='text/css' href='web/css/schanges.css'>";*/
 
-include("web/xml/header_search.xml");
+include("web/html/header.html");
 
 print "<div class='content'>
 <div class='title'><a href='index.html'>$title</a></div>";

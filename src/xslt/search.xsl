@@ -5,6 +5,7 @@
 	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
 	xmlns:xq="http://metalab.unc.edu/xq/">
 
+<!-- NOTE TO SELF: USING exist-search.xsl -->
 
 <!-- search terms for highlighting.  Should be in format:
      term1|term2|term3|term4  -->

@@ -1,4 +1,4 @@
-@import "highlight.css";
+/*@import "highlight.css";*/
 
 /* link colors to match header */
 a:link { color:  #02023a; }
@@ -97,3 +97,6 @@ p.fullpage { text-align:center; }
 p.fullpage img { border: 1px solid #02023a; }
 table.pagenav { width: 100%; }
 td.desc {text-align:center;}
+
+/* highlight search terms */
+span.match { font-weight:bold; background-color:#000033; color:#FFFFFF; }

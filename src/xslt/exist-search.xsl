@@ -74,7 +74,10 @@
       <xsl:if test="head//title">
 	<td class="title"><xsl:element name="a">
 	  <xsl:attribute name="href">sermon.php?id=<xsl:value-of
-	select="id/@id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
+	select="@id"/>
+	  <xsl:if test="$keyword !=''">&amp;keyword=<xsl:value-of
+	  select="$keyword"/></xsl:if>
+	  <xsl:if test="$title !=''">&amp;$title</xsl:if></xsl:attribute>
 	  <xsl:apply-templates select="head//title" mode="table"/>
 	</xsl:element></td>
       </xsl:if>
@@ -101,7 +104,7 @@
     <td class="hits">
       <a>
         <xsl:attribute name="href">kwic.php?id=<xsl:value-of
-	select="../id/@id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
+	select="../@id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
         <xsl:apply-templates select="."/>
       </a>
     </td>
@@ -131,7 +134,7 @@
 
     <xsl:variable name="url">
       <xsl:choose>
-        <xsl:when test="$mode = 'browse'">browse.php?field=<xsl:value-of select="$field"/><xsl:if test="$value">&amp;value=<xsl:value-of select="$value"/></xsl:if><xsl:if test="$letter">&amp;letter=<xsl:value-of select="$letter"/></xsl:if>
+        <xsl:when test="$mode = 'browse'">browse.php?field=<xsl:value-of select="$field"/><xsl:if test="$value">&amp;value=<xsl:value-of select="$value"/></xsl:if>
       </xsl:when>
       <xsl:when test="$mode = 'search'">search.php?<xsl:value-of select="$url_suffix"/></xsl:when>
     </xsl:choose>
@@ -246,7 +249,7 @@
             </input>
             <input name="author" type="hidden">
               <xsl:attribute name="value"><xsl:value-of select="$author"/></xsl:attribute>
-            </input>            <input name="doctitle" type="hidden">
+            </input>            <input name="title" type="hidden">
               <xsl:attribute name="value"><xsl:value-of select="$title"/></xsl:attribute>
             </input>            <input name="date" type="hidden">
               <xsl:attribute name="value"><xsl:value-of select="$date"/></xsl:attribute>
