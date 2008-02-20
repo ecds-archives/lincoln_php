@@ -15,8 +15,8 @@ div.content
     text-align:left;
     }
 
-h1 { font-family: Book Antiqua; color: #660000; }
-h2 { font-family: Book Antiqua; color: #000033; font-stretch: narrower;}
+h1 { font-family: "Book Antiqua", serif; color: #660000; background-color:inherit;}
+h2 { font-family: "Book Antiqua", serif; color: #000033; background-color:inherit; }
 span.star {font-weight: bold;}
 span.author { font-weight: bold; font-size:125%;}
 li.sermon { list-style-type: circle; padding-left: 15px; text-indent: -15px; }
@@ -64,10 +64,42 @@ p.searchtips {text-align: center;}
 p.center {text-align: center;}
 /*ul.searchtips {width: 100%; height: 4in; text-align:left; border: 2px solid #0000FF;}*/
 
+/* next/prev/etc. navigation */
+div.searchnav {
+  background:#200674; 
+  margin-bottom:10px; 
+  height:20px;
+  text-align:center;
+}
+/* for first/next/last links spacing to be consistent,
+   all links should always be present with no link text if there is no url */
+div.searchnav a, table.searchnav a {
+  color:#ffffff; 
+  line-height:20px;
+  padding-left:20px;
+  padding-right:20px;
+  text-align:center;
+}
+div.searchnav a:hover, table.searchnav a:hover {
+  color: #FF9933;
+}
+
+table.searchnav { 
+  background:#000033; 
+  margin-bottom:10px; 
+  height:20px;
+  text-align:center;
+  width:100%;
+  clear:both;
+}
+table.searchnav td { 
+  width:25%; 
+}
+
 
 div#overview {margin: 1in; margin-top:0.5in;}
 
-span.match { font-weight: bold;}	
+/*span.match { font-weight: bold;}	*/
 p.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
 table.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
 table.kwic td.pn { width: 65px; vertical-align: middle;}
