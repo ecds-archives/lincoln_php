@@ -107,6 +107,11 @@
   </xsl:choose>
 </xsl:template>
 
+<xsl:template match="lg/head">
+  <xsl:apply-templates/>
+  <xsl:element name="br"/>
+</xsl:template>
+
 <!-- mark exist matches for highlighting -->
   <xsl:template match="exist:match">
     <span class="match"><xsl:apply-templates/></span>

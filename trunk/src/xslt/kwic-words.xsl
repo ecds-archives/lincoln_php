@@ -4,6 +4,7 @@
 
 <xsl:param name="context">15</xsl:param>
 <!-- <xsl:param name="minParaSize">30</xsl:param> -->
+  <xsl:param name="keyword"/>
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
 
@@ -12,7 +13,17 @@
   </xsl:template>
 
   <xsl:template match="context/p|context/l">
-    <p class="kwic">
+    <table class="kwicsearchresults">
+      
+    <tr>
+      <td class="pn">
+        <xsl:if test="@pn != ''">
+          <a>
+            <xsl:attribute name="href">sermon.php?id=<xsl:value-of select="//item/@id"/>#page<xsl:value-of select="@pn"/><!--<xsl:value-of select="$myurlsuffix"/>--></xsl:attribute>
+            page <xsl:value-of select="@pn"/></a>
+        </xsl:if>
+              </td>
+      <td><p class="kwic">
       <xsl:attribute name="pn">
         <xsl:value-of select="@pn"/>
       </xsl:attribute>
@@ -26,13 +37,15 @@
         </xsl:otherwise>
       </xsl:choose>
 
-   </p>
+    </p></td>
+    </tr>
+    </table>
   </xsl:template>
 
 
   <xsl:template match="match" mode="kwic">
     <!--     <xsl:text>...</xsl:text> -->
-    <!-- DEBUG: in match='match'-->
+ <!--    DEBUG: in match='match'-->
 
     <!-- note: not using sibling axis because words may be inside hi tags -->
     <xsl:apply-templates select="preceding-sibling::w[1]" mode="kwic-prev">
@@ -52,7 +65,7 @@
 
   <!-- multiple matches within a single paragraph -->
   <xsl:template match="match" mode="kwic-multiple">
-    <xsl:param name="second" value="false"/>	<!-- if true, this is a second match within $context words -->
+    <xsl:param name="second">false</xsl:param>	<!-- if true, this is a second match within $context words -->
     <!-- count # of words to next match -->
     <xsl:variable name="wcount"><xsl:apply-templates select="following-sibling::*[1]" mode="count"/></xsl:variable>
 

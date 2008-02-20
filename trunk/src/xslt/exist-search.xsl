@@ -77,7 +77,7 @@
 	select="@id"/>
 	  <xsl:if test="$keyword !=''">&amp;keyword=<xsl:value-of
 	  select="$keyword"/></xsl:if>
-	  <xsl:if test="$title !=''">&amp;$title</xsl:if></xsl:attribute>
+	  </xsl:attribute>
 	  <xsl:apply-templates select="head//title" mode="table"/>
 	</xsl:element></td>
       </xsl:if>
@@ -132,12 +132,7 @@
   <!-- only display total & jump list if there are actually results -->
   <xsl:if test="$total > 0">
 
-    <xsl:variable name="url">
-      <xsl:choose>
-        <xsl:when test="$mode = 'browse'">browse.php?field=<xsl:value-of select="$field"/><xsl:if test="$value">&amp;value=<xsl:value-of select="$value"/></xsl:if>
-      </xsl:when>
-      <xsl:when test="$mode = 'search'">search.php?<xsl:value-of select="$url_suffix"/></xsl:when>
-    </xsl:choose>
+    <xsl:variable name="url">search.php?<xsl:value-of select="$url_suffix"/>
   </xsl:variable>
 
   <table class="searchnav">
@@ -227,23 +222,7 @@
     <xsl:if test="$total > $chunksize">
       <form id="jumpnav">
         <xsl:attribute name="action"><xsl:value-of select="$mode"/>.php</xsl:attribute>
-        <xsl:choose>
-          <xsl:when test="$mode = 'browse'">
-            <input name="field" type="hidden">
-              <xsl:attribute name="value"><xsl:value-of select="$field"/></xsl:attribute>
-            </input>
-            <xsl:if test="$value">
-              <input name="value" type="hidden">
-                <xsl:attribute name="value"><xsl:value-of select="$value"/></xsl:attribute>
-              </input>
-            </xsl:if>
-            <xsl:if test="$letter">
-              <input name="letter" type="hidden">
-                <xsl:attribute name="value"><xsl:value-of select="$letter"/></xsl:attribute>
-              </input>
-            </xsl:if>
-          </xsl:when>
-          <xsl:when test="$mode = 'search'">
+
             <input name="keyword" type="hidden">
               <xsl:attribute name="value"><xsl:value-of select="$keyword"/></xsl:attribute>
             </input>
@@ -254,8 +233,6 @@
             </input>            <input name="date" type="hidden">
               <xsl:attribute name="value"><xsl:value-of select="$date"/></xsl:attribute>
             </input>
-          </xsl:when>
-        </xsl:choose>
         <input name="max" type="hidden">
           <xsl:attribute name="value"><xsl:value-of select="$max"/></xsl:attribute>
         </input>

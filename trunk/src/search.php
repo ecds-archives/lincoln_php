@@ -79,7 +79,7 @@ $xsl_params = array('mode' => "search", 'keyword' => $kw, 'title' => $title, 'au
     print "<li>author matches '$auth'</li>";
   if ($date)
     print "<li>date matches '$date'</li>";
-include("web/html/footer.html");
+
 
   print "</ul>";
   
@@ -97,6 +97,7 @@ You may want to broaden your search or consult the search tips for suggestions.<
   print "<p><b>Error!</b> No search terms specified.</p>";
 }
 
+include("web/html/footer.html");
 ?>
 
 </body>

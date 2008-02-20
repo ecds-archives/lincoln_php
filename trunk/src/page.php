@@ -7,7 +7,7 @@ $terms = $_GET['term'];
 
 // use tamino settings from config file
 $args = $exist_args;
-$args{"debug"} = true;
+$args{"debug"} = false;
 
 $xmldb = new xmlDbConnection($args);
 
