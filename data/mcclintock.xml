@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -93,7 +94,7 @@ New York</pubPlace>
 &amp; Son</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15qp9</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="mcclintock1">
@@ -673,7 +674,7 @@ book has been refuted, and what a blow has been given to this gospel
 of Napoleon, by the assassination of Lincoln and its issues. Here is
 one greater than Caesar struck down as Caesar was, and yet the pillars
 of the Republic are unshaken. What a pitiful anachronism does the
-Imperial plea for C&#x00E6;sarism appear, in presence of the dead Lincoln,
+Imperial plea for C&#xE6;sarism appear, in presence of the dead Lincoln,
 and the mourning, yet living and triumphant Republic!</p>
                <p pn="26">Let us now gather one or two practical lessons for
 ourselves and our children. Hatred of assassination is one of these

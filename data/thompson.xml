@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -80,7 +81,7 @@ Properties to 72 per inch.</p>
                      <publisher>Loyal Publication Society</publisher>
                      <date>1865</date>
                   </imprint>
-               </bibl>
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15r9w</idno></bibl>
             </head>
             <p pn="1">
                <figure entity="thompson1">
@@ -316,7 +317,7 @@ constitutional obligations which have been thrown about it; but
 nevertheless, desire a policy that looks to the prevention of it as a
 wrong, and looks hopefully to the time when as a wrong it may come to
 an end."<ref target="thompson.002.n06">&#x2021;</ref> "If slavery is not
-wrong nothing is wrong."<ref target="thompson.002.n07">&#x00A7;</ref></p>
+wrong nothing is wrong."<ref target="thompson.002.n07">&#xA7;</ref></p>
                <p pn="14">"One only thing," said he, in his speech at Cooper Institute, "will satisfy our opponents. Cease to call slavery <hi rend="italic">wrong,</hi> and join them in calling it <hi rend="italic">right.</hi> If our sense of duty forbids this, then let us stand by our duty, fearlessly and effectively. Let us be diverted by none of those sophistical contrivances wherewith we are so industriously plied and belabored&#x2014;contrivances, such as groping for some middle ground between the right and the wrong, vain as the search</p>
                <note pn="14" id="thompson.002.n04" n="*" place="foot" anchored="yes">
                   <p pn="14">Speech of 21st February. 1861.</p>
@@ -327,7 +328,7 @@ wrong nothing is wrong."<ref target="thompson.002.n07">&#x00A7;</ref></p>
                <note pn="14" id="thompson.002.n06" n="&#x2021;" place="foot" anchored="yes">
                   <p pn="14">Speech at Galesburgh, October 7, 1858.</p>
                </note>
-               <note pn="14" id="thompson.002.n07" n="&#x00A7;" place="foot" anchored="yes">
+               <note pn="14" id="thompson.002.n07" n="&#xA7;" place="foot" anchored="yes">
                   <p pn="14">Letter to A. G. Hodges, Esq., of Kentucky.</p>
                </note>
                <pb n="15"/>

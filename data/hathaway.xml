@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -93,7 +94,7 @@ Warren</author>
                      <publisher>J. Munsell</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl>
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15qc2</idno></bibl>
             </head>
             <p pn="1">
                <figure entity="hathaway1">
@@ -526,7 +527,7 @@ cannon-mounted citadel. And this effort to destroy virtue and national
 righteousness at Washington, will impress us again, by showing the
 immutability of justice and excellence.</p>
                <p pn="12">We have said the person of our President was
-sacred. Re&#x00EB;lected by a popular majority of nearly five hundred
+sacred. Re&#xEB;lected by a popular majority of nearly five hundred
 thousand, the people had said emphatically--"well done, good and
 faithful servant." Again invested with the authority of his high
 office, he was, if possible, doubly sacred to all--save the foul dogs
