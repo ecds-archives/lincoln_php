@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -95,7 +96,7 @@ Abraham Lincoln</title>
 Printers and Stationers</publisher>
                      <date>1865</date>
                   </imprint>
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15qfb</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="jeffery1">

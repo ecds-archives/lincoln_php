@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -88,7 +89,7 @@ Hall, Hartford</pubPlace>
 Co.</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15q2t</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="deming1">

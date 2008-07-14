@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -94,7 +95,7 @@ Rev. J. E.</author>
                      <publisher>Press of Dakin and Metcalf, No. 37 Cornhill</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15qsq</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="rankin1">

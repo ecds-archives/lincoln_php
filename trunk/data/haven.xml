@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -94,7 +95,7 @@ Liberator of America</title>
                      <publisher>James P. Magee</publisher>
                      <date>1865</date>
                   </imprint>
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15qd6</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="haven1">
@@ -357,7 +358,7 @@ bold in the closet and the forum, but timid in the field. Demosthenes
 was not only the greatest orator of Athens, he was her greatest
 democrat; none of her men of might equalled him in courageous defence
 of, and adhesion to, her central doctrine. And yet when she must
-sustain her idea at Ch&#x00E6;ronea, he fled before the legions of monarchy,
+sustain her idea at Ch&#xE6;ronea, he fled before the legions of monarchy,
 and denied in shame the faith for which he had so valiant--a Roman in
 the forum, but not at the front.</p>
                <pb n="9"/>
@@ -629,7 +630,7 @@ will be the theme for many a historian. Irvings will yet arise who
 will devote their most graceful pen to the portraiture of this second
 Washington. Carlyles will make the splendor of their genius glow
 around the head of this greater than Frederic or Cromwell. Napoleons
-will make him a more faithful study and model than C&#x00E6;sar. With every
+will make him a more faithful study and model than C&#xE6;sar. With every
 luxury of art and wealth shall the grand career of the cabin-boy of
 Kentucky, the Uniter and Liberator of America, stand in the libraries
 of kings and statesmen, in
@@ -645,7 +646,7 @@ reins of government,--disunion and slavery. The Scylla and Charybdis
 were on either side of the tossed and leaky vessel, when he took the
 helm. Fierce broke the waves on the rocky Scylla of disunion; fiercely
 did the Charybdian sands of slavery threaten to suck the ship in their
-shifting and ceaseless maelstr&#x00F6;m. Both in influence invaded the
+shifting and ceaseless maelstr&#xF6;m. Both in influence invaded the
 whole land. A great party in the North supported disunion under the
 specious phrases of State sovereignty and no coercion; while all the
 land alike hated the slave and his kindred, and refused to touch, in

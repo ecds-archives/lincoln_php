@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -94,7 +95,7 @@ compliance with TEI guidelines using TEILITE</item>
 Anglen's Press</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15r46</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="steele1">

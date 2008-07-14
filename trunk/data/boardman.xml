@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -91,7 +92,7 @@ Dana</author>
                      <publisher>Sherman &amp; Co.</publisher>
                      <date>1865</date>
                   </imprint>
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15pp6</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="boardman1">
@@ -1133,7 +1134,7 @@ the glory of the coming of the Lord."</p>
 Printers</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15pqb</idno></bibl> 
             </head>
                <pb n="27"/>
                <p pn="27">
@@ -1646,7 +1647,7 @@ Church of Philadelphia</pubPlace>
                      <publisher>Sherman &amp; Co., Printers</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15prg</idno></bibl> 
             </head>
             <pb n="46"/>
 <!-- blank page -->

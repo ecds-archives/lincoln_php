@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -93,7 +94,7 @@ Reviling, and Its Work</title>
                      <publisher>John A Gray &amp; Green, Printers</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15q9s</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="gordon1">

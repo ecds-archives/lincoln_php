@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -90,7 +91,7 @@ N. H.</pubPlace>
 Jenks</publisher>
                      <date>1865</date>
                   </imprint> 
-               </bibl> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15q1p</idno></bibl> 
             </head>
             <p pn="1">
                <figure entity="day1">
