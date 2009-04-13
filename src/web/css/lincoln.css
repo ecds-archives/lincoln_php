@@ -107,6 +107,7 @@ table.kwic td.pn { width: 65px; vertical-align: middle;}
 table.searchresults { width:90%;  border-collapse: collapse; }
 table.searchresults td { border-bottom: 1px solid #cccccc; }
 table.kwicsearchresults { width:90%; }
+table.kwicsearchresults td.pn { width: 65px; vertical-align: middle; }
 td.count { width:15%; text-align: center; }
 td.link {width:25px; font-size:75%; text-align:center;}
 th.tip { font-size: 85%; font-weight: normal; font-style: italic; text-align: center; }
