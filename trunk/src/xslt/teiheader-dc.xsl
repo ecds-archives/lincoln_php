@@ -10,7 +10,7 @@
 
   <xsl:template match="/">
     <dc>
-      <xsl:apply-templates select="//bibl"/>
+      <xsl:apply-templates select="//div1//bibl"/>
       <xsl:apply-templates select="//teiHeader"/>
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
@@ -41,6 +41,11 @@
     </xsl:element>
   </xsl:template>
 
+ <xsl:template match="idno">
+    <xsl:element name="dc:identifier">
+      <xsl:apply-templates/>
+    </xsl:element>
+  </xsl:template>
 
 
   <xsl:template match="publisher[not(parent::imprint)]">
@@ -60,7 +65,7 @@
     </xsl:element>
   </xsl:template>
 
-
+ 
   <!-- ignore for now; do these fit anywhere? -->
   <xsl:template match="publicationStmt/address"/>
   <xsl:template match="publicationStmt/pubPlace|imprint/pubPlace|pubPlace"/>

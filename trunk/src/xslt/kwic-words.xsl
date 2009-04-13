@@ -13,6 +13,7 @@
   </xsl:template>
 
   <xsl:template match="context/p|context/l">
+    <p class="kwic">
     <table class="kwicsearchresults">
       
     <tr>
@@ -23,7 +24,7 @@
             page <xsl:value-of select="@pn"/></a>
         </xsl:if>
               </td>
-      <td><p class="kwic">
+      <td>
       <xsl:attribute name="pn">
         <xsl:value-of select="@pn"/>
       </xsl:attribute>
@@ -37,9 +38,10 @@
         </xsl:otherwise>
       </xsl:choose>
 
-    </p></td>
+    </td>
     </tr>
     </table>
+      </p>
   </xsl:template>
 
 
