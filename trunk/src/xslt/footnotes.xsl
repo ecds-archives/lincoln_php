@@ -52,7 +52,7 @@
      hyperlinking to notes at the bottom of document) -->
 <xsl:param name="use-popups">true</xsl:param>
   <!-- parameters used with popups -->
-  <xsl:param name="overlib-url">overlib.js</xsl:param>	<!-- path to overlib -->
+  <xsl:param name="overlib-url">web/js/overlib.js</xsl:param>	<!-- path to overlib -->
   <xsl:param name="overlib-graphic">web/images/overLib.gif</xsl:param>	<!-- path to overlib -->
   <xsl:param name="popup-captions">true</xsl:param>	<!-- display captions, eg. 'Footnote 1' -->
   <xsl:param name="popup-width">300</xsl:param>	<!--  standard width for pop-up -->
