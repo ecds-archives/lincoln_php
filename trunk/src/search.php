@@ -6,7 +6,7 @@ include_once("lib/xmlDbConnection.class.php");
 $id = $_GET['id'];
 // use settings from config file
 //$args = $exist_args;
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 
 $xmldb = new xmlDbConnection($exist_args);
 
