@@ -2,7 +2,7 @@
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 
 $db = new xmlDbConnection($exist_args);
 
@@ -24,7 +24,9 @@ $htmltitle = "Search Results: Keyword in Context";
 // use article query with context added
 // note: using |= instead of &= because we want context for any of the
 // keyword terms, whether they appear together or not
-$xquery = "let \$doc := /TEI.2//div1[@id = \"$id\"]
+$xquery = "
+declare option exist:serialize 'highlight-matches=all';
+let \$doc := /TEI.2//div1[@id = \"$id\"]
 return 
 <item>
 {\$doc/@id}
