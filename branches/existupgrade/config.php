@@ -1,6 +1,6 @@
 <?php
 
-$in_production="false";
+$in_production="true";
 
 /* Configuration settings for entire site */
 // set level of php error reporting --  ONLY display errors
