@@ -1,19 +1,29 @@
 <?php
 
+$in_production="false";
 
 /* Configuration settings for entire site */
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
-//error_reporting(E_ERROR);	// for production
+if ($in_production) {
+  error_reporting(E_ERROR);	// for production
+ } else {
   error_reporting(E_ERROR | E_PARSE);    // for development
-
+ }
 
 /* exist settings */
+if($in_production) {
+$basedir = "/home/httpd/html/beck/lincoln";
+$server = "bohr.library.emory.edu";
+$base_path = "/lincoln/";
+$base_url = "http://beck.library.emory.edu$base_path/";
+ } else {
 //development
 $basedir = "/home/ahickco/public_html/lincoln";
 $server = "wilson.library.emory.edu";
 $base_path = "/~ahickco/lincoln/";
 $base_url = "http://$server$base_path/";
+ }
 
 // root directory and url where the website resides
 // production version
