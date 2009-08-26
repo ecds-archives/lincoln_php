@@ -4,24 +4,24 @@
 /* Configuration settings for entire site */
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
-//error_reporting(E_ERROR);	// for production
-  error_reporting(E_ERROR | E_PARSE);    // for development
+error_reporting(E_ERROR);	// for production
+//  error_reporting(E_ERROR | E_PARSE);    // for development
 
 
 /* exist settings */
 //development
-$basedir = "/home/ahickco/public_html/lincoln";
+/*$basedir = "/home/ahickco/public_html/lincoln";
 $server = "wilson.library.emory.edu";
 $base_path = "/~ahickco/lincoln/";
-$base_url = "http://$server$base_path/";
+$base_url = "http://$server$base_path/";*/
 
 // root directory and url where the website resides
 // production version
-/* $basedir = "/home/httpd/html/beck/lincoln";
+$basedir = "/home/httpd/html/beck/lincoln";
 $server = "beck.library.emory.edu";
 $base_path = "/lincoln";
 $base_url = "http://$server$base_path/";
-*/
+
 
 // add basedir to the php include path (for header/footer files and lib directory)
 set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/xslt");
