@@ -40,7 +40,11 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":
 $cssfile = "web/css/lincoln.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
-$port = "8080";
+if($in_production) {
+  $port = "7080";
+ } else {
+  $port = "8080";
+ }
 $db = "lincoln";
 
 $exist_args = array('host'   => $server,
