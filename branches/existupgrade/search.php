@@ -98,6 +98,7 @@ You may want to broaden your search or consult the search tips for suggestions.<
 }
 
 include("web/html/footer.html");
+include("web/html/google-tracklinc.xml");
 ?>
 
 </body>

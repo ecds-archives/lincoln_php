@@ -59,6 +59,7 @@ print "<p class='clear'>&nbsp;</p>";
 print "</div>";
 
 include("web/html/footer.html");
+include("web/html/google-tracklinc.xml");
 ?> 
    
   </div>

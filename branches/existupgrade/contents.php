@@ -60,6 +60,6 @@ include("web/html/footer.html");
 ?> 
    
   </div>
-   
+ <?php include("web/html/google-tracklinc.xml"); ?>
 </body>
 </html>
