@@ -12,3 +12,4 @@ include("web/html/header.html");
 
 
 include("web/html/footer.html");
+include("web/html/google-tracklinc.xml");

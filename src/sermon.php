@@ -17,7 +17,8 @@ $let = 'let $hdr := root($div)/TEI.2/teiHeader';
 $return = 'return <result>{$hdr}{$div}</result>';
 $xsl_file = "xslt/sermon.xsl";
 
-$query = "$for $let $return";
+$query = "declare option exist:serialize 'highlight-matches=all';";
+$query .= "$for $let $return";
 
 $xmldb->xquery($query);
 
@@ -59,6 +60,7 @@ print "<p class='clear'>&nbsp;</p>";
 print "</div>";
 
 include("web/html/footer.html");
+include("web/html/google-tracklinc.xml");
 ?> 
    
   </div>

@@ -6,7 +6,7 @@
 
 
   <xsl:param name="mode">kwic</xsl:param>
-  <!--<xsl:param name="url_suffix"/>-->
+  <xsl:param name="url_suffix"/>
   <xsl:param name="url"/>  	<!-- needed in common.xsl; not used here -->
   <xsl:param name="id"/>	
 <!--  <xsl:param name="keyword"/>-->
