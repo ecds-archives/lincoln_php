@@ -9,7 +9,7 @@ include("web/html/overview.html");
 print "</div>";
 
 include("web/html/footer.html");
-
+include("web/html/google-tracklinc.xml");
 ?>
 
 </body>
