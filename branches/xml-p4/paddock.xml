@@ -1,0 +1,740 @@
+<?xml version="1.0"?>
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt n="A Great Man Fallen!">
+            <title>  A Great Man
+Fallen!  </title>
+            <author>Paddock, Wilbur F.</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck
+Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>1996 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact the Director, 
+Pitts Theology Library, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>1999</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Lincoln
+Sermons Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Paddock,
+Wilbur F. A Great Man Fallen! A Discourse on the Death of Abraham
+Lincoln.  Delivered in St. Andrew's Church, Philadelphia, Sunday
+Morning, April 23, 1865.  Philadelphia: Sherman &amp; Co.,
+Printers. 1865.  </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text derives from the Special Collections 
+of Pitts Theology Library, Emory University, and is produced in 
+collaboration with the Lewis H. Beck Center a, the Emory 
+Preservation Office, and Pitts Theology Library.</p>
+            <p>TRANSCRIBER: Lewis H. Beck Center and Emory University 
+Preservation Office.</p>
+            <p>PRODUCER:  BookLab, Inc., 1606 Headway Circle, 
+Suite 100, Austin, TX 78754</p>
+            <p>CAPTURE DEVICE: XEROX DocuImage 620S flatbed scanner</p>
+            <p>CAPTURE DETAILS: Scanner software: XEROX ScanTool 
+version 4.2.3; no gamma correction; images are all bitonal.</p>
+            <p>CHANGE HISTORY: Using the Adobe Photoshop Batch Processor, 
+we interpolated  the original TIFF files to 8-bit grays, 
+and altered the resolution to 144 dpi, producing screen 
+images twice the original size.  We then saved them in 
+JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
+            <p>RESOLUTION: 600 ppi</p>
+            <p>COMPRESSION: Resolution 144 per inch with Constrain 
+Properties to 72 per inch.</p>
+            <p>SOURCE: Original documents.</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>1999</date>
+            <respStmt>
+               <name>Scott Ellis</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 id="paddock.001" n="A Great Man Fallen!" type="text">
+            <head pn="1"> 
+               <bibl> 
+                  <title>A Great Man
+Fallen!</title> 
+                  <date>Sunday Morning, April 23, 1865</date>
+                  <pubPlace>St. Andrew's Church, Philadelphia</pubPlace>
+                  <author>Paddock, Wilbur F.</author> 
+                  <imprint>
+                     <pubPlace>Philadelphia</pubPlace>
+                     <publisher>Sherman &amp; Co.,
+Printers</publisher>
+                     <date>1865</date>
+                  </imprint> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15qqf</idno></bibl> 
+            </head>
+            <p pn="1">
+               <figure entity="paddock1">
+                  <figDesc>1st page of Wilbur F. Paddock's
+A Great Man Fallen!</figDesc>
+               </figure>
+            </p>
+            <p pn="1">A GREAT MAN FALLEN!</p>
+            <p pn="1">A DISCOURSE</p>
+            <p pn="1">ON THE</p>
+            <p pn="1">DEATH OF ABRAHAM LINCOLN.</p>
+            <p pn="1">DELIVERED IN</p>
+            <p pn="1">St. Andrew's Church, Philadelphia,</p>
+            <p pn="1">SUNDAY MORNING, APRIL 23, 1865.</p>
+            <p pn="1">BY THE</p>
+            <p pn="1">REV. WILBUR F. PADDOCK.</p>
+            <p pn="1">PHILADELPHIA</p>
+            <p pn="1">SHERMAN &amp; CO., PRINTERS.</p>
+            <p pn="1">1865.</p>
+            <pb n="2"/>
+            <p pn="2">
+               <figure entity="paddock2">
+                  <figDesc>2nd page of
+Wilbur F. Paddock's A Great Man Fallen!</figDesc>
+               </figure>
+            </p>
+            <p pn="2">This Discourse is published at the request of Governor Pickering,
+Senator Williams, and others of the Funeral Escort of President
+Lincoln, who were present at the time of its delivery.</p>
+            <pb n="3"/>
+            <p pn="3">
+               <figure entity="paddock3">
+                  <figDesc>3rd page of
+Wilbur F. Paddock's A Great Man Fallen!</figDesc>
+               </figure>
+            </p>
+            <div2 id="paddock.002" n="DISCOURSE" type="sermon">
+               <head pn="3">DISCOURSE.</head>
+               <epigraph pn="3">
+                  <p pn="3"> 2 SAMUEL 3:34, 38.</p>
+                  <p pn="3">"THY HANDS WERE NOT BOUND,
+NOR THY FEET PUT INTO FETTERS: AS A MAN FALLETH  BEFORE WICKED MEN, SO
+FELLEST THOU. AND ALL THE PEOPLE WEPT AGAIN OVER HIM. AND THE KING
+SAID UNTO HIS SERVANTS, KNOW YE NOT THAT THERE IS A PRINCE AND A GREAT
+MAN FALLEN?"</p>
+               </epigraph>
+               <p pn="3">A GREAT leader and a brave man had fallen in Israel. Not in
+battle, not by disease, not by the hands of the ministers of justice
+in satisfaction to violated law, but by the hand of an assassin,--a
+deed treacherously, cowardly, infamously and unsuspectedly
+committed. In the gate at Hebron, the place of judgment and the place
+of concourse, in defiance of the laws of God and man, Joab, openly
+before the people, imbrues his hands in the blood of Abner, whom he
+from jealousy feared, and towards whom he entertained the bitterest
+feelings of revenge. "And David said to Joab and to all the people
+that were with him, Rend your clothes, and gird you with sackcloth,
+and mourn before Abner. And King David himself followed the bier. And
+they buried Abner in Hebron; and the king lifted up his voice and wept
+at the grave
+<pb n="4"/>
+                  <figure entity="paddock4">
+                     <figDesc>4th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+of Abner; and all the people wept. And the king lamented over Abner
+and said, Died Abner as the fool dieth? Thy hands were not bound, nor
+thy feet put into fetters. As a man falleth before wicked men, so
+fellest thou. And all the people wept again over him. And the king
+said unto his servants, Know ye not that there is a prince and a great
+man fallen this day in Israel? And I am this day weak, though anointed
+king; and these men, the sons of Zeruiah, be too hard for me. The Lord
+shall reward the doer of evil according to his wickedness."</p>
+               <p pn="4">How striking in many respects, the parallel between this
+deed of blood and that committed but little more than a week ago in
+our national capitol. A prince and a great man then fell by the hand
+of an assassin; unsuspectedly, cowardly, cruelly murdered in the place
+of concourse before the eyes of thousands, in defiance of the laws of
+God and man. The deed itself spoke in thunder tones to the hearts of
+the people. It needed not that Executive authority should call upon
+the nation to gird itself in sackcloth and mourn before its fallen
+friend, benefactor and ruler. Scarce had the terrible tidings flown
+upon the lightning's wing through the loyal States, when, from
+millions of stricken hearts there went up to Heaven a bitter cry of
+anguish,--the pitiful moan of a crushed and bereaved people. The whole
+land, just before revelling in excess of joy over unparalleled
+military success, glowing with bright
+<pb n="5"/>
+                  <figure entity="paddock5">
+                     <figDesc>5th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+hopes and brilliant revelations of restored peace and prosperity, was
+suddenly plunged into the very depths of woe. The sombre hue of death
+everywhere visible, and the varied language of mourning, told how
+universal and how great was the grief of the people. The angels of
+sorrow stretched a pall of darkness and gloom over the whole land. In
+every house there was, as it were, one dead; and that one--a
+father.</p>
+               <p pn="5">Twice, my friends, since this awful crime was committed,
+have we assembled in this church. Upon Easter Day we sought to catch
+the spirit of the service and ascend gladly in our hearts to the risen
+and glorified Saviour. We sought to meditate upon the precious hopes
+given us and the triumph achieved for us in His resurrection. But how
+sad and fruitless all our efforts. A great woe pressed heavily upon
+our hearts. Easter joys were turned into mourning, songs of
+thankfulness into notes of sadness and bereavement. Our thoughts and
+feelings would not but flow mournfully through the dark valley of
+affliction into which we had been called as a nation to enter. We
+could not, from very weeping, sing the songs of Zion.</p>
+               <p pn="5">Wednesday's solemn service brought with it the same deep
+impressions of the great and terrible loss we had sustained. We
+gathered in spirit around the cold and lifeless form of our martyr
+President, and paid, with distressed and weeping hearts, like offices
+with those which were being at the same hour per-
+<pb n="6"/>
+                  <figure entity="paddock6">
+                     <figDesc>6th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+formed over his remains in Washington. We then realized as never
+before that our truthful, loving, and noble-hearted friend and
+benefactor had gone. No words could add solemnity or effect to those
+funeral services under the powerful impression of this conviction.</p>
+               <p pn="6">To-day, we are again assembled, and the same subject is
+occupying our minds and moving the deepest emotions of our
+hearts. There is no possibility of escaping it. Nor, dear friends,
+would we if we could, until it shall produce the result God designed
+it to accomplish in the gracious orderings of this most mysterious
+providence. A blow so heavy, so sudden, so momentous in its
+consequences, is not easily to be recovered from, or soon to be
+forgotten. To-day, the great and noble dead is in our midst; and every
+Church assemblage and every heart in this vast city feel the influence
+of that presence. Meet was it, that the noblest, the greatest, and the
+best of all the martyrs, who have been sacrificed upon the altar of
+liberty since the birth of this nation, should upon this, the last
+Sabbath before his sepulture, lie in state in the hall where liberty
+was cradled, and in which were first authoritatively uttered those
+great principles of human freedom, equality and constitutional law, in
+the defence of which he died.<ref target="paddock.002.n01">*</ref> His lifeless and mutilated</p>
+               <note pn="6" id="paddock.002.n01" n="*" place="foot" anchored="yes">
+                  <p pn="6">The remains of President Lincoln were placed in
+Independence Hall, Saturday evening, April 22, and remained there
+exposed to view until the following Monday morning. The head of the
+deceased was towards the pedestal upon which rests the old State House
+bell, which first pealed liberty throughout the land. The four walls
+of the hall were tapestried with serge. The pictures which the heavy
+serge festoons were allowed to reveal were six in number, and not
+inappropriate silent watchers of the dead. Upon the coffin was placed
+a beautiful cross, composed of perfectly white flowers of the choicest
+kinds. A card attached was inscribed as follows:</p>
+                  <p pn="6">"A tribute to our great and good President, fallen a martyr
+in the cause of human freedom.</p>
+                  <lg type="stanza">
+                     <l>"In my hand no price I bring,</l>
+                     <l>Simply to Thy cross I cling."</l>
+                  </lg>
+                  <p pn="6"><hi rend="italic">Extract from Daily Paper.</hi></p>
+               </note>
+               <pb n="7"/>
+               <p pn="7">
+                  <figure entity="paddock7">
+                     <figDesc>7th page of
+Wilbur F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+               </p>
+               <p pn="7">body calls upon us for a more extended notice of his character and
+services than in this church has heretofore been given; and in so
+doing, I shall not, I am assured, do violence to the proprieties of
+time and place, or go counter to your just expectations and the
+demands of the present occasion.</p>
+               <p pn="7">I purpose, this morning, to show, first of all, the true
+greatness of him whom the nation now mourns and seeks to honor;
+second, to discover, if possible, the culprit by whose hand he fell;
+and third, to indicate the manner in which his death may best be
+avenged, and our great and irreparable loss be made a blessing to
+ourselves and to our country. We must speak briefly upon each of these
+points, and cannot, therefore, do more than present a faint outline of
+the virtues and excellences of the illustrious dead, trusting that
+the</p>
+               <pb n="8"/>
+               <p pn="8">
+                  <figure entity="paddock8">
+                     <figDesc>8th page of
+Wilbur F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+               </p>
+               <p pn="8">perfectness and moral grandeur of his character, may at least, not
+suffer in your estimation by this necessarily imperfect
+presentation.</p>
+               <p pn="8">I. Consider then, how great Abraham Lincoln was, first, <hi rend="italic">in his devotion to truth</hi>. It is said of him as of the
+immortal Washington, that he never told a lie. From the age of
+twenty-five to the time of his death, he was more or less in political
+life, and under its corrupting influences; and yet so sacredly did he
+hold to the inviolability of oaths, to the sanctity of plighted word,
+and to the great value and necessity of strict veracity in statement
+and conduct, that his bitterest enemies have not been able to convict
+him of a single falsehood, or prove upon him a single charge of fraud,
+of intrigue or of deceit. He had an instinctive love of truth,--truth
+in word, in principle, in belief, and in practice,--that caused him,
+no matter what the consequences might be to himself, to do and say,
+when duty demanded, what he thought and felt and believed. He was
+incapable of acting a part, and careful that he might not be deceived
+by others. No labor was too great, no pressure of business so severe,
+as to prevent him from learning, if possible, the truth of every case
+presented to him.</p>
+               <p pn="8">He was honest with himself, and honest in his dealings with
+others. It shone forth from earliest years. When a mere child, he
+labored for two days to pay for
+<pb n="9"/>
+                  <figure entity="paddock9">
+                     <figDesc>9th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+a borrowed book, which he promptly confessed had been by his own
+carelessness destroyed. Veracity and strict integrity marked all his
+boyhood plays, bargains and engagements.</p>
+               <p pn="9">In after life, this fidelity to truth in word, in principle
+and in conduct, was marvellously manifested. History furnishes no
+parallel of devotion so constant and unswerving,--under a combination
+of circumstances so powerfully arrayed in opposition,--as
+distinguished him during his entire Presidential career. In the midst
+of plots and counterplots; amid the fluctuations of opinion and the
+surging waves of intense feeling over different lines of policy; at
+one time basely attacked by bitter enemies; at another, made the
+subject of satire, ridicule, or unjust criticism; at another, still,
+brought under the blandishments and seductive influences of greedy
+politicians, unwise friends, or base pretenders--now contending with
+factious elements at home, and now with intriguing or hostile cabinets
+abroad--firmly relying upon the invincibility of his principles, the
+correctness of his opinions, the rightfulness of his position, and the
+integrity of his purpose, like a rock he stood courageously and
+heroically beating back every wave, resisting every encroachment,
+withstanding every seductive influence; unmoved alike by blame or
+praise, bribes or threats, reproach, contempt, cajolery, or base
+<pb n="10"/>
+                  <figure entity="paddock10">
+                     <figDesc>10th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+insinuations,--true to himself, true to his principles, true to his
+country, and true to his God. Oh, how noble such an exhibition of
+character! How rarely is it seen in the history of public men.</p>
+               <p pn="10">But again, the greatness of Abraham Lincoln was manifested
+<hi rend="italic">in his devotion to the rights of humanity, and his
+sympathy with his race</hi>. We see him at the very beginning of his
+legal career, in the face of bitter prejudice and an intense feeling
+of revenge on the part of the community, defending the life of the son
+of a poor widow, charged with the crime of murder. Volunteering his
+services without a thought of reward, he rested not day nor night
+until the tangled and deceptive web of circumstance was completely
+unravelled, the malicious falsehoods of witnesses disproved, the
+innocence of the prisoner established, and light and life and joy
+could again visit the home of the widow and the fatherless. And then,
+not selfishly elated by his success, indeed scarcely conscious, so
+great was the simplicity and humility of his heart, of the proud
+distinction his talents had won for him in triumphing over prejudice,
+hostility and wrong, regardless of needed rest or of the praise that
+awaited his presence among his associates, in the greatness of his
+disinterested devotion to the suffering, the neglected and the
+defamed, he remembers only their needs, and lets the sun of that
+eventful day go down upon him administering to their wants. And this
+was the spirit he ever
+<pb n="11"/>
+                  <figure entity="paddock11">
+                     <figDesc>11th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+manifested. No thought of self, no concern for his own fame, no
+feeling of personal pride, no expressions of triumph in the hour of
+success, ever disturbed his heart, or passed his lips so far as we are
+able to learn, throughout the whole period of his marvellous
+history. Whether receiving the plaudits of a country court for a
+successful defence, or the homage and praise of millions in this and
+other lands, for the liberation of a long-oppressed race and the
+preservation of the nation's life, he was the same modest,
+self-forgetting, unelated man.</p>
+               <p pn="11">This remarkable freedom from every form of pretension, from
+self-commendation, and from all feelings of exultation over the defeat
+of others or his own success, arose not only from the native
+simplicity and generosity and divinely implanted humility of his
+heart, and the singular mastery he exercised over the varied impulses
+and passions of his nature, but, also, was largely the result of his
+intense devotion to the right, and whole-souled sympathy for the
+distressed, the needy and the wronged; causing him entirely to lose
+sight of selfish considerations, and in all his legal and political
+successes to be absorbed in the contemplation of truth vindicated, the
+right maintained, justice honored, the bounds of liberty enlarged, and
+the oppressed and afflicted blessed. Oh how grandly his whole heart
+went forth in sympathy for all his race, and how earnestly,
+faithfully and untiringly, did he labor in
+<pb n="12"/>
+                  <figure entity="paddock12">
+                     <figDesc>12th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+its behalf. It was not the white man, or the red man, or the black
+man, that he saw. It was humanity, suffering and needy, and
+down-trodden. It was not numbers, rank, wealth or position, that
+chiefly secured his attention, or obtained his most ready aid. The
+wife of the poor soldier starving in the infamous prisons of the
+South, or the widowed mother of a son who had fallen in battle,
+received from him equal attention with the noblest, the richest and
+the most exalted that passed the threshold of the Executive
+mansion. We see him at one time, with his own hands binding up the
+wounds of some suffering hero in the hospital; at another, riding ten
+miles to carry a reprieve to a poor soldier boy, who has been
+sentenced to death for sleeping upon his post; at another still,
+patiently listening to the story, and granting the request of a
+weeping servant girl, whose brother for desertion has been sent to the
+Dry Tortugas for punishment; and, we say, is this the Chief Magistrate
+of this great nation? Can he, who is engaged in such lowly offices,
+really be the one to whom is intrusted the fate of millions, who bears
+the weight of empire upon his shoulders, who daily decides great
+questions of state, and by his wise and far-seeing policy, and
+masterly direction of affairs, is largely shaping the future of other
+nations as well as our own?</p>
+               <p pn="12">Yes, even so. With Abraham Lincoln nothing was small or
+unimportant which his sense of justice and
+<pb n="13"/>
+                  <figure entity="paddock13">
+                     <figDesc>13th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+kind heart told him ought to be done; and nothing for the amelioration
+and elevation of his race was too great or too difficult for him to
+undertake to do that demanded of him the effort. In speaking to a
+friend of his Proclamation of Emancipation he said, "I did not think
+the people had been educated up to it, yet I thought it right to issue
+it, and I trusted in God and did it." How heroically grand this
+sentiment! What expresses more perfectly the whole theory and practice
+of his life! What sentence more worthy to be written in gold, and
+claimed by every true man as the history of every truly great act?
+"<hi rend="italic">I thought it right; I trusted in God; I did it</hi>."
+Few, comparatively, approved of his course at that time; but he
+hesitated not. Misrepresentations, censure and abuse were of little
+consequence to him, so long as he knew his motives were pure, the end
+he had in view right, and his course in accordance with the great
+principles of justice and humanity. He proclaimed liberty to the
+slave, and trusted in God that the victory which he sought to win over
+the prejudices of the people and the past policy of the nation might
+be crowned ultimately with success, both in the complete overthrow of
+the influence of slavery in the North, and in the practical liberation
+of an entire race from its thraldom in the South. The wisdom of his
+course has been clearly demonstrated by the progress of events. Thank
+God that he lived to see his views and his efforts sustained
+<pb n="14"/>
+                  <figure entity="paddock14">
+                     <figDesc>14th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+by the great body of the people of this land; and to behold the dawn
+of a new era of privilege and blessing to the oppressed race, which,
+in the midst of peril and difficulty, he stretched forth his brave
+hand to save.</p>
+               <p pn="14">Never had humanity a more faithful, devoted and
+self-sacrificing friend. The principles of human liberty he
+enunciated, and the blows he dealt to tyranny, oppression and wrong,
+are felt the world over. The simple, unpretending man, whose body now
+lies in yonder State House, has made the monarchs of Europe tremble
+upon their thrones, and sent joy and the assurance of ultimate freedom
+to every bondman who has been able to spell out his name and heard of
+his glorious deeds; and they will weep, too, as we to-day weep, over
+the cruel act that stilled the throbbings of his noble heart, and
+closed in violence and blood his earthly career.</p>
+               <p pn="14">Abraham Lincoln was great yet again, in his devotion to his
+country. No testimony of mine, I am sure, is needed to strengthen your
+convictions of the truth of this statement. His whole history, before
+as well as after his elevation to the chief office of authority in
+this nation, is in every part of it proof conclusive of his entire
+single-hearted devotion to the land of his birth. An intense,
+all-comprehensive patriotism, as has been said, was the constant
+stimulus of all his public exertions. It grew into the very
+constitution
+<pb n="15"/>
+                  <figure entity="paddock15">
+                     <figDesc>15th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+of his soul, and operated like a natural function, continuously,
+spontaneously, and almost as it were, unconsciously. It pervaded and
+vivified all that he said and formed the prime incentive of all that
+he did. If he had ambition, it was to serve his country, and in that
+sphere where he might do it most effectually. In no way did he ever
+fail his country in the time of need. A public trust was to him a
+sacred thing. Sublimer moral courage, more resolute devotion to duty,
+cannot be found in the history of man than he has displayed for the
+salvation of the American Union. It was the sublime performance of
+sublime duties that made him so trusted, and which has given him a
+fame as solid as justice, and as genuine as truth.</p>
+               <p pn="15">And yet, once more. Chief above all things else, Abraham
+Lincoln was to the Christian heart manifestly great <hi rend="italic">in
+his devotion to his God</hi>. Whatever other elements may enter into
+the composition of a great character, this undoubtedly is the noblest
+and the best. And this especially distinguished him whom the nation
+now mourns. Religion shed its pure and hallowed influence over his
+life. It preserved him from those vices which too often disgrace men
+in place and power. It made him a pattern of goodness even to those
+who made greater professions. It opened fountains of comfort,
+encouragement and support to his soul, and gave him that grand and
+<pb n="16"/>
+                  <figure entity="paddock16">
+                     <figDesc>16th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+abiding trust in the final overthrow of the rebellion, which, amid all
+the vicissitudes and varied fortune which attended our arms never
+wavered, and enabled him to guide, with a firm and steady hand, the
+destinies of this great people. When he left his home in Springfield
+to assume, for the first time, his great and responsible duties, he
+declared that he humbly leaned upon Divine guidance and mercy. This
+was the keynote of all his after declarations. Faith in God was his
+pillar of cloud by day and pillar of fire by night. It supplied him
+with comfort and peace in the midst of family bereavement. It guided
+him safely through the wilderness of perplexing doubts and
+discouragements that he was called upon to enter, in leading this
+people up to a higher standard of duty, and to the possession of
+greater privileges and blessings. It inspired him with calm and
+cheering hope in the darkest days of this rebellion, when other hearts
+were inclined to despondency and gloom. "Gentlemen," said he to a
+company of clergymen who were paying their respects to him, "my hope
+of success in this great and terrible struggle rests on that immutable
+foundation, the justice and goodness of God. And when events are very
+threatening, and prospects very dark, I still hope that some way which
+man cannot see, all will be well in the end; because our cause is
+just, and God is on our side." And so again, when the rebel army
+invaded this State, and all confidence seemed for a time gone in our
+<pb n="17"/>
+                  <figure entity="paddock17">
+                     <figDesc>17th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+ability to beat back the foe, we learn the manner in which he met the
+trial, and how his fears were overcome. "I rolled on God," he said,
+"the burden of my country, and I rose from my knees lightened of my
+load, feeling a peace that passeth understanding--feeling that I could
+leave myself, my country and my all, in the hands of God." Oh, what a
+noble character was his. How we love to study it. How we long more and
+more and more, to imitate it. Great as we have seen in his devotion to
+his God, to his country, to humanity and to truth, Abraham Lincoln was
+a prince in a line of royalty that contains the best blood that God
+ever permitted to flow through the veins of fallen man. The words of
+Cardinal Wolsey to one whom England has likened in some respects unto
+himself, seem ever to have sounded in his ears, as though uttered by a
+voice from heaven, to indicate and prepare him for his fate.</p>
+               <lg type="stanza">
+                  <l>"Be just and fear
+not;</l>
+                  <l>Let all the ends thou aim'st at be thy country's,</l>
+                  <l>Thy God's, and truth's! Then if thou fallest, O Cromwell!</l>
+                  <l>Thou fallest a blessed martyr!"</l>
+               </lg>
+               <p pn="17">Thou <hi rend="italic">hast</hi> fallen, just and fearless
+one! greater in thy devotion to truth, to country and to God, than
+Wolsey ever could have believed of man, or Cromwell ever was capable
+of being! And thou art a martyr blessed! Blessed with the honors of
+Heaven, the smile of God, the gratitude of the rescued and the
+<pb n="18"/>
+                  <figure entity="paddock18">
+                     <figDesc>18th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+saved, and the love of the good and true, the loyal and the brave, in
+whatever clime thy name and thy history is known. We thank our God
+to-day for what thou hast been to us.</p>
+               <p pn="18">II. But who was his murderer? Whose the hand that dared to
+still the beatings of that noble heart, destroy the great champion of
+human freedom and the preserver of our national life, make desolate
+the home of pure affection and filial devotion, and plunge a whole
+nation into mourning? Not that poor wretch who, now horror-stricken at
+the deed he has done, and the terrible penalty attached to it, seeks
+to escape the ministers of justice. He, indeed, was the tool, the
+agent in the execution of this diabolical act, and ought when found to
+be punished according to the atrocity of his crime. But he was not the
+inspirer, he was not the soul of this murder. There were others as
+much more guilty than he, as he was more guilty than the pistol which
+he held in his hand. Both were merely tools. Who set them to
+accomplish this awful deed? Who used them? Perhaps you may say, the
+chief of the Southern traitors, and those who with him devised this
+infernal plot. But can <hi rend="italic">they</hi> truly be said to be
+the murderers of our noble-hearted President? Have we found the real
+culprit yet? No, my friends, though all we have mentioned may be
+guilty, and I believe they are of <hi rend="italic">this</hi> crime, as
+well as the hundred
+<pb n="19"/>
+                  <figure entity="paddock19">
+                     <figDesc>19th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+others with which they are charged, yet the originator and the
+executer of this fearful murder is to be found, not in one traitor or
+in a band of them, but in that great Evil against which Abraham
+Lincoln battled all his life, and was sacrificed in attempting to
+destroy. It is the accursed Spirit of Slavery; the sum of all
+villanies; the mother of treason, arson, perjury and crimes of every
+color and name; the fruitful source of most of our woes as a nation
+and the destroyer of thousands of immortal souls. This it is that
+struck down our lamented President. This it is that has added another
+to the long line of martyrs that have fallen to appease the insatiable
+thirst for blood which it has incited and inspired. It were not
+possible for the soil of America to produce a wretch so cowardly, so
+detestable, so devilish, as the reputed assassin of our late Chief
+Magistrate, unless possessed by this demon of wrong. It has given
+birth to the rebellion which has made our land wet with blood and
+strewn with the bodies of the slain. It has starved sixty thousand of
+our noble soldiers in the prisons of the South. It has carried sorrow
+into every heart, and darkened every home in our land. It has crushed
+out the very manhood of those whom God made in His own image, and
+Christ died to redeem. It has debauched the conscience of the South,
+so that the broad distinctions between right and wrong, virtue and
+crime, loyalty and treason, are not clearly seen but
+<pb n="20"/>
+                  <figure entity="paddock20">
+                     <figDesc>20th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+by few, the large proportion of the people upholding and defending
+upon the authority of Holy Writ, that which the plain letter of the
+law of God and man clearly declares to be a sin and a crime. It has
+corrupted public morals, tastes, sentiments and opinions in the North,
+greatly blinding it to the guilt of treason and the crime of
+rebellion: degrading many of its merchants into mere sycophants and
+slaves in their greediness to appropriate its gains and share in its
+favors: setting up as models of excellence and as the true aristocracy
+of the nation, those who now do not refrain from every crime to effect
+their unholy ends: pouring contempt upon the humbler virtues when not
+redeemed by graces of manner, or the stamp of noble birth: perverting
+the purposes and aims of life, and dishonoring labor. This is what
+slavery has done and is doing to destroy this land. Thank God that its
+power is not now as great as in days gone by. Thank God that he whom
+the nation now mourns, was permitted before his death, to grapple with
+this great evil as man never did before, and to crush out its life in
+many portions of our land. Thank God that the loyal and true men in
+our National and State halls of legislation, have decreed its total
+destruction, and soon, if we mistake not, so far as its outward
+presence is concerned, it will be seen no more on this continent. But
+it has a Spirit which will not so easily die. And it is this Spirit,
+as we have said, which drank the life-blood of our Presi-
+<pb n="21"/>
+                  <figure entity="paddock21">
+                     <figDesc>21st page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+dent. Here we find the real author and perpetrator of this horrid
+crime. This is the criminal which we arraign in the sight of high
+Heaven, and charge with this foul murder, and with the agony of heart
+that now is felt throughout our beloved land.</p>
+               <p pn="21">III. How, then, may this cruel murder best be avenged, and
+our great and irreparable loss be made a blessing to ourselves and our
+country?</p>
+               <p pn="21">Dear friends, not by indiscriminate denunciation of all now
+in rebellion against this Government. Not by giving vent to feelings
+of hatred and revenge against even its leaders, red as are their hands
+with this the best blood of our land. No. There is a better way of
+avenging it. It is by destroying entirely and forever the Spirit of
+Slavery and all its most infamous progeny. Let the <hi rend="italic">law</hi> deal with the mere tools and agents of this awful
+crime according to the severity which justice demands,--no less and no
+more. But let <hi rend="italic">us</hi>, as citizens and Christians,
+deal with that which has inspired them. This Spirit of Slavery as we
+see it in the North, let it be crushed out, root and branch. Let us
+hate treason and rebellion with a perfect hatred, because they are
+sins against God and crimes against the State. Let us make such
+distinctions between the guilty and the innocent as truth and justice
+demand. Let us require that the guilty and unrepentant be punished;
+<pb n="22"/>
+                  <figure entity="paddock22">
+                     <figDesc>22nd page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+but let us pardon and forgive those who have been misled and are
+penitent. Let us frown down the mean and sordid spirit that would
+barter away the true dignity of manhood for gold, whether it be
+exhibited in trafficking with Southern products, Northern manufacture,
+or the nation's life and credit. Let the model of excellence we adopt
+and imitate, be, not what slavery, but freedom produces, --freedom of
+body and mind and spirit--freedom, human and divine--such a
+magnificent exhibition of character as God gave us in Abraham
+Lincoln. Let us see for what end we live, and what God has placed us
+here to do.</p>
+               <p pn="22">Oh, what a momentous time is the present to the young men
+of our country! What opportunity for noble effort, for a high
+development of character, for exerting great influence, and fighting
+glorious battles for truth, for humanity, for country and for God. Are
+they doing it? Are they meeting the great questions of the day with
+the seriousness and consideration which their importance demands? Are
+they placing themselves positively and clearly upon the side of human
+liberty and equality, truth and justice, law and loyalty, virtue and
+religion? Are they rising to the height of the demands of the years
+that are coming to a nation which God has preserved for a great work,
+and in which they are to act a most important part? Are they preparing
+themselves for it by a full dedication to their Lord and Saviour as
+well as their country?</p>
+               <pb n="23"/>
+               <p pn="23">
+                  <figure entity="paddock23">
+                     <figDesc>23rd page of
+Wilbur F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+               </p>
+               <p pn="23">Would God I could answer these questions in the
+affirmative, even as regards the young men of my own beloved
+flock. There are some who realize these times as they ought. Some who
+knowing their duty solemnly meet and perform it. Others are only
+partially awake to their responsibilities and unfitted to do the work
+assigned them. They love their country, but they do not love their
+God. And yet it is only Christian men that God would have direct the
+glorious future of this people. They only are equal to the work,
+because it is a work that they only can do. We have not been baptized
+in blood for nothing, or to be what we once were. God, I believe, has
+saved us, that we may extend far and wide His Gospel, while advocating
+at the same time, by theory and practice the cause of universal
+liberty and equality. Our mission as a people is the moral, social,
+political and religious elevation of mankind.</p>
+               <p pn="23">Let us, then, appreciate our work and its
+responsibilities. Let us begin with our own personal infirmities and
+sins, and seek to have them removed,--with individual aims, purposes,
+and positions, and seek to have them right. Let us take hold of every
+foolish prejudice and every false notion, and by the power of God,
+destroy their influence upon ourselves, and as far as we can, upon
+others. If we cowardly shrink from our duty, and say as did David,
+"These sons of Zeruiah be too hard for me," like him we may be
+<pb n="24"/>
+                  <figure entity="paddock24">
+                     <figDesc>24th page of Wilbur
+F. Paddock's A Great Man Fallen!</figDesc>
+                  </figure>
+called hereafter to lament our weakness, and suffer punishment again
+for our sins.</p>
+               <p pn="24">This day, when the body of our noble and sainted President
+is in our midst, and our hearts are touched by feelings of grateful
+love, let us over his lifeless and disfigured corse, pledge ourselves
+to truth, to humanity, to our country and to our God. And that we may
+do it aright, let us confess and forsake our sins, and trust and love
+and worship the Saviour, who hath bought us with His blood, and would
+present us to His Father without spot, clothed with His own most
+precious robe, and sealed with the signet of His covenanted and
+unchangeable love.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

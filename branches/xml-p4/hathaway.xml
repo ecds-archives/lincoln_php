@@ -1,0 +1,968 @@
+<?xml version="1.0"?>
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt n="A Discourse Occasioned by the Death of Abraham Lincoln">
+            <title>A Discourse Occasioned by the Death of Abraham Lincoln</title>
+            <author>Hathaway, Warren</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>1996 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact the Director, 
+Pitts Theology Library, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>1999</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Lincoln
+Sermons Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Hathaway,
+Warren. A Discourse Occasioned by the Death of Abraham Lincoln:
+Preached at Coxsackie, on Wednesday, April 19, 1865.  Albany:
+J. Munsell, 78 State Street. 1865.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text derives from the Special Collections 
+of Pitts Theology Library, Emory University, and is produced in 
+collaboration with the Lewis H. Beck Center a, the Emory 
+Preservation Office, and Pitts Theology Library.</p>
+            <p>TRANSCRIBER: Lewis H. Beck Center and Emory University 
+Preservation Office.</p>
+            <p>PRODUCER:  BookLab, Inc., 1606 Headway Circle, 
+Suite 100, Austin, TX 78754</p>
+            <p>CAPTURE DEVICE: XEROX DocuImage 620S flatbed scanner</p>
+            <p>CAPTURE DETAILS: Scanner software: XEROX ScanTool 
+version 4.2.3; no gamma correction; images are all bitonal.</p>
+            <p>CHANGE HISTORY: Using the Adobe Photoshop Batch Processor, 
+we interpolated  the original TIFF files to 8-bit grays, 
+and altered the resolution to 144 dpi, producing screen 
+images twice the original size.  We then saved them in 
+JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
+            <p>RESOLUTION: 600 ppi</p>
+            <p>COMPRESSION: Resolution 144 per inch with Constrain 
+Properties to 72 per inch.</p>
+            <p>SOURCE: Original documents.</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>1999</date>
+            <respStmt>
+               <name>Scott Ellis</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 id="hathaway.001" n="A Discourse Occasioned by the Death of Abraham Lincoln" type="text">
+            <head pn="1"> 
+               <bibl> 
+                  <title>A Discourse
+Occasioned by the Death of Abraham Lincoln</title> 
+                  <date>Wednesday,
+April 19, 1865</date> 
+                  <pubPlace>Coxsackie</pubPlace> 
+                  <author>Hathaway,
+Warren</author> 
+                  <imprint>
+                     <pubPlace>Albany</pubPlace>
+                     <publisher>J. Munsell</publisher>
+                     <date>1865</date>
+                  </imprint> 
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15qc2</idno></bibl>
+            </head>
+            <p pn="1">
+               <figure entity="hathaway1">
+                  <figDesc>1st page of Warren Hathaway's A
+Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p pn="1">A</p>
+            <p pn="1">DISCOURSE</p>
+            <p pn="1">OCCASIONED BY THE</p>
+            <p pn="1">DEATH OF ABRAHAM LINCOLN:</p>
+            <p pn="1">PREACHED AT COXSACKIE,</p>
+            <p pn="1">ON WEDNESDAY, APRIL 19, 1865,</p>
+            <p pn="1">BY</p>
+            <p pn="1">WARREN HATHAWAY.</p>
+            <p pn="1">ALBANY</p>
+            <p pn="1">J. MUNSELL, 78 STATE STREET.</p>
+            <p pn="1">1865.</p>
+            <pb n="2"/>
+            <p pn="2">
+               <figure entity="hathaway2">
+                  <figDesc>2nd page of
+Warren Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p pn="2">CORRESPONDENCE.</p>
+            <p pn="2">COXSACKIE, April 20,
+1865.</p>
+            <p pn="2">We, the undersigned, citizens of Coxsackie, respectfully
+request you to prepare and furnish a copy of your discourse delivered
+at the Methodist Episcopal Church, on Wednesday, April 19th, 1865, on
+the death of Abraham Lincoln, late President of the United States, for
+publication.</p>
+            <p pn="2">Very respectfully yours,</p>
+            <p pn="2">STEPHEN P. HALLOCK,           SIMPSON S. BELL,
+	            <lb/>JAMES W. HISEREL,             J. B. BRONK,
+	            <lb/>GEO. REED,                    S. A. DWIGHT,
+	            <lb/>GILDERSLEVE BEDELL,           H. D. BEDELL,
+	            <lb/>R. COOK,                      J. T. BEDELL,
+	            <lb/>F. C. DEDRICK,                MARCUS WING,
+	            <lb/>N. C. BEDELL,                 ISAAC BROWN,
+	            <lb/>E. O. BEATTY,                 F. S. GREENE,
+	            <lb/>B. F. BEATTY,                 R. E. BUCKBEE,
+	            <lb/>JAMES E. GREENE,              HIRAM BROWN,
+	            <lb/>MICHAEL KRUBE,               CASPER
+I. COLLIER.</p>
+            <p pn="2">WEDNESDAY, April
+21, 1865.</p>
+            <p pn="2">Gentlemen:--The hurried preparation of the discourse, to
+which you refer, would lead me to withhold it from publication; still,
+I do not feel at liberty to refuse your request from the earnest
+desire I have to do all that is possible to honor the memory of our
+lamented President--all that I can to have the people feel and
+understand the solemn duties of the hour.</p>
+            <p pn="2">I am, most respectfully yours,</p>
+            <p pn="2">WARREN
+HATHAWAY.</p>
+            <pb n="3"/>
+            <p pn="3">
+               <figure entity="hathaway3">
+                  <figDesc>3rd page of
+Warren Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+               </figure>
+            </p>
+            <div2 id="hathaway.002" n="DISCOURSE" type="sermon">
+               <head pn="3">DISCOURSE.</head>
+               <epigraph pn="3">
+                  <p pn="3">As appropriately expressing the sad, calamitous
+event that has called us together--and also expressing our
+circumstances and feelings as a nation, we have selected the following
+Scriptures for our text:</p>
+                  <p pn="3">II SAMUEL i, 19.--The beauty of Israel is slain upon the
+high places: how are the mighty fallen;</p>
+                  <p pn="3">II SAMUEL xix, 2.--And the victory that day was turned into
+mourning unto all the people.</p>
+               </epigraph>
+               <p pn="3">We have congregated with an assembled nation, to attend the
+funeral of the chief magistrate of the United States. Probably such a
+day of grief--of vast assemblages and bitter mourning as this, was
+never seen before in the annals of time. It is no ordinary event that
+moves a continent, that bows millions in tears, but to day the Great
+Republic is bereaved, and its mourning has all the elements of
+sublimity.</p>
+               <p pn="3">Nations have often buried their rulers: gilded hatchments
+have often graced the royal hearse: the marble tomb which pride and
+ambition has prepared, has often been unsealed to receive the great,
+the kingly and the wise; for Death, whose mission is, "to tread out
+empire and to quench the stars," with equal pace and power knocks at
+the palace and the cottage.</p>
+               <p pn="3">But when did millions bow in mourning as they bow to-day?
+When before has friend and foe, sire and son, freeman and bondman,
+rich and poor, lofty and lowly,
+<pb n="4"/>
+                  <figure entity="hathaway4">
+                     <figDesc>4th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+struck hands in companionship of sorrow, and joined in a concert of
+tears.</p>
+               <lg type="stanza">
+                  <l>Our soldiers on the field of battle,</l>
+                  <l>Our heroes on the main,</l>
+                  <l>The merchant prince and negro chattel,</l>
+                  <l>All swell the sad refrain:</l>
+                  <l>"Man of the millions, thou art lost too
+soon!"</l>
+               </lg>
+               <p pn="4">Since last Friday night, so far and fast as the tidings of
+the <hi rend="italic">more</hi> than <hi rend="italic">regicide</hi> have
+flashed upon the telegraphic wires, there has been in every heart and
+upon every tongue but one theme; and today, throughout our land, from
+the lakes to the gulf, from granite New England to the prairied west,
+from the Atlantic to the Mississippi: in one grand, mournful, weeping
+procession--the nation follows the mangled form and gloomy hearse of
+ABRAHAM LINCOLN. Unexpected, sudden as a bolt from a clear sky, the
+nimble lightning flashed the sad news, the awful story of the
+assassination of our President. We are, and have been for days, a
+saddened, bewildered, terrified people! Certainly no event ever
+transpired in the United States that has subdued and bereaved so many
+hearts, caused so many groans of anguish, cast upon our land such a
+shower of tears.</p>
+               <p pn="4">Suddenly, like the gloom of the dark day of 1780, when the
+sun was blotted out, and night came at noon, a pall of darkness has
+fallen over all our land; and God looks upon a stricken, afflicted
+people--such sorrowing as he never saw occasioned by the death of any
+Hebrew or Gentile ruler before.</p>
+               <p pn="4">Can it be possible, that he upon whom rested the confidence
+and hopes of the nation in this hour of bitter trial--<hi rend="italic">is gone!</hi>
+               </p>
+               <lg type="stanza">
+                  <l>One day along the electric wire</l>
+                  <l>His words of love and mercy sped;</l>
+               </lg>
+               <pb n="5"/>
+               <p pn="5">
+                  <figure entity="hathaway5">
+                     <figDesc>5th page of
+Warren Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <lg type="stanza">
+                  <l>We came next morn: that tongue of fire</l>
+                  <l>Said only, "He who spake is dead."</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Dead! while his voice was living yet,</l>
+                  <l>In echoes round the pillared dome!</l>
+                  <l>Dead! while his blotted page lay wet</l>
+                  <l>With themes of state and loves of home!</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Dead! he so great, and strong, and wise,</l>
+                  <l>While the mean thousands yet draw breath;</l>
+                  <l>How deepened, through that dread surprise,</l>
+                  <l>The mystery and the awe of Death!</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Through him we hoped to speak the word</l>
+                  <l>Which wins the freedom of a land!</l>
+                  <l>And lift for human right, the sword</l>
+                  <l>Which dropped from Hampden's dying hand.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>We seemed to see our flag unfurled,</l>
+                  <l>Our champion waiting in his place</l>
+                  <l>For the last battle of the world--</l>
+                  <l>The Armageddon of the race. * * * *</l>
+               </lg>
+               <lg type="stanza">
+                  <l>We sweep the land from hill to strand,</l>
+                  <l>We seek the strong, the wise, the brave!</l>
+                  <l>And, sad of heart, return to stand</l>
+                  <l>In silence by a new made grave!</l>
+               </lg>
+               <p pn="5">The world at large will mourn with us. The good, the brave,
+the liberty loving--those who desire the elevation and happiness of
+our race, will feel they have lost a brother and a friend. The
+enthralled of Italy and Hungary--the oppressed of every land--will
+mourn: for one who loved mankind and labored for universal freedom,
+has fallen!</p>
+               <p pn="5">A few days ago the land was filled with joy; a series of
+brilliant victories crowned the efforts of the Federal armies. You
+remember with what breathless anxiety we waited to hear from SHERMAN;
+he reported at last,
+<pb n="6"/>
+                  <figure entity="hathaway6">
+                     <figDesc>6th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+and his <hi rend="italic">bulletin</hi> was the record of a triumph. We
+paused a moment, feeling that the crisis of our nation and the war had
+come; then the "On to Richmond" of four years ago--<hi rend="italic">now</hi> the more sublime--"<hi rend="italic">On to
+Freedom</hi>," was consummated, and the old flag, unstained with
+wrong, but battle-torn, waved proudly from the defiant ramparts of
+Richmond--dropping <hi rend="italic">bread</hi> and <hi rend="italic">mercy</hi> from its ample folds upon the guilty, famishing
+foe.</p>
+               <p pn="6">We had hardly time to express our loyal joy, when there
+came the tidings that our modest, peerless GRANT, had received the
+sword of Robert E. Lee and the surrender of the grand army of the
+rebellion. The land was filled with joy. It was a complete contrast to
+April, 1861, when the flag of the Republic trailed in the dust, and
+traitors were jubilant; the starry banner was waving in victorious
+triumph--cannon were uttering cheering salvos--drum and fife and
+bugle, were uttering prophesies of peace and national integrity. The
+hearts of millions were beating high with hope as they looked upon the
+dark folds of the storm-cloud of battle, rolling slowly away, fringed
+with amber and gold, giving promise in its bow of beauty that the
+bloody tempest of treason was spent and that we should soon enjoy the
+calm of national peace and fraternity. There was thankfulness to
+almighty God, and the pure offerings of praise ascended from hill top
+and valley from hamlet and city; even New York felt the joyous
+Pentacost, and "Wall St. spake in unknown tongues," as there swelled
+amid her Mammon temples the grand old Doxology--the "<hi rend="italic">Te Deum</hi>" of a nation's deliverance.</p>
+               <p pn="6">There was no indulging in feelings of vengeance, no gloating
+in gladness over the sorrows and chagrin of a fallen foe; but disposed
+to let "the lifted thunder of
+<pb n="7"/>
+                  <figure entity="hathaway7">
+                     <figDesc>7th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+justice drop," extend the hand of mercy and love, the people
+temperately rejoiced. It was not a Roman saturnalia; but a patriotic,
+Christian jubilee.</p>
+               <p pn="7">But alas, how changed! Now, grief and indignation, soreness
+of heart and vengeance of purpose, are blended in the American mind:
+and as we survey our nation to day we look upon "a sea of glass
+mingled with fire." The victorious flag droops in mourning, drums are
+muffled, songs of gladness have suddenly ceased; end throughout the
+laud, there is mourning for the dead. Strong men weep as they never
+wept before, hopeful men sigh, good men pray and look to God for
+strength, loyal men are appalled, the bitter partizan is a contrite
+mourner, none but heartless traitors can rejoice. Truly, "in the day
+of victory the people mourn."</p>
+               <p pn="7">Why this intense and bitter feeling of sadness? Not because
+death is so strange--we are familiar with its bereavements. Earth is a
+wilderness of graves, and all mankind are marching to the tomb. During
+the last four years Death has held carnival; noblest bravest lives
+have been sacrificed, the bloom and ripeness of our land has
+fallen.</p>
+               <p pn="7">Neither is it simply because our Chief Magistrate is
+dead. This not a new experience for the nation. Twice before has Death
+entered the White House. We are not without a ruler; already the
+mantle o office has fallen upon one worthy to be the servant and
+representative of the American people. Yet we feel we have lost the
+man, who above all others is needed in this time of national
+peril. The man who above all others seemed chosen of God to lead us
+through the Red Sea of rebellion, and guide us to the promised land of
+liberty and peace.</p>
+               <p pn="7">But this is not all; there are noble, devoted patriots
+<pb n="8"/>
+                  <figure entity="hathaway8">
+                     <figDesc>8th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+that we can trust; but alas! we stand in the presence of a mangled
+corse! Our ears tingle with the tidings of a most foul assassination!
+We have pressed upon our attention an awful crime. Our Chief
+Magistrate has fallen a victim--basely, cruelly murdered! Shall we be
+safe? Shall our roof-trees blaze, our hearth stones run with blood?</p>
+               <p pn="8">The most sacred person in the nation has fallen by the hand
+of a ruffian!  No wonder the heart strings of the nation vibrate with
+strange agony. This is something new. This is a sad, bitter lesson for
+the Republic. We are reminded of the bloody, stormy days of Rome; when
+the dagger controlled affairs of State, and Anarchy was on the
+throne.</p>
+               <p pn="8">But why does this <hi rend="italic">murder</hi> so deeply
+affect us? It <hi rend="italic">does</hi> affect us most
+peculiarly. When we heard the news of this assassination, we felt
+humbled--subdued in spirit. There was a feeling of oppressive sadness,
+loneliness. We have been proud of the name American, and as we have
+looked upon <hi rend="italic">that</hi> starry banner, now draped in
+mourning, we have rejoiced in its short but glorious history; felt
+that more sacred truth and principle were symbolized in <hi rend="italic">that</hi> bunting, than in any other national
+ensign. Beneath it stood Washington and the Spirit of Liberty, and we
+were hopeful, that soon, wherever it floated, <hi rend="italic">all</hi>
+should be free.</p>
+               <p pn="8">Murders have occurred before. We know that wicked men will
+do wickedly. Men have often been murdered for their money, been
+murdered to gratify the spirit of revenge, because of enmity and
+ambition; but none of these motives led to the base deed that has
+plunged the nation in the deepest sorrow.</p>
+               <p pn="8">One thing the assassin has gained--an immortality of
+infamy, by striking down "the foremost man of all the world." But let
+me plainly state if I can the <hi rend="italic">mean-</hi>
+               </p>
+               <pb n="9"/>
+               <p pn="9">
+                  <figure entity="hathaway9">
+                     <figDesc>9th page of
+Warren Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p pn="9">
+                  <hi rend="italic">ing</hi> and <hi rend="italic">terror</hi> of <hi rend="italic">this</hi> deed of blood. Let me state my feelings and
+convictions. Let me discharge my duty in this solemn hour.</p>
+               <p pn="9">We have come together, as mourners, to show our respect for
+the departed--without reference to religious sect, or political
+party. Far be it from me to utter a word to injure the feelings of any
+<hi rend="italic">loyal</hi> man; as to <hi rend="italic">traitors</hi>,
+God forbid that I should please them; but I would withhold no word
+that condemns national iniquity, that would have a tendency to
+convict, and convert from political wrong, from organic
+wickedness. Standing before God, the judge of nations, and in the
+presence of the mangled form of our late President, it is a time and
+fraternity. Let citizens be brothers. Let Americans be united, let
+them heed the farewell words that trembled from the lips of
+Washington, as they bend over the remains of Abraham Lincoln.</p>
+               <p pn="9">We shall mention four things as points of interest and
+instruction. <hi rend="italic">First</hi>, THE SAD EVENT.</p>
+               <lg type="stanza">
+                  <l>"How are the mighty fallen!"</l>
+               </lg>
+               <p pn="9">This was the language of David when the tidings came of the
+death of Saul and Jonathan. Inspired genius never uttered a more
+eloquent eulogium, a more tender and touching tribute to departed
+greatness, than he pronounced on that occasion. Indeed, he seems to
+eclipse himself in this impassioned funeral ode.</p>
+               <p pn="9">In this noble panegyric, we are led to admire the <hi rend="italic">spirit</hi> of David.</p>
+               <p pn="9">Unambitious, forgiving, he seems more good than great. We
+scarcely know which to admire most, his long heart or his princely
+intellect. Irresistible with his sword, sweeping the harp with a
+master's
+<pb n="10"/>
+                  <figure entity="hathaway10">
+                     <figDesc>10th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+hand, unrivalled as poet and king, his greatness is only equalled by
+his goodness, while his virtues outshine his crown.</p>
+               <p pn="10">You should remember that the only obstacle between David
+and the throne was removed by the death of Saul. The fallen king had
+treated him with the utmost cruelty for years, seeking his life with
+relentless hatred. A price had been set upon his head, and he had been
+"hunted like a partridge in the mountains." Yet forgetful of self he
+buries the wrongs he has suffered, in the grave of Saul. Instead of
+hailing as a friend the stranger who brings the bracelet and crown of
+the murdered king, he treats him as a regicide and orders his
+immediate execution. He had lifted his hand against the head of a
+government. Saul was the Lord's anointed. His person was sacred.</p>
+               <p pn="10">No more sacred, however, in the estimation of Heaven, than
+the person of Abraham Lincoln. As we have said, the assassin in this
+case is more than a regicide; his crime greater if possible than
+though he had slain a king. It seems to me that no one who stands at
+the head of a nation as ruler, can be more truly the Lord's anointed,
+so far as government is concerned, than the President of the United
+States.</p>
+               <p pn="10">This responsible position is not the accident of birth, it
+is not the inheritance of family, it is <hi rend="italic">the gift of
+the people</hi>. Whoever fills this high office as the choice of the
+nation is <hi rend="italic">sacred</hi> to us, because almost alone
+among the nations, God has given us this right of election. This high
+privilege has been secured to us by suffering, sacrifice and blood. It
+cost the patriotism of '76--which was not a parlor, or shoulder-strap
+patriotism merely, but that practical devotion to country that pledged
+life and fortune and sacred honor to the cause of freedom, and
+sanctified the battle fields of the
+<pb n="11"/>
+                  <figure entity="hathaway11">
+                     <figDesc>11th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+Revolution with the best blood of our race. And no person can be more
+sacred in view of cost and principle, sacrifice and freedom, than our
+Chief Magistrate.</p>
+               <p pn="11">We have often been told he was in danger. Still we could
+not believe there was anything serious in the cowardly threats that
+were uttered by the friends of the rebellion. Four years ago--we speak
+it with shame, to save his life he fled through darkness to
+Washington, and the plot of assassination was foiled. He has been
+spared until the comparatively unknown man has acquired a world-wide
+fame. Spared, until he has won the respect and love and confidence of
+millions. Spared, during the darkness of the night, <hi rend="italic">he
+has died in the morning</hi>. But in the dawn for which he looked and
+longed and prayed: while its mellow tints were flushing the sky, the
+murderous blow has fallen. The words of the assassin,--"<hi rend="italic">Sic semper tyrannis</hi>"--find no response in the heart
+of suffering humanity. No tyrant ever had such a funeral, such <hi rend="italic">a mourning</hi> as the world decrees for LINCOLN. A
+tyrant! He was the embodiment of American sentiment, of the
+liberty-loving spirit of our age; he was the representative in
+principle and action, of the people.</p>
+               <p pn="11">The murderous blow that shattered the casket of his noble
+soul was not aimed at him alone, but at us, at Americans, at the
+loyal, liberty-loving masses, at all who desire the welfare of our
+government, the stability of our nation. The words of the assassin
+were the wolfish howl of anarchy, and his blow was struck at the
+dearest interests of mankind. It was the attempted assassination of
+the principle of Democracy, of the rights of the people. The murderer
+aimed to shoot a truth, a principle, a law of God; between him and
+that truth, that principle, that
+<pb n="12"/>
+                  <figure entity="hathaway12">
+                     <figDesc>12th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+law, stood Abraham Lincoln. The ball struck the President, he was
+mortal, but principle, truth, righteousness are
+invulnerable--immortal. He alas! was killed, but <hi rend="italic">not</hi> that at which the shot was aimed.</p>
+               <lg type="stanza">
+                  <l>Glory to God forever!</l>
+                  <l>Beyond the despot's will</l>
+                  <l>The soul of freedom liveth</l>
+                  <l>Imperishable still.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>We will think of thee, O brother!</l>
+                  <l>And thy sainted name shall be</l>
+                  <l>In the blessing of the captive,</l>
+                  <l>And the anthem of the free.</l>
+               </lg>
+               <p pn="12">Looking over the history of the world, I am often impressed
+with the omnipotence of righteousness and truth. Nothing after all is
+so secure as the principle of virtue. It is firmer than the mountains,
+it is stronger than any fortress on the land, or iron-clad on the
+deep. Virtue, in the bulrush ark, is more secure than vice in
+Pharaoh's palace. And though truth has its martyrs, it is stronger at
+the stake or on the scaffold, than falsehood in the moated castle, or
+cannon-mounted citadel. And this effort to destroy virtue and national
+righteousness at Washington, will impress us again, by showing the
+immutability of justice and excellence.</p>
+               <p pn="12">We have said the person of our President was
+sacred. Re&#xEB;lected by a popular majority of nearly five hundred
+thousand, the people had said emphatically--"well done, good and
+faithful servant." Again invested with the authority of his high
+office, he was, if possible, doubly sacred to all--save the foul dogs
+of a gigantic, cruel and fiendish rebellion! He and WM. H. SEWARD,
+were perhaps, more than any other two, representative men. The people,
+the Ameri-
+<pb n="13"/>
+                  <figure entity="hathaway13">
+                     <figDesc>13th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+can commonwealth, acknowledged their leadership rather I should say
+regarded them as faithful servants. They were doing the behests of the
+nation. Hence it is solemnly, impressively true, the President falls
+for the people: for their rights and liberties, their government and
+country.</p>
+               <p pn="13">It is an event of awful magnitude. Its influence will be
+wide-reaching and far-resounding, like the terrible judgments of
+Heaven. It should lead the American people to humble devotion before
+God. It should lead to honesty of purpose, candor of heart. It should
+calm the turbulent waters of party strife, and lead to national
+repentance. All should pause, review their course, and candidly
+consider their duty to the nation and the world. Let the public weal,
+let national prosperity, and virtue, and existence, be more sacred
+than party. Let us make our political organizations the conservators
+of truth and righteousness; not mere systematized opposition to the
+government. Let partyism, be subject to a pure and lofty
+patriotism.</p>
+               <p pn="13">As Christians, let us not permit devotion to party to blind
+our eyes so that we cannot see, to fetter our hands so that we cannot
+strike for the right, to padlock our lips so that we cannot speak for
+the truth. I would not make religion political, but I would make
+politics religious. I would not carry party principles into
+Christianity, but I would have all party platforms christianized. The
+Jesuitical assumption, that we may do as politicians what we may not
+do as Christians is infidelity in its worst form, and will lead to
+individual and national perdition. When <hi rend="italic">wrong</hi> is
+sanctioned in a political platform, when it becomes organic, it does
+not cease to be iniquitous; and as Christians let us speak
+trumpet-tongued against all
+<pb n="14"/>
+                  <figure entity="hathaway14">
+                     <figDesc>14th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+sin, whether individual or national, whether pertaining to a person or
+a party.</p>
+               <p pn="14">As Americans, let us cease from party warfare until the
+government shall be safe and the integrity of the nation firmly
+secured. 0, let us stand for our country, while traitors are
+endeavoring to drag us down to ruin! Let us stand in the breach of the
+wall of our nationality, as the hope of the world, while merciless
+rebellion aims to bury beneath the ruins of our Republic--Liberty,
+Equality, Fraternity.</p>
+               <p pn="14">We cannot mourn over this saddest event of modern times
+(unless we shed crocodile tears) without hating the <hi rend="italic">cause</hi> that bereaves the nation of its Chief. We
+cannot reject the fruit without rejecting the tree. We cannot
+pronounce the stream impure and bitter while we declare the fountain
+sweet and good. When we sanction a cause we sanction its effect; and
+every contrite mourner to-day, must abhor not only this foul crime,
+but its origin. This leads me to notice--<hi rend="italic">Secondly</hi>: THE CAUSE OE THIS EVENT.</p>
+               <p pn="14">It was not because of personal enmity the President was
+assassinated. Not because he had been guilty of insulting or injuring
+any man. Not because he had been overbearing, harsh, or in any manner
+tyrannical. There was no kinder man in the nation. He had a smile and
+a good word for all. He had tears to shed for the suffering, and time
+amid the most arduous labors of office to write letters full of
+sympathy and consolation to those who mourned the loss of friends and
+children on the battle-field. While sternly, honestly discharging his
+official duties, his great, tender heart bled for those who shared the
+perils of war. His honesty of purpose and sincerity of life made him
+unsuspicious, and though repeatedly warned, he could not believe he
+was in any danger. 
+<pb n="15"/>
+                  <figure entity="hathaway15">
+                     <figDesc>15th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+Panoplied in kindness and love, he felt safe as though clad in triple
+steel. Forbearance has been noticed as a peculiar trait of his
+character, and seldom has this virtue shone forth more conspicuously
+than it did in him. His executive clemency has sometimes offended his
+friends. They have feared that his gentleness might interfere with the
+true administration of justice. Repeatedly has he exercised his right
+to extend mercy to those under sentence of death, or imprisonment: and
+sometimes in such a manner as to show the utmost kindness of
+heart. Abused, insulted, traduced, defied, as no other President has
+been: when did he use his great power to gratify feeling s of anger,
+when did he manifest the spirit of revenge? You cannot point to an
+angry word, to any evidence of irritability, since his first
+inauguration. You know how he had been abused in Richmond by the rebel
+press and government. He went down there the other day, not with
+vengeance in his heart; he did not go to sow that guilty city with
+salt, and hang its traitors; but he went as a saviour and friend. The
+active and passive virtues were strangely, beautifully blended in his
+character. He will stand in the memory of the world among the most
+forbearing, kindly and gentle, whose generosity towards the most
+bitter foes is without a parallel among sucessful rulers and
+conquerors.</p>
+               <p pn="15">The London <title>Spectator</title>, in the number for
+March 25th, thus speaks of Mr. Lincoln's character. "Finding himself
+the object of southern abuse, so fierce and so foul that in any man
+less passionless it would long ago have stirred up an implacable
+animosity, mocked at for his official awkwardness, and denounced for
+his steadfast policy by all the democratic section of the loyal
+states, tried by years of failure before that policy achieved a single
+great success, further tried by
+<pb n="16"/>
+                  <figure entity="hathaway16">
+                     <figDesc>16th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+a series of successes so rapid and so brilliant that they would have
+puffed up a smaller mind and overset its balance, embarrassed by the
+boastfulness of his people and of his subordinates, no less than by
+his own inexperience in his relations with foreign states, beset by
+fanatics of principle on one side who would pay no attention to his
+obligations as a constitutional ruler, and by fanatics of caste on the
+other, who were not only deaf to the claims of justice, but would hear
+of no policy large enough for a revolutionary emergency, Mr. Lincoln
+has persevered through all, without ever giving way to anger, or
+despondency, or exultation, or popular arrogance, or sectarian
+fanaticism, or caste prejudice, visibly growing in force of character,
+in self-possession, and in magnanimity, till in his last short message
+to congress on the 4th of March, we can detect no longer the rude
+illiterate mould of a village lawyer's thought, but find it replaced
+by a grasp of principle, a dignity of manner, and a solemnity of
+purpose which would have been unworthy neither of Hampden nor of
+Cromwell, while his gentleness and generosity of feeling towards his
+foes are almost greater than we should expect from either of them."</p>
+               <p pn="16">No, the <hi rend="italic">cause</hi> of this assassination
+was not in him, was not in his assumption of illegal power. But he
+died of a foul, infectious, loathsome disease. A disease that has
+covered the land with graves and filled it with mourning. That has
+cumbered the green shores of the SHENANDOAH, the JAMES, the
+MISSISSIPPI, the TENNESSEE, and CUMBERLAND with the heroic dead. A
+disease that infected our political atmosphere until virtue was almost
+banished from the councils of the nation, and our great men were,
+morally, in a dying condition.</p>
+               <p pn="16">In other words, his murder is the result of a system
+<pb n="17"/>
+                  <figure entity="hathaway17">
+                     <figDesc>17th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+tolerated and heretofore defended by the American people. It is a
+result of the same cause that murdered a Lovejoy because he dared to
+speak for freedom, that brutally assaulted a Senator in his seat in
+the Senate Chamber at Washington, that instigated this gigantic
+rebellion, and that has carried it forward in a spirit of the utmost
+cruelty. It is the culmination of that spirit that has made trinkets
+of the bones of our dead heroes, and drinking cups of their skulls,
+that has starved our soldiers taken in battle and doomed them to the
+deep damnation of a stockade prison. "A tree is known by its fruits."
+Freedom, is the tree of Heaven--it produces peace, contentment, joy
+and love. Slavery, is a <hi rend="italic">bogus</hi> plant--forever
+producing apples of discord, the ashy fruits of Sodom. It must be so
+until man is emasculated and reduced from the human to the brute. It
+<hi rend="italic">must</hi> be so for.</p>
+               <lg type="stanza">
+                  <l>God works for all. Ye cannot hem the hope of being free,</l>
+                  <l>With parallels of latitude, with mountain range or sea.</l>
+               </lg>
+               <p pn="17">Freedom, from Nimrod to Napoleon, has been the pulse-beat
+of the world, the rallying cry of every inspired ruler and
+reformer. Jesus, glorious, divine-- was a Liberator, whose doctrine of
+equality, unity and liberty must at last break every yoke and set
+every captive free. Before the august tribunal of mankind, Slavery
+will have charged upon it, among its many crimes, the guilt of this
+felonious homicide. Why the assassin himself, says, by way of
+justifying his premeditated crime--"I for one have ever considered
+slavery as one of the greatest blessings that God ever bestowed upon a
+favored nation." He has done its behests, he has obeyed its spirit.</p>
+               <p pn="17">Again--we find a <hi rend="italic">secondary</hi> cause for
+this sad event in the bitter language, the unjust, ungenerous
+assertions of heated partizans. LINCOLN has been called a
+<pb n="18"/>
+                  <figure entity="hathaway18">
+                     <figDesc>18th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+tyrant, a usurper, a murderer. O friends, you have misjudged. He has
+been true to his oath of office, true to the demands of the people. He
+has been no more tyrannical than the loyal, heroic, sacrificing
+millions of the nation. If he was a tyrant, there is some excuse for
+J. W. Booth. Our fathers taught that "resistance to tyrants is
+obedience to God," and the world has always been lenient to the crime
+of tyrannicide.</p>
+               <p pn="18">Men, responsible, influential men have said, <hi rend="italic">He ought to be shot</hi>. You have heard such disloyal,
+inflammatory language. I need not say it is wrong, dangerous. It comes
+from the spirit of rebellion, and has a tendency to destroy our
+country, to overthrow its institutions. Such language educates the
+vile, and tends to undermine that respect for law which is our only
+security. If our President is guilty of usurpation, or any great
+misuse of his office, let him be impeached--let him be tried before
+the high court of the nation. But let us not condemn him to the knife,
+or ball of the assassin, let us not revolt from his authority simply
+because he was not the candidate of our political party.</p>
+               <p pn="18">This crime is the legitimate fruit of rebellion. It strikes
+the nation; it demands for its victim the choice of the people. This
+is its spirit embodied in action, this is its crowning, and we <hi rend="italic">trust its dying effort</hi>. Those assassins, who last
+Friday night filled Washington with alarm and the nation with sorrow,
+were not alone in their great crime. They were backed by every
+defender of treason, from Jeff. Davis, his cabinet and generals, to
+the feeblest cur that has barked at the heels of loyalty and
+patriotism. The rebellion aimed four years ago to destroy our
+President and overthrow our nation, and alas! to-day we mourn the loss
+of our Chief--but the <hi rend="italic">nation</hi>, thank God, is
+vigorous; he dies
+<pb n="19"/>
+                  <figure entity="hathaway19">
+                     <figDesc>19th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+by the hands of traitors, but our threatened country lives--</p>
+               <lg type="stanza">
+                  <l>Round the cold form of death, smiles and roses are
+blending--</l>
+                  <l>And beauty immortal awakes from the tomb.</l>
+               </lg>
+               <p pn="19">The assassin is simply an earnest rebel; simply in this
+murderous act, the hand on the body of confederate treason. If caught
+he will be hung; but how then shall the chiefs of the rebellion, on
+whom there is a torrent of blood, be pardoned and honored!!! O, MY
+COUNTRY BE MERCIFUL AND JUST!</p>
+               <p pn="19">
+                  <hi rend="italic">Thirdly</hi>. THE VICTIM.</p>
+               <p pn="19">During the last four years, many a princely, precious
+sacrifice has been freely laid upon the altar of our country. We have
+often been called to mourn, as the loved, the noble and the brave,
+have fallen. We remember the early death of the gallant Ellsworth,
+whose mangled form, as it passed through the land, seemed, "sent like
+the twelve-divided concubine to inflame the tribes."</p>
+               <p pn="19">We mourned when young WINTHROP fell, and LYON, and BAKER,
+and the peerless MITCHEL; and the many noble patriots, brilliant
+stars, that gave themselves for home and nation. Yet we never felt as
+we do to-day, when the body of our President lies stark and stiff upon
+the altar of our political hopes, the altar of our country.</p>
+               <p pn="19">We shall not forget him. The nation will rear a monument
+over his grave. But we ought not to forget the noble band, the mighty
+army of heroes with whom he is now united in death. To-day we think of
+the first one who fell--that noble patriot boy, LUTHER CRAWFORD
+LADD. The city of Lowell has built a monument for him. That is right;
+but there are thousands as worthy, whose names should not be
+foregotten. It is sad for the dying soldier to think his grave will be
+unmarked and forever unknown; that his lonely tomb
+<pb n="20"/>
+                  <figure entity="hathaway20">
+                     <figDesc>20th page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+will never be wet with the tears of affection, or adorned by the hands
+of love. On the battle field of Fair Oaks, dying apart by themselves,
+were found four dead soldiers. A paper lay upon the breast of one and
+a pencil by his side. On the paper written with a faltering hand were
+their names, and these touching words: "Four dying soldiers. Be kind
+enough to give us a decent burial." I repeat, let us not forget our
+noble boys who have fallen on the field, or died in prison. We cannot
+give them burial in the church yard at home; we cannot visit their
+graves; but we can inscribe their names upon the enduring marble, and
+thus preserve their memory. Every town should erect a monument for
+those of their number who have falling, "IN THE SACRED CAUSE OF GOD
+AND THEIR COUNTRY."</p>
+               <p pn="20">Our fallen Chief was by nature and early education a
+democrat. He belonged to the masses. He could not, without rejecting
+himself, be an advocate of social exclusiveness, or of a privileged
+class.</p>
+               <p pn="20">He was slow to act, devoted to what he thought right, and
+when his purposes were formed he was firm as the hills. Unambitious,
+incorruptible, the crime for which he was slain was love of country
+and freedom, regard for man, for the <hi rend="italic">rights</hi> of
+all--white or black. We shall, as Americans, all glory in ABRAHAM
+LINCOLN. He is booked for a star, and destined to be one of the
+brightest that shines in the galaxy of the noble and the great. Like
+the noblest statesman of England, he ascends to heaven bearing the
+broken shackles of millions, and stands ready to be crowned the angel
+of American Emancipation.</p>
+               <p pn="20">He lies before us a <hi rend="italic">martyr</hi>. He fell
+for principle. We cannot but notice the suggestive coincidence that he
+was struck down on Good Friday: a day mem-
+<pb n="21"/>
+                  <figure entity="hathaway21">
+                     <figDesc>21st page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+orable forever as the anniversary of the sublimest love and most
+costly sacrifice. Day of all others that exhibits Divine mercy and
+forbearance. Our President was betrayed on the night that saw a
+suffering Saviour in the agonies of death for the salvation and
+freedom of the world. His blood shall not be lost. In front of the
+house where he died, a little boy was seen rubbing bits of white paper
+on the steps and carefully placing them in his pocket. On being asked
+why he did this, he repeated with childish simplicity: "Don't you see
+those dark stains? It is the blood of the President, and I want to
+save it." Yes, his blood shall be saved. It is precious. Like the
+ashes of the martyrs those drops shall be the seeds of freedom.</p>
+               <lg type="stanza">
+                  <l>The Avon to the Severn runs,</l>
+                  <l>The Severn to the sea,</l>
+                  <l>And Wickliff's dust shall spread abroad</l>
+                  <l>Wide as the waters be.</l>
+               </lg>
+               <p pn="21">The <hi rend="italic">cause</hi> and tragedy of his death,
+shall extend his influence and secure his immortality. He fell the
+victim of a doomed and devoted system, was struck down in the midst of
+power and the exercise of mercy by a blind, staggering--</p>
+               <lg type="stanza">
+                  <l>Earth-born cyclops, fellest of the giant brood,</l>
+                  <l>Son of
+brutish force and darkness, who has drenched the earth
+       with blood.</l>
+               </lg>
+               <p pn="21">The rebellion has committed a fatal error in his murder. It
+has destroyed its mediator. He stood beneath the balance of justice,
+in the attitude of mercy. He stood by the side of vengeance and held
+back the glittering sword, ready to fall on those who have left us a
+<hi rend="italic">fatherless</hi>, a <hi rend="italic">brotherless</hi>, a
+<hi rend="italic">husbandless</hi> nation; and he in the confidence of a
+victorious people could have bestowed mercy where now bolts of
+vengeance will fall.</p>
+               <pb n="22"/>
+               <p pn="22">
+                  <figure entity="hathaway22">
+                     <figDesc>22nd page
+of Warren Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <lg type="stanza">
+                  <l>The Lord have mercy on the weak,</l>
+                  <l>And calm their frenzied ire,</l>
+                  <l>And save our brothers ere they shriek,</l>
+                  <l>'We played with northern fire.'</l>
+               </lg>
+               <p pn="22">In conclusion--Let us notice--THE LESSONS OF THE HOUR.</p>
+               <p pn="22">God, who doeth all things well, has permitted us to be
+deeply bereaved, and if we receive this severe chastening in a spirit
+of national penitence and humanity, it will at least be seen that it
+was good for us to be afflicted. We may have needed this last great
+sacrifice, to lead us to feel how sacred, how priceless, is the
+freedom of a land; how dearly bought are the principles of national
+integrity and virtue.</p>
+               <p pn="22">We have, as a nation, been proud and oppressive retribution
+has come, but while heretofore we have been a nation of mourning
+individuals, weeping alone--now we are united in one sorrow, bowing
+together in a great and <hi rend="italic">common</hi> grief. Then again,
+we may have needed a national martyr to make the cause in which he
+died forever sacred, to stimulate us to sustain with religious
+devotion, <hi rend="italic">Union and freedom</hi>. Being dead, and
+dying in the service of his country he shall yet speak his words shall
+influence, his life shall guide, and from his grave amid the prairies
+of the west, he shall plead with him who sleeps at MT. VERNON for
+national virtue, for the widest liberty, for the principles of
+govermental justice.</p>
+               <p pn="22">Our joy has been turned into mourning that we might
+properly finish the work which he so well began. We might have been
+disposed to barter the precious blood of our patriot heroes, for the
+tinsel of an empty peace--or the "pottage" of an iniquitous
+compromise. We <hi rend="italic">might</hi> have been willing after
+having our fair land ploughed with the burning share of war, and our
+fields
+<pb n="23"/>
+                  <figure entity="hathaway23">
+                     <figDesc>23rd page of Warren
+Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+watered with blood, to permit the sowing again of those seeds of woe
+that have resulted in a harvest of death. We may have needed this
+further exhibition of the spirit of slavery, to teach us to detest it
+with the hearty hatred which it deserves. It is now presented before
+us in such dawning light, that no one will dare to stand as its
+advocate. In this solemn hour let us desire not only that rebellion
+should cease, but unite in the determination to remove its cause
+forever from our land and nation. While we mourn as no people ever
+mourned before, let us remember there is a God who has decreed that
+individual and national prosperity shall depend upon
+righteousness. Let us learn to put our trust in Him. His throne is
+unshaken. His government eternal. No power can deprive us of our God,
+or destroy the love and care of the Infinite.</p>
+               <p pn="23">Let us be hopeful. "Our Country yet remains;" saved by its
+baptism of blood, it is endeared to us as it never was before by
+having our loved ones buried on a hundred battle-fields.</p>
+               <p pn="23">Let us in the presence of God, in the presence of Death,
+renew our vows of loyalty and piety. Let us pray for our government,
+and hope for that peace which is the result of purity.</p>
+               <p pn="23">There is ground for national hope, for believing that
+before us there is a glorious future.</p>
+               <lg type="stanza">
+                  <l>With rudder foully broken,</l>
+                  <l>With sails by traitors torn,</l>
+                  <l>Our country on a midnight sea</l>
+                  <l>Is writing for the morn.</l>
+                  <l>But courage, O my mariners!</l>
+                  <l>Ye shall not suffer wreck,</l>
+                  <l>While up to God the freedman's prayers</l>
+                  <l>Are rising from your deck</l>
+               </lg>
+               <pb n="24"/>
+               <p pn="24">
+                  <figure entity="hathaway24">
+                     <figDesc>24th page
+of Warren Hathaway's A Discourse Occasioned by the Death of Abraham
+Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <lg type="stanza">
+                  <l>Sail on! the morning cometh,</l>
+                  <l>The port ye yet shall win;</l>
+                  <l>And all the bells of God shall ring,</l>
+                  <l>The good ship bravely in.</l>
+               </lg>
+               <p pn="24">But he has gone, who fondly looked and prayed for the dawn
+of that happy morning. Beyond the tumult of battle, beyond the cares
+and labors and honors of state, our departed President rests in the
+peace of God. Beyond human praise or blame, we feel we can say nothing
+better of him than that, <hi rend="italic">he was a good man</hi>. He
+learned to love Jesus as he wept amid the graves of the brave boys who
+fell at Gettysburg, and to love the Saviour is to secure a crown of
+eternal life.</p>
+               <p pn="24">As we survey our land with sadness and hope, as we look
+upward with mingled tears and gratitude, let us remember our duty to
+our country and our God,--serve both in such a manner that when done
+with America, we may be prepared for Heaven.</p>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

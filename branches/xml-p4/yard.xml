@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt n="The Providential Significance of the Death of Abraham Lincoln">
+            <title>The Providential Significance of the Death of Abraham Lincoln</title>
+            <author>Yard, Robert B.</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+the Director, Pitts Theology Library, Emory University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>1999</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Lincoln Sermons Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Yard, Robert B.. The Providential Significance of the Death of Abraham Lincoln: A Discourse Delivered in the Central M.E. Church, Newark, N.J., On the Day of National Humiliation, June 1st, 1865.  Published by Request of the Audience. Newark, N.J.: H. Harris, Publisher and stationer, 288 Broad Street.1865</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is from the Special Collection of Pitts Theology Library,
+Emory University, and produced in collaboration with the Emory Preservation Office,
+Pitts Theology Library and the Beck Center at Emory University</p>
+            <p>TRANSCRIBER: Lewis H. Beck Center and Emory University 
+Preservation Office.</p>
+            <p>PRODUCER:  BookLab, Inc., 1606 Headway Circle, 
+Suite 100, Austin, TX 78754</p>
+            <p>CAPTURE DEVICE: XEROX DocuImage 620S flatbed scanner</p>
+            <p>CAPTURE DETAILS: Scanner software: XEROX ScanTool 
+version 4.2.3; no gamma correction; images are all bitonal.</p>
+            <p>CHANGE HISTORY: Using the Adobe Photoshop Batch Processor, 
+we interpolated  the original TIFF files to 8-bit grays, 
+and altered the resolution to 144 dpi, producing screen 
+images twice the original size.  We then saved them in 
+JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
+            <p>RESOLUTION: 600 ppi</p>
+            <p>COMPRESSION: Resolution 144 per inch with Constrain 
+Properties to 72 per inch.</p>
+            <p>SOURCE: Original documents.</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>1999</date>
+            <respStmt>
+               <name>Scott Ellis</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 id="yard.001" n="The Providential Significance of the Death of Abraham Lincoln" type="text">
+            <head pn="1">
+               <bibl>
+                  <title>The Providential Significance of the Death of Abraham Lincoln</title>
+                  <date>June 1st, 1865</date>
+                  <pubPlace>Central M.E. Church, Newark, N.J.</pubPlace>
+                  <author>Yard, Robert B.</author>
+                  <imprint>
+                     <pubPlace>Newark, N.J.</pubPlace>
+                     <publisher>H. Harris</publisher>
+                     <date>1865</date>
+                  </imprint>
+               <idno type="ark">http://pid.emory.edu/ark:/25593/15rk0</idno></bibl>
+            </head>
+            <p pn="1">
+               <figure entity="yard1">
+                  <figDesc>1st page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+               </figure>
+            </p>
+            <p pn="1">THE PROVIDENTIAL SIGNIFICANCE</p>
+            <p pn="1">OF THE</p>
+            <p pn="1">DEATH</p>
+            <p pn="1">OF</p>
+            <p pn="1">ABRAHAM LINCOLN:</p>
+            <p pn="1">A DISCOURSE</p>
+            <p pn="1">DELIVERED IN THE</p>
+            <p pn="1">CENTRAL M. E. CHURCH, NEWARK, N. J.,</p>
+            <p pn="1">ON THE DAY OF NATIONAL HUMILIATION,</p>
+            <p pn="1">JUNE 1st, 1865.</p>
+            <p pn="1">BY</p>
+            <p pn="1">REV. ROBERT B. YARD</p>
+            <p pn="1">PASTOR OF CLINTON ST. M. E. CHURCH: LATE CHAPLAIN OF 1ST REGIMENT N. J. VOLUNTEERS, 6TH CORPS.</p>
+            <lg type="stanza">
+               <l>"God lifts to-day the veil, and shows</l>
+               <l>The features of the demon." WHITTIER.</l>
+            </lg>
+            <p pn="1">PUBLISHED BY REQUEST OF THE AUDIENCE.</p>
+            <p pn="1">Newark, N.J.:</p>
+            <p pn="1">H. HARRIS, PUBLISHER AND STATIONER,</p>
+            <p pn="1">288 BROAD ST.</p>
+            <pb n="2"/>
+            <p pn="2">
+               <figure entity="yard2">
+                  <figDesc>2nd page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+               </figure>
+            </p>
+            <pb n="3"/>
+            <p pn="3">
+               <figure entity="yard3">
+                  <figDesc>3rd page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+               </figure>
+            </p>
+            <div2 id="yard.002" n="SERMON." type="sermon">
+               <head pn="3">SERMON.</head>
+               <epigraph pn="3">
+                  <p pn="3">"Be still and know that I am God," Ps. 46: 10.</p>
+                  <p pn="3">"And the Lord said unto Moses, Get thee up into this mount Abarim and see the land which I have given unto the children of Israel. And when thou hast seen it, thou shalt be gatherd unto thy people, as Aaron, thy brother was gathered."-Num. 27: 12, 13.</p>
+                  <p pn="3">"He being dead, yet speaketh."-HEB. 11:4.</p>
+               </epigraph>
+               <p pn="3">Most truly we are living</p>
+               <lg type="stanza">
+                  <l>"In a grand and awful time,</l>
+                  <l>In an age, on ages telling,</l>
+                  <l>To be living is sublime."</l>
+               </lg>
+               <p pn="3">Events pregnant with a world-wide significance are passing so rapidly before our eyes, that we can scarcely apprehend their full import.</p>
+               <p pn="3">The lesson of yesterday, startling, novel, and of vast meaning, is almost obscured by that of to-day. Solemn and suggestive as were the voices of the night-time of our sorrow and war, they are surpassed by the warning utterances of our wondrous deliverances and gladness.</p>
+               <p pn="3">A giant young nation is awaking from its slumbers, shaking off its drowsy feelings, and addressing itself to such work as the world never witnessed. In this waking there are the usual strugglings of flesh and spirit, of inclination against duty, of prejudice against principle, and of foolish and fleshly parleyings with self-ease, pride and luxury.</p>
+               <p pn="3">The present hour is one of great importance. We are assembled in obedience to the will of the President of the United
+<pb n="4"/>
+                  <figure entity="yard4">
+                     <figDesc>4th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+States, to improve a day of national humiliation and prayer, in view of the strange and terrible visitation of sorrow that has been permitted to fall upon the nation, in the death of President Lincoln, making the country "one great house of mourning;" and "to unite in solemn service to Almighty God, in memory of the good man who has been removed." We are met in common with thousands "to contemplate his virtues, and to mourn his sudden and violent end," to improve the lessons of his life and to consult an event in its providential meanings, which has shaken the world, and marked the age in which we live.</p>
+               <p pn="4">This is a day for tears, and for tender yielding of the heart to God's instructions; a day for thought, for prayer, for the sober contemplation of duty, for a calm survey of the great work devolved upon us; a day for the rallying of the Nation's better nature, and of the great moral forces which are to follow up the fruits of victory.</p>
+               <p pn="4">It is scarcely expected that we shall dwell so much on the character of Lincoln, as that we shall bow ourselves before God, and bending before the storm of His wise permitting, humbly ask "Lord what wilt thou have us do?"</p>
+               <p pn="4">For many weeks our minds and hearts have been full of this wonderful man. The press, the pulpit, and the fireside have glowed with the repetition of his name and virtues. Horror at the black and cowardly manner of his taking off, and disgust at the system and the political belief which bore such inhuman fruit, have mingled with the softening memory of the true and the good man; and while we have learned to hate crime, we have come to love and honor goodness and truth more than ever before.</p>
+               <p pn="4">Two worlds are uniting in the testimony of his real greatness. While the true portraiture of the man is as yet impossible, the conviction is deepening that in him we have had an unusual actor upon the theatre of life; in him</p>
+               <lg type="stanza">
+                  <l>"A combination, and a form indeed</l>
+                  <l>Where every God did seem to set his seal</l>
+                  <l>To give the world assurance of a man."</l>
+               </lg>
+               <pb n="5"/>
+               <p pn="5">
+                  <figure entity="yard5">
+                     <figDesc>5th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p pn="5">Gentle, and yet bold; shrewd and yet nobly honest; of great political sagacity; firm in his principles, yet possessing a magical influence upon his opponents; with a religious soul, but of no religious pretension; a philantrophist, a patriot, and a statesman, he takes his place among the Wilberforces, the Howards, the Cromwells, the Hancocks, and the Washingtons, the peer of any, if not the superior of all.</p>
+               <p pn="5">In Lincoln's death a great light has gone out in all the habitations of men over the entire world. A calamity has befallen humanity, sending its forceful shock to the sensitive ends of the earth. Wherever labor seeks respect and requite; wherever honesty in private and public life, is held in honor; wherever the poor, the down-trodden, and the oppressed mourn beneath the lash, or sink into degradation because elevation is forbidden; wherever freedom's shrines are loved, and freedom's names are sweet; wherever man is respected for his dignity, and worth, not wealth, is estimable, Lincoln's death will come to add fresh sorrow to despondency and to dash for a time the hopes of virtue.</p>
+               <p pn="5">Among noticeable circumstances nothing is more striking than the universality of this great affliction, and the personal appropriation of the event to the private, sacred, tearful grief of man, woman, and child, of differing sects, parties, nationalities and races. A fearful blow has fallen upon the beating heart of the nation, already torn and bleeding, and strong men weep; and strife, and bitterness, and paltry partizanship hide away before the majesty of so sacred and so mighty a woe.</p>
+               <p pn="5">Abraham Lincoln has passed away from earth to the bosom of the Divine! The beloved chief of the nation, the friend of the oppressed, the foe of tyranny, the honest patriot, the second Washington, the providential saviour of this great land, the man of the people, has become a Martyr to Freedom.</p>
+               <p pn="5">I wish to call especial attention to the Providential significance of the death of Lincoln.</p>
+               <p pn="5">Sorrow, pain, change and death are the common lot. "Man is born unto trouble as the sparks fly upward." A
+<pb n="6"/>
+                  <figure entity="yard6">
+                     <figDesc>6th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+divine purpose is to be fulfilled in the permitted suffering of mankind. As those trees are sturdiest, that are most exposed to the storms, so human character develops its highest qualities under trial. Difficulties are the nurse of manly energy.</p>
+               <p pn="6">There is much more of woe in the world than of happiness; though some one has said that "while at this moment somewhere darkness is covering the face of the earth, it is also true that somewhere smiles are playing on human faces, and half the world is bathed in light and sunshine." And still earth is the crucible, and mankind is "in the fires." Earthquakes destroy entire cities, and fill a land with mourning. Pestilence bears thousands to untimely graves and nips the glowing promise of many a brightening life; war strips nations of their youth, their wealth and their power, and causes the multiplication of weeping homes and hearts. It might be different; God could change this state of things. Yet He "doth not afflict willingly nor grieve the children of men." He sees it better that we should not</p>
+               <lg type="stanza">
+                  <l>---"love this earth so well</l>
+                  <l>As not to long with God to dwell."</l>
+               </lg>
+               <p pn="6">In this light we are to view the event which calls us together. In no point could we be more tenderly touched. Our furnace fires had been heated six times, it was necessary that they should be intensified to the seventh degree.</p>
+               <p pn="6">The result has vindicated the wisdom of the permissive Providence. The event was a refining process that purged the nation, and men drew nearer to God and to each other, under the bitter trial.</p>
+               <p pn="6">Lincoln was removed at a time when he could best be spared. Evidently he was the man for the hour in the times in which he lived. His rare good sense, his honesty, his shrewd insight into political events, his single eye to the weal of the whole land, his unbending devotion to the principle of equal rights, to the Union, and to the authority of the laws, all fitted him for his days and place.</p>
+               <p pn="6">But the hour of his work drew on when he could say, "It is finished." The dark hour for which he was given was about
+<pb n="7"/>
+                  <figure entity="yard7">
+                     <figDesc>7th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+to yield to a glorious period of triumph, and repose. It were long enough to live to have accomplished such work as his. One chapter of history ended here; another was to begin.</p>
+               <p pn="7">Like Moses at Nebo, he saw the land, and when he had seen it he was gathered unto his fathers. Though he lived not to enjoy the fruition of his hopes, he gained that which was better. How deep, how full, how calm, how intense must have been his gratification at the sight of the crumbling and falling of the boastful house of sin and violence, and the rising in mighty proportions, and in assured stability of the temple of liberty!</p>
+               <p pn="7">Thus Daniel, too, in the midst of usefulness, when apparently most needed by the age, and the crisis, confessing God before an idolatrous people, and maintaining his integrity in the most trying ordeal, was summoned away. Yet his work was done.</p>
+               <p pn="7">Abraham Lincoln died with words of forgiveness on his lips, and purposes of amnesty, and good will in his heart; died in the work of saving this nation, and of scattering the seeds of life, and prosperity, whose fruit the descendents of his murderers will eat, and bless God for. How strange that the world's benefactors should thus be treated. The bitter cry, "Crucify Him," "Crucify Him," was raised against one who was even then blessing his enemies.</p>
+               <lg type="stanza">
+                  <l>"As on the fragrant sandal tree</l>
+                  <l>The woodman's axe descends,</l>
+                  <l>And she who bloomed so beauteously</l>
+                  <l>Beneath the strong stroke bends,</l>
+                  <l>E'en on the edge that caused her death</l>
+                  <l>Dying she breathes her scented breath,</l>
+                  <l>As if betokening in her fall,</l>
+                  <l>Peace to her foes, <hi rend="italic">and love to all."</hi>
+                  </l>
+               </lg>
+               <p pn="7">We are taught in this event the lesson of trust in God. Men fail, but God endures.</p>
+               <p pn="7">Never in history has God's care over His people been more beautifully illustrated than in every part and point of the struggle which ended in the death of the President. Never was the affectionate trust and devotion of any people more
+<pb n="8"/>
+                  <figure entity="yard8">
+                     <figDesc>8th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+fully tested and challenged. There have been many dark days,--days of disaster, of defeat, of weakness, and irresolution. There have been hours when the strongest hearts grew weary and sick at the hope deferred: when the cause of freedom seemed hopelessly environed with embittered and gigantic foes; when at home and abroad, in cabinet councils, and in the leadership of armies, in the exchequer, and in seats of justice, doubt, enmity, and disloyalty reared themselves like dangerous rocks in the track of the distressed ship of state, and good men anxiously prayed "0 Lord, how long?"</p>
+               <p pn="8">Through all God kept us. In the belief of God's care Lincoln ever trusted. Cheerfully did he bear up, ascribing our successes to Him, and directing the great heart of the Nation to the God of truth and right. Herein alone is the Nation's hope. The edifice of human liberty can stand secure only when it rests upon God's truth. The question of our strength, existence, and power as a nation is more a question of the christian life, faith, and purity of the people, than it is even of our admirable Constitution. It is ground of hope that the general exclamation under the astounding tidings of the assassination was, "God lives." This tempers our sorrow to-day, and is the bow of promise in the disturbed atmosphere of our political life.</p>
+               <p pn="8">That there might remain no lingering doubt of the character of</p>
+               <lg type="stanza">
+                  <l>"--the evil thing</l>
+                  <l>That severs and estranges,"</l>
+               </lg>
+               <p pn="8">Lincoln's death was permitted.</p>
+               <p pn="8">The spirit of slavery exhibited itself in that hour in its native character, without any glosses. It was true to itself--its traditions, its character, and its spirit. Its true tendency ever is to weaken the bonds of virtue, to pamper and glorify self, to feed the lust of power, to demoralize the manly nature, to degrade the essential dignity of labor, to build up an aristocracy of family, of birth, and of property, to dehumanize immortal manhood on the plea of inferiority, to destroy the marriage relation, to estrange the ties of kindred, to crush the
+<pb n="9"/>
+                  <figure entity="yard9">
+                     <figDesc>9th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+aspirings of mind, and to encourage acts, the record of which makes the cheek of humanity blush. Brutality, oppression, wrong, libertinism and murder, are its unfailing, inevitable characteristics. It cannot brook the slighest opposition. The imperious will of Southern petty princes becomes too well accustomed to unquestioned sway to allow of any interference with their affairs. All the worst passions of human nature are stirred by the cry of "Abolition," because all the lowest passions of the nature find gratification in the existence of slavery. The death of Lincoln was the legitimate fruit of slavery, contemplated with ardent desire from the beginning of the struggle. Slavery was the gathering swooping whirlwind, its point was Booth, its destructive fury was most manifest upon the tall representative man of freedom.</p>
+               <p pn="9">And yet that blow was not aimed so much at the man Lincoln as at the cause of which he was the bold exponent. The blow was aimed at your heart, and mine; at the hated North, the vile monster, Freedom, the plebian crew. In evidence of this I give you some jottings of a visit which I have just made to Richmond and Petersburg the late seat of the Rebellion. It was mine to mingle with high and low, with the refined and the uncultured, the white and black, in the routes of travel, the parlor, the hotel, and the negro quarters. There is no mistaking the feeling. Bitterness, hate, pride, and a deep sense of injury prevail in Southern minds. Scorn of the best blood of the North, contempt for its most brilliant talent, and an aristocratic exclusiveness find irrepressible expression. With the Southern people Jeff. Davis is a saint-one of the most conscientious and devoted of Christians. In their estimation the war has developed but two Generals at all worthy of the title, or gifted with military ability-Lee and McClellan. Commendation of New Jersey is on every lip. Sensible as I am of the good opinion of others, and desirous of appreciation of myself, and of my State, I was chagrined to find among the bitter enemies of Freedom and Union such hearty admiration of New Jersey. "She has been truer to us
+<pb n="10"/>
+                  <figure entity="yard10">
+                     <figDesc>10th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+than Maryland." From the elegant banker at Petersburg to the hotspur of the Spottswood, at Richmond, but one expression of good feeling prevailed in this direction. Generally Lincoln's death awakens no horror, Booth's crime finds no stern censure.</p>
+               <lg type="stanza">
+                  <l>"Hot burns the fire</l>
+                  <l>Where wrongs expire;</l>
+                  <l>Nor spares the hand,</l>
+                  <l>That from the land</l>
+                  <l>Uproots the ancient evil.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>What gives the wheat fields blades of steel?</l>
+                  <l>What points the rebel cannon?</l>
+                  <l>What sets the roaring rabble's heel</l>
+                  <l>On the old star spangled pennon?</l>
+               </lg>
+               <lg type="stanza">
+                  <l>What breaks the oath</l>
+                  <l>Of the men of the South?</l>
+                  <l>What whets the knife</l>
+                  <l>For the Union's life?</l>
+                  <l>Hark to the answer, SLAVERY.</l>
+               </lg>
+               <p pn="10">*   *    *      *     *   *     *    *   *    *    *   *   *  *</p>
+               <lg type="stanza">
+                  <l>"But blest the ear,</l>
+                  <l>That yet shall hear</l>
+                  <l>The jubilant bell,</l>
+                  <l>That rings the knell</l>
+                  <l>Of Slavery forever."</l>
+               </lg>
+               <p pn="10">Among the lessons of the hour is that of the essential and original equality of the races and nationalities centering in this land.</p>
+               <p pn="10">The doctrine of the South, in sympathy with which are hundreds here, is that the black man is not a human being. It is impossible to over-estimate the importance of this question. Every living creature that is not a human being <hi rend="italic">is a beast,</hi> and is by God's law subject to man's rule, laid under the laws which govern property, and lives for the sole convenience of man. The hopes of eternity, the joys of redemption, the blood of Christ, the visions of faith, the ordinances of religion, and the fellowship of saints, are for man alone, not for animals. However slight the difference, if the creature be not human, it is simply an animal.</p>
+               <pb n="11"/>
+               <p pn="11">
+                  <figure entity="yard11">
+                     <figDesc>11th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p pn="11">The strangest recklessness has prevailed on this
+subject. Men have willingly assumed the doctrine that the African race
+is not human in simple justification of their deeds of
+oppression. Rousseau and Voltaire, avowed infidels, assumed that the
+African was but a superior type of Orang Outang. The same class of
+reasoning was adopted years ago to prove that the Dutch originally
+were fish, which being left high and dry by the tide, gradually
+accommodated themselves to the change of circumstances. The tails
+being no longer useful gradually wore away. A high authority says,<ref target="yard.002.n01">*</ref> "according to the definition of species, the question is settled at once, there can be no doubt that all men are of one family." He adds, "Cuvier and Buffon, and Lawrence, and Pritchard, and Blumenbach, in fact, all <hi rend="italic">respectable authorities</hi> in Physiology, admit that mankind must be regarded as one species, and that there is <hi rend="italic">nothing in their differences of appearance which forbids their derivation from a single pair."</hi> He continues: "All analogy and the results of all arithmetical calculation with regard to the numerical increase of mankind lead to this conclusion. And if we add to the weight of evidence thus gathered, the direct testimony of all respectable tradition, it is sufficiently established that men have sprung from a single pair."</p>
+               <p pn="11">Buffon and Hunter contend "that the preservation of species is perpetually provided for in the law, that animals derived from parents of different kinds will not perpetuate their race; that the various species of animals have been preserved unmixed for ages, which could not have been the case unless some such rule of propagation had existed."</p>
+               <p pn="11">The popular objections to the peculiar physical structure of the African are simply absurd. "Every large collection of people for any considerable length of time separated from the rest by civil institutions and geographical lines, have assumed peculiarities of appearance quite remarkable and inexplicable. A German is easily distinguished from a Spaniard, and even a</p>
+               <note pn="11" id="yard.002.n01" n="*" place="foot" anchored="yes">
+                  <p pn="11">Dr. T. E. Bond, Jr., of Baltimore.</p>
+               </note>
+               <pb n="12"/>
+               <p pn="12">
+                  <figure entity="yard12">
+                     <figDesc>12th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p pn="12">Scotchman from an Irishman." I appeal again to Dr. Bond: "Innumerable intermixtures and modifications of ancient differences in color, &amp;c., have undoubtedly taken place. Indeed the changes of comparatively few years have completely obliterated powerful races. What denizen of Rome or Greece can trace his unmixed pedigree back to the powerful and polished people who made those names so famous in story? Nay, what Englishman can show that he is of purely Saxon lineage?"</p>
+               <p pn="12">The fact is unquestioned that if the negro be condemned on craniological principles, we must conclude the highest type of female beauty, the statue of Venus, to represent the head of an idiot.</p>
+               <p pn="12">It is claimed that the African has always been in subjection, when the truth is, that the negroes have never been conquered by the whites.</p>
+               <p pn="12">It must be borne in mind that "no people have ever civilized themselves, and circumstances have prevented the civilizing forces from acting upon them."</p>
+               <p pn="12">"Civilization has stretched her hand to the Indian, and he has refused it. She has trodden the African with unrelenting sternness, yet, while groaning under her feet, he has perceived her graces and imitated her arts."</p>
+               <p pn="12">The negro has evinced a remarkable reach of moral power, and an apprehension of religious truth only to be associated with the highest capacity. Where he has been allowed the privilege he has risen to excellence in religion and in war. Fidelity, courage, intelligence, endurance, patriotism, and military aptitude, have found perfect illustration among the negroes of this war.</p>
+               <p pn="12">So far as the natural inferiority of the black race is concerned, we have ample testimony to the fact that some of the most cultivated of the ancients were negroes. Dr. Pritchard sums up thus: "We may consider the general result of the facts which we can collect concerning the physical character of the Egyptians to be this, that the national configuration prevailing in the most ancient times was nearly the negro form,
+<pb n="13"/>
+                  <figure entity="yard13">
+                     <figDesc>13th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+with wooly hair, but that in a later age this character had become considerably modified, and changed, and that a part of the population of Egypt resembled the modern Hindoos. The general complexion was black, or at least a very dusky hue."</p>
+               <p pn="13">"The great Sphinx," says Dr. Bond, "and many other ancient Egyptian works of art, are delineations of the negro countenance; and Herodotus describes the ancient Egyptians as black skinned and wooly haired."</p>
+               <p pn="13">Turning to Rollin I find these words: "Egypt was ever considered by all the ancients as the most renowned school for wisdom and politics, and the source from whence most arts and sciences were derived. This kingdom bestowed its noblest labors and finest arts on the improvement of mankind, and Greece was so sensible of this that its most illustrious men, as Homer, Pythagoras, Lycurgus, and Solon, with many more whom it is needless to mention, travelled into Egypt to complete their studies, and draw from that fountain whatever was most rare and valuable in every kind of learning."</p>
+               <p pn="13">In our day, in the South, the principal objection of Southern leaders to the employing of black soldiers was, that it would be degrading for the South to owe its salvation to the black race. Yet proud and cultivated Greece was pleased to sit at the feet of black men for improvement.</p>
+               <p pn="13">There is never a prouder victory for man than when he rises superior to prejudice; when, doing violence to mere fancy or taste, or training, he determines to do right. Next to the disgrace of human bondage is the shame of caste, and of pride of color, or of lineage.</p>
+               <lg type="stanza">
+                  <l>"Unless above himself he can erect himself,</l>
+                  <l>How mean a thing is man."</l>
+               </lg>
+               <p pn="13">The true idea is that a man's a man only in those qualities of mind and heart which honor the species, irrespective of color or form. I have come to regard the presence of mixed races as part of the great problem of probation. The black is here to test our better nature. There is hope of that man who can pass a black man without feeling uncomfortable. But I pity
+<pb n="14"/>
+                  <figure entity="yard14">
+                     <figDesc>14th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+him who can find no better sport than to make perpetual war upon the negro. He seems to fear the promised rivalry of a people that shall yet develop eloquence, art, science, and religion in their divinest forms. The time is coming, when these people will mingle freely in society, never to lose their race-traits, but in ever abiding testimony of the power of enlightened humanity to rise superior to prejudice, and to honor the likeness of God, whether inframed in <hi rend="italic">ebony or in ivory.</hi>
+               </p>
+               <lg type="stanza">
+                  <l>"There's a good time coming, when</l>
+                  <l>The pen shall supersede the sword;</l>
+                  <l>And right, not might shall be the Lord;</l>
+                  <l>Worth, not birth shall rule mankind,</l>
+                  <l>And be acknowledged stronger.</l>
+                  <l>
+                     <hi rend="italic">The proper impulse has been given,</hi>
+                  </l>
+                  <l>Wait a <hi rend="italic">little longer."</hi>
+                  </l>
+               </lg>
+               <p pn="14">Nowhere is the idea that the negro, freed, will not work, so warmly repelled as among the colored people of the South. "Who then will work?" said Albert Parker, a freed slave with blue eyes and light curly hair, to me at Petersburg. "Our white masters and mistresses cannot work. Our ladies have never put on their own shoes or stockings yet, or arranged their own hair."</p>
+               <p pn="14">"If," said another duskey citizen, " the colored people won't work let them starve."</p>
+               <p pn="14">Let them learn to care for, to think for themselves, to struggle with difficulties, to develop, if ever so slowly, the powers that are inherent in all of the human family.</p>
+               <p pn="14">What a worthy work! How grand the triumph! to make of the degraded African a man; of his race a people. It is civilization to take the street children of our cities, and educate them. I love to watch the unfolding of a flower, or to plant the unpromising "slip," and then to watch its taking root, and its growth until it becomes a real, living, gladsome, blooming fact. It is an honor to America to achieve an independence, and to take a leading place among the free people of the earth, but it is an equal honor to her in her pride, and power to stoop
+<pb n="15"/>
+                  <figure entity="yard15">
+                     <figDesc>15th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+to recognize the stamp of our Divine Father in the soul of an abject race, and with noble feeling to say to them, be free, be equal in all our rights and privileges.</p>
+               <p pn="15">Was Abraham Lincoln degraded in our esteem last night when we heard from Frederick Douglas, a negro, that Lincoln sought his counsel and enjoyed "a good time in conversing" with him about his people, and the means of their enlargement? Nay, I loved Lincoln more for that testimony. Who is harmed by the elevation of Douglas? Who is degraded in his wonderful eloquence? What interest, civil, or religious, or social, is disturbed?</p>
+               <p pn="15">The bugbear of <hi rend="italic">amalgamation</hi> is continually flaunted in the eyes of the people. I will say to all anxious ones, who are trembling on this account, that the colored race does not ask any favors of this kind; that the demand thus far has been on the other side, and that the white lords of the South have asked and compelled more favors in this direction than the blacks have ever asked. But in another century amalgamation will not be nearly so hateful a word as abolition has been in this. Many a black Webster, and Clay, and Whitefield, will enchant listening thousands by their eloquence and power in Halls of Congress, and in seats of Justice and Religion. But we can afford to let this question take care of itself. Having escaped rebellion and Southern domination, we are not to be frightened by the doleful cry of <hi rend="italic">"amalgamation!"</hi>
+               </p>
+               <p pn="15">We are taught to prize beyond price the Freedom which has cost us so much to win and to maintain.</p>
+               <p pn="15">Human freedom in its highest forms is the comcomitant of the Gospel. Proclaim the latter and you secure, sooner or later, the former. Christianity never follows true civilization, but like the prow of a ship, it divides the unbroken wave of social and civil existence and bids men follow to the region of their truest aspirations. The sunken buoy carried to the bottom of the sea will possess an upward tendency still, which asserts itself in the moment of release, when it will move
+<pb n="16"/>
+                  <figure entity="yard16">
+                     <figDesc>16th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+eagerly toward the surface, throwing back in its ascent the superincumbent waters. Thus the spirit of Liberty, unquenchable, irrepressible but awaits the fitting hour to break through the sluggish mass of monarchical forms, and tyrannical authority, to repose calmly in the light of a high civilization and a divine faith. Like the ark of olden times, outriding the destructive storm and deluge, it floats over the world at once the cradle of a new life and the symbol of God's care.</p>
+               <p pn="16">All through the dark ages men were repeating to themselves the word <hi rend="italic">Liberty.</hi> Luther in Germany, and Frederick the Good Elector, withstood despotism and announced the rights of man. Zwingle caught up, and repeated the echo through the glens and over the mountain heights of Switzerland. Over among the dykes of the Netherlands, William of Orange did worthy battle for this principle. The English revolution still further developed it. The idea of the equality of mankind became a doctrine. But a new field was needed. A little band sought these shores and found a refuge from intolerance. They submitted to equal hardships; equally braved peril and grew to a nation, and a power, the brightning success of which has been the beacon light of a tempest tossed world to point to the haven of rest and plenty.</p>
+               <lg type="stanza">
+                  <l>"Tis liberty alone that gives the flower</l>
+                  <l>Of fleeting life, its lustre and perfume."</l>
+               </lg>
+               <p pn="16">Freedom, sustained by Christian faith and influences, is the basis of the highest exploits of mind, the most stirring schemes of philanthrophy, the most dazzling feats of valor, and the most extended triumphs of industry. Its province is to call into active life the best and purest forces of our being, and to stimulate to virtue, to learning, and to art.</p>
+               <p pn="16">Four years ago in the very heart of the nation, a conspiracy which had long strengthened itself under the very dome of the National Capital, unfolded its demon-like form and struck at the Nation's life. The flag of our fathers, the symbol of freedom, the glorious banner of our western civilization, was shot down, and its folds were trampled by the feet of traitors.</p>
+               <pb n="17"/>
+               <p pn="17">
+                  <figure entity="yard17">
+                     <figDesc>17th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <p pn="17">The Slave States arrayed themselves against the general Government, and without a single justification, inaugurated a separate nationality in the interests of human slavery. Secession was announced as a God-given right, and treason was justified from the example of the children of Israel in the Exodus, and from the example of the patriots of 1776. Thus began the most wicked, causeless, powerful, and bloody rebellion known to history. If this movement be likened to the Exodus of the Hebrews from Egyptian bondage, secessionists must first prove that they were oppressed, enslaved, and captives in a strange land. Instead of this they held the reins of power and dictated terms to the American Union for fifty years. It would be more proper to argue from the Scripture account, the duty of some dark-skinned Moses of Southern Slavery to lead the Exodus of the black race from the fearful oppression and wrong exercised over them by their luxurious Southern masters.</p>
+               <p pn="17">It would be in place, too, to trace the history of the Egyptian effort, in the attempt of the South to keep God's people enslaved, and to understand that in their blind purpose to oppose the march of human progress, they have invoked a thousand woes, worse than the plagues of Egypt, and that in the end they were destined, like their prototype, to meet a terrible engulphment in the red sea of blood into which they so madly rushed.</p>
+               <p pn="17">History will record the attempt of Southern aristocracy to elevate itself at the expense of the bondmen, and to climb to wealth and power on the shoulders of an abject people, whose minds, manhood, and morals, they were willing to crush in their selfish aims; and the same pen will show how the black man unexpectedly slipped from beneath, and how places were changed and the "tables were turned."</p>
+               <p pn="17">The glory of our nation is its absorption and employment of the representatives of all races and peoples of the earth, its blending and fusing of all the forces of humanity; that out of all might come a perfect nation, recognizing the brotherhood of man, and offering a common asylum for the oppressed
+<pb n="18"/>
+                  <figure entity="yard18">
+                     <figDesc>18th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+of all lands and of all complexions. The men who claim this as the land of the white man, ignore the genius and aim of our glorious nationality, and evidently took the wrong route when they abandoned the land of their birth. They should have gone to China. The franchises of this republic cannot be safely denied to classes of our fellow citizens on the account of their foreign name, language, or appearance. Other qualifications may be demanded, but not those of the cuticle.</p>
+               <p pn="18">In a republican form of government there is ever a danger of radicalism and anarchy. While true liberty is never licentious, but flourishes best under judicious laws which seek to restrain the evil disposed, there is yet a morbid tendency to impatience under authority. Our hope is in the Word of God, and in the influences of Evangelical Christianity alone. It is impossible to check the tide, but it is in our power to direct its course. It is not desirable to destroy the mettlesome and restive horse, nor is it necessary in order to prevent his doing damage. Let him be simply controlled and guided by an intelligent and kind mastery. We do not ask that electricity shall be suspended and stricken from the list of beneficent forces in nature, simply because it holds a fearful power of mischief in its grasp. It is too useful a servant, too good a friend. But we want to control and bind it to our own uses. We see the dangerous tendencies of freedom when uncontrolled, but do not hence wish to return to despotism, though this would be preferable to anarchy. Nor is it necessary. Let the principle of American independence be borne in mind; let the spirit of our patriot sires animate their children; let the Constitution be kept from unholy and ambitious interference; let the maxims of the fathers of our country be cherished by their children, and Liberty will but rise to her most beneficent activity, and mankind be carried forward to the realization of its highest hopes. How apt and beautiful is the idea, somewhere represented in a painting, of George Washington standing upon the steps of the Capitol while the clouds grow dark, and the fierce lightnings threaten: with a sword drawn, he
+<pb n="19"/>
+                  <figure entity="yard19">
+                     <figDesc>19th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+catches the electricity upon its point and guides it harmless to the ground.</p>
+               <lg type="stanza">
+                  <l>"Truth, freedom, virtue, these have power,</l>
+                  <l>If rightly cherished, to uphold, sustain,</l>
+                  <l>And bless a nation in its darkest hour.</l>
+                  <l>Neglect them, her material gifts are vain,</l>
+                  <l>In dust shall her weak wing be dragged and soiled,</l>
+                  <l>And Liberty be crushed 'neath toys for which she basely toiled."</l>
+               </lg>
+               <p pn="19">Let us not fail, to-day, to gather hope for the future. The fall of our chief should be the occasion of a sturdier purpose; his death the birth of a new life. The greatest triumphs of our war have been our disasters. We were scarcely ready for the future that is opening so grandly upon us, until sanctified by the baptism of disappointment and suffering. We stand to-day in the portals of a Beulah in national history; a glad morning unfolds its blushing beauties after a long night. Our cherished Union, whose links form the necklace of Freedom, is re-established, while disunion has received a rebuke that dismisses it from decent society. Secession may succeed better in Great Britian where it is looked on with much favor; but in this land its name will ever be associated with the chivalry of poison, assassination, and starvation, and remain the synonym of shame, of failure, and of wrong.</p>
+               <p pn="19">The future of the whole country is hopeful-that of the South especially. What though her fields are wasted, her cities and towns silent, shattered, and grass-grown, her people dispirited and impoverished, has she not had the awful incubus of Slavery removed from her breast, and is she not for the first time in her history released to go up and "possess the land?" At present there is much bitterness. I found men advocating the secession theory still, though deprecating the practice. Many lately rich are penniless. Southern fields are wasted, and Southern energy is prostrated. A new day is dawning, however, and the hitherto undeveloped resources of that glowing, fertile land will yet astonish the world.</p>
+               <lg type="stanza">
+                  <l> "Behold the day of promise comes, full of inspiration,</l>
+                  <l>The blessed day by prophets sung, for the healing of the nations,</l>
+               </lg>
+               <pb n="20"/>
+               <p pn="20">
+                  <figure entity="yard20">
+                     <figDesc>20th page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <lg type="stanza">
+                  <l>Old midnight errors flee away; they soon will all be gone,</l>
+                  <l>While Heavenly Angels seem to say, the good time's coming on.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>The captive now begins to rise, and burst his chains asunder;</l>
+                  <l>While politicians stand aghast, in anxious fear and wonder,</l>
+                  <l>No longer shall the bondman sigh beneath the galling fetters;</l>
+                  <l>He sees the dawn of Freedom nigh and reads the golden letters."</l>
+               </lg>
+               <p pn="20">Not less assuring of our future is the fate of the leaders of the rebellion. It is a satisfaction to know that mischievous men cannot be allowed to carry out, at pleasure, their intrigues against the peace of society, and that the rebel leaders must find a home in some other land, or bear the punishment of their crimes. It is a guarantee of safety for the future that some of the most earnest of the rebel conspirators shall expiate their horrible offences on the gallows. Their crime needs just such characterization. In no bitterness, or party rancor; in no personal dislike, nor in revenge, is this uttered. It is fitting that a crime of crimes like that of Davis, Lee, and Breckenridge, should be clearly defined, for the good of mankind, and for the vindication of virtue, law, and humanity.</p>
+               <p pn="20">In the accession of a new President, possessed of the highest administrative ability, tried in the fires of rebellion, and prompt and decisive in character; in national resources, so vast that calculation is bewildered in attempting to comprehend them; and in a soldiery whose intelligence, bravery, endurance, dash chivalric bearing, and sincere patriotism, challenge the admiration of the world, our future seems calmly bright and full of hope.</p>
+               <p pn="20">Our honored dead are a rich heritage to our land. Their memory abides, freshly green, to constitute in the years that are to come, guardian influences for the strengthening and stimulating of their sons. They form the "cloud of witnesses" in the presence of whom we are urged to run our national career. We pay honor to-day to their names, their heroism, and their sacrifices.</p>
+               <lg type="stanza">
+                  <l>"Ye glorious dead! not unavenged shall sleep</l>
+                  <l>Your honored dust. No tomb may rear its head</l>
+               </lg>
+               <pb n="21"/>
+               <p pn="21">
+                  <figure entity="yard21">
+                     <figDesc>21st page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <lg type="stanza">
+                  <l>Your deeds to tell. But living statues steep</l>
+                  <l>With tears, the grass, that sighs above thy bed.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>There shall the hermit oft resort to weep;</l>
+                  <l>The ground be hallowed with the pilgrim's tread;</l>
+                  <l>Thy sons shall never yield to fell despair</l>
+                  <l>The bright and blessed hopes that cluster there."</l>
+               </lg>
+               <p pn="21">Let us not forget that the great object of all government is the benefit and happiness of the whole-<hi rend="italic">the greatest good to the greatest number</hi>-a good old democratic doctrine in which most of us have been reared.</p>
+               <p pn="21">Let us continue to demonstrate to the world the superiority of free institutions, in a well directed course of self-government, proceeding independently of kings, nobles, titles, and pomp, and sustained by true patriotism and intelligent self-control.</p>
+               <p pn="21">Nor ought we to forget that the truest insignia of an American citizen is Virtue. Intelligence, temperance, and personal uprightness, should be traits of our people characterizing them in all their intercourse with each other, or with foreign nations. Our flag must remain of untainted honor and faith. Of as great moment, at the present, is this to us, and to the world, as at the first. The world is in a transition state. Momentous events cast their shadows already before. Men are in expectancy of some wider development of the free principle in human government. Anxious are the looks and questions directed to this land. No other country has such a history-strange, impressive, and sublime. God forbid that the struggling, suffering, and oppressed millions on the face of the globe should ever fail to see the folds of the star-spangled banner waving over "the land of the free and the home of the brave," the earnest of success and the language of sympathy. As Ireland, as India, as the once free lands of Asia, would we be now, but for the doctrines and labors of the Washingtons, the Lafayettes, the Jeffersons, and the Lincolns, of our history. Let us emulate their virtues, while we cherish their principles, and carry forward the structure which their labors founded,
+<pb n="22"/>
+                  <figure entity="yard22">
+                     <figDesc>22nd page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+until the glorious temple of liberty shall reach its completion and overshadow all lands.</p>
+               <p pn="22">Thousands on thousands have fallen martyrs to the cause of the Union, of Truth, and of Humanity. Thousands are the crippled testimonies of the wicked hate of rebellion. The light of thousands of homes has gone out amidst the wail of widowed and orphaned hearts. But here ceases the sad record. Beyond the lives and health of our brave soldiery, the nation has suffered but little. Commerce has revived, and plenty abounds. To compensate for the offerings of life and treasure, we have a peace that, as Lincoln hoped, has "come to stay, and which will be worth the keeping for all future time." Soon, at best, the thousands who occupy these scenes, the millions spread over these States will all have passed away as a dream. What avails then, with God, the lingering of a few years longer, or the hastening away by a few years sooner of these brief-lived beings? "For a thousand years in His sight are but as yesterday." If we gain then the settlement of grave questions of Humanity, Civilization, and Government; if the last vestige of the terrible woe of Slavery be, removed, we may claim the good obtained to have been cheaply purchased.</p>
+               <p pn="22">Our national power stands nobly vindicated to-day, before the world, in the splendid achievements of our Army and Navy. The prowess of our people and their attachment to principle shine forth in the names of Donelson, Vicksburg, Antietam, Fredericksburg, Gettysburg, New Orieans, Spottsylvania, and the plains of Petersburg. The names of the Sumners, the Kearneys, the Sedgwicks, the Shermans, the Sheridans, and the Grants, of our nation, are a tower of strength to us. Hail then this hour-its issues are the vastest the world ever knew.</p>
+               <p pn="22">Wrong is vanquished! Right triumphs!</p>
+               <lg type="stanza">
+                  <l>"There is a font about to stream;</l>
+                  <l>There is a light about to beam;</l>
+                  <l>There is a warmth about to flow;</l>
+               </lg>
+               <pb n="23"/>
+               <p pn="23">
+                  <figure entity="yard23">
+                     <figDesc>23rd page of Robert B. Yard's The Proverbial Significance of the Death of Abraham Lincoln.</figDesc>
+                  </figure>
+               </p>
+               <lg type="stanza">
+                  <l>There is a flower about to blow;</l>
+                  <l>There is a midnight blackness, changing</l>
+                  <l>Into gray.</l>
+                  <l>Men of thought, and men of action,</l>
+                  <l>Clear the way.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Aid the dawning, tongue and pen;</l>
+                  <l>Aid it, hopes of honest men;</l>
+                  <l>Aid it paper, aid it type;</l>
+                  <l>Aid it, for the hour is ripe;</l>
+                  <l>And our earnest must not slacken</l>
+                  <l>Into play.</l>
+                  <l>Men of thought, and men of action,</l>
+                  <l>Clear the way."</l>
+               </lg>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>
