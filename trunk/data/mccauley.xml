@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="Character and Services of Abraham Lincoln">
             <title>Character and
 Services of Abraham Lincoln  </title>
@@ -13,14 +11,10 @@ Rev. Jas. A.</author>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -29,9 +23,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -44,8 +36,7 @@ National Humiliation and Mourning, Appointed by the President of the
 United States, Thursday, June 1, 1865.  Baltimore: John D. Toy,
 Printer. 1865.  </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -68,23 +59,12 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="mccauley.001" n="Character and Services of Abraham Lincoln" type="text">
-            <head pn="1"> 
+         <div1 xml:id="mccauley.001" n="Character and Services of Abraham Lincoln" type="text">
+            <head> 
                <bibl> 
                   <title>Character and
 Services of Abraham Lincoln</title> 
@@ -92,51 +72,51 @@ Services of Abraham Lincoln</title>
 1865</date> 
                   <pubPlace>Eutaw Methodist Episcopal Church</pubPlace>
                   <author>McCauley, Rev. Jas. A.</author> 
-                  <imprint>
+                  
                      <pubPlace>Baltimore</pubPlace>
                      <publisher>John D. Toy,
 Printer</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qn5</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="mccauley1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st Rev. Jas. A. McCauley's
 Character and Services of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">A SERMON</p>
-            <p pn="1">PREACHED IN THE</p>
-            <p pn="1">EUTAW METHODIST EPISCOPAL CHURCH,</p>
-            <p pn="1">ON THE DAY OF</p>
-            <p pn="1">NATIONAL HUMILIATION AND MOURNING,</p>
-            <p pn="1">APPOINTED BY THE</p>
-            <p pn="1">President of the United States,</p>
-            <p pn="1">Thursday, June 1, 1865,</p>
-            <p pn="1">BY REV. JAS. A. McCAULEY.</p>
-            <p pn="1">BALTIMORE:</p>
-            <p pn="1">JOHN D. TOY, PRINTER.</p>
-            <p pn="1">1865.</p>
+            <p>A SERMON</p>
+            <p>PREACHED IN THE</p>
+            <p>EUTAW METHODIST EPISCOPAL CHURCH,</p>
+            <p>ON THE DAY OF</p>
+            <p>NATIONAL HUMILIATION AND MOURNING,</p>
+            <p>APPOINTED BY THE</p>
+            <p>President of the United States,</p>
+            <p>Thursday, June 1, 1865,</p>
+            <p>BY REV. JAS. A. McCAULEY.</p>
+            <p>BALTIMORE:</p>
+            <p>JOHN D. TOY, PRINTER.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="mccauley2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="mccauley3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="3">BALTIMORE, <hi rend="italic">June 2d</hi>, 1865.</p>
-            <p pn="3">REV. J. A. McCAULEY,</p>
-            <p pn="3">DEAR SIR:
+            <p>BALTIMORE, <hi rend="italic">June 2d</hi>, 1865.</p>
+            <p>REV. J. A. McCAULEY,</p>
+            <p>DEAR SIR:
 	<lb/>Representing the wish of many members of the Congregation
 who had the pleasure of listening to the admirable discourse,
 delivered by you on the late day of National Humiliation and Prayer,
@@ -144,13 +124,13 @@ to have it for perusal and reflection; and also their anxiety that it
 may have a publicity more commensurate with its merit and the
 importance of the subject it so forcibly discusses, the undersigned
 respectfully request a copy for publication.</p>
-            <p pn="3">Truly and affectionately yours,</p>
-            <p pn="3">SAMUEL HELSBY,
+            <p>Truly and affectionately yours,</p>
+            <p>SAMUEL HELSBY,
 HENRY D. SHRIVER, <lb/>SUMMERFIELD BALDWIN,      WESLEY STEVENSON,<lb/>
 JOHN W. KREBS,            A. WESTERMAN, <lb/>WM. J. REIMAN,
 DAVID BALL, <lb/>GEORGE W. MAGERS,         JOSEPH BARLOW.</p>
-            <p pn="3">BALTIMORE, <hi rend="italic">June 3d</hi>, 1865.</p>
-            <p pn="3">GENTLEMEN:
+            <p>BALTIMORE, <hi rend="italic">June 3d</hi>, 1865.</p>
+            <p>GENTLEMEN:
 	<lb/>I covet to be known, in every way, as honoring the man to
 whom the Nation owes so unspeakable a debt; and could I feel that my
 Discourse was a worthy treatment of its theme, your proposal to
@@ -158,9 +138,9 @@ prolong and widen its impression would be to me a real
 satisfaction. Defective as it is, I place it in your hands, as thus,
 besides complying with your wish, my witness, though unworthy, may
 have a more enduring form than spoken words.</p>
-            <p pn="3">Yours, very truly,
+            <p>Yours, very truly,
                                             <lb/>J.A. McCAULEY.</p>
-            <p pn="3">TO S. HELSBY,
+            <p>TO S. HELSBY,
    <lb/>S. BALDWIN,
    <lb/>J. W. KREBS, and others.</p>
             <pb n="4"/>
@@ -173,23 +153,23 @@ Lincoln.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="mccauley5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="mccauley.002" n="SERMON" type="sermon">
-               <head pn="5">SERMON.</head>
-               <epigraph pn="5">
-                  <p pn="5">CONSIDER HOW GREAT THIS MAN WAS.--Hebrews vii
+            <div2 xml:id="mccauley.002" n="SERMON" type="sermon">
+               <head>SERMON.</head>
+               <epigraph>
+                  <p>CONSIDER HOW GREAT THIS MAN WAS.--Hebrews vii
 4.</p>
                </epigraph>
-               <p pn="5">I SELECT these words with no design to use them in their
+               <p>I SELECT these words with no design to use them in their
 original reference. I take them merely as a motto for what I wish to
 say concerning the man in memory of whom this service is appointed.</p>
-               <p pn="5">It is well the nation has been summoned to cease from its
+               <p>It is well the nation has been summoned to cease from its
 activities, and spend a day in contemplation of the scenes through
 which it has been passing. So stirring and so stunning have been the
 events crowding on us recently, sweeping us so rapidly through all the
@@ -202,7 +182,7 @@ destined to fill the brightest and darkest pages history will write,
 have lacked the composure needful to their just appreciation. Timely,
 then, this day of pause and contemplation truly is, saddened, though
 it be, by memories of a sorrow we can never cease to feel.</p>
-               <p pn="5">Several days of our recent history will be noted in the
+               <p>Several days of our recent history will be noted in the
 calendar of coming years. One day bears the double stigma of treason's
 first and latest blow--the assault of Sumter, and the murder of the
 President. On that day, too, the nation lifted up the symbol of its
@@ -211,7 +191,7 @@ the fourteenth of April will be immortal. Remembered, too, while
 freedom has a friend, will be the day of Richmond's fall, and the days
 of the great surrenders. A day of sadder memory
 <pb n="6"/>
-                  <figure entity="mccauley6">
+                  <figure><graphic url=""/>
                      <figDesc>6th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
@@ -236,7 +216,7 @@ of sorrow in which the nation now unites. The people of this land, in
 solemn service, are to-day recording their tearful tribute to the
 honored dead, and humbling themselves before Him, by whose righteous
 sufferance their great distress has come.</p>
-               <p pn="6">We are calmer now than when, in the freshness of our grief,
+               <p>We are calmer now than when, in the freshness of our grief,
 we shared in a service similar to this. And as our words could then
 but be the sobbings of our sorrow, it is fit they now should voice our
 more considered estimate of the man whose death we grieve. Of the deed
@@ -246,11 +226,11 @@ deeds--we are enough recovered now to calmly think and speak. To this
 my thoughts incline; and so I now invite you to review his character
 and services, as seen in connection with the struggle through which he
 led the nation to victory and peace. </p>
-               <p pn="6">The order I propose regards his adaptation for the task
+               <p>The order I propose regards his adaptation for the task
 assigned him to perform; the singleness of mind and steadiness of zeal
 with which he bent himself to its accomplish-
 <pb n="7"/>
-                  <figure entity="mccauley7">
+                  <figure><graphic url=""/>
                      <figDesc>7th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
@@ -258,7 +238,7 @@ Lincoln.</figDesc>
 ment; and the result which crowned his honest and persistent toil. In
 fitness, performance, and success, it is acknowledged now, and the
 years will growingly reveal that he was truly great.</p>
-               <p pn="7">I. It is a truth not always seen at first, but afterwards
+               <p>I. It is a truth not always seen at first, but afterwards
 perceived too clearly to be doubted, that the men, to whom it falls to
 take the lead in the great movements and struggles of our race, have
 previously been schooled to fitness for their task. In the light of
@@ -268,7 +248,7 @@ purposes. Slowly, perhaps through generations, He gets the world ready
 for what He purposes to do; and when, at last, the time is full, there
 never fails to step forth one qualified to take the lead, and carry
 His purpose on to consummation.</p>
-               <p pn="7">Israel's leader was an instance. Four hundred years--from
+               <p>Israel's leader was an instance. Four hundred years--from
 the day of Abram's call, till the cry of an oppressed people rose to
 heaven--God was educating a people for severance and isolation, that
 they, in turn, might educate the world for His ultimate designs of
@@ -288,7 +268,7 @@ to a vigor, which bore unhurt the cares and burdens of the Exodus; and
 when, forty years thereafter, he sank to rest on Nebo, "his eye was
 not dim, nor his natural force abated." In that school,
 <pb n="8"/>
-                  <figure entity="mccauley8">
+                  <figure><graphic url=""/>
                      <figDesc>8th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
@@ -304,7 +284,7 @@ their lives had been. And so in all the social struggles by which our
 race has won its way to any higher ground: the men, who bore the
 banners, got their place, and did their work, because of special
 fitness.</p>
-               <p pn="8">Abraham Lincoln was raised up of God to be the instrument
+               <p>Abraham Lincoln was raised up of God to be the instrument
 of a great Providential purpose: to conserve the liberties bequeathed
 us by our fathers, and to make the bond among us free. On the sky of
 our long night, God has been writing this fact for the world's
@@ -329,7 +309,7 @@ noise; but these grew angrier with the years, breaking forth at last
 in the traitorous resolve that, if not allowed to overleap its bounds,
 and have the
 <pb n="9"/>
-                  <figure entity="mccauley9">
+                  <figure><graphic url=""/>
                      <figDesc>9th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
@@ -349,7 +329,7 @@ freedom everywhere. Fighting these, in front and rear, while on the
 issue hung the fate of Liberty, was the real nature of that contest
 from which the nation is emerging now--emerging, God be praised, with
 victory on its banners.</p>
-               <p pn="9">I speak of this that we may see how manifestly he, who was
+               <p>I speak of this that we may see how manifestly he, who was
 the nation's leader in this great battle for its life, reveals a
 fitness, which compels belief that his selection was of God. In all
 his previous history we now can see the Providential training of a
@@ -369,7 +349,7 @@ his fitness, when these were put in peril, to marshal the Nation's
 energies for their preservation. In saying this I do not mean that,
 when hostile hands were lifted
 <pb n="10"/>
-                  <figure entity="mccauley10">
+                  <figure><graphic url=""/>
                      <figDesc>10th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
@@ -381,7 +361,7 @@ the treason was conceived, were a needful part of fitness for the work
 assigned him to perform. And these in part single him out as the
 chosen of God to direct the nation's energies in the struggle for its
 life.</p>
-               <p pn="10">But other qualities were his, rarely fitting him for that
+               <p>But other qualities were his, rarely fitting him for that
 great work. Minds of loftier mould could likely have been found; finer
 culture surely could. But it is doubtful if the nation had a single
 other mind, better qualified than his, to grapple with the great
@@ -409,14 +389,14 @@ these abilities in wonderful degree. With intuitive celerity, he saw
 the dangers as they rose, and saw the wisest thing to do; and, with
 steady purpose, rested not till it was done.</p>
                <pb n="11"/>
-               <p pn="11">
-                  <figure entity="mccauley11">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>11th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="11">Even his peculiarities were no trivial part of his peculiar
+               <p>Even his peculiarities were no trivial part of his peculiar
 fitness for the place. Quaint, uncourtly, even droll, many, who wished
 him well, thought his ways and talk sometimes undignified; while foes
 were never weary, with tongue and pen, blazoning these as proofs of
@@ -429,7 +409,7 @@ very centre of perplexities, which no logic could unravel. His manner,
 always kind, drew the people to him with stronger hooks than
 steel. The humblest got as near, and were as welcome to his presence,
 as the mightiest that came.</p>
-               <p pn="11">But time would fail to mention all that marked him as the
+               <p>But time would fail to mention all that marked him as the
 man of Providence. Patience that toiled untiringly; that bore,
 unfainting, loads of care and work, which hardly one of any million
 could have borne; honesty transparent as the light; unseduced by any
@@ -446,18 +426,18 @@ sense, and wisely-yielding will; of patience, conscientiousness, and
 clemency, seldom united in mortal before--he centered in himself a
 combination of qualities, which can leave no room for doubt that God
 prepared him for the nation's need.</p>
-               <p pn="11">II. From his fitness, I pass to speak of his performance:
+               <p>II. From his fitness, I pass to speak of his performance:
 the singleness of zeal with which he bent himself to meet the nation's
 need.</p>
                <pb n="12"/>
-               <p pn="12">
-                  <figure entity="mccauley12">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>12th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="12">He took the Presidential seat with one idea--to save the
+               <p>He took the Presidential seat with one idea--to save the
 Union of the States. That was the single star that fixed his eye. For
 that he steered. Never from that could he be bent. His personal wish
 for any result beside sank and was lost in the magnitude of this. All
@@ -485,14 +465,14 @@ might be carried, if with creaking timbers, yet unwrecked, to where
 the haven lay in peaceful calm. Had he been a wilful man, set on
 following certain lines, despite the pressure of events, Columbia
 would to day be weeping, not for him, but for freedom, slain.</p>
-               <p pn="12">Open thus to Providential teaching, he came, as soon as it
+               <p>Open thus to Providential teaching, he came, as soon as it
 was safe, to that measure, with which his name will go down to
 immortality--Emancipation. Long before the war, his individual views
 were on the side of universal liberty. No public man had done more
 efficient battle for it, with tongue and pen, than he. But when he
 found himself the
 <pb n="13"/>
-                  <figure entity="mccauley13">
+                  <figure><graphic url=""/>
                      <figDesc>13th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
@@ -530,14 +510,14 @@ folds, beneath the old device, another word--Emancipation. The world
 read and shouted its approval. And though some among ourselves
 trembled lest that word should prove
 <pb n="14"/>
-                  <figure entity="mccauley14">
+                  <figure><graphic url=""/>
                      <figDesc>14th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
                   </figure>
 the signal of our doom, a little while revealed that he had rightly
 read the nation's will.</p>
-               <p pn="14">Thenceforth two stars flamed in his sky: Union--liberty
+               <p>Thenceforth two stars flamed in his sky: Union--liberty
 conserved for those already free; and Emancipation--liberty decreed
 for the millions hitherto enslaved. These he steadily pursued. Through
 storm and calm, through victory and reverse, toward these he sought to
@@ -550,7 +530,7 @@ supremacy, and acquiescence in the fiat enfranchising the slave. And
 though for this he fell, it was not till he had seen these stars fixed
 in the clearing azure of the nation's sky, beyond the peril of
 extinction or eclipse.</p>
-               <p pn="14">III. A closing word I wish to say concerning his
+               <p>III. A closing word I wish to say concerning his
 achievement--the success which crowned his patient waiting, and
 assiduous toil. To measure this, in all it means, the time has not yet
 come. The great facts appear, indeed, before our eyes so real, so
@@ -569,7 +549,7 @@ of Statesmen could compose, has been laid to sleep to wake no
 more. General Lee is rumored to have said, "the right of a State to
 secede was an open
 <pb n="15"/>
-                  <figure entity="mccauley15">
+                  <figure><graphic url=""/>
                      <figDesc>15th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
@@ -578,7 +558,7 @@ question till my failure settled it."  It is settled now. No more will
 rivalries of rule disturb the nation's peace. No more the stars will
 leave the sun. In the Union every State will stay, each pursuing its
 allotted course, and dutifully doing its appointed work.</p>
-               <p pn="15">But order not alone, universal liberty has been
+               <p>But order not alone, universal liberty has been
 achieved. The nation's stain has been expunged. The one incongruous
 element has been taken from its life. To-day it stands before the
 world, and henceforth will, the real embodiment of that great truth
@@ -589,14 +569,14 @@ voice their will, in the halls where laws are made, and on the benches
 of decision, Slavery will no more inflame feeling, darken counsel,
 pervert judgment, or inspire sedition. Quietus-may it be eternal!--has
 come to this potency of ill.</p>
-               <p pn="15">All of this is clear to us. But the measure of blessing
+               <p>All of this is clear to us. But the measure of blessing
 treasured in these results, for revelation and enjoyment in the future
 we are pressing, is hidden from our eyes. Elevation of the masses;
 development of material resource; scope for energy, growth of every
 kind, the coming generations will increasingly attain, which, could
 they be pictured now, would be pronounced the pencillings of poetry,
 or the visions of romance.</p>
-               <p pn="15">But whatever they may prove, our martyred President will be
+               <p>But whatever they may prove, our martyred President will be
 associated with them. Through all the ages yet to come, the
 generations of the American people will growingly revere and cherish
 him as the man, who, under God, preserved their imperiled
@@ -609,7 +589,7 @@ across the sea, seems as warm and loving, if not so universal, in
 other lands, as in the land for which he lived and died. Like
 Washington, he is not ours exclusively: the world
 <pb n="16"/>
-                  <figure entity="mccauley16">
+                  <figure><graphic url=""/>
                      <figDesc>16th
 Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
@@ -623,7 +603,7 @@ re-election, and applauds the victory in the midst of which he passes
 away. It will wish, with one accord, to associate itself with the
 monument that America will raise to him upon the capital of prostrate
 Slavery."</p>
-               <p pn="16">And now for the loss of such a benefactor the nation
+               <p>And now for the loss of such a benefactor the nation
 mourns, and humbles itself before Him whose sufferance has allowed
 this heavy blow to fall. Dark, indeed, is this event; but the wrath of
 men shell praise Him. The fame of Mr. Lincoln will not be hurt--it
@@ -647,4 +627,4 @@ lived and labored most to benefit their kind.</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

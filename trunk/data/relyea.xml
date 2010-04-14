@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="A Sermon Preached Before the Congregational Church and Society in Green's Farms, Conn., on the Day of the National Fast, Occasioned by the Death of Abraham Lincoln, President of the United States, June 1st, 1865.">
             <title>  A Sermon Preached Before the Congregational Church and
 Society in Green's Farms, Conn., on the Day of the National Fast,
@@ -15,15 +13,11 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory
-University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
+University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -32,9 +26,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln Sermons Project</title>
          </seriesStmt>
@@ -46,8 +38,7 @@ Lincoln, President of the United States, June 1st, 1865.  The
 Congregational Church and Society in Green's Farms, Conn. June 1st,
 1865. </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -70,23 +61,12 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="relyea.001" n="A Sermon Preached Before the Congregational Church and Society in Green's Farms, Conn., on the Day of the National Fast, Occasioned by the Death of Abraham Lincoln, President of the United States, June 1st, 1865." type="text">
-            <head pn="1">
+         <div1 xml:id="relyea.001" n="A Sermon Preached Before the Congregational Church and Society in Green's Farms, Conn., on the Day of the National Fast, Occasioned by the Death of Abraham Lincoln, President of the United States, June 1st, 1865." type="text">
+            <head>
                <bibl>
                   <title> The Nation's Mourning. A Sermon Preached Before the
 Congregational Church and Society in Green's Farms, Conn., on the Day
@@ -97,54 +77,54 @@ President of the United States, June 1st, 1865.</title>
                   <pubPlace>The Congregational Church and Society in
 Green's Farms, Conn.</pubPlace> 
                   <author>Rev. B. J. Relyea</author>
-                  <imprint>
+                  
                      <pubPlace>New York</pubPlace>
                      <publisher>Jno. P. Prall, Printer by
 Steam, No. 9 Spruce-Street</publisher>
                      <date>1865</date>
-                  </imprint>
+                  
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qv0</idno></bibl>
             </head>
-            <p pn="1">
-               <figure entity="relyea1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Rev. B. J. Relyea's
 The Nation's Mourning.</figDesc>
                </figure>
             </p>
-            <p pn="1">THE NATION'S MOURNING.</p>
-            <p pn="1">A</p>
-            <p pn="1">SERMON,</p>
-            <p pn="1">PREACHED BEFORE THE</p>
-            <p pn="1">CONGREGATIONAL CHURCH AND SOCIETY IN GREEN''S FARMS, CONN., ON THE
+            <p>THE NATION'S MOURNING.</p>
+            <p>A</p>
+            <p>SERMON,</p>
+            <p>PREACHED BEFORE THE</p>
+            <p>CONGREGATIONAL CHURCH AND SOCIETY IN GREEN''S FARMS, CONN., ON THE
 DAY OF THE NATIONAL FAST,</p>
-            <p pn="1">OCCASIONED BY THE DEATH</p>
-            <p pn="1">OF</p>
-            <p pn="1">ABRAHAM LINCOLN</p>
-            <p pn="1">PRESIDENT of the UNITED STATES,</p>
-            <p pn="1">JUNE 1st 1865,</p>
-            <p pn="1">By REV. B. J. RELYEA,</p>
-            <p pn="1">PASTOR.</p>
-            <p pn="1">New York:</p>
-            <p pn="1">JNO. P. PRALL, PRINTER BY STEAM, No. 9
+            <p>OCCASIONED BY THE DEATH</p>
+            <p>OF</p>
+            <p>ABRAHAM LINCOLN</p>
+            <p>PRESIDENT of the UNITED STATES,</p>
+            <p>JUNE 1st 1865,</p>
+            <p>By REV. B. J. RELYEA,</p>
+            <p>PASTOR.</p>
+            <p>New York:</p>
+            <p>JNO. P. PRALL, PRINTER BY STEAM, No. 9
 SPRUCE-STREET.</p>
-            <p pn="1">1865.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="relyea2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="relyea3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                </figure>
             </p>
-            <p pn="3">CORRESPONDENCE.</p>
-            <p pn="3">GREEN's FARMS, June 5th 1865.</p>
-            <p pn="3">Rev. Mr. RELYEA,
+            <p>CORRESPONDENCE.</p>
+            <p>GREEN's FARMS, June 5th 1865.</p>
+            <p>Rev. Mr. RELYEA,
 <lb/>
 Dear Sir-: In accordance with the general and often repeated wish
 of your congregation, on Fast Day, we would respectfully request the
@@ -154,8 +134,8 @@ of permanent preservation.  <lb/>Yours affectionately, <lb/>E. B. ADAMS.<lb/>
 JOHN S. HYDE.  <lb/>E. J. TAYLOR.  <lb/>S. B. SHERWOOD.  <lb/>JARVIS
 JENNINGS.  <lb/>H. B. WAKEMAN.  <lb/>J. B. ELWOOD.  <lb/>T. B. WAKEMAN.<lb/>
 DANIEL BURR.  <lb/>F. SUMNER.</p>
-            <p pn="3">REPLY.</p>
-            <p pn="3">GREEN's FARMS, June 7th 1865.  <lb/>DEACON E. B. ADAMS AND OTHERS,--
+            <p>REPLY.</p>
+            <p>GREEN's FARMS, June 7th 1865.  <lb/>DEACON E. B. ADAMS AND OTHERS,--
 <lb/>
                <hi rend="italic">Gentlemen</hi>:
 <lb/>
@@ -185,19 +165,19 @@ Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="relyea5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                </figure>
             </p>
-            <div2 id="relyea.002" n="SERMON" type="sermon">
-               <head pn="5">SERMON.</head>
-               <epigraph pn="5">
-                  <p pn="5">"And all Judah and Jerusalem mourned for Josiah."  <lb/>II
+            <div2 xml:id="relyea.002" n="SERMON" type="sermon">
+               <head>SERMON.</head>
+               <epigraph>
+                  <p>"And all Judah and Jerusalem mourned for Josiah."  <lb/>II
 CHRON: XXXV. 24.</p>
                </epigraph>
-               <p pn="5">In every great bereavement, whether individual or national, the
+               <p>In every great bereavement, whether individual or national, the
 benefit to be derived results not from the first abolition of painful
 and sorrowful feeling, but from the subduing influence of after
 reflection. In the first moments of grief our minds are filled with a
@@ -207,7 +187,7 @@ affected by it, or of learning the lessons which it teaches. It is
 only when time and nature have come to the aid of reason, and given
 calmness to our minds, that we are able to indulge in such meditations
 as shall suitably impress the heart and influence the life.</p>
-               <p pn="5">It is eminently appropriate, therefore, that such a day as this
+               <p>It is eminently appropriate, therefore, that such a day as this
 should have been set apart in view of that event which has filled the
 nation's heart with sorrow; and it is well that it should have been
 deferred to this distance of time. The first bewilderment of the
@@ -217,13 +197,13 @@ drums-the tolling of bells-the solemn tramp of civic and military
 processions, with all the pomp and pageantry of a nation's woe, have
 passed away. And
 <pb n="6"/>
-                  <figure entity="relyea6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
 we shall be able perhaps more calmly to view the bereavement and to
 consider the lessons which it teaches.</p>
-               <p pn="6">The most striking and showy demonstrations of grief are not always
+               <p>The most striking and showy demonstrations of grief are not always
 indicative of deepest and most lasting sorrow. I have learned
 seriously to doubt the depth and sincerity of the man's real,
 self-denying patriotism, who finds it necessary to be always giving
@@ -238,7 +218,7 @@ of it in others, generally you do not greatly err in esteeming him to
 be one of those shallow streams--a man whose feelings, lie very much
 on the surface, and not likely to be greatly benefitted by the
 affliction.</p>
-               <p pn="6">Neither is it true that the first outburst of uncontrollable
+               <p>Neither is it true that the first outburst of uncontrollable
 feeling, however real, is always followed by that permanent
 improvement of character without which affliction fails to accomplish
 its end. You have sometimes witnessed instances of individual or
@@ -251,7 +231,7 @@ serenity, and with little outward demonstration, which has,
 nevertheless, left its mellowing and subduing influence upon the whole
 after life. Thus in national bereavement. While a solemn and be-
 <pb n="7"/>
-                  <figure entity="relyea7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -262,12 +242,12 @@ the trappings and decorations of mourning, but in a heart contrite and
 bowed down with grief. The benefits of affliction are not derived from
 transient feeling, however violent, but from calm reflection, and the
 abiding, deep-toned impression left upon the mind.</p>
-               <p pn="7">It is evident, from the following history, that the general
+               <p>It is evident, from the following history, that the general
 mourning of the Jewish nation, on the occasion referred to in the
 text, partook very much of this ostentatious and evanescent
 character-that it was not accompanied by repentance of heart, nor
 followed by any lasting improvement in their way of life.</p>
-               <p pn="7">On the death of Josiah there was indeed occasion for great
+               <p>On the death of Josiah there was indeed occasion for great
 lamentation and mourning. More than people at the time were aware
 of. He was a man of extraordinary virtue and piety. He shone as a star
 of the purest lustre in a corrupt and degenerate age. Soon after he
@@ -278,13 +258,13 @@ bones. He repaired the Temple and reinstated the pure worship of
 God. He mourned and wept because of the sins of the people. He caused
 the nation to assemble and renew their vows and their covenant with
 God.</p>
-               <p pn="7">Because of all this God was pleased to make known to him, through
+               <p>Because of all this God was pleased to make known to him, through
 Huldah the prophetess, that he would defer his anger, and postpone for
 his sake the wrath which had been determined upon that people until
 Josiah should have been gathered to his fathers. So that Josiah, as
 their king, really stood be-
 <pb n="8"/>
-                  <figure entity="relyea8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -292,7 +272,7 @@ tween the nation and their coming destruction when he was suddenly cut
 down-slain in battle. They brought him to Jerusalem, where he died,
 and was buried and all Judah and Jerusalem mourned for Josiah," and
 made great lamentation over him.</p>
-               <p pn="8">But their great mourning was of a transient and evanescent
+               <p>But their great mourning was of a transient and evanescent
 character, followed by no good results. Scarcely had he been laid in
 his sepulchre, and the funeral obsequies ceased, before the reforms
 which he bad instituted disappeared. The people relapsed into their
@@ -307,17 +287,17 @@ the remnant of the people who escaped the sword were borne away into
 captivity. Thus we see there was, indeed, great occasion for mourning,
 and all Judah and Jerusalem did mourn, but their mourning was not such
 as tended to any permanently good results.</p>
-               <p pn="8">With a view, then, to a more abiding impression, and a more lasting
+               <p>With a view, then, to a more abiding impression, and a more lasting
 improvement of this afflictive dispensation of Providence, let us
 proceed to notice the occasion which we as a nation this day have to
 mourn, and some of the lessons which this bereavement should teach
 us.</p>
-               <p pn="8">1st. There is occasion for mourning because it is the executive
+               <p>1st. There is occasion for mourning because it is the executive
 head of the nation-the representative of the law and of the authority
 of the Government, who has fallen. The inquiry might arise, perhaps,
 in the minds of some who have
 <pb n="9"/>
-                  <figure entity="relyea9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -350,7 +330,7 @@ integrity of the Government and the authority of law be maintained. In
 his official capacity, he stood in a different relation to every one
 of us from that which he occupied before, and in a different
 <pb n="10"/>
-                  <figure entity="relyea10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -363,7 +343,7 @@ as Abraham Lincoln but as the representative of the nation's
 authority. All the loyalty and allegiance which are due to human
 governments any where were due to this government, as embodied and
 represented in his official person.</p>
-               <p pn="10">Human government is not a thing in the abstract. If it exists as a
+               <p>Human government is not a thing in the abstract. If it exists as a
 reality, it must exist as represented in living men, placed in a
 position to wield its power and give it efficiency. The idea of law or
 government unrepresented in men, not embodied in particular persons
@@ -383,13 +363,13 @@ one that does not, feel in his death an individual affliction, a
 personal bereavement. God in his afflictive providence .has come near
 to every one of us. He has laid his hand on a
 <pb n="11"/>
-                  <figure entity="relyea11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
 point which touches each member of the nation, and we ought to feel
 it. He has spoken in tones that should vibrate in every heart.</p>
-               <p pn="11">In the eye of divine law there is something sacred in the person of
+               <p>In the eye of divine law there is something sacred in the person of
 a ruler, not merely in the office but in the person of him to whom the
 office inheres. He is the minister of God, ordained of him; a revenger
 to execute wrath upon him that doth evil; and in the death of such an
@@ -405,7 +385,7 @@ national bereavement. In permitting this blow to fall upon the head of
 the nation, God has caused his judgment to rest upon the nation, and
 upon. every individual of it. And it becomes all of us to mourn, and
 to humble ourselves before him in penitent sorrow.</p>
-               <p pn="11">I dwell upon this the more because in our heated party
+               <p>I dwell upon this the more because in our heated party
 controversies we have not always suitably regarded the sacredness of
 the persons of those who actually rule over us, nor the divine
 sanctions which to them personally commands our loyalty, reverence,
@@ -416,13 +396,13 @@ is burning into the nation's conscience. Happy will it be for us if we
 so mourn as that the influence of this lesson shall be permanently
 felt in the nation's life.</p>
                <pb n="12"/>
-               <p pn="12">
-                  <figure entity="relyea12">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>12th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
                </p>
-               <p pn="12">2d. In this afflictive dispensation there is great occasion for
+               <p>2d. In this afflictive dispensation there is great occasion for
 mourning on account of the personal character of him who is thus
 suddenly stricken from the head of our national affairs. When the head
 of a family is removed by death, it is, and ought to be, regarded as a
@@ -441,7 +421,7 @@ is known to me which is not equally well known to every one of you. I
 need not, therefore, recount his deeds. At this period of time, as we
 look back upon his finished career, it will not be denied that he
 possessed many of the qualifications of a wise and good ruler.</p>
-               <p pn="12">His intellectual abilities, certainly, were not of that showy and
+               <p>His intellectual abilities, certainly, were not of that showy and
 brilliant order which is apt to captivate the imaginations of men. He
 was not learned, perhaps, in all the intricacies of diplomacy nor in
 all the refinements of State craft. It will not be doubted, however,
@@ -451,7 +431,7 @@ which, accompanied as it was in him, with honesty of heart and
 singleness of purpose, is certainly of infinitely more importance for
 all the just ends
 <pb n="13"/>
-                  <figure entity="relyea13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -464,7 +444,7 @@ bravely fought on the field of battle, yet surely much of the credit
 of calling forth and directing the resources of the nation in such
 manner as to bring this war to a successful and triumphant conclusion
 is due to him.</p>
-               <p pn="13">I am not anxious to place myself in that class of persons who are
+               <p>I am not anxious to place myself in that class of persons who are
 always wise after the event, and who are always ready to say, " I knew
 it would be so." In those times of repeated defeat and disaster on the
 field of battle, and of confusion and disaffection at home-in those
@@ -477,7 +457,7 @@ now upon the period of this great conflict, it must be confessed, that
 surrounded with difficulties as great as those which ever beset the
 ruler of any country, he has shown himself equal to the work which was
 given him to do.</p>
-               <p pn="13">I have no occasion now to discuss the principles and complicated
+               <p>I have no occasion now to discuss the principles and complicated
 questions involved in the controversies of political parties which led
 to the terrible conflict which has desolated so large a portion of our
 land, and carried mourning and grief into so many homes. And I might
@@ -485,7 +465,7 @@ as well take this occasion to say, that in my ministry here I have
 refrained from all political controversy. This I have done designedly
 and intention-
 <pb n="14"/>
-                  <figure entity="relyea14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -500,7 +480,7 @@ certainly no occasion to discuss the principles involved in the
 controversies of the past. I think I can understand how men may differ
 in regard to them and be honest, loyal, Christian men
 notwithstanding.</p>
-               <p pn="14">It will not be doubted, however, but that he whom now we mourn did
+               <p>It will not be doubted, however, but that he whom now we mourn did
 represent the opinions of the majority of the nation. If any think
 that he was wrong in his opinions, still a man is not to be harshly
 judged or hastily condemned for holding sentiments which are
@@ -511,15 +491,15 @@ represent and give efficiency to that will of the majority, it must be
 confessed that up to the moment of his death he had borne the country
 through its trials with as few mistakes as we had any right to expect
 from any one whose wisdom was not more than human.</p>
-               <p pn="14">But one who is called to rule over a nation, especially in such
+               <p>But one who is called to rule over a nation, especially in such
 times, has need of other qualifications than those of intellectual
 ability, and he was not deficient in them. It was the qualities of the
 heart rather than of the head which gave him that hold of the nation's
 mind which it must be acknowledged he really did possess.</p>
-               <p pn="14">In the judgment of mankind-in the sentiments of the civilized
+               <p>In the judgment of mankind-in the sentiments of the civilized
 world, he stands to-day acquitted of any of that sor-
 <pb n="15"/>
-                  <figure entity="relyea15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -553,7 +533,7 @@ occasion for sorrow, mourning, and repentance to a whole people. I
 cannot resist the conviction that one of the lessons which God is
 teaching us by all
 <pb n="16"/>
-                  <figure entity="relyea16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -561,7 +541,7 @@ these terrible dealings is, that we be less bitter in our party
 spirit-that we be less harsh in our judgments of those who are called
 to rule over us, and less severe in our condemnation of those who are
 charged with such great and solemn responsibilities.</p>
-               <p pn="16">3d. The manner of his death is no small addition to this national
+               <p>3d. The manner of his death is no small addition to this national
 bereavement, as a cause for mourning and sorrow. That such a man in
 such a position should be stricken down by a foul blow of murder--that
 he should fall by the cowardly stroke of an assassin--that our own
@@ -572,7 +552,7 @@ personally, but at the nation's life, it not only aggravates the
 crime, but overwhelms the heart with mingled anguish and detestation,
 of the deed. It was not at ABRAHAM LINCOLN that the stroke was aimed,
 but at the authority and life of the nation, as represented in him.</p>
-               <p pn="16">There is a sense, in which his name will justly go down to
+               <p>There is a sense, in which his name will justly go down to
 posterity as a martyr to his country. According to the whole theory
 and foundation of all free government, the will of the majority,
 constitutionally expressed, is the will of the nation for all
@@ -586,7 +566,7 @@ majority in his re-election. If a majority is not to rule, then tell
 me who is? He was called by the sovereign voice of the people to give
 efficiency to the
 <pb n="17"/>
-                  <figure entity="relyea17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -597,7 +577,7 @@ down. The quarrel was not with him personally, but with the principle
 which he represented and which the sovereign voice of the nation
 decreed. The blow was aimed at the nation's life, and he, as its
 representative, fell the martyred victim.</p>
-               <p pn="17">In the absence of positive proof it is not for me to charge
+               <p>In the absence of positive proof it is not for me to charge
 complicity with the deed upon the leaders of the rebellion. Still it
 is but in keeping with the attempt to destroy the unoffending
 inhabitants of populous cities by fire and imported pestilence. It is
@@ -610,7 +590,7 @@ lifeblood. That we should have fallen upon times when such a crime was
 possible in this free nation--when such a war could be waged against a
 nation's life, cannot but fill every loyal and well-disposed mind with
 profound gloom and mourning.</p>
-               <p pn="17">Surely one of the lessons which God is grinding into the nation's
+               <p>Surely one of the lessons which God is grinding into the nation's
 conscience, is the solemn responsibility of the American people, to
 the government which is over them, and the respect which is due to it
 from them. The whole management of our political affairs has been made
@@ -619,20 +599,20 @@ and deception, that the people have lost in a great measure that
 reverential awe which the forms and enactments of just government
 should always inspire, and the salutary restraints which they
 <pb n="18"/>
-                  <figure entity="relyea18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
 should always impose. The whole idea of government has been lowered
 and degraded. The people have been educated to feel less respect for
 the majesty of laws and rulers than our fathers were wont to feel.</p>
-               <p pn="18">There is a solemn law of Jehovah, enacted in the interests of
+               <p>There is a solemn law of Jehovah, enacted in the interests of
 Eternal righteousness, and for the welfare of every nation under
 heaven, which reads on this wise: "Thou shalt not speak evil of the
 ruler of thy people." Here is at least one law of God which few
 American citizens comparatively seem to feel themselves bound to obey,
 except when the ruler happens to be of their party.</p>
-               <p pn="18">It is but a few years ago, and within the recollection of all, when
+               <p>It is but a few years ago, and within the recollection of all, when
 many of those who now claim to be, par excellence, the loyal of the
 land, did not hesitate, in the pulpit and out of it, to preach
 resistance to the law and defiance to the powers that be. If it is
@@ -652,7 +632,7 @@ majesty of law and for the representatives of government, is one of
 the great sins of this nation. I speak not of one party, but of all
 parties. It is one of the great sins of this
 <pb n="19"/>
-                  <figure entity="relyea19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
@@ -663,7 +643,7 @@ that one of the lessons which God, by his judgments, is grinding into
 the conscience of this nation, is a solemn reverence for constituted
 authority, as the representative and the delegated minister of his own
 divine prerogative of executing justice on earth.</p>
-               <p pn="19">4th. The event which calls us together to-day is an occasion for
+               <p>4th. The event which calls us together to-day is an occasion for
 sorrow and mourning in view of the present circumstances of the
 country, and the difficulties which still lie in the way of the
 nation's future. I take it as no small praise to him who has fallen,
@@ -686,13 +666,13 @@ calamity. The permitting of him to be thus suddenly taken away is one
 of those mysterious dispensations of Providence to which it becomes us
 to bow in submission but with penitent and sorrowful hearts.</p>
                <pb n="20"/>
-               <p pn="20">
-                  <figure entity="relyea20">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>20th page of
 Rev. B. J. Relyea's The Nation's Mourning.</figDesc>
                   </figure>
                </p>
-               <p pn="20">Then, too, in regard to that race who by the events of the war are
+               <p>Then, too, in regard to that race who by the events of the war are
 now released from bondage. Whatever view men may take of the complex
 questions involved in the controversies which preceded the rebellion,
 taking the situation as it now is, no man in his sober mind can think
@@ -708,7 +688,7 @@ obligations. To whom then, I ask, in all this land would that race, or
 the nation at large, sooner have had that high and sacred trust
 committed, than to him whose large heart and kind disposition ever
 made him the friend of the oppressed.</p>
-               <p pn="20">From all these considerations, the event which calls us together
+               <p>From all these considerations, the event which calls us together
 to-day is an occasion for sorrow and mourning to the nation. Humanly
 speaking, the only thought which can reconcile us to it is, that in
 the eye of Infinite Wisdom, perhaps, the demands of justice and the
@@ -716,7 +696,7 @@ future welfare of the Republic requires a stern work of retribution to
 be performed upon the guilty leaders of the rebellion, for which, by
 his conciliatory spirit, by his generous heart, and by his sympathetic
 nature, he was unfitted.</p>
-               <p pn="20">At least God is teaching us to cease to put our trust in man, but
+               <p>At least God is teaching us to cease to put our trust in man, but
 to commit all our interests, and the nation's destiny, into the hands
 of that just and merciful Being who ordains his own counsels, and who
 executes by whatever agencies it pleases him, his own eternal
@@ -725,4 +705,4 @@ purposes.</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

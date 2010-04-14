@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="Sermon on the Death of Abraham Lincoln.">
             <title>  Sermon on the
 Death of Abraham Lincoln.  </title>
@@ -13,14 +11,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -29,9 +23,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -44,8 +36,7 @@ Preached on the Occasion of the National Funeral.
  New York. Wm. C. Bryant &amp; Co.,
 Printers. 1865. </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -68,23 +59,12 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="rice.001" n="Sermon on the Death of Abraham Lincoln, Late President of the United States. Preached on the Occasion of the National Funeral" type="text">
-            <head pn="1"> 
+         <div1 xml:id="rice.001" n="Sermon on the Death of Abraham Lincoln, Late President of the United States. Preached on the Occasion of the National Funeral" type="text">
+            <head> 
                <bibl> 
                   <title>Sermon on the
 Death of Abraham Lincoln, Late President of the United States.
@@ -94,58 +74,58 @@ Preached on the Occasion of the National Funeral</title>
 in Fifth Avenue, cor. 19th St., N. Y.</pubPlace> 
                   <author>N. L. Rice,
 D.D.</author> 
-                  <imprint>
+                  
                      <pubPlace>New York</pubPlace>
                      <publisher>Wm. C. Bryant &amp; Co., Printers</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qw4</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="rice1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of N. L. Rice's Sermon on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">SERMON</p>
-            <p pn="1">On the Death</p>
-            <p pn="1">OF</p>
-            <p pn="1">ABRAHAM LINCOLN,</p>
-            <p pn="1">LATE PRESIDENT OF THE UNITED
+            <p>SERMON</p>
+            <p>On the Death</p>
+            <p>OF</p>
+            <p>ABRAHAM LINCOLN,</p>
+            <p>LATE PRESIDENT OF THE UNITED
 STATES.</p>
-            <p pn="1">PREACHED ON THE OCCASION OF THE NATIONAL FUNERAL,</p>
-            <p pn="1">Wednesday, April 19, 1865,</p>
-            <p pn="1">BY</p>
-            <p pn="1">N. L. RICE, D.D.,</p>
-            <p pn="1">Pastor of the Presbyterian Church in Fifth Avenue, cor. 19th, St.,
+            <p>PREACHED ON THE OCCASION OF THE NATIONAL FUNERAL,</p>
+            <p>Wednesday, April 19, 1865,</p>
+            <p>BY</p>
+            <p>N. L. RICE, D.D.,</p>
+            <p>Pastor of the Presbyterian Church in Fifth Avenue, cor. 19th, St.,
 N. Y.</p>
-            <p pn="1">New York</p>
-            <p pn="1">WM. C. BRYANT &amp; CO., PRINTERS, 41 NASSAU STREET,
+            <p>New York</p>
+            <p>WM. C. BRYANT &amp; CO., PRINTERS, 41 NASSAU STREET,
 COR. OF  LIBERTY.</p>
-            <p pn="1">1865.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="rice2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="2">Note-This Sermon, kindly furnished by Rev. Dr. Rice, at their
+            <p>Note-This Sermon, kindly furnished by Rev. Dr. Rice, at their
 request, is published by several gentlemen of his congregation.</p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="rice3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="rice.002" n="SERMON" type="sermon">
-               <head pn="3">SERMON.</head>
-               <epigraph pn="3">
-                  <p pn="3">Psalm XLVI.: 10.-"Be still, and know that I
+            <div2 xml:id="rice.002" n="SERMON" type="sermon">
+               <head>SERMON.</head>
+               <epigraph>
+                  <p>Psalm XLVI.: 10.-"Be still, and know that I
 am God!"</p>
                </epigraph>
-               <p pn="3">It is only in the light of Divine revelation that we can interpret
+               <p>It is only in the light of Divine revelation that we can interpret
 the movements of Divine Providence. The Word of God reveals the
 purposes for which this world was created, and for the accomplishment
 of which it is governed. But even with all the light which shines upon
@@ -156,7 +136,7 @@ parts of his ways; but how little a portion is heard of Him! but the
 thunder of His power "who can understand?" Not less appropriate is the
 language of the Psalmist-" Clouds and darkness are round about him:
 righteousness and judgment are the habitation of his throne."</p>
-               <p pn="3">The difficulty which presses the mind is far greater, when
+               <p>The difficulty which presses the mind is far greater, when
 Providential events of a peculiarly startling and alarming character
 are the subject of contemplation. In such circumstances, the feelings
 of the heart become too strong for the intellect. It is easy, in the
@@ -164,19 +144,19 @@ indulgence of the feelings that burst forth in view of an event so
 sudden and so appalling, as that which has called us together, to give
 utterances, and
 <pb n="4"/>
-                  <figure entity="rice4">
+                  <figure><graphic url=""/>
                      <figDesc>4th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
 thus impart intensity to them. Yet we may not disregard the admonition
 of God's Word-" In the day of adversity "consider." Be still, and know
 that I am God."</p>
-               <p pn="4">Let us, then, try to interpret the awful Providence which has
+               <p>Let us, then, try to interpret the awful Providence which has
 summoned this whole nation to mourning so far as to make a wise
 improvement of it, and to secure the blessing which our Heavenly
 Father is willing to connect with afflictive dispensations. Let us
 then--</p>
-               <p pn="4">I.--Be still, and know that the hand of God is in it, and that He
+               <p>I.--Be still, and know that the hand of God is in it, and that He
 is speaking to us. If it be true, that the life of a sparrow is the
 object of God's care; if it be true, that the very hairs of our heads
 are all numbered by Him, much more must it be true, that there was a
@@ -188,24 +168,24 @@ could be executed only by Divine permission; and such permission
 contemplates some great and wise end. Moreover, there are
 peculiarities connected with this murder, which give it special and
 awful significancy.</p>
-               <p pn="4">In the first place, the assassination of a civil ruler, in high
+               <p>In the first place, the assassination of a civil ruler, in high
 position, is a thing almost unheard of in modern times, and especially
 in a Christian nation. Now and then attempts of the kind have been
 made, but they have almost always been providentially defeated. That
 in this enlightened and Christian nation such a thing would be
 attempted, and if attempted, would prove successful, had not entered
 into our minds.</p>
-               <p pn="4">The assassination of <hi rend="italic">such</hi> a man as President
+               <p>The assassination of <hi rend="italic">such</hi> a man as President
 Lincoln, is yet more marvellous and more alarming. The great majority
 of civil rulers, who have been assassinated, have driven
 <pb n="5"/>
-                  <figure entity="rice5">
+                  <figure><graphic url=""/>
                      <figDesc>5th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
 men to desperation by their tyranny and cruelty; but how different the
 character of the man who has fallen in our midst!</p>
-               <p pn="5">Mr. Lincoln was a man of remarkably amiable disposition, and of
+               <p>Mr. Lincoln was a man of remarkably amiable disposition, and of
 kindly feelings. This no one acquainted with his character, as I have
 been for some years, will question. He was a man of unblemished moral
 character. His principles have been proof against all temptations to
@@ -216,14 +196,14 @@ character unstained, challenging the respect, if not the admiration,
 of even political opponents. And now that be has left us forever, I am
 sure there will be but one testimony respecting his moral
 character.</p>
-               <p pn="5">Mr. Lincoln was constitutionally calm-not carried away by the
+               <p>Mr. Lincoln was constitutionally calm-not carried away by the
 excitement by which he was surrounded. He possessed, in a remarkable
 degree, not only self-control, but sound common sense, which is often
 worth, far more than brilliant talents and great learning. He was not
 a man who ran to extremes in the opinions he formed. In the midst of
 unparalleled excitement, and pressed by powerful influences, he firmly
 maintained moderate and conservative views.</p>
-               <p pn="5">On the agitating question of Slavery, he held and openly avowed the
+               <p>On the agitating question of Slavery, he held and openly avowed the
 old doctrine of our fathers. Regarding the system, as it existed in
 our country, as a great evil and wrong, he saw plainly the great
 calamities which must inevitably result to the slaves themselves by an
@@ -232,14 +212,14 @@ disadvantages under which they must ever labor whilst living amongst
 the whites. He, therefore, favored gradual emancipation and
 colonization. Only the stern necessities of war constrained
 <pb n="6"/>
-                  <figure entity="rice6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
 him to resort to more summary measures. He would, if he could, have
 accomplished what some of us have long labored to accomplish for the
 country and the poor slaves.</p>
-               <p pn="6">On the important question of the relations of Church and State he
+               <p>On the important question of the relations of Church and State he
 exhibited much clearer views than many who should have understood the
 subject better than he. During the whole period of his Presidency, he
 sat under the ministry of a pastor, of views so conservative, and who
@@ -254,7 +234,7 @@ chargeable with the violation of no law, civil or military, promptly
 restored him to all his rights-stating, in his quaint manner, a most
 important principle: " The State must not undertake to run the "
 churches."</p>
-               <p pn="6">Mr. Lincoln was a true patriot. Mistakes he doubtless committed. It
+               <p>Mr. Lincoln was a true patriot. Mistakes he doubtless committed. It
 would have been almost miraculous, if he had not. With little previous
 experience, he was called to the discharge of the arduous duties of
 the highest office in the nation, in the most trying circumstances
@@ -266,7 +246,7 @@ mistakes committed, we may well wonder that he did not commit more and
 greater. The fact, that at the end of four years, he commanded the
 confi-
 <pb n="7"/>
-                  <figure entity="rice7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
@@ -277,18 +257,18 @@ to his patriotism. However widely men may differ (as the best men will
 differ), respecting the leading measures of his administration, few, I
 am persuaded, will doubt that his single aim was to promote the true
 interests of the country.</p>
-               <p pn="7">I must not omit to record my admiration of his generous treatment
+               <p>I must not omit to record my admiration of his generous treatment
 of those who had taken up arms against the Government. He manifested
 no revengeful spirit, but seemed anxious to restore to the country a
 true and lasting Union.</p>
-               <p pn="7">That an attempt should have been made to assassinate such a man,
+               <p>That an attempt should have been made to assassinate such a man,
 presents a fearful view of human depravity. That the diabolical
 attempt was allowed to be successful, presents a profound mystery in
 Divine Providence, " Be "still, and know that I am God."</p>
-               <p pn="7"/>
-               <p pn="7">II.  Be still, and know that He is God, and therefore will be
+               <p/>
+               <p>II.  Be still, and know that He is God, and therefore will be
 obeyed and honored. He will be "exalted in the earth."</p>
-               <p pn="7">Both in his word and by his providence God speaks to men in two
+               <p>Both in his word and by his providence God speaks to men in two
 ways, and addresses to them two classes of motives. In his word we
 read, on the one hand, invitations, promises, even entreaties; on the
 other, we find solemn warnings and threats of vengeance upon the
@@ -299,12 +279,12 @@ we have severity, appealing powerfully to fear, and warning us to flee
 from the wrath to come. "Behold," saith Paul, "the goodness and
 severity of God." 
 <pb n="8"/>
-                  <figure entity="rice8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
 "I will sing," says the Psalmist, " of mercy and of judgment."</p>
-               <p pn="8">The judgments of God are of two kinds, designed to accomplish two
+               <p>The judgments of God are of two kinds, designed to accomplish two
 very different ends. There are <hi rend="italic">destructive</hi>
 judgments-designed to remove the incorrigibly wicked out of the way,
 and to hold them up a beacon to others. Thus, Korah, Dathan and Abiram
@@ -313,7 +293,7 @@ feet. Thus the ten tribes of Israel, having apostatized from God, were
 as a people swept from the earth. Thus Babylon was swept as with the
 besom of destruction. Thus, every nation that will not honor God,
 shall perish.</p>
-               <p pn="8">There are <hi rend="italic">corrective</hi> or <hi rend="italic">reformatory</hi> judgments, designed to bring individuals
+               <p>There are <hi rend="italic">corrective</hi> or <hi rend="italic">reformatory</hi> judgments, designed to bring individuals
 or nations to repentance and reformation.  "Whom the Lord loveth he
 chasteneth." Thus, speaking of the sufferings of the children of
 Israel for their apostacy, God said, "I will go and return to my
@@ -324,7 +304,7 @@ and nation; but it was reformatory, not destructive. It was the
 purpose of God, after they had been brought to confess and forsake
 their wickedness, to restore them, a purified people, that they might
 again be "the light of the world."</p>
-               <p pn="8">And we are permitted to rejoice, not only that mercy mingles with
+               <p>And we are permitted to rejoice, not only that mercy mingles with
 such judgments, but that it abounds over them. Two facts are of
 special interest to us. The first is, that God never sends His
 judgments upon a people for sins <hi rend="italic">after</hi> they have
@@ -332,7 +312,7 @@ confessed and abandoned them. The second is, that they are removed, so
 soon as reformation is effected. By the prophet Jeremiah he speaks
 thus: "At "'what instant I shall speak concerning a nation, and con-
 <pb n="9"/>
-                  <figure entity="rice9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
@@ -347,12 +327,12 @@ father saw him a great way off, and ran and fell upon his neck, and
 kissed him. So readily does God meet the first movement in individuals
 and nations toward himself. And so, as the Apostle James has it, Mercy
 rejoiceth against judgment."</p>
-               <p pn="9">But in whatever way God speaks to men, whether to individuals or to
+               <p>But in whatever way God speaks to men, whether to individuals or to
 nations, whether by mercies or by judgments, His aim is to bring them
 to acknowledge His authority, to embrace the Gospel of Christ, to obey
 His laws, to exalt him in the earth.</p>
-               <p pn="9"/>
-               <p pn="9">III.-Be still, and know that He is God-the only guide, supporter
+               <p/>
+               <p>III.-Be still, and know that He is God-the only guide, supporter
 and protector of individuals, families, churches, and nations. He will
 have men not only acknowledge their obligation to obey Him, but their
 entire dependence upon Him. Whilst his Gospel is received, and his law
@@ -365,7 +345,7 @@ rock, and the high God their Redeemer." The King of Babylon disdained,
 though often warned, to acknowledge his dependence on God, and,
 walking in his
 <pb n="10"/>
-                  <figure entity="rice10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
@@ -382,15 +362,15 @@ when his understanding returned to him, and he proclaimed to the
 world: "Now, I, Nebuchadnezzar, praise, and extol, and honor the King
 of Heaven, all whose works are truth, and his ways judgment; and those
 that walk in pride he is able to abase."</p>
-               <p pn="10">This same lesson will God, sooner or later, teach every man and
+               <p>This same lesson will God, sooner or later, teach every man and
 every nation; and the sooner an afflicted people learn it, the sooner
 will they, like the King of Babylon, bless God for the removal of His
 judgments, and for the restoration of His favor. On this day of
 mourning, God is teaching us this lesson. He has removed from us the
 man in whom so much confidence was reposed, and is impressing on us
 our dependence on Him alone.</p>
-               <p pn="10"/>
-               <p pn="10">IV.-Be still, and know that He is God; and, therefore, His ways are
+               <p/>
+               <p>IV.-Be still, and know that He is God; and, therefore, His ways are
 not to be fully comprehended, nor yet called in question. God is an
 infinite Spirit; and it is inconceivable that the purposes of the
 infinite Mind should be comprehended by finite minds. From the
@@ -399,7 +379,7 @@ every side with providential mysteries. But God will teach us to trust
 him as implicitly, when " His judgments are a great deep," as when
 all, is clear as light. "For," saith he, "My
 <pb n="11"/>
-                  <figure entity="rice11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
@@ -412,18 +392,18 @@ among all nations, and their wanderings in spiritual darkness through
 many centuries; and he exclaimed: " 0, the depth of the riches both of
 the knowledge and wisdom of God! how unsearchable are His ways, and
 His judgments past finding out!"</p>
-               <p pn="11">We never honor God more than when we follow him with implicit
+               <p>We never honor God more than when we follow him with implicit
 confidence, when we cannot see our way, and believe him just, and
 good, and wise, when his dealings with us are enveloped in painful
 mystery. "Behold," says Job, " He taketh away, who can hinder Him? Who
 will "say unto Him, what doest thou?," "I was dumb," says "the
 Psalmist, " I opened not my mouth because thou "didst it."</p>
-               <p pn="11">Such are the great principles in the light of which we must seek to
+               <p>Such are the great principles in the light of which we must seek to
 interpret the providences of God towards ourselves, and towards this
 nation. What improvement do these principles enable us to make of the
 awful dispensation we are this day contemplating?</p>
-               <p pn="11"/>
-               <p pn="11">1. Deep and tender sympathy with the smitten family; grief on
+               <p/>
+               <p>1. Deep and tender sympathy with the smitten family; grief on
 account of a calamity which is both national and individual;
 indignation against the perpetrators of the horrid act; these are
 feelings which arise spontaneously in the heart, and grow in intensity
@@ -431,7 +411,7 @@ as we think over all the aggravating circumstances. Nor are such
 feelings, within proper bounds, to be condemned. When Abner fell by
 the murderous hand of Joab, David said to the people, " Rend
 <pb n="12"/>
-                  <figure entity="rice12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
@@ -442,7 +422,7 @@ fallen this "day in Israel?" And when Josiah, the pious king of Judah,
 fell in battle, " Jeremiah lamented for Josiah, and "all the singing
 men and singing women spake of Josiah "in their lamentations to this
 day, and made them an "ordinance in Israel."</p>
-               <p pn="12">Similar feelings swell the bosoms of the people of this nation
+               <p>Similar feelings swell the bosoms of the people of this nation
 to-day. We feel that the nation has suffered an affliction, the extent
 of which we cannot yet foresee. We feel more than this-that each
 individual is afflicted; for we are in feeling and interest fully
@@ -452,28 +432,28 @@ known such a day of sorrow as this. The symbols of grief meet our eye
 in every direction, and are visible over the whole land. All
 distinctions are, for the time, forgotten in the common sorrow and
 alarm.</p>
-               <p pn="12"/>
-               <p pn="12">2. Yet let us not forget, in the gush of natural feeling, that the
+               <p/>
+               <p>2. Yet let us not forget, in the gush of natural feeling, that the
 awful voice of God is to be heard in this event, and that he aims to
 impress great truths of his word deeply and indelibly upon our
 minds. The prayer of Job is peculiarly appropriate now: "Do not
 condemn me; show me wherefore thou contendest with me."</p>
-               <p pn="12">We know that all sin is offensive and dishonoring to God, and is,
+               <p>We know that all sin is offensive and dishonoring to God, and is,
 therefore, calculated to bring his displeasure upon men ; but to
 determine for what particular sins a nation is visited with judgments,
 is not easy, nor is it wise to attempt it. One thing on this point we
 do know:</p>
-               <p pn="12"/>
-               <p pn="12">That this, calamity has not come upon the nation for sins
+               <p/>
+               <p>That this, calamity has not come upon the nation for sins
 <pb n="13"/>
-                  <figure entity="rice13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
                   <hi rend="italic">confessed and forsaken</hi>. We have already shown
 that God never visits a people with judgments for sins, after those
 sins have been abandoned.</p>
-               <p pn="13">The last four trying years have wrought great changes, and we hope
+               <p>The last four trying years have wrought great changes, and we hope
 the severe discipline has not been wholly lost upon us. Slavery, the
 bone of contention, the gigantic evil which has been the occasion of
 the war, has been swept away. Even before the struggle began, the
@@ -490,7 +470,7 @@ understand the meaning of God's dealings with <hi rend="italic">the
 nation,</hi>, especially the present sore visitation, we must look, I
 cannot but think, at the sins not yet abandoned, and at lessons not
 yet well learned.</p>
-               <p pn="13">In all war, especially civil war, there is great sin committed and
+               <p>In all war, especially civil war, there is great sin committed and
 there is always danger of incuring the displeasure of God. I do not
 doubt that such has been the case in our terrible conflict. And yet
 there are some things in connection with this war, which distinguish
@@ -501,20 +481,20 @@ go far to relieve some of the darker features of war; and the many
 conversions reported in the army have caused joy amongst the angels of
 God.</p>
                <pb n="14"/>
-               <p pn="14">
-                  <figure entity="rice14">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>14th page of 
 N. L. Rice's Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="14">Yet, when we have said all that truth will permit us to say of a
+               <p>Yet, when we have said all that truth will permit us to say of a
 favorable character, the painful and alarming truth remains, that God
 still has a controversy with the nation. Nor can we wonder at this, if
 we venture to take even a partial view of the moral condition of the
 country. There are sins yet to be repented of--lessons yet to learn,
 that God may be exalted in the land. May he enable us to discover
 those sins, and abandon them, and to learn those lessons of wisdom.</p>
-               <p pn="14">It required a training of forty years in the wilderness to prepare
+               <p>It required a training of forty years in the wilderness to prepare
 the Jews to become a free and prosperous nation. During that period of
 training, stroke after stroke fell upon them, until all, save two of
 those over twenty years of age when they left Egypt, had died. And
@@ -522,20 +502,20 @@ over and over again had they, in the course of their history, to be
 taught the same lessons. Few families enjoy unmixed prosperity for any
 great length of time; and nations, even more than families, require
 chastisements, lest pride and wickedness destroy them.</p>
-               <p pn="14">The foundations of this nation were laid in sufferings. Our fathers
+               <p>The foundations of this nation were laid in sufferings. Our fathers
 were called to learn wisdom in the severe school of affliction. But we
 became a great, wealthy, corrupt nation forgetful of the author of our
 greatness; and now that voice of warning has come to us-"Be still, and
 know that I am God."</p>
-               <p pn="14">Great sorrow has come upon us during the last four weary years; may
+               <p>Great sorrow has come upon us during the last four weary years; may
 we not hope that we have not suffered in vain? God could have made the
 first battle decisive, or brought the war to a termination in a
 month. He did not do so; not because he delights in the sufferings of
 men, but because we had not learned those lessons so essential to the
 future progress of the nation.</p>
-               <p pn="14">The war is now, we trust, substantially over; the authority
+               <p>The war is now, we trust, substantially over; the authority
 <pb n="15"/>
-                  <figure entity="rice15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
@@ -547,7 +527,7 @@ completely possessed himself of the confidence and love of the
 people. He is removed just when he was most needed-when all his
 experience, and skill, and influence were required to adjust those
 delicate and difficult questions that must now arise.</p>
-               <p pn="15">Why is this?" Be still, and know that I am God." Are we not, in a
+               <p>Why is this?" Be still, and know that I am God." Are we not, in a
 peculiar sense, in this crisis of our affairs, thrown upon God for
 guidance and help? And can we not trust him? He has brought us through
 the darkness and alarm of the past, when men's hearts were failing
@@ -560,22 +540,22 @@ published on the mission of the United States. With intense interest,
 I have watched for the signs of moral and religious improvement in the
 church and the country. I hope a brighter day is dawning; yet, I fear,
 as well as hope.</p>
-               <p pn="15">May not this severe stroke have in it something of hope? May it
+               <p>May not this severe stroke have in it something of hope? May it
 not, by the very perils in which it involves us, lead us to look up
 for aid? May it not make a deep and salutary impression upon the whole
 people? If it should, then, indeed, the future will be brighter.</p>
-               <p pn="15">Let us adopt the language of this 46th Psalm and say- "God is our
+               <p>Let us adopt the language of this 46th Psalm and say- "God is our
 refuge and strength, a very present help in "trouble. Therefore will
 we not fear, though the earth be "removed,  and though the mountains
 be carried into the
 <pb n="16"/>
-                  <figure entity="rice16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of N. L. Rice's
 Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
 "midst of the sea; though the waters thereof roar and be "troubled;
 though the mountains shake with the swelling "thereof."</p>
-               <p pn="16">The path of duty and of safety is plain. Let the people gather
+               <p>The path of duty and of safety is plain. Let the people gather
 around the man who now fills the place so sadly vacated, as I rejoice
 to see a general disposition to do, and sustain him by their prayers,
 as well as by other means. If ever a man needed the prayers of a
@@ -592,7 +572,7 @@ through this crisis; the nation, made wiser and purer by means of its
 trials, will again go forth on its great mission, shedding its clear
 light upon the nations of the earth. And then we shall give to God all
 the glory, and He will be exalted in the earth.</p>
-               <p pn="16">Finally, let us not forget that religion is, in its very nature, an
+               <p>Finally, let us not forget that religion is, in its very nature, an
 individual matter. God is speaking, not to masses of people, but to
 each individual He is warning all to become reconciled to Him, and
 calling His children nearer to Him. How uncertain a thing is life, and
@@ -604,4 +584,4 @@ and without delay.</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

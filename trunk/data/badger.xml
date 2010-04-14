@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="The Humble Conqueror: A Discourse Commemorative of the Life and Services of Abraham Lincoln.">
             <title>  The Humble
 Conqueror: A Discourse Commemorative of the Life and Services of
@@ -14,14 +12,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -29,9 +23,7 @@ by Emory University for non-profit educational purposes, provided this
 header is included in its entirety.  For inquiries about commercial
 uses, contact the Director, Pitts Theology Library, Emory University, 
 Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln Sermons Project</title>
          </seriesStmt>
@@ -41,8 +33,7 @@ Discourse Commemorative of the Life and Services of Abraham Lincoln,
 Preached to the Cambridgeport Parish, April 23, 1865.  Boston: William
 V. Spencer, 1865.  </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -57,23 +48,12 @@ Preservation Office, and Pitts Theology Library.</p>
             <p>COMPRESSION: Resolution 144 per inch with Constrain Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="badger.001" n="The Humble Conqueror: A Discourse Commemorative of the Life and Services of Abraham Lincoln." type="text">
-            <head pn="1"> 
+         <div1 xml:id="badger.001" n="The Humble Conqueror: A Discourse Commemorative of the Life and Services of Abraham Lincoln." type="text">
+            <head n="1"> 
                <bibl> 
                   <title> The Humble
 Conqueror: A Discourse Commemorative of the Life and Services of
@@ -82,92 +62,92 @@ Abraham Lincoln.</title>
                   <pubPlace>Cambridgeport Parish</pubPlace> 
                   <author>Badger, Rev. Henry
 C.</author> 
-                  <imprint>
+                  
                      <pubPlace>Boston</pubPlace>
                      <publisher>William
 V. Spencer</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15pks</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="badger1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">The Humble Conqueror:</p>
-            <p pn="1">A</p>
-            <p pn="1">DISCOURSE</p>
-            <p pn="1">COMMEMORATIVE OF THE LIFE AND SERVICES</p>
-            <p pn="1">OF</p>
-            <p pn="1">ABRAHAM LINCOLN,</p>
-            <p pn="1">PREACHED TO THE CAMBRIDGEPORT PARISH,</p>
-            <p pn="1">APRIL 23, 1865.</p>
-            <p pn="1">BY REV. HENRY C. BADGER.</p>
-            <p pn="1">BOSTON:</p>
-            <p pn="1">WILLIAM V. SPENCER.</p>
-            <p pn="1">1865.</p>
-            <pb n="2"/>
-            <p pn="2">
-               <figure entity="badger2">
+            <p>The Humble Conqueror:</p>
+            <p>A</p>
+            <p>DISCOURSE</p>
+            <p>COMMEMORATIVE OF THE LIFE AND SERVICES</p>
+            <p>OF</p>
+            <p>ABRAHAM LINCOLN,</p>
+            <p>PREACHED TO THE CAMBRIDGEPORT PARISH,</p>
+            <p>APRIL 23, 1865.</p>
+            <p>BY REV. HENRY C. BADGER.</p>
+            <p>BOSTON:</p>
+            <p>WILLIAM V. SPENCER.</p>
+            <p>1865.</p>
+            <pb/>
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="2">CAMBRIDGEPORT, April 27, 1865.</p>
-            <p pn="2">DEAR SIR,-- A general desire having been expressed by the
+            <p>CAMBRIDGEPORT, April 27, 1865.</p>
+            <p>DEAR SIR,-- A general desire having been expressed by the
 members of the Cambridgeport Parish, to preserve the discourse
 delivered by you last Sunday, upon the mournful event which has
 deprived a nation of the inestimable services of its dearly beloved
 and warmly cherished chief magistrate, ABRAHAM LINCOLN, we ask of you
 permission to have the same printed for distribution amongst the
 members of the parish.</p>
-            <p pn="2">ISAAC LIVERMORE, <lb/>GEORGE W. CUNN, <lb/>GEORGE H. FOLGER,<lb/>
+            <p>ISAAC LIVERMORE, <lb/>GEORGE W. CUNN, <lb/>GEORGE H. FOLGER,<lb/>
 GEORGE W. COLBURN, <lb/>WILLIAM V. SPENCER, <lb/>Parish
 Committee.</p>
-            <p pn="2">Rev. HENRY C. BADGER.</p>
-            <p pn="2">CAMBRIDGEPORT, April
+            <p>Rev. HENRY C. BADGER.</p>
+            <p>CAMBRIDGEPORT, April
 28, 1865.</p>
-            <p pn="2">GENTLEMEN, -- In answer to your favor of yesterday, I place
+            <p>GENTLEMEN, -- In answer to your favor of yesterday, I place
 my manuscript at your disposal; knowing that I ought not to let my
 feeling of its unworthiness defeat the wish of the parish to give some
 expression to their grief at the nation's loss, and their feeling in
 view of the late momentous events.</p>
-            <p pn="2">I remain, gentlemen,
+            <p>I remain, gentlemen,
              <lb/>Cordially and respectfully,
 	                       <lb/>Your obedient servant, <lb/>HENRY
 C. BADGER.</p>
-            <p pn="2">Messrs. ISAAC LIVERMORE and others, Committee.</p>
+            <p>Messrs. ISAAC LIVERMORE and others, Committee.</p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="badger3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="badger.002" n="SCRIPTURE LESSON." type="sermon">
-               <epigraph pn="3">
-                  <p pn="3">SCRIPTURE LESSON.</p>
-                  <p pn="3">BEHOLD, the Lord's hand is not shortened, that it cannot save;
+            <div2 xml:id="badger.002" n="SCRIPTURE LESSON." type="sermon">
+               <epigraph>
+                  <p>SCRIPTURE LESSON.</p>
+                  <p>BEHOLD, the Lord's hand is not shortened, that it cannot save;
 neither his ear heavy, that it cannot hear!</p>
-                  <p pn="3">O thou afflicted! tossed with tempest and not comforted,
+                  <p>O thou afflicted! tossed with tempest and not comforted,
 behold, I will lay thy stones with fair colors, and lay thy
 foundations with sapphires.</p>
-                  <p pn="3">And I will make thy windows of agates, and thy gates of
+                  <p>And I will make thy windows of agates, and thy gates of
 carbuncles, and all thy borders of pleasant stones.</p>
-                  <p pn="3">And all thy children shall be taught of the Lord, and great
+                  <p>And all thy children shall be taught of the Lord, and great
 shall be the peace of thy children.</p>
-                  <p pn="3">In righteousness shall thou be established: thou shalt be
+                  <p>In righteousness shall thou be established: thou shalt be
 far from oppression, for thou shalt not fear; and from terror, for it
 shall not come nigh thee.</p>
-                  <p pn="3">No weapon that is formed against thee shall prosper; and
+                  <p>No weapon that is formed against thee shall prosper; and
 every tongue that shall rise against thee in judgment thou shalt
 condemn.</p>
-                  <p pn="3">For a small moment have I forsaken thee; but with great
+                  <p>For a small moment have I forsaken thee; but with great
 mercies will I gather thee. In a little wrath, I hid my face from thee
 for a moment; but with everlasting kindness will I have mercy on thee,
 saith the Lord, thy Redeemer.--<hi rend="italic">Isaiah</hi>.</p>
@@ -182,22 +162,22 @@ of Abraham Lincoln.</figDesc>
                   </figure>
                </p>  -->
                <pb n="5"/>
-               <p pn="5">
-                  <figure entity="badger5">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>5th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
                   </figure>
                </p>
             </div2>
-            <div2 id="badger.003" n="SERMON" type="sermon">
-               <head pn="5">S E R M O N.</head>
-               <p pn="5">WHEN, three months ago, we followed to the grave the ashes of
+            <div2 xml:id="badger.003" n="SERMON" type="sermon">
+               <head>S E R M O N.</head>
+               <p>WHEN, three months ago, we followed to the grave the ashes of
 Edward Everett, I took occasion to set before you the blessed life of
 that peacemaker, our patriot scholar, as contrasted with the life of
 him then chief of Confederate traitors, now baffled and beaten, an
 outlaw and an exile.</p>
-               <p pn="5">But what a new contrast is brought before our minds today!
+               <p>But what a new contrast is brought before our minds today!
 What experiences press upon our hearts! How are our minds bewildered,
 and our bosoms wrung! How unreal and visionary seems all our life, as
 we are led thus through triumph and joy, with a constantly rising
@@ -206,14 +186,14 @@ glee;--till suddenly the cup is dashed from our hand, the crown from
 our head,--every heart is made sick and faint, while our triumphs and
 hopes are all forgotten in the one great trouble that broods in every
 bosom!</p>
-               <p pn="5">Never went a man to the grave, so loved and mourned as
+               <p>Never went a man to the grave, so loved and mourned as
 Abraham Lincoln,--so followed by the tender sorrow of twenty millions
 of his fellow-men. Never did man raise himself, in the brief space of
 four years, from utter obscurity to a place of such honorable and
 lasting fame, where he stood second to no ruler on earth in the love
 and
 <pb n="6"/>
-                  <figure entity="badger6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -221,7 +201,7 @@ of Abraham Lincoln.</figDesc>
 admiration of his kind; and where he shall stand, as long as men keep
 the record of the great and good, one of the most conspicuous and
 noble figures in history.</p>
-               <p pn="6">The nation mourns him, indeed, but not the nation
+               <p>The nation mourns him, indeed, but not the nation
 alone. Our nation will strive in vain to keep him as her own. Signal
 as were his services to her, treasured as his memory will be, other
 nations will claim to mingle their tears and praises with ours; his
@@ -249,7 +229,7 @@ self-complacency; growing, indeed, more humble as he was more
 exalted,--taking no glory to himself, but giving all the praise to his
 subordinates, and
 <pb n="7"/>
-                  <figure entity="badger7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -258,7 +238,7 @@ all the glory to God,--as we think of this more and more, we shall see
 that Abraham Lincoln was one of the best men, and one of the most
 extraordinary men, that God ever raised up to aid and encourage
 mankind.</p>
-               <p pn="7">Not <hi rend="italic">great</hi>, as the world judges; not
+               <p>Not <hi rend="italic">great</hi>, as the world judges; not
 <hi rend="italic">learned</hi>; not of the most capacious intellect, or
 most indomitable <hi rend="italic">will</hi>; not of great <hi rend="italic">experience</hi>, save in a comparatively humble
 sphere,--he yet did a work, and has left a record, which might humble
@@ -268,24 +248,24 @@ type</hi>. Many have conquered <hi rend="italic">others</hi>, but he had
 conquered himself; and he kept self conquered, when, in any other man,
 the evil principle would have risen up again to mar the beautiful
 consecration and completeness of his life.</p>
-               <p pn="7">Not one man in many millions could have been raised from
+               <p>Not one man in many millions could have been raised from
 comparative poverty and obscurity to such a place, to such a career,
 to such success, and not been made giddy, and led to play some "
 fantastic trick before high heaven to make the angels weep."</p>
-               <p pn="7">Nor could one man in many millions have met so much
+               <p>Nor could one man in many millions have met so much
 reviling and reproach,--been so ridiculed and traduced by foes without
 and factions within,--yet kept so sweet and forgiving a spirit; been
 so tender-hearted and merciful, while constantly upbraided as a
 tyrant; been so ready to bless them that cursed him, to love his
 enemies, to do good to them that hated him, to pray for them which
 despitefully used him and persecuted him.</p>
-               <p pn="7">This seems to me the most precious part of a memory whose
+               <p>This seems to me the most precious part of a memory whose
 every part is fragrant, that you cannot point to an utterance of his,
 nor recall a word or phrase, not full of pious humility and Christian
 charity. There is absolutely nothing to forget, and nothing to
 forgive. Whether he
 <pb n="8"/>
-                  <figure entity="badger8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -301,7 +281,7 @@ man, who spoke what he thought. But he had in him, what David prayed
 for, the clean heart and the right spirit. If ever a man's heart was
 in the right place, his was; and his life could not but be beautiful,
 when the fountain of it was so pure.</p>
-               <p pn="8">Yet many a man, while right in spirit and purpose, finds
+               <p>Yet many a man, while right in spirit and purpose, finds
 himself wrong in <hi rend="italic">deed</hi>, because of a weak judgment
 or wavering <hi rend="italic">will</hi>. But how well the <hi rend="italic">hand</hi> of Abraham Lincoln answered to his <hi rend="italic">heart</hi>! He made few mistakes. His deeds were as good
 as his words. Slow to decide, he almost always decided right. He was
@@ -309,7 +289,7 @@ sagacious, shrewd, and true. He looked into the hearts of other men as
 he did into his own. Faithful with himself, he was faithful with
 them. The young officer who came before him felt as in the presence of
 a father, and received the counsel due to a son.</p>
-               <p pn="8">A friend of mine, who had been unjustly dismissed from the
+               <p>A friend of mine, who had been unjustly dismissed from the
 army, was re-instated on appealing to the ever-patient head of the
 nation, whose task it was to undo the evil deeds others had done; but,
 as the President restored to him his commission, perceiving the young
@@ -317,7 +297,7 @@ man's fault, he said kindly, and with a father's faithful rebuke, " I
 <hi rend="italic">fear</hi>, my young friend, that you are <hi rend="italic">inclined</hi> to be <hi rend="italic">quarrelsome</hi>." and
 when the young man, willing to justify himself, said
 <pb n="9"/>
-                  <figure entity="badger9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -325,14 +305,14 @@ of Abraham Lincoln.</figDesc>
 that that might not be so grave a fault in a <hi rend="italic">soldier</hi>, whose business was fighting, the President
 rejoined, " No, sir: you are mistaken; I find that the quiet and
 peaceable young men make the best officers and bravest soldiers."</p>
-               <p pn="9">It was this kindly faithfulness that made him so dear to
+               <p>It was this kindly faithfulness that made him so dear to
 the people as "FATHER ABRAHAM." They trusted to him as to a
 father. They knew that he was diligent and conscientious, patient and
 sincere. They saw his manly simplicity, his freedom from ostentation,
 his sadness in adversity, his humility in success, his steadfast trust
 in God, and his careworn face, as he bore all the people's sorrows on
 his heart.</p>
-               <p pn="9">They loved him: for they knew, by a thousand kind deeds and
+               <p>They loved him: for they knew, by a thousand kind deeds and
 words; by his messages to the widows and the children; by his patience
 in hearing their petitions; by his eagerness to pardon offenders, when
 justice and discipline would permit; by his anxious care to save them
@@ -353,10 +333,10 @@ name of gentleman,</l>
                   <l>And soiled by all
 ignoble use!"</l>
                </lg>
-               <p pn="9">Such was he, one of the purest in purpose, most faultless
+               <p>Such was he, one of the purest in purpose, most faultless
 in judgment, most faithful and patient in action, most
 <pb n="10"/>
-                  <figure entity="badger10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -368,7 +348,7 @@ people, in such a time as this? and who can fail to see the ground we
 have for thanksgiving, in that this national calamity was deferred
 till his great service was rendered to us, and till the glory of
 success was secured to him?</p>
-               <p pn="10">Had he been assassinated four years ago,--and there is not
+               <p>Had he been assassinated four years ago,--and there is not
 a man of us but expected it then,--how different might our career have
 been! or, had he fallen on the last fourth of March,--and many of us
 expected it then,--how much had even then been wanting to his joy and
@@ -390,7 +370,7 @@ country, the liberator of four million slaves; to be a peerless
 conqueror, both in the Council chamber and in the field; and at last,
 when success had set the approving seal of Providence on his
 <pb n="11"/>
-                  <figure entity="badger11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -410,7 +390,7 @@ Sumter's wall, and the <hi rend="italic">nation's vow was fulfilled
 before God</hi>, --well might he have lifted up his hands in joyful
 submission to exclaim, " Lord, now lettest thou thy servant depart in
 peace; for mine eyes have seen thy salvation!"</p>
-               <p pn="11">That triumphal entry into Richmond was glory enough for one mortal
+               <p>That triumphal entry into Richmond was glory enough for one mortal
 to possess. We have all seen a familiar picture of Washington's entry
 into Trenton, --matron and maid strewing roses before his charger's
 feet; but what was <hi rend="italic">that</hi> triumph, what was any
@@ -425,7 +405,7 @@ proclamation, "<hi rend="italic">Behold! the conqueror
 cometh!</hi>"--no: but mid the blanched cheeks of Richmond's loyal men
 and women, bringing out the dear flag they had cherished in secret;
 <pb n="12"/>
-                  <figure entity="badger12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -435,15 +415,15 @@ blessings on his head,-- where he walked, the humblest of them all,
 yet emancipator and conqueror,--already with the martyr's halo round
 his brow; and where there went in with him Liberty and Union, one and
 inseparable <hi rend="italic">now</hi>, now and for ever!</p>
-               <p pn="12">That was a scene which will live in history; and this was
+               <p>That was a scene which will live in history; and this was
 glory enough for one mortal to possess.</p>
-               <p pn="12">Though we mourn for him all the more sadly because of our
+               <p>Though we mourn for him all the more sadly because of our
 success; though we wish he could have been spared to see the results
 of his great labors and cares, and to live, as Washington did, midst a
 grateful people,--yet the country feels that there was a wonderful
 completeness in his life, and, if violent death is ever timely, a
 timeliness in his death.</p>
-               <p pn="12">Our hearts say to him, in trustful sorrow,--</p>
+               <p>Our hearts say to him, in trustful sorrow,--</p>
                <lg type="stanza">
                   <l>"Go to the grave, in all thy glorious prime,</l>
                   <l>In full
@@ -460,17 +440,17 @@ sheaves; thy harvest work is done!</l>
 and, in peace,</l>
                   <l>Soldier, go home! with thee the field is won!"</l>
                </lg>
-               <p pn="12">Yet, while the nation feels thus trustful and hopeful, who
+               <p>Yet, while the nation feels thus trustful and hopeful, who
 can foresee the result of the assassin's crime?</p>
-               <p pn="12">It would be interesting to consider the assassinations of
+               <p>It would be interesting to consider the assassinations of
 history, their motives and consequences.</p>
-               <p pn="12">But, for the honor of human nature, so dignified and
+               <p>But, for the honor of human nature, so dignified and
 adorned by Mr. Lincoln's life and character, I cannot but believe that
 his assassin is of unsound mind. The fact that his father was insane
 before him, long before quitting the stage; the incoherent letters
 left by this assassin, genu-
 <pb n="13"/>
-                  <figure entity="badger13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -481,7 +461,7 @@ show of its execution, and the very craft of his escape and
 concealment; the impossibility of any good resulting to a cause
 already lost,--the absence of any adequate motive, even revenge or the
 love of notoriety,--convince me that he is a man of unsound mind.</p>
-               <p pn="13">Yet, as has well been said, slavery is both the child and
+               <p>Yet, as has well been said, slavery is both the child and
 parent of barbarism; assassination, its only fit expression. And he
 was not insane who assaulted the Secretary of State, striving to
 murder a helpless old man in his bed, his arm already broken. He was
@@ -489,7 +469,7 @@ not insane who crept up behind a senator, fettered in his seat. They
 were not insane who kept Andersonville, and took Fort Pillow. They
 were not insane who, in communication with Richmond, co-operated with
 these assassins.</p>
-               <p pn="13">We used to complain of slavery, that it fostered duelling;
+               <p>We used to complain of slavery, that it fostered duelling;
 but the duellist who confronts his foe like a man, sees him armed like
 himself, gives him due notice, and an equal chance for his life; the
 duellist is a gentleman and a Christian compared with the assassin,
@@ -499,12 +479,12 @@ all in one, and is a fit expression of that nurse of brutality, which
 has poisoned our moral life, deluged the land in blood, given us Libby
 Prison and Andersonville, and added this crowning horror to its
 crimes.</p>
-               <p pn="13">If the murderer was insane, those who aided and urged him
+               <p>If the murderer was insane, those who aided and urged him
 on were not; and his deed was the fitting, may it prove the <hi rend="italic">final</hi>, manifestation of slavery!</p>
-               <p pn="13">But the country leaps with amazing promptness to the
+               <p>But the country leaps with amazing promptness to the
 conclusion, that God will overrule this calamity to our
 <pb n="14"/>
-                  <figure entity="badger14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -529,7 +509,7 @@ his.  His will ordered that rebel legislature away, or into prison.
 And the only fear or peril was, not that <hi rend="italic">he</hi> would
 be too gentle, but that the people, overjoyed with victory and peace,
 would not sustain his hands, and permit him to be <hi rend="italic">just</hi>.</p>
-               <p pn="14">This was a grave peril, on whose brink we stood. The rebel
+               <p>This was a grave peril, on whose brink we stood. The rebel
 Commander-in-Chief was a prisoner of war,--a beaten traitor, liable at
 any moment to the pains and penalties of treason; liable at any moment
 to be released from his parole, and brought before a jury of his
@@ -537,14 +517,14 @@ peers, and sent to the scaffold as one who had violently attempted his
 Country's life, and whose hands were red with the blood of a hundred
 thousand of our brothers and sons.</p>
                <pb n="15"/>
-               <p pn="15">
-                  <figure entity="badger15">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>15th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="15">But the people, happy with victory and the promise of
+               <p>But the people, happy with victory and the promise of
 peace, upbraided Jefferson Davis, yet lauded Robert Lee, and were
 ready to receive him with a hero's honors, instead of a traitor's
 infamy. The army, part of it, would sooner have followed him, as joint
@@ -554,10 +534,10 @@ still. Because he was so long successful in Virginia, and had made it
 all one great battle-field, red from end to end with patriot blood,
 men attributed all the infamy to the rebel president, but all the
 success to the rebel general, the red right hand of the rebellion.</p>
-               <p pn="15">The nation had virtually pardoned him and his army, and
+               <p>The nation had virtually pardoned him and his army, and
 were ready to make his red hands white with the kisses of their
 forgiveness.</p>
-               <p pn="15">Individuals cried out against it. Mourning households
+               <p>Individuals cried out against it. Mourning households
 protested against it, as an outrage on the memory of their patriot
 dead. They whose hearts lie buried at Antietam or Gettysburg; who weep
 over Malvern Hill or Fair Oaks; whose kindred lie in the Wilderness or
@@ -578,21 +558,21 @@ AND I AND ALL OF US FELL DOWN,</l>
 US!"</l>
                </lg>
                <pb n="16"/>
-               <p pn="16">
-                  <figure entity="badger16">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>16th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="16">We are <hi rend="italic">one party now</hi>. We are <hi rend="italic">all</hi>
+               <p>We are <hi rend="italic">one party now</hi>. We are <hi rend="italic">all</hi>
 mourners. There is not a loyal eye that has not been wet with sorrow,
 nor a loyal household which has not lost a friend. The great sacrifice
 of the land is typified now in him. A few will remember Andersonville,
 a few will remember Gettysburg; but <hi rend="italic">all</hi> will
 remember Abraham Lincoln, and swear by <hi rend="italic">his</hi> memory
 that the memory of our other martyrs shall never be disgraced!</p>
-               <p pn="16">Friends, our strife is by no means over: though we may hope
+               <p>Friends, our strife is by no means over: though we may hope
 that the great battles are all fought, our perils are far from
 past. Some of our severest trials lie in our immediate future. And it
 seems as though Mr. Lincoln must die, that his spirit might be more
@@ -603,7 +583,7 @@ but for future security; to know when mercy is wisdom, and when it is
 criminal weakness,--was never so desirable or so difficult as now. It
 was expedient that he should go away, that he might be more
 effectively with us in these days of trial.</p>
-               <p pn="16">And if his fall unite us as one stricken household, and
+               <p>And if his fall unite us as one stricken household, and
 nerve the nation's hand for those necessary tasks which victory makes
 all the more painful to us; if it evoke the horror of all civilized
 nations, illustrating anew the odious spirit of slavery; if he stand
@@ -615,14 +595,14 @@ he both lived and died for our country; and that, as Tacitus says of
 Agricola, he was happy, not only in the splendor of his life, but also
 in the opportuneness of his death.</p>
                <pb n="17"/>
-               <p pn="17">
-                  <figure entity="badger17">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>17th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="17">Nor let us feel that his eyes can no longer see the
+               <p>Nor let us feel that his eyes can no longer see the
 redemption or the future glory of the land. We wish that he had lived
 to see peace, and the wonderful revival of energy and hope which peace
 will bring. We wish that he could have lived to see fifty millions of
@@ -634,14 +614,14 @@ all the land, each as much of a martyr as he. We wish they could have
 lived to see even the happy days of victory he saw, instead of dying
 in hours of discouragement and gloom, when the nation's heart was
 faint, and her hope was dim.</p>
-               <p pn="17">Ah! let us not think but that they do see these days of
+               <p>Ah! let us not think but that they do see these days of
 chastened joy; and that he sees, with clearer eyes than ours, what is,
 and what is to be. Let us not think but that those hosts of martyrs
 have gathered about our lost leader, and that there have been heavenly
 greetings between these and the patriots of an earlier day,--the
 Father of our Country welcoming that country's Saviour. We rest in
 that providence of God, and that blessed hope of the Immortal Life.</p>
-               <p pn="17">When this sad news smote and darkened the land, I was
+               <p>When this sad news smote and darkened the land, I was
 speeding up the beautiful valley of the Merrimack; and it seemed at
 first as though nature mocked the nation's woe, the sun shone so
 bright, the bird-songs rang so cheerily; while, mid bursting buds and
@@ -651,7 +631,7 @@ steadfastly toward the North. It seemed as though Heaven mocked at our
 human grief But, at last, the peace and calmness of nature stole into
 my heart, as I thought of that steadfast
 <pb n="18"/>
-                  <figure entity="badger18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Rev. Henry C. Badger's The
 Humble Conqueror: A Discourse Commemorative of the Life and Services
 of Abraham Lincoln.</figDesc>
@@ -665,4 +645,4 @@ YOUR WAYS, AND MY THOUGHTS THAN YOUR THOUGHTS."</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

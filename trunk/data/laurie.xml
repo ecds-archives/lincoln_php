@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="Three Discourses">
             <title>Three Discourses</title>
             <author>Laurie, Thomas</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -28,9 +22,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Lincoln Sermons Project or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -41,8 +33,7 @@ Thomas. Three Discourses, Preached in The South Evangelical Church,
 West Roxbury, Mass., April 13th, 19th, and 23d, 1865. Dedham, Mass.:
 Printed by John Cox, Jr. 1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text is produced in conjunction
 with the  Women Writers Resource Project at Emory University</p>
@@ -63,81 +54,70 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="laurie.001" n="Three Discourses" type="text">
-            <head pn="1"> 
+         <div1 xml:id="laurie.001" n="Three Discourses" type="text">
+            <head> 
                <bibl> 
                   <title>Three
 Discourses</title> 
                   <date>April 13th, 19th, and 23d, 1865.</date>
                   <pubPlace>The South Evangelical Church, West Roxbury, Mass.</pubPlace>
                   <author>Laurie, Thomas</author> 
-                  <imprint>
+                  
                      <pubPlace>Dedham,
 Mass.</pubPlace>
                      <publisher>Printed by John Cox, Jr.</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qhm</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="laurie1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Thomas Laurie's Three
 Discourses.</figDesc>
                </figure>
             </p>
-            <p pn="1">THREE</p>
-            <p pn="1">DISCOURSES</p>
-            <p pn="1">PREACHED IN</p>
-            <p pn="1">The South Evangelical Church</p>
-            <p pn="1">WEST ROXBURY, MASS.,</p>
-            <p pn="1">April 13th, 19th, and 23d, 1865,</p>
-            <p pn="1">BY THOMAS LAURIE.</p>
-            <p pn="1">Published by Request.</p>
-            <p pn="1">DEDHAM, MASS.:</p>
-            <p pn="1">PRINTED BY JOHN COX, Jr.</p>
-            <p pn="1">1865.</p>
+            <p>THREE</p>
+            <p>DISCOURSES</p>
+            <p>PREACHED IN</p>
+            <p>The South Evangelical Church</p>
+            <p>WEST ROXBURY, MASS.,</p>
+            <p>April 13th, 19th, and 23d, 1865,</p>
+            <p>BY THOMAS LAURIE.</p>
+            <p>Published by Request.</p>
+            <p>DEDHAM, MASS.:</p>
+            <p>PRINTED BY JOHN COX, Jr.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="laurie2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Thomas Laurie's Three Discourses.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="laurie3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Thomas Laurie's Three Discourses.</figDesc>
                </figure>
             </p>
-            <div2 id="laurie.002" n="DISCOURSE I." type="sermon">
-               <head pn="3">DISCOURSE I.</head>
+            <div2 xml:id="laurie.002" n="DISCOURSE I." type="sermon">
+               <head>DISCOURSE I.</head>
                <argument>
-                  <p pn="3">Preached on Fast Day, April 13, 1865, and repeated in
+                  <p>Preached on Fast Day, April 13, 1865, and repeated in
 Rev. Mr. Edwards's Church, Dedham in the afternoon.</p>
                </argument>
-               <epigraph pn="3">
-                  <p pn="3">Ezra 8, 21: Then I proclaimed a Fast there at the river
+               <epigraph>
+                  <p>Ezra 8, 21: Then I proclaimed a Fast there at the river
 of Ahava, that we might afflict ourselves before our God, to seek of
 Him a right way for us and for our little ones, and for all our
 substance.</p>
                </epigraph>
-               <p pn="3">IT is written in holy scripture, "Is any addicted, let him pray. Is
+               <p>IT is written in holy scripture, "Is any addicted, let him pray. Is
 any merry, let him sing psalms." This is also the voice of nature. But
 sometimes an occasion of great joy is only a louder call for prayer,
 and such were the circumstances referred to in the text. That we may
@@ -151,7 +131,7 @@ had been promised to his people. Here was one in affliction praying,
 encouraged by the promise of a divine deliverance. And soon the
 deliverance came. Cyrus the Great issued a proclamation declaring that
 <pb n="4"/>
-                  <figure entity="laurie4">
+                  <figure><graphic url=""/>
                      <figDesc>4th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -161,7 +141,7 @@ disposed, to engage in the good work. He also encouraged such as could
 not go in person to send their contributions, and it is a remarkable
 fact, that in this royal edict the King of Persia acknowledged
 Jehovah, God of Israel, to be <hi rend="italic">the</hi> God.</p>
-               <p pn="4">In consequence of this proclamation, a company of nearly
+               <p>In consequence of this proclamation, a company of nearly
 fifty thousand went up to Jerusalem under Zerubbabel, and it is
 interesting to note that out of so large a multitude only eight
 thousand one hundred and thirty-six, or less than one in six, were
@@ -171,19 +151,19 @@ smallest of all beasts of burden. Yet though so poor, they carried up
 with them offerings to the amount of sixty-one thousand pieces of
 gold, and five thousand pounds of silver--this last worth about
 seventy-five thousand dollars.</p>
-               <p pn="4">Fourteen years after, a royal order was procured from
+               <p>Fourteen years after, a royal order was procured from
 Cambyses to put a stop to the work; but only three years after that,
 Darius Hystaspes commanded it to go on. He restored the sacred vessels
 plundered by Nebuchadnezzar, and appropriated sufficient from the
 royal tribute to meet all expenses.</p>
-               <p pn="4">Surely in all this Israel had abundant occasion for
+               <p>Surely in all this Israel had abundant occasion for
 praise. But in addition to this, Ezra, a scribe well instructed in the
 law, and devoted to the religious instruction of his people, received
 a commission from Artaxerxes Longimanus to go up to Jerusalem and
 enquire after the success of the enterprise. The king and his nobles
 contributed largely
 <pb n="5"/>
-                  <figure entity="laurie5">
+                  <figure><graphic url=""/>
                      <figDesc>5th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -214,7 +194,7 @@ spoken to the king so confidently about the good hand of the Lord
 being upon all them that seek Him, that he was ashamed to ask the
 usual band of soldiers and
 <pb n="6"/>
-                  <figure entity="laurie6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -226,7 +206,7 @@ him, or any plague come nigh the camp. Thank God that faith is not
 confined to any one age, but shines out upon us from them all; and
 thank God that it still lives to the praise of Him who works in His
 waiting servants the work of faith with power.</p>
-               <p pn="6">My hearers, I need not tell you that to-day is a day of joy
+               <p>My hearers, I need not tell you that to-day is a day of joy
 far greater than that ancient joy in Persia, when those who carried
 Israel away captive became the builders and guardians of a renovated
 temple. A rebellion vaster, fiercer and more defiant than earth ever
@@ -243,9 +223,9 @@ peace. Peace, to all intents and purposes, has been wrenched from
 their unwilling hands. The arm that refused it has been broken--broken
 by the mightier power of Him who doeth His will in the army of heaven
 and among the inhabitants of the earth.</p>
-               <p pn="6">On Monday, when the news spread from city to city, and
+               <p>On Monday, when the news spread from city to city, and
 <pb n="7"/>
-                  <figure entity="laurie7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -261,7 +241,7 @@ praises are less impulsive, they are more hearty, for we have had time
 to think, to look at our mercies; and if not to grasp all their
 greatness, yet to let them sink into our hearts till they are running
 over.</p>
-               <p pn="7">My friends, we have very great occasion for praise, and no
+               <p>My friends, we have very great occasion for praise, and no
 doubt we shall soon have an opportunity for its expression; would that
 when it comes, it might find us in the spirit of him who wrote,
 "Praise ye the Lord, for it is good to sing praises unto our God, for
@@ -272,11 +252,11 @@ to-day. Even more than that pilgrim band at the river of Ahava, we
 have occasion for prayer as well as praise, and to that need let us
 now direct our thoughts, so that pleading, like that multitude by the
 river of Babylonia, we may, like them, prevail.</p>
-               <p pn="7">Why then, after so great victories, and in the midst of
+               <p>Why then, after so great victories, and in the midst of
 such universal joy, should we devote ourselves to the work of fasting
 and prayer? I answer, in brief, because much
 <pb n="8"/>
-                  <figure entity="laurie8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -307,7 +287,7 @@ bestow upon us in this advanced stage of the history of Redemption. Is
 there no danger that while good men give themselves up to the
 intoxication of the hour, scheming politicians and worthless demagogues
 <pb n="9"/>
-                  <figure entity="laurie9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -318,7 +298,7 @@ the sweet thought that each pain is purchasing their country's good,
 wake up to the greater agony of seeing the enemy sow tares in the
 field watered by their blood, while those who ought to have sowed it
 with good seed spend the time in thoughtless jubilation?</p>
-               <p pn="9">But you will ask, What can we do? We are private citizens;
+               <p>But you will ask, What can we do? We are private citizens;
 we fill no position of influence; we have no control over public
 affairs. Permit me, in all plainness, to answer: This last is not
 true. You may be private citizens; you may hold no office. But it is
@@ -336,7 +316,7 @@ so great a cost. Think how one mistake, one well intentioned blunder,
 may mar the whole. Think how one treacherous Ahithophel may mislead an
 honest heart, and perpetuate, in new forms,
 <pb n="10"/>
-                  <figure entity="laurie10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -347,7 +327,7 @@ because her people gave themselves up to revelry when they should have
 been every man at his post, alert and vigilant. And if now, when our
 destiny as a nation is taking new form, we be found among those who
 restrain prayer, shall we be guiltless?</p>
-               <p pn="10">I have already said, in various forms, that the present is
+               <p>I have already said, in various forms, that the present is
 a turning point of destiny. Look for a moment at some of the things
 that make it such. The fate of the leaders of this rebellion is now to
 be decided. They, with others now gone to appear before a higher
@@ -367,7 +347,7 @@ Richmond, and passed beyond into loyal homes, where heart-broken
 relatives thanked God for the stroke which ended the long agony and
 the long suspense, and still that starvation went on. 
 <pb n="11"/>
-                  <figure entity="laurie11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -391,7 +371,7 @@ are of retribution; either in this world or the world to come, I
 tremble when I think what judgments may yet be in store for a land
 where "judgment is so turned away backward, and justice standeth afar
 off."</p>
-               <p pn="11">My hearers, we need prayer here to guard us on both
+               <p>My hearers, we need prayer here to guard us on both
 sides. On the one hand, from a passionate and ungodly wrath, that so
 far from being religious, unfits the soul for prayer; and on the
 other, from an antagonism to the demands of justice, which is, in
@@ -399,7 +379,7 @@ essence, antagonism to God. In this matter, do we not need specially
 to pray that God will both keep our rulers from being opposed to
 justice, and
 <pb n="12"/>
-                  <figure entity="laurie12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -410,7 +390,7 @@ would not shrink from the difficult questions which our rulers must
 decide, and from the painful duties which they must perform? Can we do
 less than help them by our prayers, and still the more as we see the
 day approaching?</p>
-               <p pn="12">Then, besides the leaders, there is the whole population at
+               <p>Then, besides the leaders, there is the whole population at
 the South. What dark masses of perplexity mount the sky, with the
 approach of peace, like clouds driven by the storm. How can the guilty
 be punished, and the innocent saved from further suffering? How can
@@ -430,7 +410,7 @@ conciliation or of harmony, and when to this antagonism we add the
 influx of greedy, unprincipled men from the free States, intent solely
 on their own advantage,
 <pb n="13"/>
-                  <figure entity="laurie13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -456,13 +436,13 @@ with its partizans, quick to insult and take offence, and slow to
 forget an injury. But I mean not to paint the picture in full; I only
 sketch such outlines as may serve to show the urgent need of prayer
 to-day.</p>
-               <p pn="13">Turn to another class, hitherto kept in the background, but
+               <p>Turn to another class, hitherto kept in the background, but
 now brought, by their God and ours, into unwonted prominence. Thank
 God, they are bondmen no longer, but freedmen. But does the
 Proclamation of Freedom complete the work? Nay, verily. The shackles
 may be stricken off,
 <pb n="14"/>
-                  <figure entity="laurie14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -493,14 +473,14 @@ according to which Christ is only one teacher among many; but the
 truth as it is in Jesus, based upon Him and summed up in Him, as its
 alpha and omega, its essence and its life--
 <pb n="15"/>
-                  <figure entity="laurie15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
 the gospel in which God stoops to the sinner in infinite love, that
 through the redemption that is in Christ He may lift him up to
 Heaven.</p>
-               <p pn="15">This gospel, and this alone, can fit the freedman for the
+               <p>This gospel, and this alone, can fit the freedman for the
 right discharge of his duties; and there is no other power that can
 transform rebels into loyal citizens. Armies can break their power,
 but grace alone can break their hearts, and teach them to look with
@@ -525,14 +505,14 @@ in the cotton-fields of South Carolina, but scattered through New
 England towns, and living in our own families--a class no more
 friendly to
 <pb n="16"/>
-                  <figure entity="laurie16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
 either our political or religious institutions than the rebels at the
 South, whom God may use to chastise His churches as He has used the
 other to chastise the nation.</p>
-               <p pn="16">But if we rightly discern the signs of the times; if in the
+               <p>But if we rightly discern the signs of the times; if in the
 spirit of our Master we meet the demands of the hour, all the
 deliverance God has wrought for us these four years on so many fields
 of strife; all the answers He has given to prayer for our rulers and
@@ -543,24 +523,24 @@ bless us with a still greater blessing. He will subdue rebel hearts as
 well as rebel armies. He will bless the negro in his new position, and
 we shall be that happy people whose God is the Lord.</p>
                <pb n="17"/>
-               <p pn="17">
-                  <figure entity="laurie17">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>17th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
                </p>
             </div2>
-            <div2 id="laurie.003" n="DISCOURSE II." type="sermon">
-               <head pn="17">DISCOURSE II.</head>
+            <div2 xml:id="laurie.003" n="DISCOURSE II." type="sermon">
+               <head>DISCOURSE II.</head>
                <argument>
-                  <p pn="17">Preached April 19th, the day of the Funeral of Abraham
+                  <p>Preached April 19th, the day of the Funeral of Abraham
 Lincoln.</p>
                </argument>
-               <epigraph pn="17">
-                  <p pn="17">1 Samuel 3, 18: It is the Lord. Let Him do what seemeth
+               <epigraph>
+                  <p>1 Samuel 3, 18: It is the Lord. Let Him do what seemeth
 Him good.</p>
                </epigraph>
-               <p pn="17">WE are all mourners to-day. At ordinary funerals, we see a little
+               <p>WE are all mourners to-day. At ordinary funerals, we see a little
 bereaved band, and a larger circle of spectators, sympathizing,
 indeed, but not suffering the distress of those immediately
 afflicted. On public occasions like this we are accustomed to see much
@@ -576,7 +556,7 @@ need hardly go back six years to find a time when most of us did not
 even know his name, for by the force of his own sterling virtue he
 worked his way up from obscurity. And when, a
 <pb n="18"/>
-                  <figure entity="laurie18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -607,7 +587,7 @@ western friends. But was he intelligent? Would he take broad views of
 things? Would he look well before he moved? Here, too, we learned to
 ad-
 <pb n="19"/>
-                  <figure entity="laurie19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -619,7 +599,7 @@ counter attractions? Here, too, we learned to love, as well as
 confide. Now and then things occurred to try our faith, but in the end
 they only rooted it the firmer. Each blast that swept over it only
 made it stronger for the next encounter with the storm.</p>
-               <p pn="19">The war
+               <p>The war
 lengthened out beyond all our anticipations. But still our leader
 stood firm--firm in his own principles--firm in the confidence of
 loyal men. Then came the time for a new election. Would not men grow
@@ -636,10 +616,10 @@ certainly turn against their steadfast deliverer. But not such was the
 will of God. You remember how He strengthened the heart of His
 faithful servant, and confounded His enemies by a result as gratifying
 as it was triumphant.</p>
-               <p pn="19">Thus was our confidence in the leader God
+               <p>Thus was our confidence in the leader God
 had given us
 <pb n="20"/>
-                  <figure entity="laurie20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -649,7 +629,7 @@ him for his work. We loved to pray for him, and watch the blessings
 conferred on him in answer to prayer. So we went on; and though most
 of us had never looked on his honest face, we felt toward him as a
 father.</p>
-               <p pn="20">When the blow fell--O, how sudden, and how sore!--we could
+               <p>When the blow fell--O, how sudden, and how sore!--we could
 not work; we could not eat. We scarce knew what we did or said; one
 crushing weight pressed all hearts into the dust. We had just begun to
 feel at home with him; we were just tasting the sweets of unbounded
@@ -659,7 +639,7 @@ him enjoy the remainder of his presidential term in reaping the
 harvest ripened under his care. But his work is done, and well done;
 his race is finished, and we rejoice that his character is so
 universally appreciated as it is to-day.</p>
-               <p pn="20">It is customary, on such an occasion, to say a word of
+               <p>It is customary, on such an occasion, to say a word of
 comfort to the bereaved,--but :what shall I say? I cannot point you to
 all the reasons for such an event, for I know them not any more than
 you; but we can together enjoy the consoling thought--it is not
@@ -670,7 +650,7 @@ difficulty. I do not wonder that it troubles you. But as to the agent:
 when would God do anything if He waited till a sinner became worthy to
 be the channel of His mercy? 
 <pb n="21"/>
-                  <figure entity="laurie21">
+                  <figure><graphic url=""/>
                      <figDesc>21st page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -695,14 +675,14 @@ permitted sin at first, or why He allowed such a tempter to enter
 Eden. We only know that where sin abounds, grace does much more
 abound; and that the visit of Satan to destroy, gave occasion to the
 visit of Christ to save.</p>
-               <p pn="21">But why enlarge? Such things are tests of our confidence in
+               <p>But why enlarge? Such things are tests of our confidence in
 God; and however clouds and darkness may for a moment hide the sun,
 the Christian knows that it still shines--that there is a perfectly
 holy motive at the beginning--a pure and blameless management all the
 way, and an issue at the end that shall infinitely justify God in all
 His acts. The
 <pb n="22"/>
-                  <figure entity="laurie22">
+                  <figure><graphic url=""/>
                      <figDesc>22nd page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -725,7 +705,7 @@ done," but without any sinful agency of God on their minds inclining
 them so to act. Then do we not see clearly why we should adopt the
 language of the text, concerning this cowardly murder of our beloved
 chief magistrate, in humble and holy, aye, joy-giving faith?</p>
-               <p pn="22">For even if the course of events to-day, and for a long
+               <p>For even if the course of events to-day, and for a long
 time to come, should give no ray of light; though so far as tendencies
 and manifest results of Providence were concerned, we should be left
 in darkness, yet the character of God is so perfect that we cannot do
@@ -733,7 +713,7 @@ otherwise than give ourselves up confidingly to His sovereign
 disposal. If while our loved President was living, we could trust him
 even
 <pb n="23"/>
-                  <figure entity="laurie23">
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -747,7 +727,7 @@ face and sing, "As for God, His way is perfect; a just God, without
 iniquity, just and right is He;" "Therefore will we not fear, though
 the earth be removed and the mountains be cast into the midst of the
 sea."</p>
-               <p pn="23">But God has not shut us up to such darkness. As though He
+               <p>But God has not shut us up to such darkness. As though He
 knew us too well to trust us in such entire absence of all sensible
 comfort, He has not left Himself without witness in this time of
 national calamity. For He has been with us all through the war, and
@@ -764,7 +744,7 @@ prisoners as one of the darkest clouds in the whole horizon; but look
 round you: see how that inhumanity is opening the eyes of men at home
 and abroad to the true character of this rebellion. 
 <pb n="24"/>
-                  <figure entity="laurie24">
+                  <figure><graphic url=""/>
                      <figDesc>24th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -778,7 +758,7 @@ the nail thus driven home? What if it makes popular
 sentiment--proverbially fickle--as inflexible as the orbits of the
 stars? What if it secure a condemnation of this whole rebellion as
 lasting as the race?</p>
-               <p pn="24">But there is another view of this matter no less
+               <p>But there is another view of this matter no less
 encouraging. It is not in my heart to breathe one syllable in
 disparagement of the departed. I know it is the opinion of many that
 the heart now forever at rest was too tender for the stern work of
@@ -796,7 +776,7 @@ country--an effort held back from success only by the lifeblood of
 thousands of her bravest sons? If this be magnanimity, may God keep
 you and me from so great a crime. 
 <pb n="25"/>
-                  <figure entity="laurie25">
+                  <figure><graphic url=""/>
                      <figDesc>25th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -820,14 +800,14 @@ understand either duty or justice. It is one of the attributes of our
 God that He will by no means acquit the wicked. It is said in His
 praise, "Also unto Thee, O Lord! belongeth mercy, for Thou renderest
 to every man according to his works."</p>
-               <p pn="25">I said that public sentiment stood in the way of our
+               <p>I said that public sentiment stood in the way of our
 departed President, and hindered his performance of duty here; but his
 death has transformed that public sentiment. In murdering him, rebels
 removed the last barrier that stood between them and retribution. They
 struck down their kindest benefactor. They turned a latitudinarian
 public sentiment that cared nothing for justice, provided it enjoyed
 <pb n="26"/>
-                  <figure entity="laurie26">
+                  <figure><graphic url=""/>
                      <figDesc>26th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -835,7 +815,7 @@ present prosperity, into a stern demand for righteousness. The great
 danger now is that the righteous demand for justice shall degenerate
 into a ferocious cry for vengeance, and so err as far on one side as
 it has done on the other.</p>
-               <p pn="26">It is a significant fact that at this moment Providence has
+               <p>It is a significant fact that at this moment Providence has
 called to the chair, so sadly vacated, a man who thus expresses his
 views and purposes: "I am in favor of lenity, but in my opinion
 evildoers ought to be punished." "Treason stands highest in the
@@ -843,7 +823,7 @@ catalogue of crimes." "The halter to intelligent, influential
 traitors; but to the honest man, deluded into the rebel ranks, I would
 show mercy." Later, "Let it be engraven on every heart, that treason
 is a crime, and traitors shall suffer its penalty."</p>
-               <p pn="26">Take it, my hearers, as a mark of Divine favor, that in a
+               <p>Take it, my hearers, as a mark of Divine favor, that in a
 day like this, He calls a man to be the President of our country who
 advances sentiments like these. Let us cherish revenge towards no man;
 but if blood must be shed, it is better that it should be that of the
@@ -859,14 +839,14 @@ same, as his ministers, because that course is holy and benevolent--a
 terror to evildoers, and a praise to them that do well. You and I
 cannot be wiser or more
 <pb n="27"/>
-                  <figure entity="laurie27">
+                  <figure><graphic url=""/>
                      <figDesc>27th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
 benevolent than God. He calls us to no spirit of vengeance, but to
 such a reverent regard for right as shall make us willing to maintain
 it in His appointed way.</p>
-               <p pn="27">Four years ago we did not dare to hope that God would be
+               <p>Four years ago we did not dare to hope that God would be
 acknowledged in our land as He is to-day; that our coins would bear
 the inscription, "In God we trust;" that our rulers would implore the
 prayers of Christians; that our victories would be ascribed to
@@ -882,24 +862,24 @@ us give to his successor the confidence and love that we gave to him,
 and seek to turn the rushing stream out of the channel of blind
 revenge into that of holy, loving loyalty to God and right.</p>
                <pb n="28"/>
-               <p pn="28">
-                  <figure entity="laurie28">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>28th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
                </p>
             </div2>
-            <div2 id="laurie.004" n="DISCOURSE III." type="sermon">
-               <head pn="28">DISCOURSE III.</head>
+            <div2 xml:id="laurie.004" n="DISCOURSE III." type="sermon">
+               <head>DISCOURSE III.</head>
                <argument>
-                  <p pn="28">Preached on the Sabbath after the
+                  <p>Preached on the Sabbath after the
 Assassination.</p>
                </argument>
-               <epigraph pn="28">
-                  <p pn="28">Gen. v, 5: And all the days that Adam lived were nine
+               <epigraph>
+                  <p>Gen. v, 5: And all the days that Adam lived were nine
 hundred and thirty years, and he died.</p>
                </epigraph>
-               <p pn="28">MAN was formed of the dust of the ground, and so was named Adam:
+               <p>MAN was formed of the dust of the ground, and so was named Adam:
 i.e., red earth. Was it not intended that thus his name should be a
 constant memento of the word, "Dust thou art, and unto dust shalt thou
 return"? It may seem inconsistent with this that he should live
@@ -915,7 +895,7 @@ transgression. There must have been something very sad in that curse,
 for even Lamech said of his little babe, "This child shall comfort us
 concerning our work
 <pb n="29"/>
-                  <figure entity="laurie29">
+                  <figure><graphic url=""/>
                      <figDesc>29th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -937,7 +917,7 @@ wherein dwelleth righteousness. But even after so long a life, Adam
 died, and though Jared and Methuselah both lived longer than he, yet
 of them, also, the short biography closes with the same record: "and
 he died."</p>
-               <p pn="29">It might not be profitable to dwell on the life and death
+               <p>It might not be profitable to dwell on the life and death
 of our first parent. For we know so little of the incidents that
 filled up those nine hundred and thirty years, that we can only
 imagine what they were. But we need not go so far away. These emblems
@@ -946,14 +926,14 @@ day to keep our minds away from our great loss, and so while on
 Wednesday we gave ourselves up to meditation on the fact as citizens,
 today let us look at it as those to whom it is appointed once
 <pb n="30"/>
-                  <figure entity="laurie30">
+                  <figure><graphic url=""/>
                      <figDesc>30th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
 to die, and after death, the judgment. Yes, we shall follow after
 him--every one of us in his time--and of us it shall be true, as it
 now is true of him, that we shall not return.</p>
-               <p pn="30">The death of our beloved President, then, admonishes us
+               <p>The death of our beloved President, then, admonishes us
 that exalted station is no shield from death. Men sometimes have the
 feeling that while ordinary mortals die, those lifted up to
 responsible positions have a firmer hold on life; that Providence owes
@@ -967,7 +947,7 @@ moment, without delay. And if it was so with him on whom rested so
 much of responsibility and such great interests, much more is it true
 of us. As with a trumpet voice this Providence says to you and me,
 "Prepare to meet thy God."</p>
-               <p pn="30">There is another feeling somewhat akin to this, which leads
+               <p>There is another feeling somewhat akin to this, which leads
 us to expect that a man zealously engaged in a good work will be
 allowed to finish it; that if it involve the welfare of millions of
 his fellowmen, and he prosecutes it with rare discretion or unusual
@@ -978,7 +958,7 @@ secure long life, we must diligently engage in some work indispensable
 to human wellbeing, and so secure safety till the work be carried
 through? Nay, my hearers; but it tells us
 <pb n="31"/>
-                  <figure entity="laurie31">
+                  <figure><graphic url=""/>
                      <figDesc>31st page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -992,7 +972,7 @@ strong ones, who use their strength so profitably, how is it with us?
 Does not this Providence say to you and me, "Whatsoever thy hand
 findeth to do, do it with thy might, for there is no work nor device
 nor knowledge nor wisdom in the grave whither thou goest."</p>
-               <p pn="31">After these things, I need not speak of that very common
+               <p>After these things, I need not speak of that very common
 but far less reasonable feeling, that when, after passing through much
 tribulation, our feet are on the verge of quiet enjoyment, God will
 surely suffer us to live to see it; or that when, through much toil
@@ -1004,12 +984,12 @@ saith concerning such hopes. After long and patient toil we may say to
 our souls: "Soul! thou hast much good laid up for many years; take
 shine ease." But another may say: "Thou fool, this night thy soul
 shall be required of thee."</p>
-               <p pn="31">So, too, we may have said, Life is indeed uncertain, but
+               <p>So, too, we may have said, Life is indeed uncertain, but
 God will give me some warning ere he takes it away. He may not allow
 me to finish the undertaking in which I am engaged, but He will let me
 know when He would have me
 <pb n="32"/>
-                  <figure entity="laurie32">
+                  <figure><graphic url=""/>
                      <figDesc>32nd page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -1018,7 +998,7 @@ needful before probation ends. My hearers, it is written of one, "I
 gave her space to repent, and she repented not." God is now giving us
 the same, and of how many may the recording angel write this moment,
 "not repented?"</p>
-               <p pn="32">But let this Providence speak--"The Lord said unto Moses,
+               <p>But let this Providence speak--"The Lord said unto Moses,
 get thee up into this Mount Abarim, and see the land which I have
 given unto the children of Israel, and when thou hast seen it, thou
 shalt be gathered unto thy people." But did He give any such warning
@@ -1032,7 +1012,7 @@ nation? Oh, that it might be heeded! Oh, that along with the universal
 grief might be a heart to hear the voice of Him who says, "Be ye
 therefore ready also, for in such an hour as ye think not the Son of
 Man cometh."</p>
-               <p pn="32">And here I am constrained to turn aside a moment to another
+               <p>And here I am constrained to turn aside a moment to another
 lesson of this great national sorrow: From whatever side we view it,
 we are appalled by its magnitude. Like some lofty peak that rises so
 far above the rest of the mountain range that it seems to stand alone,
@@ -1040,7 +1020,7 @@ so does this bereavement overtop all similar distresses; but among all
 its other aggravations, we cannot forget the scene where it
 occurred. Fain would our affection have chosen some other
 <pb n="33"/>
-                  <figure entity="laurie33">
+                  <figure><graphic url=""/>
                      <figDesc>33th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -1071,7 +1051,7 @@ applauded, if the expression of its most violent outbreaks be only
 vivid and intense. In that case, the greater the verisimilitude the
 louder the applause. What education
 <pb n="34"/>
-                  <figure entity="laurie34">
+                  <figure><graphic url=""/>
                      <figDesc>34th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -1086,7 +1066,7 @@ keep the heart with all diligence, because out of it are the issues of
 life; to cultivate those inward graces, whose praise is not of men but
 of God--the nation might have been spared the tears it weeps
 to-day.</p>
-               <p pn="34">Through such a crime, in such a place, by such a hand, God
+               <p>Through such a crime, in such a place, by such a hand, God
 points us to those words of Jesus: "By their fruits ye shall know
 them;" and bids us decide which we shall choose for our children--the
 education of the theatre or of the church: of the book of plays, or
@@ -1098,13 +1078,13 @@ steady conflict with evil, that makes meet for an inheritance among
 the saints in light. Here is the training for adultery, treason and
 murder. There is the training to be like Christ, and be with Him where
 He is.</p>
-               <p pn="34">Some may fear that the death of so good a man in such a
+               <p>Some may fear that the death of so good a man in such a
 place may draw multitudes within its gates. But the fact that it
 trained his assassin for that deed of blood; that it blinded him to
 its damning infamy so as to glory in shame, from which a good
 conscience would have shrunk
 <pb n="35"/>
-                  <figure entity="laurie35">
+                  <figure><graphic url=""/>
                      <figDesc>35th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -1113,7 +1093,7 @@ or no depends on the character of each spectator of the crime. But its
 testimony concerning the influence of the theatre is one which no good
 man will fail to regard; and in this matter, as a parent soweth, so
 shall not only himself but his children reap.</p>
-               <p pn="35">We speak of being prepared for sudden death. It has become
+               <p>We speak of being prepared for sudden death. It has become
 a stereotyped phrase, "so to live every day as if it were our last;"
 but have we a definite idea of what such a life involves? It is not a
 few hasty prayers sandwiched between a life of ungodliness and our
@@ -1135,17 +1115,17 @@ commands in the daily life, and then in His house harden the same
 heart against His truth, so as to go forth and renew the disobedience
 of Saturday on Monday morning. 
 <pb n="36"/>
-                  <figure entity="laurie36">
+                  <figure><graphic url=""/>
                      <figDesc>36th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
 It is easy to do this; but that is not laying up treasure in
 Heaven.</p>
-               <p pn="36">On this point the life of our martyred President speaks as
+               <p>On this point the life of our martyred President speaks as
 loudly as his death. Says one who knew him intimately ever since he
 entered on the duties of the office he performed so well, and here I
 condense somewhat the testimony of his pastor, Rev. Dr. Gurley:</p>
-               <p pn="36">"He deserved the confidence and love of the nation by the whole
+               <p>"He deserved the confidence and love of the nation by the whole
 tenor and spirit of his life. Always and everywhere he endeavored to
 be right and to do right. His integrity was thorough and
 incorruptible, all pervading and all controlling. It was the same in
@@ -1166,12 +1146,12 @@ was his abiding confidence in God, and in final triumph, through Him
 and for His sake. This was the secret alike of his strength and his
 success, and by this
 <pb n="37"/>
-                  <figure entity="laurie37">
+                  <figure><graphic url=""/>
                      <figDesc>37th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
 more than by any other excellence, he being dead, yet speaketh."</p>
-               <p pn="37">So did President Lincoln perform the duties of each day;
+               <p>So did President Lincoln perform the duties of each day;
 and so through trust in the atoning blood of Jesus was he prepared to
 die. God grant that while we seek to be found in Christ, not having
 our own righteousness, but that which is through the faith of Christ,
@@ -1196,7 +1176,7 @@ are obeying his command, "Be ye therefore ready also, for in such an
 hour as ye think not the Son of Man cometh." We have need to do this,
 for God will not regard vain excuses. Nor will He
 <pb n="38"/>
-                  <figure entity="laurie38">
+                  <figure><graphic url=""/>
                      <figDesc>38th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -1211,7 +1191,7 @@ wrath, tribulation and anguish upon every soul of man that doeth evil,
 of the Jews first and also of the Gentiles; of the two, I had rather
 be an ignorant slave in Africa than a barren professor in New
 England.</p>
-               <p pn="38">And ye who make no profession, look after the fatal stroke,
+               <p>And ye who make no profession, look after the fatal stroke,
 at that heaving breast, that unconscious brain, and think what had
 become of him had the work of preparation for eternity been put of
 till then? And is your preparation all made? If not what security have
@@ -1220,7 +1200,7 @@ be equally incapable of thought and feeling. God is not shut up to one
 method of arresting mental activity. And have you any claim, that
 Abraham Lincoln had not, to a continuance of consciousness even to the
 last?</p>
-               <p pn="38">Finally, my hearers, this event is eminently fitted to
+               <p>Finally, my hearers, this event is eminently fitted to
 correct some popular errors concerning death. One of these errors is,
 to search the death-bed for evidences of piety rather than the
 life. But where does the Bible sanction such a course? Does it
@@ -1230,7 +1210,7 @@ Joshua, his successor? Look at the lamp of David going out amid the
 senilities of second childhood, or at the good Josiah, slain in his
 chariot
 <pb n="39"/>
-                  <figure entity="laurie39">
+                  <figure><graphic url=""/>
                      <figDesc>39th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -1241,7 +1221,7 @@ when or how or where she died, who can tell? Of Samuel it is simply
 said, "And Samuel died," and not even so much is said of Ezra, or
 Isaiah, or any of the prophets. And was that death at Washington an
 exception?</p>
-               <p pn="39">Another popular error is an expectation that everything
+               <p>Another popular error is an expectation that everything
 pleasant and peaceful will attend the death of the righteous. But it
 is of the wicked that it is written, "There are no bands in their
 death--their strength is firm." And how many of the people of God have
@@ -1254,14 +1234,14 @@ whether a death even of shame and insult be a token of perdition. Then
 enter many a house of luxury, and enquire whether death in tapestried
 chambers and amid all the alleviations of earthly love and wealth, be
 a token of salvation.</p>
-               <p pn="39">My hearers, even in death man looketh on the outward
+               <p>My hearers, even in death man looketh on the outward
 appearance, but God looketh on the heart, and on its preparation for
 heaven--not the physical comforts of a dying hour. What are all the
 comforts of the home of Dives, if they end in perdition? What are all
 the discomforts of the death of Lazarus--I do not say death <hi rend="italic">bed</hi>, for he may not have had one--if all ended in
 Abraham's bosom? What is
 <pb n="40"/>
-                  <figure entity="laurie40">
+                  <figure><graphic url=""/>
                      <figDesc>40th page of Thomas
 Laurie's Three Discourses.</figDesc>
                   </figure>
@@ -1275,7 +1255,7 @@ unrebukable before the throne, and so rest, singing "The Lord is my
 Shepherd, I shall not want." "Even in the valley of the shadow of
 death, I will fear no evil! for Thou art with me. Thy presence is all,
 all else is nothing."</p>
-               <p pn="40">And you who do not call yourselves disciples--you who do
+               <p>And you who do not call yourselves disciples--you who do
 not look to Jesus as your Saviour--think what would all his
 well-earned fame, what would all this affection, this universal
 mourning avail for our beloved President, if he were not washed from
@@ -1295,4 +1275,4 @@ world?</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>
