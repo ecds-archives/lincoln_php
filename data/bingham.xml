@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="National Disappointment.  A Discourse Occasioned by the Assassination of President Lincoln.">
             <title>  National
 Disappointment.  A Discourse Occasioned by the Assassination of
@@ -14,14 +12,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -30,9 +24,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -44,8 +36,7 @@ Assassination of President Lincoln.  Delivered in Westminster Church,
 Buffalo, Sunday Evening, May 7th, 1865.  Buffalo: Breed, Butler and
 Company, 1865.  </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -68,23 +59,12 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="bingham.001" n="National Disappointment.  A Discourse Occasioned by the Assassination of President Lincoln." type="text">
-            <head pn="1"> 
+         <div1 xml:id="bingham.001" n="National Disappointment.  A Discourse Occasioned by the Assassination of President Lincoln." type="text">
+            <head> 
                <bibl> 
                   <title> National Disappointment.  A Discourse Occasioned
 by the Assassination of President Lincoln.</title> 
@@ -92,57 +72,57 @@ by the Assassination of President Lincoln.</title>
                   <pubPlace>Westminster Church, Buffalo, NY</pubPlace> 
                   <author>Bingham,
 Joel F.</author> 
-                  <imprint>
+                  
                      <pubPlace>Buffalo, NY</pubPlace>
                      <publisher>Breed, Butler and Company</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15pmx</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="bingham1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Joel Bingham's
 National Disappointment.  A Discourse Occasioned by the Assassination
 of President Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">National Disappointment</p>
-            <p pn="1">A</p>
-            <p pn="1">DISCOURSE</p>
-            <p pn="1">OCCASIONED BY THE </p>
-            <p pn="1">ASSASSINATION OF PRESIDENT LINCOLN</p>
-            <p pn="1">DELIVERED IN WESTMINSTER CHURCH, BUFFALO,</p>
-            <p pn="1">SUNDAY EVENING, MAY 7TH, 1865</p>
-            <p pn="1">BY JOEL F BINGHAM</p>
-            <p pn="1">PASTOR OF THE CONGREGATION</p>
-            <p pn="1">BUFFALO: <lb/>BREED, BUTLER AND COMPANY. 
+            <p>National Disappointment</p>
+            <p>A</p>
+            <p>DISCOURSE</p>
+            <p>OCCASIONED BY THE </p>
+            <p>ASSASSINATION OF PRESIDENT LINCOLN</p>
+            <p>DELIVERED IN WESTMINSTER CHURCH, BUFFALO,</p>
+            <p>SUNDAY EVENING, MAY 7TH, 1865</p>
+            <p>BY JOEL F BINGHAM</p>
+            <p>PASTOR OF THE CONGREGATION</p>
+            <p>BUFFALO: <lb/>BREED, BUTLER AND COMPANY. 
 <lb/>
 1865</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="bingham2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Joel Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="2">FRANKLIN PRINTING HOUSE</p>
-            <p pn="2">THOMAS, TYPOGRAPHER</p>
+            <p>FRANKLIN PRINTING HOUSE</p>
+            <p>THOMAS, TYPOGRAPHER</p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="bingham3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Joel Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="bingham.002" n="DISCOURSE" type="sermon">
-               <head pn="3">DISCOURSE.</head>
-               <epigraph pn="3">
-                  <p pn="3">I WILL BRING THE BLIND BY A WAY THAT THEY KNEW NOT.-ISAIAH
+            <div2 xml:id="bingham.002" n="DISCOURSE" type="sermon">
+               <head>DISCOURSE.</head>
+               <epigraph>
+                  <p>I WILL BRING THE BLIND BY A WAY THAT THEY KNEW NOT.-ISAIAH
 XLII, 16.</p>
                </epigraph>
-               <p pn="3">No other fact has been more conspicuous upon the face of society
+               <p>No other fact has been more conspicuous upon the face of society
 among us, during the progress of the war that is now closing, than the
 constantly spreading and deepening sentiment of our national
 dependence on the allotments of the Divine Hand. We have learned, with
@@ -153,7 +133,7 @@ independence. Inexorable and repeated disappointments have taught us
 the most careful estimates and the most sanguine expectations, now
 immeasurable cut short, and then immeasurably outrun, have taught us,
 <pb n="4"/>
-                  <figure entity="bingham4">
+                  <figure><graphic url=""/>
                      <figDesc>4th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -162,7 +142,7 @@ thoroughly at last, that God, above all earthly forces, still directs
 the destinies of this world, and, by an inscrutable and irresistible
 Providence, WILL BRING BLIND MEN INTO HIS PURPOSES, (<hi rend="italic">nationally as well as individually</hi>,) BY A WAY THEY
 KNEW NOT.</p>
-               <p pn="4">At the outset of the rebellion, we were both unwilling and unable
+               <p>At the outset of the rebellion, we were both unwilling and unable
 to believe that a civil war among us would ever actually come, till
 the sudden bombardment and fall of Sumter thrilled, like lightning,
 through the national heart, in the terrible conviction 'that civil war
@@ -176,7 +156,7 @@ and overwhelming defeat of the national arms at Bull Run. Thus, again,
 we were strained to the sending of those huge armies into the field
 which have swept with desolation from
 <pb n="5"/>
-                  <figure entity="bingham5">
+                  <figure><graphic url=""/>
                      <figDesc>5th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -199,7 +179,7 @@ disappointments and terrors, were the President and the nation nerved
 up to utter, (with doubt and hesitation,) the immortal proclamation of
 January 1, 1863, by which the heathenish shackles were
 <pb n="6"/>
-                  <figure entity="bingham6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -210,7 +190,7 @@ to break the tremendous strength, or alleviate the horrors of their
 iron bondage. See then, fellow citizens, in these bitter surprises,
 how gloriously God has led us, in our blindness, by a way of His own
 that we knew not.</p>
-               <p pn="6">But these things are now securely past. We have been coming, in
+               <p>But these things are now securely past. We have been coming, in
 these preparatory remarks, to speak of our recent tremendous surprise
 and grief. For surely we expected no such thing. We have been equally
 confounded with amazement, and crushed with sorrow. We did not dream
@@ -222,7 +202,7 @@ realization of our best hopes, was to turn again into the gloom of
 that bitter sorrow which overspreads the land. That the great and good
 man whom we all delighted to
 <pb n="7"/>
-                  <figure entity="bingham7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -246,7 +226,7 @@ nothing short of an accredited prophecy from the skies could have made
 us believe that this incomparable President, this intensely beloved
 man,
 <pb n="8"/>
-                  <figure entity="bingham8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -264,13 +244,13 @@ cortege, magnificent in signs of woe. Many of us have gazed with our
 eyes upon the blackened ruin, fast crumbling back into unrecognizable
 dust--all of the nation's Deliverer and Slavery's Destroyer which the
 murderer's work has left to a mourning people.</p>
-               <p pn="8">Now we have to ask <hi rend="italic">what that new light is which God
+               <p>Now we have to ask <hi rend="italic">what that new light is which God
 has just made to dawn on our slow vision by this new and terrible turn
 in the path of his Providence</hi>. The occasion of such mighty
 mourning--a nation bowed, and each man for himself bowed in the agony
 of
 <pb n="9"/>
-                  <figure entity="bingham9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -279,7 +259,7 @@ a personal bereavement--what has this revealed to us which, in our
 blindness, we were before overlooking? What now are the new, or at
 least newly reiterated and reemphasized facts which these blackened
 heavens are thundering in the ears of the nation?</p>
-               <p pn="9">Why, in the first place, what all good men have been slow to read,
+               <p>Why, in the first place, what all good men have been slow to read,
 and unwilling to read, but are now compelled to read in letters of
 blood and fire in the heavens--<hi rend="italic">that the animus of this
 rebellion--the spirit which gave it life, and which has been its
@@ -294,7 +274,7 @@ have been far otherwise,) yet then, even, what must have been the
 seed, the atmosphere, the culture which could germinate and ripen this
 accursed fruit! 
 <pb n="10"/>
-                  <figure entity="bingham10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -303,7 +283,7 @@ No good cause, no laudable spirit, no worthy end could inspire a man
 to such devilish deeds. The cause, its spirit, its end are
 unmistakably set forth, before heaven and earth, in the fiendish
 champion and his fiendish work.</p>
-               <p pn="10">But the almost incredible truth has been made as clear as
+               <p>But the almost incredible truth has been made as clear as
 noonday-the unwelcome evidence has rolled up in masses of terrible
 light over innumerable enterprises and deeds of darkness, till one
 must be more sightless than the blind who does not see, to-day, that
@@ -318,7 +298,7 @@ appeal to arms impossible. Six months ago, when re-election was
 certain, it was coolly advertised for, in the newspapers, at a
 magnificent reward. 
 <pb n="11"/>
-                  <figure entity="bingham11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -337,13 +317,13 @@ transpired that they were <hi rend="italic">privy</hi> to a most
 formidable conspiracy, to prevent, in this same diabolical way, the
 second inauguration on the 4th of March last, which, no thanks to
 them, miscarried.</p>
-               <p pn="11">Look, now, for a moment, at the Southern methods of prosecuting
+               <p>Look, now, for a moment, at the Southern methods of prosecuting
 their public and civilized warfare, so-called, which the late climax
 of crime has powerfully illuminated. In Virginia, arsenic was thrown
 into the wells, where national armies were likely to pass; and the
 inhabitants of the country, whom these
 <pb n="12"/>
-                  <figure entity="bingham12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -352,7 +332,7 @@ armies had spared in life and property, were employed to bring into
 the national camps and sell to these soldiers poisoned pies and
 fruit. Sheridan himself, early in the summer of 1864, barely escaped
 with his life from a fatal dose received in a similar way.</p>
-               <p pn="12">Throughout the territory in rebellion, and during the whole
+               <p>Throughout the territory in rebellion, and during the whole
 contest, numberless murderous gangs have swept to and fro, hunting out
 and chasing down, like wild beasts, every man, however unarmed,
 unoffending and quiet, against whom the faintest suspicion whispered
@@ -366,14 +346,14 @@ forests. They were waylaid and shot from the wayside. Their houses
 were set on fire over their heads, and their wives and infant children
 driven naked into the night and the storm and the wilderness.</p>
                <pb n="13"/>
-               <p pn="13">
-                  <figure entity="bingham13">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>13th page of
 Joel Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="13">Our children will be compelled to read with a shudder of the wholesale
+               <p>Our children will be compelled to read with a shudder of the wholesale
 massacres of hundreds and thousands of national troops after
 surrender; of wounded national soldiers, on the field of battle and in
 the power of the enemy, purposely left to welter and languish, for
@@ -385,14 +365,14 @@ national soldiers left, by scores, to roast and consume in the burning
 building; in short, of the fortunes of battle, so terrible at the
 best, savagely aggravated, in a thousand horrible ways, by the inhuman
 and unheard of barbarities which this rebellion has developed.</p>
-               <p pn="13">Our children and the world will read, too, with indescribable
+               <p>Our children and the world will read, too, with indescribable
 detestation, how great and peaceful cities, far remote from the armies
 in conflict, were secretly set on fire, by the skulking incendiaries
 of the rebellion; of the attempted destruction of moving railroad
 trains, filled with unarmed men, women and children, by similar
 emissaries from the same quarter; and of the
 <pb n="14"/>
-                  <figure entity="bingham14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -400,7 +380,7 @@ Assassination of President Lincoln.</figDesc>
 cruelest ocean piracies on record, perpetrated in ships of foreign
 make and outfit, under this monstrous assumption of illegitimate
 authority.</p>
-               <p pn="14">But the blackest page, as it seems to me, which the whole history
+               <p>But the blackest page, as it seems to me, which the whole history
 of the past can show will be that on which shall stand the yet
 unwritten, yet ungathered and unknown summary of <hi rend="italic">the
 horrors of the rebel prisons</hi>, which confined and slowly destroyed
@@ -414,11 +394,11 @@ posterity will turn pale as they read that record. Mankind will
 execrate the story with everlasting curses, and confess that this
 alone were enough to consign the exploded slave-holders' rebellion to
 the blackest abyss of human infamy.</p>
-               <p pn="14">Now it should seem strange, if it were not found, (though the
+               <p>Now it should seem strange, if it were not found, (though the
 evidence which has transpired all points in the opposite direction,)
 nev-
 <pb n="15"/>
-                  <figure entity="bingham15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -441,7 +421,7 @@ match, in case they were likely to be retaken, massacres, tortures,
 starvation of tens of thousands of prisoners of war, the destruction
 of railway trains, the conflagration of great cities full of peaceful
 <pb n="16"/>
-                  <figure entity="bingham16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -449,7 +429,7 @@ Assassination of President Lincoln.</figDesc>
 inhabitants by the nightly torch of the incendiary, and finally, oh
 heavens! the concerted butchery of the President of the United States,
 by a too long tolerated play-actor!</p>
-               <p pn="16">The evidence which is daily transpiring points, as we have said,
+               <p>The evidence which is daily transpiring points, as we have said,
 with increasing certainty to the conclusion, (hard as it is to credit
 both the stupidity of the mistake and the brutality of the guilt,)
 that the head and representative and for a time essentially the
@@ -464,7 +444,7 @@ surrendered their souls, when they entered the conspiracy to break up
 and destroy this gentlest of governments and happiest of nations on
 earth. This view, it must be confessed,
 <pb n="17"/>
-                  <figure entity="bingham17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -481,13 +461,13 @@ have sent relief and life to these dying men. But this he did not
 do. That word he did not speak. Their cruel and unnecessary deaths,
 therefore, it is scarcely possible to deny, cry out of the ground by
 thousands, and call him their relentless murderer.</p>
-               <p pn="17">But there is another possible explanation of the strength and
+               <p>But there is another possible explanation of the strength and
 steadiness of that unbroken current of brutalities and fiendish
 deeds. We are able to suppose, that, the rebellion once under way, the
 leaders were practically unable altogether to control its lawless
 spirit, and restrain its hideous excesses. It is not im-
 <pb n="18"/>
-                  <figure entity="bingham18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -511,7 +491,7 @@ developed and maddened spirit of misrule and destruction? Oh, how
 irreparable and eternal, is the mischief, and how unpardonable is the
 thousandfold murder-
 <pb n="19"/>
-                  <figure entity="bingham19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -532,11 +512,11 @@ cruelty to the innocent. The only possible stability for our
 Government, and safety for our children, depends on the irrevocable
 doom of these men, who stand before heaven and earth the murderers at
 once of ourselves and our liberties.</p>
-               <p pn="19">But this disposal of the leaders in treason, painful and difficult
+               <p>But this disposal of the leaders in treason, painful and difficult
 as it may be, is not the most painful, nor the most difficult aspect
 of our
 <pb n="20"/>
-                  <figure entity="bingham20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -560,7 +540,7 @@ will be, while they breathe in earthly air. Consider, we pray you, how
 astonishingly, beyond all we were able to believe possible, the spirit
 of treason and blood grew
 <pb n="21"/>
-                  <figure entity="bingham21">
+                  <figure><graphic url=""/>
                      <figDesc>21st page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -577,14 +557,14 @@ of their cause, and when the door of peace was already opening, has
 filled our land with blacker mourning, than the united slaughters of
 the whole war. From this horrible specimen Providence is calling us to
 learn of the spirit which is yet to be dealt with.</p>
-               <p pn="21">How long this state of things is to continue--how long this temper
+               <p>How long this state of things is to continue--how long this temper
 of murderous treason is to remain, suppressed, indeed, but not
 dead--how long it is to exist, scattered and concealed, but alive and
 rankling in embittered and desperate bosoms, or perhaps fostered and
 deliberative in the darkness of secret organizations-this is the first
 and foremost of the
 <pb n="22"/>
-                  <figure entity="bingham22">
+                  <figure><graphic url=""/>
                      <figDesc>22nd page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -597,7 +577,7 @@ these developments would be to await perdition. The contingency to be
 instantly met, with all its uncertainties, is already upon us. Its
 uncertainties constitute a great part of its peril, as well as its
 demand for immediate, effectual and decisive remedies.</p>
-               <p pn="22">In times like these it must be wise, then, for us and our rulers to
+               <p>In times like these it must be wise, then, for us and our rulers to
 recall, and to be willing to take for the guidance of our conduct,
 principles of safety which have been so often demonstrated, at the
 cost of seas of human blood on other continents and in former
@@ -606,9 +586,9 @@ and experience aside, in order to make trial of humanitarian theories
 and crude speculations. The exigency calls for well-aimed and rapid
 strokes, such as the experience of the world has proved to be
 efficacious and sure.</p>
-               <p pn="22">Among the principles which have been
+               <p>Among the principles which have been
 <pb n="23"/>
-                  <figure entity="bingham23">
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -632,7 +612,7 @@ the reputation, the property, the life of individuals, no matter how
 numerous, no matter of what station. It is also one of the stern facts
 which have been estab-
 <pb n="24"/>
-                  <figure entity="bingham24">
+                  <figure><graphic url=""/>
                      <figDesc>24th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -656,7 +636,7 @@ with unexampled mourning. It was not Philip II. of Spain, the meanest,
 cruelest, darkest spirit that ever occupied a throne, but it was
 William of Orange, the brave, devoted, glorious deliverer of Holland,
 <pb n="25"/>
-                  <figure entity="bingham25">
+                  <figure><graphic url=""/>
                      <figDesc>25th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -668,7 +648,7 @@ likely to get away with his life, but it was the gentle, forbearing,
 forgiving, the incomparably loved and honored President Lincoln, who
 received the assassin's ball, and whose untimely and cruel death has
 filled every loyal heart in the land with unutterable sorrow.</p>
-               <p pn="25">These principles, which ought to be worth to us, whatever our lives
+               <p>These principles, which ought to be worth to us, whatever our lives
 and fortunes and liberties are worth, are familiar and easily
 apprehended; and the inferences which of necessity follow are certain
 and terrible. These principles, we say, and the stern and terrible
@@ -679,7 +659,7 @@ view to dictate, nor with the desire that you, or that our fellow
 citizens at large, should dictate in their hearts, even, much less
 should clamorously prescribe to our rulers and tribunals
 <pb n="26"/>
-                  <figure entity="bingham26">
+                  <figure><graphic url=""/>
                      <figDesc>26th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -702,14 +682,14 @@ to retard and render more uncertain that stroke of justice which all
 desire to see fall, in some form, upon the guilty; while, too, the
 most essential thing, and perhaps the only thing
 <pb n="27"/>
-                  <figure entity="bingham27">
+                  <figure><graphic url=""/>
                      <figDesc>27th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
                   </figure>
 really vital to the republic is, that the stroke of retribution should
 be at once sure and speedy.</p>
-               <p pn="27">But, unquestionably, as the whole class of facts to which we have
+               <p>But, unquestionably, as the whole class of facts to which we have
 just alluded, and above all the terrible fact which has brought us to
 this discussion to-night, distinctly indicate, <hi rend="italic">the
 danger which chiefly threatens us lies not in the direction of
@@ -726,7 +706,7 @@ speedy end of all armed resistance to the government flashed upon our
 view, then, our very success was operating to overset our safety. The
 joy of final victory, the inexpressible sense of relief
 <pb n="28"/>
-                  <figure entity="bingham28">
+                  <figure><graphic url=""/>
                      <figDesc>28th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -736,7 +716,7 @@ unfortunately, but not unnaturally, went at once to melt down the
 sternness of the popular heart, and efface the just sense of wrong and
 danger which were still indispensable to key the national nerve up to
 the thorough work of annihilating the last fragment of treason.</p>
-               <p pn="28">But if, after the new and terrible light which this fearful
+               <p>But if, after the new and terrible light which this fearful
 Providence has thrown upon the spirit and purposes of treason among
 us--if, after this wholesome alarm, which has touched the minds of
 millions who would not otherwise have seen, or believed, the great and
@@ -749,13 +729,13 @@ will be the judgment of history upon us, and who will pity our
 miseries, or, should we be utterly devoured by endless treason, who
 would drop a tear on
 <pb n="29"/>
-                  <figure entity="bingham29">
+                  <figure><graphic url=""/>
                      <figDesc>29th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
                   </figure>
 the page that should record our national extinction?</p>
-               <p pn="29">But, thanks to the kind efficiency of God's bitter strokes, this
+               <p>But, thanks to the kind efficiency of God's bitter strokes, this
 will not be. Our last lesson has been enough. The American people is
 ready, now, to sustain, with unflinching determination, the execution
 of law and justice and expediency, both upon the shattered carcass,
@@ -763,7 +743,7 @@ and upon every existing limb, of this hideous treason; and no matter
 how terrible and how extensive the application of punishment may be,
 they are ready to make the welkin ring with their contented and hearty
 Amen!</p>
-               <p pn="29">The American Government has passed, and emerged in safety, from the
+               <p>The American Government has passed, and emerged in safety, from the
 crucial test of its lawful authority and its power to maintain it. It
 is settled, whether the United States be a nation, living an
 indivisible unity of life, or whether it be a loose and lifeless
@@ -772,7 +752,7 @@ folly is no longer debatable, whether the will of a State, or of any
 coalition of States, can effectually defy the authority of the
 American people, as embodied in the General Government. These heresies
 <pb n="30"/>
-                  <figure entity="bingham30">
+                  <figure><graphic url=""/>
                      <figDesc>30th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -780,7 +760,7 @@ Assassination of President Lincoln.</figDesc>
 have found their end. They have been ground to powder in the shocks of
 battle, and trampled into the dust of the Southern plantations under
 the terrible marches of the national armies.</p>
-               <p pn="30">Above all, that cause of causes--that force behind all other
+               <p>Above all, that cause of causes--that force behind all other
 forces-that germinating power and foster-father of the States' rights
 heresy -that heaven -assaulting system of sin--legalized slavery--has
 been throttled in the exigencies of war, and its very carcass, in the
@@ -788,7 +768,7 @@ smoke of battle, has disappeared. This was a way of deliverance, and
 advancement, which we knew not, and four years ago were too blind to
 see, but by which God (glory to His name) has astonishingly brought
 us.</p>
-               <p pn="30">The immediate instrument by whom we have been thus led-blindly
+               <p>The immediate instrument by whom we have been thus led-blindly
 indeed and through terrible alarms, yet safely and gloriously led-has
 been, I need not say, the departed, lamented, venerated President,
 whose precious dust, the nation, sobbing in the agony of bereavement,
@@ -796,7 +776,7 @@ have just followed with benedictions to the place which shall give it
 an honored rest, till the morning of the resurrection He has not only
 deserved to
 <pb n="31"/>
-                  <figure entity="bingham31">
+                  <figure><graphic url=""/>
                      <figDesc>31st page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -804,7 +784,7 @@ Assassination of President Lincoln.</figDesc>
 be, but he has been, the most fortunate of men. Well might the most
 illustrious of emperors envy his fame. His history is sublime. His
 glory is peerless.</p>
-               <p pn="31">There is but one measure of greatness and glory which the American
+               <p>There is but one measure of greatness and glory which the American
 people will ever tolerate to be used, in attempting to estimate the
 grandeur of his excellence, and the brightness of his name. Upon a
 monumental column, at the northeast corner of Trafalgar Square, in
@@ -820,7 +800,7 @@ has hitherto held the form of the one great glory of our nation,
 whither pilgrims trod to admire the character of Washington, and
 receive new
 <pb n="32"/>
-                  <figure entity="bingham32">
+                  <figure><graphic url=""/>
                      <figDesc>32nd page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -838,12 +818,12 @@ niches of glory are now full. Let us accustom our eyes to the
 glittering letters of immortality, and our ears to the golden sound
 which our children's children will chant, together, to the latest
 generation--WASHINGTON AND LINCOLN!  WASHINGTON AND LINCOLN!!</p>
-               <p pn="32">The few great names grow greater and more glorious, as years go
+               <p>The few great names grow greater and more glorious, as years go
 by. They require the perspective of ages, to allow us to make a true
 measurement of their vastness; and it is only the calm atmosphere of
 written history, and the increasing light of developing truth,
 <pb n="33"/>
-                  <figure entity="bingham33">
+                  <figure><graphic url=""/>
                      <figDesc>33rd page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -852,7 +832,7 @@ which is able to bring out, and will continue more and more to bring
 out, in the apprehension of mankind, their real splendor. So it has
 been with WASHINGTON, the first of our golden names, so it will be
 with LINCOLN, our second.</p>
-               <p pn="33">There are reasons which will render this law of human glory more
+               <p>There are reasons which will render this law of human glory more
 sure in the second case, than it has been in the first. WASHINGTON was
 a military chief-a position which always affords the best opportunity
 for building up a rapid fame of the most showy and captivating
@@ -867,7 +847,7 @@ can, reverently, be said to have organized a victory, in affairs so
 immense and complicated beyond any sure calculations of man,) yet wore
 no other uniform but the dress of an
 <pb n="34"/>
-                  <figure entity="bingham34">
+                  <figure><graphic url=""/>
                      <figDesc>34th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -881,7 +861,7 @@ lieutenants in the field, who richly deserve their fame; while,
 nevertheless, many a specific and unexpected blow which fell with
 crushing weight upon the bleeding head of the rebellion was contrived
 and matured in his own original and sagacious brain.</p>
-               <p pn="34">Then again, WASHINGTON was not called to encounter a breath of
+               <p>Then again, WASHINGTON was not called to encounter a breath of
 political prejudice, in his opening career, but rode at once to his
 illustrious station, on a whirlwind of popular choice, esteem and
 expectation. The just departed LINCOLN fell upon far different times,
@@ -890,7 +870,7 @@ was extensively and outrageously defamed. Even by his friends, he was
 then but partially known, and relied on with many painful misgivings
 and fears, which gave way but slowly at first, though they disap-
 <pb n="35"/>
-                  <figure entity="bingham35">
+                  <figure><graphic url=""/>
                      <figDesc>35th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
@@ -900,7 +880,7 @@ richness of his affections and the clearness of his insight and the
 invincibility of his purpose and his flaming patriotism, began to form
 that wonderful halo of glory which shone so brightly, at last, around
 his venerated head.</p>
-               <p pn="35">Another thing--which fixes a stronger impression upon
+               <p>Another thing--which fixes a stronger impression upon
 contemporaries than on posterity, and the essential splendor of which
 steadily vanishes as ages go by--<hi rend="italic">the family</hi> of
 WASHINGTON was old, dignified and wealthy; and these factitious
@@ -914,14 +894,14 @@ romantic enchantment that gathers about the name of Cincinnatus, taken
 from the plough-field to the command and the salvation of the Roman
 state, will weave its peculiar and increasing witchery
 <pb n="36"/>
-                  <figure entity="bingham36">
+                  <figure><graphic url=""/>
                      <figDesc>36th page of Joel
 Bingham's National Disappointment.  A Discourse Occasioned by the
 Assassination of President Lincoln.</figDesc>
                   </figure>
 of glory, around the strange, homely origin of "the people's
 President."</p>
-               <p pn="36">Finally, WASHINGTON <hi rend="italic">lived</hi> for his country, and
+               <p>Finally, WASHINGTON <hi rend="italic">lived</hi> for his country, and
 died as a great and good man would wish to die, who had no more
 sacrifices to make for his fellow men. The life of the just departed
 LINCOLN, after having wrought out the painful salvation of the
@@ -943,4 +923,4 @@ glory cannot go.</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="A Sermon on the Death of Abraham Lincoln, April 15th, 1865.">
             <title>  A Sermon on the Death of Abraham Lincoln, April 15th,
 1865.</title>
@@ -13,15 +11,11 @@ and edited by</resp>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory
-University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
+University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -30,9 +24,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln Sermons Project</title>
          </seriesStmt>
@@ -44,8 +36,7 @@ Following Wednesday Evening, by the Pastor, O. E. Daggett.
 Canandaigua, N. Y.  N. J. Milliken, Printer-Ontario County Times
 Office.  1865. </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -60,23 +51,12 @@ Preservation Office, and Pitts Theology Library.</p>
             <p>COMPRESSION: Resolution 144 per inch with Constrain Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="dagget.001" n="A Sermon on the Death of Abraham Lincoln, April 15th, 1865." type="text">
-            <head pn="1">
+         <div1 xml:id="dagget.001" n="A Sermon on the Death of Abraham Lincoln, April 15th, 1865." type="text">
+            <head>
                <bibl>
                   <title>A Sermon on the Death of Abraham Lincoln, April 15th,
 1865.</title> 
@@ -86,43 +66,43 @@ Request, the Following Wednesday Evening.</date>
 Congregational Church, Canandaigua, N. Y.</pubPlace> 
                   <author>Pastor
 O. E. Daggett</author>
-                  <imprint>
+                  
                      <pubPlace>Canandaigua, New York</pubPlace>
                      <publisher>N. J. Milliken,
 Printer-Ontario County Times Office.</publisher>
                      <date>1865</date>
-                  </imprint>
+                  
                <idno type="ark">http://pid.emory.edu/ark:/25593/15q0j</idno></bibl>
             </head>
-            <p pn="1">
-               <figure entity="dagget1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of O. E. Daggett's A Sermon
 on the Death of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">A SERMON</p>
-            <p pn="1">ON THE DEATH OF</p>
-            <p pn="1">ABRAHAM LINCOLN,</p>
-            <p pn="1">April 15th, 1865,</p>
-            <p pn="1">PREACHED IN THE FIRST CONGREGATIONAL CHURCH,</p>
-            <p pn="1">CANANDAIGUA, N.Y.</p>
-            <p pn="1">Sunday Morning, April 16th, 1865,</p>
-            <p pn="1">AND AGAIN, BY REQUEST, THE FOLLOWING WEDNESDAY EVENING,</p>
-            <p pn="1">BY THE PASTOR,</p>
-            <p pn="1">O.E. DAGGETT.</p>
-            <p pn="1">CANANDAIGUA, N.Y.</p>
-            <p pn="1">N.J. MILLIKEN, PRINTER-ONTARIO COUNTY
+            <p>A SERMON</p>
+            <p>ON THE DEATH OF</p>
+            <p>ABRAHAM LINCOLN,</p>
+            <p>April 15th, 1865,</p>
+            <p>PREACHED IN THE FIRST CONGREGATIONAL CHURCH,</p>
+            <p>CANANDAIGUA, N.Y.</p>
+            <p>Sunday Morning, April 16th, 1865,</p>
+            <p>AND AGAIN, BY REQUEST, THE FOLLOWING WEDNESDAY EVENING,</p>
+            <p>BY THE PASTOR,</p>
+            <p>O.E. DAGGETT.</p>
+            <p>CANANDAIGUA, N.Y.</p>
+            <p>N.J. MILLIKEN, PRINTER-ONTARIO COUNTY
 TIMES OFFICES</p>
-            <p pn="1">1865</p>
+            <p>1865</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="dagget2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="2">CANANDAIGUA, APRIL
+            <p>CANANDAIGUA, APRIL
 17TH, 1865.  <lb/>O.E. DAGGETT, D.D.,
 			<lb/>Dear Sir:-The undersigned, for themselves,
 and many others, whose pleasure and satisfaction it was to listen to
@@ -142,7 +122,7 @@ MERRICK
 MUNGER,							GEO. COOK,<lb/>
 J.C. FAIRCHILD,							CHARLES
 COY.</p>
-            <p pn="2">L.B. GAYLORD, AND OTHERS:
+            <p>L.B. GAYLORD, AND OTHERS:
 	<lb/>
                <hi rend="italic">Gentlemen</hi>:-The sermon on President
 LINCOLN'S death I submit to, your disposal, though of course it cannot
@@ -156,21 +136,21 @@ omitted in the first hasty preparation.
 					<lb/>Yours respectfully
 								<lb/>O. E. DAGGETT.</p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="dagget3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="dagget.002" n="SERMON" type="sermon">
-               <head pn="3">SERMON</head>
-               <epigraph pn="3">
-                  <p pn="3">
+            <div2 xml:id="dagget.002" n="SERMON" type="sermon">
+               <head>SERMON</head>
+               <epigraph>
+                  <p>
                      <hi rend="italic">"That your faith and hope
 might be in God.</hi>"-1 PET., 1, 21.</p>
                </epigraph>
-               <p pn="3">We are one with the millions who, having partaken of a common joy,
+               <p>We are one with the millions who, having partaken of a common joy,
 this day partake of a common grief. The nation's heart is throbbing
 through our hearts. The past week has come and gone like a wondrous
 dream, yet a momentous reality. What other ever brought such
@@ -194,13 +174,13 @@ announcements of victories, now bore their black lines of
 grief. "President Lincoln is shot-there is no hope of his recovery;"
 yet after these telegrams some
 <pb n="4"/>
-                  <figure entity="dagget4">
+                  <figure><graphic url=""/>
                      <figDesc>4th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
 of us would hope, until there came another, "The President is
-dead."<ref target="dagget.002.n01">*</ref>
+dead."<ref target="#dagget.002.n01">*</ref>
 Similar tidings came too, though not so hopeless, of his chief
 adviser, the Secretary of State, before prostrate on his bed, yet
 stabbed at the same hour. We have hardly known what to say or
@@ -209,7 +189,7 @@ the divine Providence? What cloud is this that has burst over us; what
 emissaries from hell have broken forth at the hour of our triumph?
 Such questions we have asked, and neither we nor others could
 answer.</p>
-               <p pn="4">All this bewilderment seemed to me a strange preparation for this
+               <p>All this bewilderment seemed to me a strange preparation for this
 Lord's day. But then I thought, so much the more is this day needed,
 its silence, its worship, its meditation. Whither should we go in such
 sorrowful confusion, but to the house of prayer? To whom should we
@@ -228,18 +208,18 @@ Himself. So I would still keep that theme in sight, with a view to the
 effect which the apostle Peter sets forth as means to be produced, by
 our Lord's resurrection, in the minds of his followers. They are thus
 addressed:-"Who by him (Christ) do believe in God who raised
-<note pn="4" id="dagget.002.n01" n="*" place="foot" anchored="yes">He was shot on Friday at 10 P.M., but died Saturday,
+<note xml:id="dagget.002.n01" n="*" place="foot" anchored="true">He was shot on Friday at 10 P.M., but died Saturday,
 April 15th, at 7:22 A.M. The first intelligence came here in the
 Rochester paper, and the latter by telegraph, some hours later.</note>
                   <pb n="5"/>
-                  <figure entity="dagget5">
+                  <figure><graphic url=""/>
                      <figDesc>5th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
 him up from the dead, and gave him glory, <hi rend="italic">that your
 faith and hope might be in God</hi>."</p>
-               <p pn="5">The result described in these last words is the very confidence we
+               <p>The result described in these last words is the very confidence we
 always need, and never more than under the shock of sudden
 disaster. True Christians may be staggered by ill tidings, but ought
 never to be, prostrated. Their faith and hope ought to be of such a
@@ -265,11 +245,11 @@ counsel can I give you than to say still, As surely as we are on the
 Lord's side, He is on ours: "the Lord of hosts is with us!" See to it
 that this principal design of Christianity be realized in you; that
 your faith and hope be in God!</p>
-               <p pn="5">It is not a new thing for death to enter the highest place in our
+               <p>It is not a new thing for death to enter the highest place in our
 land,-we may say the post of highest honor in the world,-and to choose
 for his victim a President
 <pb n="6"/>
-                  <figure entity="dagget6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -305,7 +285,7 @@ surrender received of the most formidable of the rebel chiefs and
 armies, and how has our loyal land rung with shouts of triumph, and
 leaped for joy in the prospect of re-union
 <pb n="7"/>
-                  <figure entity="crane7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of O. E. Daggett's
 A Sermon on the Death of Abraham Lincoln.</figDesc>
                   </figure>
@@ -315,7 +295,7 @@ ship through such storms so near to the desired haven, to be struck
 down at the helm, by an assassin,-this is our disappointment and
 wonder and grief. No other death has so thrilled, or could so thrill,
 this nation at once with a sense of bereavement and with horror.</p>
-               <p pn="7">It is not my purpose, if now it were so soon possible for me, nor
+               <p>It is not my purpose, if now it were so soon possible for me, nor
 is this the time or place, to review formally the administration of
 our lamented President, or to set forth his history or delineate fully
 his character. This will be done by many with ample time and means,
@@ -326,7 +306,7 @@ by time. I have no doubt at all as to the judgment of posterity. On
 this occasion I shall but briefly advert to some things in his
 character and course that make his sudden death so memorable an
 affliction to us and to our nation.</p>
-               <p pn="7">Abraham Lincoln rose to his high position from the utmost
+               <p>Abraham Lincoln rose to his high position from the utmost
 obscurity, by virtue of native intellectual power, and indomitable
 moral energy. He was an eminently wise and good man, strong in his
 integrity, faithful to his high obligations, devoted to his country's
@@ -341,7 +321,7 @@ differences of honest opinion about sundry measures of his
 administration, and especially as to the conduct of the war in its
 different stages. Never
 <pb n="8"/>
-                  <figure entity="dagget8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -378,7 +358,7 @@ one end, to put down the rebellion and to restore the Union of the
 States, and hence from time to time he adjusted himself to new
 emergencies with the
 <pb n="9"/>
-                  <figure entity="dagget9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -402,7 +382,7 @@ that Abraham Lincoln was proved by long and fiery trial to be a man
 raised up by Providence for the station he filled, so it must be
 conceded by all that he honestly aimed to shape his course by the
 indications of Providence.</p>
-               <p pn="9">And nothing more plainly illustrates these thoughts than his course
+               <p>And nothing more plainly illustrates these thoughts than his course
 on the whole subject of emancipation. From first to last, as I have
 said, he proposed to himself, with the simplicity of a religious vow,
 this one end, the restoration of the Federal government in its
@@ -415,7 +395,7 @@ free in all the insurgent territory, to the destruction of that which,
 so virulently assailed the union. While some might think, with
 Mr. Everett, when consulted on the subject, that
 <pb n="10"/>
-                  <figure entity="dagget10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -431,7 +411,7 @@ whole race within this nation yields him even a more touching
 tribute. I seem to see their millions bending reverently, their
 shackles broken, while with plaintive prayers and songs they lament
 him as their deliverer, hallowing his memory with their tears.</p>
-               <p pn="10">Such being the personal qualities conceded to our President, it was
+               <p>Such being the personal qualities conceded to our President, it was
 the good pleasure of Providence, within the past few months, to crown
 his administration with such signal successes, and of late to
 accumulate such victories for our arms, that the people at large, with
@@ -442,7 +422,7 @@ learned to honor him full well while yet he lived, and now that he is
 dead he has the tribute of a universal sorrow not from this nation
 only but from the friends of freedom in every land. Patriotism and
 philanthropy will pay homage together at his grave.</p>
-               <p pn="10">The elements of character thus indicated, in connection with the
+               <p>The elements of character thus indicated, in connection with the
 manner of his death and, with our recent triumphs and joys, give to
 our sense of the occasion almost a personal quality not felt at every
 public loss. We think of the dead not merely in his official aspect,
@@ -451,7 +431,7 @@ mourned with us. Indeed he is himself added to our "noble army of
 martyrs." He too has fallen in his country's service, though not by a
 soldier's hand but an assassin's. From his high position he has
 <pb n="11"/>
-                  <figure entity="dagget11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -462,7 +442,7 @@ eloquence on the field of Gettysburg. Of the myriads of graves which
 this war has filled, none will be more sacred or inspiring than
 his. It remains for the people, as he then taught, to be dedicated by
 his example to the work for which he wrought and fell.</p>
-               <p pn="11">Death ever has a peculiar solemnity when it enters the high places
+               <p>Death ever has a peculiar solemnity when it enters the high places
 of the world, not only for its contrast with earthly dignity, but
 because it suggests the common footing on which we all stand in
 relation to the unseen world. I have not the materials, if it were
@@ -482,13 +462,13 @@ dead. It seems easy for us to believe that one who has been so
 faithful to such an earthly trust, when suddenly called to a higher
 than human tribunal, has received the testimony, "Well done, thou good
 and faithful servant!"</p>
-               <p pn="11">We are conscious of another emotion under our national
+               <p>We are conscious of another emotion under our national
 bereavement. Besides sorrow for a faithful servant of his country in
 her highest office, that country is thrilled with horror at the crime
 which bereaves her, and indignation toward his murderer. If there be
 on earth
 <pb n="12"/>
-                  <figure entity="dagget12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -508,8 +488,8 @@ righteous indignation that burns within us toward the dastardly
 assassin. Nor are we forbidden to say of a miscreant who has wrought
 such a crime against a nation in her peril, what Paul could say of one
 who had done him "much evil,"--"The Lord reward him according to his
-works."<ref target="dagget.002.n02">*</ref></p>
-               <p pn="12">The atrocity of the crime by which this affliction is brought on
+works."<ref target="#dagget.002.n02">*</ref></p>
+               <p>The atrocity of the crime by which this affliction is brought on
 our country must not lead us to think of the event out of its
 connection with the providence of God. Events are providential not
 merely sometimes as independent of human agency, but always as never
@@ -523,20 +503,20 @@ the world. The crimes that He most abhors, when not prevented, are yet
 overruled in subordination to his cause, and against their guilty
 authors. The Son of God was "crucified and slain by wicked hands" on a
 Friday, more than eighteen centuries ago
-<note pn="12" id="dagget.002.n02" n="*" place="foot" anchored="yes">2 Tim. 4., 14.</note>
+<note xml:id="dagget.002.n02" n="*" place="foot" anchored="true">2 Tim. 4., 14.</note>
                   <pb n="13"/>
-                  <figure entity="dagget13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
 yet was He "delivered by the determinate counsel and foreknowledge of
-God." <ref target="dagget.002.n3">*</ref> Let not this new crime in out annals, wrought on the day kept
+God." <ref target="#dagget.002.n3">*</ref> Let not this new crime in out annals, wrought on the day kept
 as the anniversary of that day, seem to us as if it had not been
 foreseen, and permitted, however mysteriously, by him in whom we
 trust, and would not be made subservient to the very good it was
 intended to destroy.</p>
-               <p pn="13">Some things I have noted as giving us a measure of relief in the
+               <p>Some things I have noted as giving us a measure of relief in the
 aspect of this national disaster. It is well that our President did
 not fall in Richmond, where he had been so recently exposed. It might
 then have been said or thought that he was out of his place, incurring
@@ -559,9 +539,9 @@ waved again over the birth place and the capital of the rebellion,
 borne to that supremacy by faithful champions from among those whom
 that rebellion would have trodden down forever; till the ablest rebel
 leader had surrendered with his army; nor did he die till he could say,
-<note pn="13" id="dagget.002.n3" n="*" place="foot" anchored="yes">Acts 2., 23.</note>
+<note xml:id="dagget.002.n3" n="*" place="foot" anchored="true">Acts 2., 23.</note>
                   <pb n="14"/>
-                  <figure entity="dagget14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -570,12 +550,12 @@ Already this day has that old flag gone up to its place, and been
 flung out in the free air over Fort Sumter by the heroic hands that
 held it there so valiantly to the last four years ago. I thank God for
 this.</p>
-               <p pn="14">If now it be still asked again, as we have all asked, Why must the
+               <p>If now it be still asked again, as we have all asked, Why must the
 Chief Magistrate of this republic, in this day of triumph, fall by the
 hand of an assassin, and what are God's designs in permitting it? I
 freely answer, I cannot tell; and just because I cannot, therefore the
 faith I have is not in events, but in God. "He giveth not account of
-any of his matters."<ref target="dagget.002.n4">*</ref> It may be that this stupendous wrong, as also
+any of his matters."<ref target="#dagget.002.n4">*</ref> It may be that this stupendous wrong, as also
 the inhumanity shown to our soldiers in rebel prisons, was permitted
 to show us and the world one more characteristic fruit of this wanton
 rebellion; that in the assassination of such a man, might be seen also
@@ -583,7 +563,7 @@ the Satanic ambition and brutal barbarism, not of the rebellion alone,
 but of that foul system of slavery from which it sprang,-one more
 accursed offshoot from that which itself, root and branch, must needs
 be accursed.</p>
-               <p pn="14">It may be also that particularly at this time there was need of a
+               <p>It may be also that particularly at this time there was need of a
 certain effect to be produced on the public mind in the loyal States,
 which required some such astounding development of the spirit of the
 southern rebellion. Already we see it working a more entire unanimity
@@ -596,9 +576,9 @@ somehow kindled, to counteract the ascendancy of a certain
 sentimentalism that prevails too much in our days. There has been what
 one writer called a "rose water philanthropy," which protested against
 all capital punishment, on the plea of the sacred-
-<note pn="14" id="dagget.002.n4" n="*" place="foot" anchored="yes">Job 33:13.</note>
+<note xml:id="dagget.002.n4" n="*" place="foot" anchored="true">Job 33:13.</note>
                   <pb n="15"/>
-                  <figure entity="dagget15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -624,7 +604,7 @@ that the public mind needed to be stiffened and sharpened to a due
 sense of the enormity of treason, and the damnation it merits in deeds
 as well as words. And it may be to this end that this last crime has
 been permitted to thrill with horror the universal heart.</p>
-               <p pn="15">But this we know, that whatever lesson we may learn from the
+               <p>But this we know, that whatever lesson we may learn from the
 calamity we now deplore, that lesson it was designed to teach. And how
 could we be more startlingly admonished of the uncertainty of all
 human expectations, and the necessity laid on us for fixing our faith;
@@ -634,7 +614,7 @@ what is before us, what even "a day may bring forth?" How a single
 week or day may be crowded with lights and shades, with rejoicings and
 lamentations! And how can we dare to lay up
 <pb n="16"/>
-                  <figure entity="dagget16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of
 O. E. Daggett's A Sermon on the Death of Abraham
 Lincoln.</figDesc>
@@ -674,4 +654,4 @@ himself and for his country,-
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

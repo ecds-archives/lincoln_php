@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="The Conflict of Truth">
             <title>The Conflict of Truth</title>
             <author>Reed, Villeroy Dibble</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +21,7 @@ by Emory University for non-profit educational purposes, provided
 this header is included in its entirety.  For inquiries about
 commercial uses, contact: the Director, Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -41,8 +33,7 @@ Presbyterian Church, Camden, N. J., April 30,1865.  Camden,
 N.J. Printed By S. Chew, At the Office of the "West Jersey Press."
 1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text is from the Special Collections of Pitts
 Theology Library, Emory University, and produced in collaboration with
@@ -65,88 +56,77 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Brandon
-Scott</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in
-compliance with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Brandon
+Scott</name>SGML tags inserted in
+compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="vreed.001" n="The Conflict of Truth" type="text">
-            <head pn="1">
+         <div1 xml:id="vreed.001" n="The Conflict of Truth" type="text">
+            <head>
                <bibl> 
                   <title>The Conflict of Truth</title> 
                   <date>April 30,
 1865</date> 
                   <pubPlace>First Presbyterian Church, New Jersey</pubPlace>
                   <author>Reed, Villeroy Dibble</author> 
-                  <imprint>
+                  
                      <pubPlace>New
 Jersey</pubPlace>
                      <publisher>S. Chew</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15rff</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="vreed1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Villeroy Dibble Reed's
 The Conflict of Truth </figDesc>
                </figure>
             </p>
-            <p pn="1">The Conflict of Truth.</p>
-            <p pn="1">A SERMON</p>
-            <p pn="1">PREACHED IN THE</p>
-            <p pn="1">FIRST PRESBYTERIAN CHURCH,</p>
-            <p pn="1">Camden, N.J.,</p>
-            <p pn="1">APRIL 30, 1865,</p>
-            <p pn="1">BY</p>
-            <p pn="1">REV. V. D. REED, D. D.</p>
-            <p pn="1">CAMDEN, N.J.:</p>
-            <p pn="1">PRINTED BY S. CHEW, AT THE OFFICE OF THE "WEST
+            <p>The Conflict of Truth.</p>
+            <p>A SERMON</p>
+            <p>PREACHED IN THE</p>
+            <p>FIRST PRESBYTERIAN CHURCH,</p>
+            <p>Camden, N.J.,</p>
+            <p>APRIL 30, 1865,</p>
+            <p>BY</p>
+            <p>REV. V. D. REED, D. D.</p>
+            <p>CAMDEN, N.J.:</p>
+            <p>PRINTED BY S. CHEW, AT THE OFFICE OF THE "WEST
 JERSEY PRESS."</p>
-            <p pn="1">1865.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="vreed2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Villeroy Dibble Reed's The Conflict of Truth.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="vreed3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Villeroy Dibble Reed's The Conflict of Truth.</figDesc>
                </figure>
             </p>
-            <p pn="3">Camden, May 1st, 1865.</p>
-            <p pn="3">REV. V.D. REED, D.D.</p>
-            <p pn="3">
+            <p>Camden, May 1st, 1865.</p>
+            <p>REV. V.D. REED, D.D.</p>
+            <p>
                <hi rend="italic">Rev. and Dear Sir</hi>:--The members of
 your congregation, with many others of your fellow-citizens, listened
 with great pleasure and profit to the sermons, which you delivered on
 yesterday morning and evening.</p>
-            <p pn="3">The desire has been expressed, with great unanimity, that
+            <p>The desire has been expressed, with great unanimity, that
 those discourses shall be published in pamphlet.</p>
-            <p pn="3">The doctrines and principles of which they treat, are
+            <p>The doctrines and principles of which they treat, are
 eminently practical, appropriate, and satisfactory; and so fully in
 accordance with the wants and demands of this eventful period of our
 country's history, that greater publicity will but be productive of
 greater good.</p>
-            <p pn="3">We respectfully solicit, therefore, the manuscripts of said
+            <p>We respectfully solicit, therefore, the manuscripts of said
 discourses.</p>
-            <p pn="3">Very Truly, Yours,</p>
-            <p pn="3">
+            <p>Very Truly, Yours,</p>
+            <p>
                <lb/>P.C. BRINCK,	G.W.N. CUSTIS,<lb/>
 THOS. C. KNIGHT,	WM. FEW SMITH, <lb/>JNO. A. CALDWELL,	JOHN
 AIKMAN,, <lb/>M. NEWKIRK,		T.M.K. LEE,,<lb/>
@@ -157,18 +137,18 @@ M. SCOVEL,	JAS.. H. STEVENS, <lb/>J.C. DE LA COUR,	MAURICE
 BROWNING, <lb/>HENRY VANUXEN,		R. S. CURTIS,<lb/>
 C. A. SPARKS,		WM. HART,<lb/>
 B.H. BROWNING.		I.H. PORTER.</p>
-            <p pn="3">CAMDEN, MAY 2D, 1865.</p>
-            <p pn="3">GENTLEMEN:</p>
-            <p pn="3">The discourses, you ask for publication, are so connected
+            <p>CAMDEN, MAY 2D, 1865.</p>
+            <p>GENTLEMEN:</p>
+            <p>The discourses, you ask for publication, are so connected
 that they can readily be made one. I have therefore combined the
 two--leaving out considerable portions, which though deemed important
 in the delivery, are not essential to the main design.</p>
-            <p pn="3">The manuscript so abridged, is submitted to you, with the
+            <p>The manuscript so abridged, is submitted to you, with the
 earnest prayer, that if published, it may subserve the cause of truth
 and good citizenship.</p>
-            <p pn="3">Very respectfully yours,</p>
-            <p pn="3">V. D. REED.</p>
-            <p pn="3">To Messrs.	P.C. BRINCK,
+            <p>Very respectfully yours,</p>
+            <p>V. D. REED.</p>
+            <p>To Messrs.	P.C. BRINCK,
 	<lb/>G.W.N. CUSTIS,
 	<lb/>THOS. C..KNIGHT, and others.</p>
             <pb n="4"/>
@@ -180,19 +160,19 @@ Villeroy Dibble Reed's The Conflict of Truth.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="vreed5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 Villeroy Dibble Reed's The Conflict of Truth.</figDesc>
                </figure>
             </p>
-            <div2 id="vreed.002" n="The Conflict of Truth." type="sermon">
-               <head pn="5">The Conflict of Truth.</head>
-               <epigraph pn="5">
-                  <p pn="5">MATTHEW X: 34. "THINK NOT THAT I AM COME TO SEND
+            <div2 xml:id="vreed.002" n="The Conflict of Truth." type="sermon">
+               <head>The Conflict of Truth.</head>
+               <epigraph>
+                  <p>MATTHEW X: 34. "THINK NOT THAT I AM COME TO SEND
 PEACE ON EARTH: I CAME NOT TO SEND PEACE, BUT A SWORD."</p>
                </epigraph>
-               <p pn="5">Jesus Christ is called the Prince of peace. His advent to
+               <p>Jesus Christ is called the Prince of peace. His advent to
 our world was heralded, by a multitude of the heavenly host,
 proclaiming, "On earth peace, good-will to men." Wherever the
 principles of the gospel prevail, and exert their appropriate
@@ -204,10 +184,10 @@ aright, it must be remembered that men are by nature in a state of
 alienation from God! Satan, the prince of darkness, is god of this
 world. He rules in the hearts of unbelieving men, leading them captive
 at his will.</p>
-               <p pn="5">The kingdom of Christ is in direct antagonism to his
+               <p>The kingdom of Christ is in direct antagonism to his
 rule. The setting up of that kingdom in the world,
 <pb n="6"/>
-                  <figure entity="vreed6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Villeroy Dibble
 Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -227,7 +207,7 @@ mode in which his favor can be secured. On the other hand the precepts
 of the gospel are at war with the customs of society. The prevalence
 of those precepts necessarily must produce new forms of social
 life.</p>
-               <p pn="6">Christianity strikes at the root of all iniquity. It aims
+               <p>Christianity strikes at the root of all iniquity. It aims
 to correct evils in all departments of society, and all the relations
 of life. Hence it is revolutionary in its character. Unregenerate men
 do not like to retain God in their knowledge. They have no love for
@@ -239,16 +219,16 @@ received. The conscience is perverted and its dictates are opposed to
 godliness. The judgment is warped, and its decisions are
 incorrect. The heart is in love with sin, and all the acts and
 exercises of the soul are against the truth.</p>
-               <p pn="6">Prejudice exerts great influence upon the mind, and
+               <p>Prejudice exerts great influence upon the mind, and
 <pb n="7"/>
-                  <figure entity="vreed7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Villeroy Dibble
 Reed's The Conflict of Truth.</figDesc>
                   </figure>
 nothing is more powerful than religious prejudices. If their religion
 has any hold upon them, men will contend with an earnestness and
 tenacity which they show in nothing else.</p>
-               <p pn="7">The followers of Christ dare not give up their principles,
+               <p>The followers of Christ dare not give up their principles,
 for if their religion is anything to them it is everything. The
 sacrifice of the truth or a perversion of the truth subjects them to
 the displeasure of the God of truth. The loss of worldly advantages,
@@ -258,7 +238,7 @@ religious principles involves the loss of their souls. Poverty, shame,
 famine, torture, the prison, the scaffold, can be calmly met by the
 soul that is at peace with God, and has in prospect the blessedness of
 heaven.</p>
-               <p pn="7">Here it should be remembered, that the human mind, under
+               <p>Here it should be remembered, that the human mind, under
 most favorable circumstances, is liable to imbibe a mixture of error
 with the truth. And such is the weakness of human nature--in them that
 are but partially sanctified, that error is maintained often with as
@@ -274,7 +254,7 @@ prevailed among those advocating the same pure and peace-speaking
 precepts. The history of the church is full of the conflicts of
 opinion. 
 <pb n="8"/>
-                  <figure entity="vreed8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Villeroy Dibble
 Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -287,12 +267,12 @@ separation, alienation of feeling, sometimes violent bickerings or
 open warfare. The truth should be spoken in love and received in love;
 and where Christians are compelled to differ it should be in the
 exercise of a large hearted liberal charity.</p>
-               <p pn="8">Error has had its martyrs as well as truth, but the martyrs
+               <p>Error has had its martyrs as well as truth, but the martyrs
 of error have broken loose from the safe moorings in which God has
 placed the human soul, and been drifted by the winds of fancy,
 prejudice, or selfish ambition, upon the dark sea of unbelief till
 they have been given over to strong delusions to believe a lie.</p>
-               <p pn="8">stoutly defending their opinions, they must put down and
+               <p>stoutly defending their opinions, they must put down and
 overwhelm their opponents. Error knows its weakness, is cowardly and
 treacherous and when unable to maintain its ground on the field of
 fair discussion covers its discomfiture by an onslaught upon its
@@ -306,10 +286,10 @@ in the world.</p>
                   <l>"Truth crushed to earth will rise again,</l>
                   <l>The eternal years of God are hers."</l>
                </lg>
-               <p pn="8">This opposition to the truth was strikingly manifested
+               <p>This opposition to the truth was strikingly manifested
 during the ministry of our Lord Jesus Christ on earth
 <pb n="9"/>
-                  <figure entity="vreed9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of Villeroy Dibble
 Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -318,7 +298,7 @@ positions in society as well as in the lower walks of life, "Woe, unto
 you Scribes and Pharisees, hypocrites! ye have made the word of God of
 none effect by your traditions. Woe unto you lawyers, ye lade men with
 heavy burdens and grievances to be borne."</p>
-               <p pn="9">This fidelity in opposing error and wickedness which
+               <p>This fidelity in opposing error and wickedness which
 characterized his entire ministry subjected him to unrelenting hate
 and bitter persecution. While the multitude hung upon his lips, were
 awed by his miracles or experienced the beneficent workings of his
@@ -331,7 +311,7 @@ himself, is Christ a king." And when Pilate desired to release him
 they demanded his crucifixion, for political reasons. "If thou let
 this man go thou art not Caesar's friend; whosoever maketh himself a
 king speaketh against Caesar."</p>
-               <p pn="9">When the Apostles labored in fulfillment of their mission
+               <p>When the Apostles labored in fulfillment of their mission
 to preach Christ to the world, their labors excited intense
 opposition. The chief priests and rulers imprisoned and strictly
 charged them not to teach or preach in the name of Jesus. Thus they
@@ -341,7 +321,7 @@ prepared for opposition, conflict and death. They decided--how could
 the votaries of truth decide otherwise--they decided, "we ought to
 obey God rather than men." Hence their
 <pb n="10"/>
-                  <figure entity="vreed10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -368,13 +348,13 @@ temple of God swept away that structure, and wherever the gospel
 prevailed, society in all its phases was utterly changed. We owe now
 all that we enjoy of true liberty and social excellence, to the
 gospel.</p>
-               <p pn="10">In the early period of the church's history, Christianity
+               <p>In the early period of the church's history, Christianity
 came in collision with the various forms of superstition, paganism and
 irreligion; and as these constituted a very important part of the
 social fabric, there must necessarily be great revolutions in
 sentiment and an entire change in 
 	<pb n="11"/>
-                  <figure entity="vreed11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -385,7 +365,7 @@ of the church is made up of controversy with error. And these
 controversies have been necessary to preserve the truth in its purity,
 to save the church from corruption and ultimate destruction, from
 causes within itself.</p>
-               <p pn="11">The history of different nations is full of conflicts very
+               <p>The history of different nations is full of conflicts very
 severe and bloody, in which the religious element, has sometimes been
 strangely predominant. In many instances the church has been too
 intimately blended with the state, and any conflict agitating the one
@@ -407,7 +387,7 @@ of the truth. Conflicts of opinion about religious truth, shook the
 kingdoms, overthrew dynasties, divided families, arrayed relatives and
 former
 <pb n="12"/>
-                  <figure entity="vreed12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -430,7 +410,7 @@ authority of law, for the security of property, for the peace of our
 streets, the happiness of our homes, our gratitude is due, under Him,
 who raises and pulls down nations at his pleasure, to the long
 parliament, the convention, and William of Orange."</p>
-               <p pn="12">Look at the, history of France, the terrible persecutions
+               <p>Look at the, history of France, the terrible persecutions
 of the Huguenots, the wholesale murder, and punishment of the best
 citizens, that the truth might be overthrown, and the aspirations of
 her noblest sons for true liberty might be crushed. And when the
@@ -439,7 +419,7 @@ the nation, what conflicts from time to time raged; and though now
 France is at peace, it is the peace of despotic rule, that at any time
 may be changed into apolitical tempest, when the
 <pb n="13"/>
-                  <figure entity="vreed13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -471,14 +451,14 @@ truth. What conflicts have been occasioned, by the efforts of bigots
 and tyrants to overthrow the faithful adherents of the gospel.  See
 how the most sacred ties have been sundered. The most
 <pb n="14"/>
-                  <figure entity="vreed14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
 intimate relationships broken up, and the most fearful conflicts, have
 been waged, by those who were naturally bound together by most
 endearing bonds.</p>
-               <p pn="14">Look at our own country; see violent conflicts of opinion,
+               <p>Look at our own country; see violent conflicts of opinion,
 culminating in a conflict of arms, and the land deluged in blood. See
 families divided, brothers arrayed against brothers, fathers against
 sons, those who had been associated in counsel, in office, in the
@@ -499,13 +479,13 @@ praised, that this wickedness has been rebuked; and He who can make
 the wrath of man to praise him, will overrule this fearful crime, to
 strike the chains from the limbs of the captive, and let the oppressed
 go free.</p>
-               <p pn="14">Some have mourned that we were living in such troublous
+               <p>Some have mourned that we were living in such troublous
 times. But it is no new thing. The conflict of truth with error has
 been going forward, ever since the first lie was uttered in
 Paradise. The powers of darkness have their day, and labor to
 overthrow the kingdom of Christ. 
 <pb n="15"/>
-                  <figure entity="vreed15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -514,7 +494,7 @@ his gospel. But the truth shall prevail. The powers of hell shall be
 overthrown and every species of wickedness shall receive its merited
 retribution. Our only anxiety should be, to be faithful to our duty in
 this conflict.</p>
-               <p pn="15">No nation that performs an important part in the history of
+               <p>No nation that performs an important part in the history of
 the world, escapes severe conflict. Such conflicts are like the storms
 that purify the atmosphere, and save the land from pestilence. There
 are some men whose patriotism only glows in the sunshine. So there are
@@ -528,7 +508,7 @@ all things we are to retain the truth of the gospel, "which if we
 lose," in the words of Martin Luther, "then do we also lose God,
 Christ, all the promises, faith, righteousness and everlasting
 life."</p>
-               <p pn="15">All truths are not essential to Christianity. Yet no truth
+               <p>All truths are not essential to Christianity. Yet no truth
 can be neglected with safety. All duties are not equally
 important. Yet no duty can be neglected without sin. It is especially
 important that we as a Christian people see clearly, and adhere
@@ -538,7 +518,7 @@ conflict for the principles of vital Christianity. Yet it is very
 nearly allied to such a conflict. It is a contest for some of the most
 sacred principles of Christianity, which concern man
 <pb n="16"/>
-                  <figure entity="vreed16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -570,7 +550,7 @@ of the God of truth to hold their peace, because some forsooth, will
 cry, "You must not meddle with politics." Very well. But politicians
 must not meddle with us; tell us when to
 <pb n="17"/>
-                  <figure entity="vreed17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -585,7 +565,7 @@ side of law, and good government, and the rights of the
 oppressed. Some think politics and religion, should be entirely
 separate. But if you, cannot carry Christian principles into our
 politics you should give up your politics.</p>
-               <p pn="17">"Can ye not discern the signs of the times." That man must
+               <p>"Can ye not discern the signs of the times." That man must
 be blind indeed, who cannot see the providence of God in this
 conflict. The war might have been terminated long ere this. It would
 have been terminated, if the counsels of men had prevailed. But there
@@ -602,7 +582,7 @@ all bloodshed; for his kind treatment of the enemies of the
 nation. One of the last acts of his life, we are told, was an act of
 clemency towards two leading rebels. We rejoice that history will
 <pb n="18"/>
-                  <figure entity="vreed18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -618,12 +598,12 @@ necessity of an utter crushing of the monster. We all desired peace in
 the shortest time and easiest way. But God would not allow a
 compromise with iniquity, or the relinquishment of fundamental
 principles of good government.</p>
-               <p pn="18">Providence is teaching us that three things must be clearly
+               <p>Providence is teaching us that three things must be clearly
 understood, and maintained in the settlement of our national
 conflict. Any settlement that is not based upon these, we think, will
 not secure the divine approval or promote the permanent prosperity of
 the nation.</p>
-               <p pn="18">I. The first is the sacredness of law, and the divine
+               <p>I. The first is the sacredness of law, and the divine
 authority of government; our national government.--The divine
 authority of government is a very different doctrine from the divine
 right of kings, or of a republic, or any other form of government. The
@@ -634,7 +614,7 @@ administered without tyranny or oppression. Loose views upon this
 subject have prevailed too extensively in this country. Because the
 people have so much to do with government, the choice of rulers, and
 <pb n="19"/>
-                  <figure entity="vreed19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of Villeroy
 Dibble Reed's The Conflict of Truth .</figDesc>
                   </figure>
@@ -645,7 +625,7 @@ administered, according to their views or wishes, they have a right to
 resist the government. If authority emanates from them and they do not
 like its exercise they may renounce that authority. If the laws do not
 suit them they may be disregarded.</p>
-               <p pn="19">The will of God is the source of all authority in
+               <p>The will of God is the source of all authority in
 government. This is true in the family, in the state, in the church,
 and in the divine administration. Take the first form of government
 that of the family. God has clothed parents with authority, and
@@ -666,14 +646,14 @@ right to an erroneous opinion, especially if that opinion is injurious
 to his fellow men.. He sins against God and his own soul if he
 indulges it. He sins against God and society if he promulgates it. 
 	<pb n="20"/>
-                  <figure entity="vreed20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of Villeroy
 Dibble Reed's The Conflict of Truth .</figDesc>
                   </figure>
 And it is the duty of all Christian men, and good citizens, to uphold
 by their opinions as well as acts, the sacredness of law, and the
 divine authority of government.</p>
-               <p pn="20">Let us make a personal application of your doctrine. Your
+               <p>Let us make a personal application of your doctrine. Your
 neighbor thinks you are a bad man, dishonest, cruel, a thief, a
 murderer. You say he has a right to his opinion. But he promulgates
 it. He says publicly, you ought not to live in good society, and any
@@ -696,10 +676,10 @@ arraign all such, not before the bar of partisan judgment, but before
 the tribunal of inspired truth, and charge them with sip, against the
 Author of all government; with aiming to set at naught an ordinance of
 heaven, appointed to subserve the best interests of men.</p>
-               <p pn="20">If it is wrong to withold allegiance to God, it is likewise
+               <p>If it is wrong to withold allegiance to God, it is likewise
 wrong to resist the powers that are ordained of God. 
 <pb n="21"/>
-                  <figure entity="vreed21">
+                  <figure><graphic url=""/>
                      <figDesc>21st page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -716,7 +696,7 @@ wickedness. Especially now that it has been decided at the ballot box
 and by the military power, that the government shall be sustained, can
 any further opposition be prompted by aught, but the spirit of faction
 and diabolical strife.</p>
-               <p pn="21">II. If what has been said is correct, it follows that
+               <p>II. If what has been said is correct, it follows that
 crimes against the government, should be punished. The sword is put
 into the hands of the civil magistrate, for the punishment of
 evil-doers. An evil-doer, here, is one who breaks the laws, or resists
@@ -724,14 +704,14 @@ governmental authority. He is to be punished, because he has done
 wrong.--Not merely because good policy, the safety of the state, and
 the good of society require it, but because it is an offence and
 deserves punishment.</p>
-               <p pn="21">Treason, "making war against the government or giving aid
+               <p>Treason, "making war against the government or giving aid
 and comfort to its enemies," is regarded as the highest crime that can
 be committed against civil society. As such it deserves a very severe
 penalty. If the ruffian, who murders an individual, thereby carrying
 desolation and suffering to a single family, expiates as he ought, his
 crime upon the scaffold, should any thing less be meted
 <pb n="22"/>
-                  <figure entity="vreed22">
+                  <figure><graphic url=""/>
                      <figDesc>22nd page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -743,7 +723,7 @@ encourage the spirit which, since the assassination of the President,
 there is danger, may gain the mastery over loyal hearts, that all
 thought of mercy should be laid aside, and deadly vengeance with
 relentless power, should fall upon the authors of our national
-troubles.<ref target="vreed.002.n01">*</ref> But we assert the teachings of God's word, in reference to
+troubles.<ref target="#vreed.002.n01">*</ref> But we assert the teachings of God's word, in reference to
 the punishment of crime. The enlightened Christian sentiment of the
 community demands, that the leaders of the rebellion should be
 punished. First, because they deserve punishment. Their crime is
@@ -756,9 +736,9 @@ afflicted with the same national calamities. The multitude of the
 Southern people, were deluded, and have been sufficiently
 punished. But let simple justice, as God himself has decreed, be meted
 out to those who are the responsible authors of this wickedness.</p>
-               <p pn="22">Punishment should be inflicted lawfully. There should</p>
-               <note pn="22" id="vreed.002.n01" n="*" place="foot" anchored="yes">
-                  <p pn="22">On the Sabbath after the assassination of
+               <p>Punishment should be inflicted lawfully. There should</p>
+               <note xml:id="vreed.002.n01" n="*" place="foot" anchored="true">
+                  <p>On the Sabbath after the assassination of
 the President the author endeavored to improve that sad event by
 directing the minds of his people to God as the Governor of nations,
 and to the fearful nature of those sins which filled the land with
@@ -769,15 +749,15 @@ conviction might- take the place of momentary excitement, and we can
 calmly contemplate the solemn lessons God is teaching us.</p>
                </note>
                <pb n="23"/>
-               <p pn="23">
-                  <figure entity="vreed23">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of
 Villeroy Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
                </p>
-               <p pn="23">be no mobs or vigilance committees, or taking the law into their
+               <p>be no mobs or vigilance committees, or taking the law into their
 own hands, by individuals or bodies of men.</p>
-               <p pn="23">III. The Providence of God is plainly teaching, that the
+               <p>III. The Providence of God is plainly teaching, that the
 institution of slavery in this country must be abolished. As you are
 aware, I hold no extreme views on the subject of slavery--have never
 countenanced, but opposed, violent and unconstitutional efforts to rid
@@ -803,7 +783,7 @@ will still allow the perpetual enslavement of a particular class. With
 this question brought home to us, no christian can remain silent or
 inactive without guilt. It is a question which all must
 <pb n="24"/>
-                  <figure entity="vreed24">
+                  <figure><graphic url=""/>
                      <figDesc>24th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -833,7 +813,7 @@ upon this principle? Until even prominent Rebel leaders, have been
 forced to acknowledge that the amendment to the Constitution
 abolishing slavery, is a
 <pb n="25"/>
-                  <figure entity="vreed25">
+                  <figure><graphic url=""/>
                      <figDesc>25th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -845,7 +825,7 @@ Egypt's last plague may come upon us? And when the cry of wailing
 comes up from all parts of the land, because the first-born in every
 family is slain, and all hopes crushed, then we will obey the voice of
 Jehovah.</p>
-               <p pn="25">Here let me quote the words of President LINCOLN, uttered
+               <p>Here let me quote the words of President LINCOLN, uttered
 in his inaugural address on the Fourth of March, last. "Fondly do we
 hope, fervently do we pray, that this mighty scourge of war may soon
 pass away. Yet if God wills that it continues till all the wealth
@@ -854,7 +834,7 @@ be sunk, and until every drop of blood, drawn with the lash, be paid
 with another drawn with the sword, as was said three thousand years
 ago, so now must be said. "The judgments of the Lord are true and
 righteous altogether."</p>
-               <p pn="25">It is said there is no danger. The question is already
+               <p>It is said there is no danger. The question is already
 settled. Slavery is already dead, past the possibility of
 resurrection. We would gladly believe it. But what was the state of
 feeling three weeks ago? Such was the universal desire for peace, that
@@ -866,17 +846,17 @@ spirit of unholy fraternizing with the abettors of the worst forms of
 social and political crimes. He laid the head of the nation low, that
 we
 <pb n="26"/>
-                  <figure entity="vreed26">
+                  <figure><graphic url=""/>
                      <figDesc>26th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
 might stop and see whither we were tending. God grant that other
 victims may not be necessary.</p>
-               <p pn="26">Is there no danger, when very many of our citizens are
+               <p>Is there no danger, when very many of our citizens are
 liable to be swayed from principle, by regard for present or personal
 interest? And when many more are in a state of indifference or
 opposition to the prevalence of right principle?</p>
-               <p pn="26">Is it said that this discussion is out of place. Here there
+               <p>Is it said that this discussion is out of place. Here there
 are no disloyalists or owners of slaves. I reply, there is no part of
 the land from Maine to California, where, at the present time, such
 utterances are out of place. And there is no part of the country,
@@ -898,7 +878,7 @@ unequivocal testimony, and some that had been cursed with slavery have
 risen and thrown off the deadly incubus, and when even southern
 leaders, confess that the contest is fairly decided against them, has
 <pb n="27"/>
-                  <figure entity="vreed27">
+                  <figure><graphic url=""/>
                      <figDesc>27th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -921,28 +901,28 @@ crime, perpetrated by the foul spirit of slavery. Were we silent we
 could hardly lie down at night with the christian's confidence and the
 christian's hope, lest the judgments of a holy God might come upon the
 house of the faithless prophet, who saw the sword coming upon the
-people but withheld the warning.<ref target="vreed.002.n02">*</ref></p>
-               <p pn="27">No, no, we must give our testimony against this wrong. We
+people but withheld the warning.<ref target="#vreed.002.n02">*</ref></p>
+               <p>No, no, we must give our testimony against this wrong. We
 call upon every right minded citizen of whatever creed, party or
 interest, we call especially upon every christian man and woman, to
 remove the foul stain upon our reputation, and rest not till New
 Jersey takes her</p>
-               <note pn="27" id="vreed.002.n02" n="*" place="foot" anchored="yes">
-                  <p pn="27">Ezekiel, 33: 6.</p>
+               <note xml:id="vreed.002.n02" n="*" place="foot" anchored="true">
+                  <p>Ezekiel, 33: 6.</p>
                </note>
                <pb n="28"/>
-               <p pn="28">
-                  <figure entity="vreed28">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>28th page of
 Villeroy Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
                </p>
-               <p pn="28">place, the place which of right belongs to her, in the front rank
+               <p>place, the place which of right belongs to her, in the front rank
 of the championship of freedom; till our legislators perform
 faithfully the work, which justice, humanity, true political wisdom,
 christian consistency, the teachings of the gospel, and the solemn
 voice of God's providence imperatively demand.</p>
-               <p pn="28">How can a christian people longer tolerate slavery. It
+               <p>How can a christian people longer tolerate slavery. It
 degrades the slave, but worse than this, it brutalizes the master. It
 gives to unprincipled men, unlimited control over the person, the
 labor, the conduct, the religious rights and privileges, the bodies
@@ -952,7 +932,7 @@ law-abiding citizens. Those educated under its influences can brook no
 restraint; are reckless, law-defying, following no guide but their own
 capricious will. While making loud pretensions to honor, they show an
 utter disregard of honor, and even of the sanctity of solemn oaths.</p>
-               <p pn="28">The spirit engendered by slavery, turned our once happy
+               <p>The spirit engendered by slavery, turned our once happy
 country into an arena of terrible conflict. It has conducted the war
 upon principles of atrocity and barbarity, at which every right minded
 man must shudder. It has deliberately starved and butchered in cold
@@ -965,7 +945,7 @@ the stealthy use of the torch, the dagger and the bullet, in wholesale
 conflagration and butchery of unoffending citizens, it shows its
 deadly hatred to all
 <pb n="29"/>
-                  <figure entity="vreed29">
+                  <figure><graphic url=""/>
                      <figDesc>29th page of Villeroy
 Dibble Reed's The Conflict of Truth.</figDesc>
                   </figure>
@@ -978,16 +958,16 @@ diabolical spirit of its great prototype and author-</p>
                <lg type="stanza">
                   <l>'Better to reign in hell than serve in heaven.</l>
                </lg>
-               <p pn="29">Let then the foul spirit be effectually exorcised. Let it
+               <p>Let then the foul spirit be effectually exorcised. Let it
 be banished forever from the country, which God has so wonderfully
 blessed, and so strangely chastised--banished forever, from the pale
 of christian civilization. And if it finds a resting place, any where,
 this side of the pit of endless darkness, let it be only with those
 barbarous tribes that have never heard the words of Jesus,</p>
-               <p pn="29">"All things whatsoever ye would that men should do to you,
+               <p>"All things whatsoever ye would that men should do to you,
 do you even so to them."</p>
             </div2>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

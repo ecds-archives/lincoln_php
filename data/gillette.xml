@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="God Seen Above All National Calamities">
             <title>God Seen Above All National Calamities</title>
             <author>Gillette, A. D.</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -28,9 +22,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -41,8 +33,7 @@ A. D. God Seen Above All National Calamities. A Sermon on the Death of
 President Lincoln, April 23, 1865.  Washington, D. C.: McGill &amp;
 Witherow, Printers and Stereotypers. 1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -65,96 +56,85 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="gillette.001" n="God Seen Above All National Calamities" type="text">
-            <head pn="1"> 
+         <div1 xml:id="gillette.001" n="God Seen Above All National Calamities" type="text">
+            <head> 
                <bibl> 
                   <title>God Seen Above
 All National Calamities </title> 
                   <date>April 23, 1865</date>
                   <pubPlace>First Baptist Church, Washington, D. C.</pubPlace>
                   <author>Gillette, A. D.</author> 
-                  <imprint>
+                  
                      <pubPlace>Washington,
 D. C.</pubPlace>
                      <publisher>McGill &amp; Witherow, Printers and
 Stereotypers</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15q8n</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="gillette1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of A. D. Gillette's
 God Seen Above All National Calamities.</figDesc>
                </figure>
             </p>
-            <p pn="1">God Seen Above all National Calamities.</p>
-            <p pn="1">A SERMON</p>
-            <p pn="1">ON THE</p>
-            <p pn="1">DEATH OF PRESIDENT LINCOLN,</p>
-            <p pn="1">APRIL 23, 1865.</p>
-            <p pn="1">BY A. D. GILLETTE D.D.,</p>
-            <p pn="1">PASTOR OF THE FIRST BAPTIST CHURCH,
+            <p>God Seen Above all National Calamities.</p>
+            <p>A SERMON</p>
+            <p>ON THE</p>
+            <p>DEATH OF PRESIDENT LINCOLN,</p>
+            <p>APRIL 23, 1865.</p>
+            <p>BY A. D. GILLETTE D.D.,</p>
+            <p>PASTOR OF THE FIRST BAPTIST CHURCH,
 WASHINGTON, D.C.</p>
-            <p pn="1">WASHINGTON, D.C.</p>
-            <p pn="1">McGILL &amp; WITHEROW, PRINTERS AND
+            <p>WASHINGTON, D.C.</p>
+            <p>McGILL &amp; WITHEROW, PRINTERS AND
 STEREOTYPES.</p>
-            <p pn="1">1865.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="gillette2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="gillette3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
                </figure>
             </p>
-            <p pn="3">WASHINGTON D.C., <hi rend="italic">April</hi> 24, 1865.</p>
-            <p pn="3">REV. A.D. GILLETTE, D.D.,
+            <p>WASHINGTON D.C., <hi rend="italic">April</hi> 24, 1865.</p>
+            <p>REV. A.D. GILLETTE, D.D.,
 		<lb/>
                <hi rend="italic">Pastor First Baptist
 Church</hi>:</p>
-            <p pn="3">The undersigned having listened to your discourse delivered
+            <p>The undersigned having listened to your discourse delivered
 on Sunday evening, April 23, in commemoration of the assassination of
 the late President of the United States, and deeming the moral and
 religious lessons it inculcates, as well as its tribute to the memory
 of one occupying so important a position, to be especially instructive
 and timely, respectfully request a copy of the same for
 publication.</p>
-            <p pn="3">R. J. POWELL.  <lb/>L. C. BALL.  <lb/>EDWARD YOUNG.<lb/>
+            <p>R. J. POWELL.  <lb/>L. C. BALL.  <lb/>EDWARD YOUNG.<lb/>
 JNO. W. CLARKE.  <lb/>JNO. C. SHAFER.  <lb/>C. C. WESTON.<lb/>
 J. C. LEWIS.  <lb/>J. W. VANDERPOEL.  <lb/>W. J. RHEES.<lb/>
 J. G. JUDD.  <lb/>G. W. SAMSON.</p>
-            <p pn="3">WASHINGTON D. C., <hi rend="italic">May</hi> 1, 1865.</p>
-            <p pn="3">DR. R. J. POWELL, HON L.C. BALL, and others:</p>
-            <p pn="3">GENTLEMEN: I duly appreciate the honor done me by your
+            <p>WASHINGTON D. C., <hi rend="italic">May</hi> 1, 1865.</p>
+            <p>DR. R. J. POWELL, HON L.C. BALL, and others:</p>
+            <p>GENTLEMEN: I duly appreciate the honor done me by your
 request. The sermon was prepared and preached with a view to
 usefulness. If in your judgment that end will be promoted by the issue
 of the discourse in printed form, it is with gratitude and hope
 committed to your care.</p>
-            <p pn="3">Yours, in the Gospel,<lb/>
+            <p>Yours, in the Gospel,<lb/>
 A. D. GILLETTE.</p>
             <pb n="4"/>
 <!-- blank page -->
@@ -166,43 +146,43 @@ Calamities.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="gillette5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
                </figure>
             </p>
-            <div2 id="gillette.002" n="SERMON" type="sermon">
-               <head pn="5">SERMON.</head>
-               <epigraph pn="5">
-                  <p pn="5">In the year that King Uzziah died I saw also the
+            <div2 xml:id="gillette.002" n="SERMON" type="sermon">
+               <head>SERMON.</head>
+               <epigraph>
+                  <p>In the year that King Uzziah died I saw also the
 Lord sitting upon a throne, high and lifted up, and His train filled
 the temple.--ISSIAH vi, 1.</p>
                </epigraph>
-               <p pn="5">WHEN a little babe dies, all fathers and mothers weep with
+               <p>WHEN a little babe dies, all fathers and mothers weep with
 the sorrowing parents, and press their own dear lambs nearer their
 throbbing, loving hearts; for they know how frail the tie is that
 binds them to the pledges of their mutual love.</p>
-               <p pn="5">When parents die, the children of their neighbors cling
+               <p>When parents die, the children of their neighbors cling
 more closely to their parents, and are in deepest sympathy with those
 who are so sorely bereft; for they realize that ere long it may be
 their bitter lot to drink of the sorrowful cup of orphanage.</p>
-               <p pn="5">If a faithful pastor falls from his sacred relation into
+               <p>If a faithful pastor falls from his sacred relation into
 the silent tomb, every church feels admonished that he whom they obey
 and revere in the gospel may be called from their service to go up
 higher.</p>
-               <p pn="5">When the Executive head of a great nation falls, all
+               <p>When the Executive head of a great nation falls, all
 nations become mourners; for they know that the ruler they look to, to
 carry them on in improvements and give them desirable perpetuity and
 stability upon the earth, is also a man, and must ere long die, and
 may be called to his dread account in a moment least expected, and
 when they seemed most to need his guiding hand in the affairs which so
 vitally concern their common and individual good.</p>
-               <p pn="5">We, as a people, wept with weeping Britannia, when the good
+               <p>We, as a people, wept with weeping Britannia, when the good
 husband of their beloved queen passed from
 <pb n="6"/>
-                  <figure entity="gillette6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
@@ -215,13 +195,13 @@ funeral solemnities around the bier of him whom our whole nation
 mourns, and in respect to whom and the high office he filled so well,
 we devote the last hours of this sacred day in devoutest religious
 services.</p>
-               <p pn="6">The lesson of this hour is--<hi rend="italic">God seen above
+               <p>The lesson of this hour is--<hi rend="italic">God seen above
 all national calamities.</hi>
                </p>
-               <p pn="6">"In the year that King Uzziah died I saw also the Lord
+               <p>"In the year that King Uzziah died I saw also the Lord
 sitting upon a throne, high and lifted up, and His train filled the
 temple."</p>
-               <p pn="6">I. Rulers die. They must die, for they are mortal as other
+               <p>I. Rulers die. They must die, for they are mortal as other
 men are mortal. With you and I, beloved, they must meet the messenger
 from the tombs, and there come to a halt in his cold embrace.</p>
                <lg type="stanza">
@@ -230,7 +210,7 @@ from the tombs, and there come to a halt in his cold embrace.</p>
                   <l>The tall, the wise, the reverend head,</l>
                   <l>Must lie as low as ours."</l>
                </lg>
-               <p pn="6">"It is appointed unto men once to die, but after this the
+               <p>"It is appointed unto men once to die, but after this the
 judgment." We must each of us, rulers and people, say, "Thou, Lord,
 wilt bring me to the grave; it is the house appointed for all living."
 He in whose hand our breath is hath said, "Dust thou art, and unto
@@ -238,18 +218,18 @@ dust shalt thou return." This decree was pronounced by lips that
 cannot dissemble, at the gates of Eden; it has never been altered, nor
 has it failed of verification in all the ages of our human history,
 except in the instances of Enoch and Elijah.</p>
-               <p pn="6">The fathers of our Federal Union, where are they? And the
+               <p>The fathers of our Federal Union, where are they? And the
 signers of our glorious Declaration of Independence, do they live for
 ever? In various States of our
 <pb n="7"/>
-                  <figure entity="gillette7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
                   </figure>
 great Republic they ended their illustrious mission, and died;
 reverent friends buried them out of their sight.</p>
-               <p pn="7">The brave legions of our glorious Revolution, were they
+               <p>The brave legions of our glorious Revolution, were they
 invincible to the conqueror of all human conquerors? Did those of them
 who escaped the missiles of their enemies or survived the dying
 decreed against them by their brutal enemies in loathsome jails and
@@ -261,13 +241,13 @@ and may be regarded as not only the entombing place of our first and
 greatest national chief, but as an enshrinement in hallowed memories
 of all who under him fought and bled in vindication of freedom's holy
 cause.</p>
-               <p pn="7">Of the sixteen men who have hitherto filled the Executive
+               <p>Of the sixteen men who have hitherto filled the Executive
 chair of our nation, three only survive. May Jehovah have ever in his
 safe keeping the life, the intellect, the heart and soul of him who
 now sits there, burdened with a nation's responsibilities, and almost
 overwhelmed in sympathy with the people in this their great peculiar
 grief, as in a recent personal interview I have reason to know.</p>
-               <p pn="7">The sixteenth and late Chief Magistrate of our Union has
+               <p>The sixteenth and late Chief Magistrate of our Union has
 but just left us; his call hence was so sudden, so unlooked for, so
 deeply to be deprecated, especially "in the deep damnation of his
 taking off," that we are scarcely as yet awake to the consciousness
@@ -279,7 +259,7 @@ hand of a drunken, debased assassin, April 14,1865. Though the wound
 was mortal, he did not die, thank Heaven! amid the unhallowed
 surroundings where he received it. Kind arms bore him to a Chris-
 <pb n="8"/>
-                  <figure entity="gillette8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
@@ -312,7 +292,7 @@ guardian Angels come,</l>
                   <l>The
 ransomed sinner's joyful home.</l>
                </lg>
-               <p pn="8">The knell of death has sounded; it sounded first from the
+               <p>The knell of death has sounded; it sounded first from the
 steeple of this Church; the authorities of the nation have paid
 funeral honors to him they officially surrounded, prudently
 counselled, loved, and respected. The electric throb has sent the
@@ -322,10 +302,10 @@ lofty form that so recently bowed to welcome the humblest citizen to
 the nation's mansion has been shrouded and coffined, and committed to
 careful hands, to be borne to their home on the prairies, where in
 less exalted position he was not less loved than here.</p>
-               <p pn="8">Men of God, in presence of our newly inaugurated Chief
+               <p>Men of God, in presence of our newly inaugurated Chief
 Magistrate, have given Christian counsel to the living--
 <pb n="9"/>
-                  <figure entity="gillette9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
@@ -340,20 +320,20 @@ of us will be held accountable to the bar of the Lord Jesus, our only
 Saviour and final Judge, for the use we make of the lesson so solemnly
 and impressively taught us in this terrible and unlooked-for
 catastrophe.</p>
-               <p pn="9">Can we better do at this period in our life, and in the
+               <p>Can we better do at this period in our life, and in the
 life of a lacerated nation, than to say, "Lord, so teach us to number
 our days that we may apply our hearts unto wisdom?" Does not divine
 wisdom teach us in our text, that <hi rend="italic">"God is seen amidst
 and above all national calamities?"</hi>
                </p>
-               <p pn="9">Secondly. "In the year that King Uzziah died I saw also the
+               <p>Secondly. "In the year that King Uzziah died I saw also the
 Lord sitting on a throne, high and lifted up, and His train filled the
 temple."</p>
-               <p pn="9">So let us, my brethren, now that our honored President has
+               <p>So let us, my brethren, now that our honored President has
 died, "see also the Lord on high," His train in gracefulness and glory
 filling the temples of our land, and the hallowed place where we now
 worship.</p>
-               <p pn="9">I. We have need to see the Lord now on high, because we
+               <p>I. We have need to see the Lord now on high, because we
 have been too grovelling and sensual in our thoughts and ways
 heretofore. When victory perched on our national banners, when armed
 rebels fled before our vindicators and defenders, we did not as we
@@ -363,7 +343,7 @@ enabled us to triumph, there was the sound of licentious revelry and
 noisy coarseness in our joy. Loosed for a season from the toils of
 routine life, many rushed madly
 <pb n="10"/>
-                  <figure entity="gillette10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
@@ -372,15 +352,15 @@ to the intoxicating cup for stimulus to artificial excitement, and
 drowned all seasonable delight in mire, and a poison that not the dumb
 animals will swallow. We heard men say, when Richmond had fallen, they
 would get drunk then, if never again.</p>
-               <p pn="10">Oh! my beloved, such things ought not so to be among us--a
+               <p>Oh! my beloved, such things ought not so to be among us--a
 people educated to rational freedom, nurtured on the warm bosoms of
 Christian mothers, and having access to the word of God as a ritual
 with which to chant our ecstacies, and surrounded with open churches
 wherein to pay our vows and declare our thanksgivings.</p>
-               <p pn="10">II. We should see the Lord above all national calamities,
+               <p>II. We should see the Lord above all national calamities,
 that so we might place our confidence for future success in a certain
 help in time of trouble.</p>
-               <p pn="10">I have seen men high in civil and military positions
+               <p>I have seen men high in civil and military positions
 resorting to exhibitions of frivolous if not immoral tendencies in
 this and other cities, when their sons, brethren, and fellow-citizens
 in arms were bareing their bosoms to the storms of death, and
@@ -394,20 +374,20 @@ was. Ambulances loaded with brave mangled men have rumbled through our
 streets past scenes of revelry and crime which we would suppose fiends
 only could delight in, amid associations so solemn and anxious as were
 transpiring near us.</p>
-               <p pn="10">That we may be chastened and have proper sympathy with
+               <p>That we may be chastened and have proper sympathy with
 those who peril all for our common good, we must see the Lord sitting
 upon a throne, high and lifted up, and to Him we all must look when
 death is at his carnival, and union and freedom are the prey he is
 voraciously seeking to devour.</p>
                <pb n="11"/>
-               <p pn="11">
-                  <figure entity="gillette11">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>11th page
 of A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
                   </figure>
                </p>
-               <p pn="11">III. We have depended too entirely on man when we have been
+               <p>III. We have depended too entirely on man when we have been
 in dread of our enemies. In triumph we gave too much glory to man, and
 not enough to God. He assures us He will not give His glory to
 another. He is a jealous God. While I yield to no man in intelligent
@@ -419,7 +399,7 @@ humble and reliant on divine aid himself ever to admit of such an
 emotion; but we were prone to forget the hole of the pit from whence
 we were digged, and the rock from whence we were hewn, and said man
 had done what Omnipotence alone could do.</p>
-               <p pn="11">I fear, my brethren, that when our heavenly Father saw that
+               <p>I fear, my brethren, that when our heavenly Father saw that
 his goodness did not deter us from putting our trust in princes, nor
 from resting too entirely on an arm of flesh, he permitted a reckless
 wretch to assassinate our good President, and cowardly steal into the
@@ -427,7 +407,7 @@ home of our chief of cabinet, and with bloody hands complement and
 companion that act, at least in extent, and even beyond in diabolical
 intentions of butchery, and so commit the deed that has disgraced the
 name of civilization.</p>
-               <p pn="11">Cain is exceeded in this wickedness, and a worse than
+               <p>Cain is exceeded in this wickedness, and a worse than
 Cain's mark is set upon the villain's murderous brow. Go where these
 murderers may, these human fiends will find, even in savage wilds or
 African deserts, Satan also going with them, tormenting them before
@@ -439,7 +419,7 @@ escape the just judgments of God we dare not speak of their terrible
 hereafter. In life they cannot escape that worse than hell into which
 tiger
 <pb n="12"/>
-                  <figure entity="gillette12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
@@ -453,11 +433,11 @@ despairing, "My punishment is greater than I can bear." Except
 repentance ensue and marvellous mercy interpose, each must be as a
 tree set on fire by lightning, kindled and blasted, "his life one long
 war with self-sought foes."</p>
-               <p pn="12">IV. Finally, God must be seen above all national
+               <p>IV. Finally, God must be seen above all national
 calamities, in order that we may have Him to go to in time of
 trouble. "Lord, to whom shall we go? Thou hast the words of eternal
 life," was an apostolical exclamation in an hour of need and trial.</p>
-               <p pn="12">Our late President Lincoln is dead. Andrew Johnson is now
+               <p>Our late President Lincoln is dead. Andrew Johnson is now
 our President. "The powers that be are ordained of God," and we are to
 respect, obey, and pray for all who bear rule over us. Christians are
 to be loyal to both God and man.</p>
@@ -465,11 +445,11 @@ to be loyal to both God and man.</p>
                   <l>"A foe to God was ne'er true friend to
 man."</l>
                </lg>
-               <p pn="12">It is our first duty to look up to Him who is on the throne of the
+               <p>It is our first duty to look up to Him who is on the throne of the
 universe, for direction and help in discharging our duties growing out
 of the death that has bereaved us, and the mercy that gives us one so
 able to succeed him.</p>
-               <p pn="12">Are we afflicted? then let us pray. Our Saviour, "being in
+               <p>Are we afflicted? then let us pray. Our Saviour, "being in
 an agony, prayed more earnestly." Prayer is the result, the pledge,
 the solace, the right use of affliction. The deeper the anguish that
 rives our hearts, the greater the necessity for the rest and support
@@ -478,7 +458,7 @@ sits high and lifted up." In the greatness of our personal and
 national grief, let us not, like our shamed ancestors in Eden, flee
 away and hide ourselves from God, but pray. Let us not,
 <pb n="13"/>
-                  <figure entity="gillette13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
@@ -489,7 +469,7 @@ penitent, beseeching prayer. Let us not, like Jonah, be fretful and
 angry because of the withering of our earthly gourds, but let us give
 ourselves unto the seeking prosperity of Him who is ever on the
 throne, and whose train of mercies fills the temples.</p>
-               <p pn="13">"When Ephraim saw his sickness, and Judah saw his wounds,
+               <p>"When Ephraim saw his sickness, and Judah saw his wounds,
 then went Ephraim to the Assyrian and sent to King Joreb; yet would
 not he heal them nor cure them of their wounds." Not so will we; but
 in the sickness of our souls, and the wounds of our people, we will to
@@ -506,17 +486,17 @@ roaring of His vindictive thunder and are terrified at the shaking of
 his avenging spear, whom we have most justly offended, and are afraid
 at His tokens,--yet with the patient patriarch we will say, "Though He
 slay me, yet will I trust in Him."</p>
-               <p pn="13">Let each of us set a Christian example before the world,
+               <p>Let each of us set a Christian example before the world,
 the best that we can do in our lot and station, resolving to
 contribute the life and heart of one patriot and Christian to the good
 of our wounded country, and a needy world.</p>
-               <p pn="13">Doing this, we may confidently hope to finish our course
+               <p>Doing this, we may confidently hope to finish our course
 with triumphant joy, and go into the possession of a glorious eternal
 hereafter. With the consecration of the noblest purposes in our
 hearts, and full trust in the merits of Jesus Christ underlying all
 our prospects, if we must
 <pb n="14"/>
-                  <figure entity="gillette14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
@@ -540,12 +520,12 @@ humble prayer,</l>
                   <l>The Lord shall find me
 there."</l>
                </lg>
-               <p pn="14">
+               <p>
                   <hi rend="italic">Let us Pray.</hi>
                </p>
-               <p pn="14">Our Father and God, we now pray unto Thee in words Thou
+               <p>Our Father and God, we now pray unto Thee in words Thou
 didst hear from the lips of our beloved Washington, saying:</p>
-               <p pn="14">"May thy Providence, which has so long appeared to be on
+               <p>"May thy Providence, which has so long appeared to be on
 our behalf so manifestly, interpose and help us through all this
 struggle, and direct us to the measures to be used and pursued to
 bring about the happy event all lovers of Thee and of mankind so
@@ -554,15 +534,15 @@ hands is the fate of nations, look down with an eye of tender pity and
 compassion upon the whole of these United States, continue to smile
 upon our councils and arms, and crown them with success, whilst
 employed in the cause of virtue and mankind."</p>
-               <p pn="14">We humbly beseech Thee, O most merciful Lord God! that this
+               <p>We humbly beseech Thee, O most merciful Lord God! that this
 distressed country, and its capital, and every part of this
 wide-extended continent, through Thy divine favor, may be restored to
 more than their former lustre and once happy state. May we have peace,
 liberty, and safety, secured upon a solid, impartial, and permanent
 foundation.</p>
-               <p pn="14">May freedom be given to all the oppressed, health be
+               <p>May freedom be given to all the oppressed, health be
 <pb n="15"/>
-                  <figure entity="gillette15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of
 A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
@@ -571,7 +551,7 @@ restored to all sick and wounded, comfort ministered to all who mourn!
 The fatherless and the widow do Thou take into the covenant-keeping of
 Thy everlasting arms. May we all, with hearty repentance and sincere
 faith, turn away from our sins unto Thee, O Lord!</p>
-               <p pn="15">We do most humbly and heartily beseech Thee to bless Thy
+               <p>We do most humbly and heartily beseech Thee to bless Thy
 servant the President of these United States, his cabinet and
 counsellors, members of our Senate and Congress, with all others in
 authority; endow them plenteously with Thy grace and wisdom, that so
@@ -583,4 +563,4 @@ end.  Amen.</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

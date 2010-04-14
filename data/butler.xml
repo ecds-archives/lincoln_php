@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="The Martyr President">
             <title>The Martyr President</title>
             <author>Butler, J. G.</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -28,9 +22,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -40,8 +32,7 @@ Sermons Project</title>
 J. G. The Martyr President. Our Grief and Our Duty. Washington, D. C.:
 McGill &amp; Witherow, Printers and Stereotypers. 1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text
 derives 
@@ -58,23 +49,12 @@ Preservation Office, and Pitts Theology Library.</p>
             <p>COMPRESSION: Resolution 144 per inch with Constrain Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="butler.001" n="The Martyr President" type="text">
-            <head pn="1"> 
+         <div1 xml:id="butler.001" n="The Martyr President" type="text">
+            <head> 
                <bibl> 
                   <title>The Martyr
 President</title> 
@@ -82,46 +62,46 @@ President</title>
                   <pubPlace>St. Paul's Lutheran
 Church</pubPlace> 
                   <author>Butler, J. G.</author> 
-                  <imprint>
+                  
                      <pubPlace>Washington, D. C.</pubPlace>
                      <publisher>McGill &amp;
 Witherow, Printers and Stereotypers </publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15pw1</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="butler1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of J. G. Butler's The
 Martyr President.</figDesc>
                </figure>
             </p>
-            <p pn="1">THE MARTYR PRESIDENT.</p>
-            <p pn="1">OUR GRIEF AND OUR DUTY.</p>
-            <p pn="1">BY J.G. BUTLER,</p>
-            <p pn="1">PASTOR OF ST. PAUL'S LUTHERAN CHURCH.</p>
-            <p pn="1">WASHINGTON, D.C.:</p>
-            <p pn="1">McGILL &amp; WITHEROW, PRINTERS AND
+            <p>THE MARTYR PRESIDENT.</p>
+            <p>OUR GRIEF AND OUR DUTY.</p>
+            <p>BY J.G. BUTLER,</p>
+            <p>PASTOR OF ST. PAUL'S LUTHERAN CHURCH.</p>
+            <p>WASHINGTON, D.C.:</p>
+            <p>McGILL &amp; WITHEROW, PRINTERS AND
 STEREOTYPERS.</p>
-            <p pn="1">1865.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="butler2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 J. G. Butler's The Martyr President.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="butler3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 J. G. Butler's The Martyr President.</figDesc>
                </figure>
             </p>
-            <p pn="3"> LETTER OF REQUEST.</p>
-            <p pn="3">WASHINGTON, <hi rend="italic">April</hi> 17, 1865.</p>
-            <p pn="3">REV. J. G. BUTLER</p>
-            <p pn="3">DEAR SIR: The undersigned members and friends of your
+            <p> LETTER OF REQUEST.</p>
+            <p>WASHINGTON, <hi rend="italic">April</hi> 17, 1865.</p>
+            <p>REV. J. G. BUTLER</p>
+            <p>DEAR SIR: The undersigned members and friends of your
 church and congregation, who listened to the earnest, patriotic, and
 eloquent address, called forth by the foul assassination of President
 Lincoln, delivered by you in St. Paul's Church on Easter morning, 16th
@@ -132,7 +112,7 @@ many to preserve it may be gratified, and with a firm belief that the
 cause of good government and pure and undefiled religion will be
 subserved by a wider dissemination of the great truths so ably and
 fully set forth therein.</p>
-            <p pn="3">J. A. RHEEM,                               A. NOERR,<lb/>
+            <p>J. A. RHEEM,                               A. NOERR,<lb/>
 JOS. F.KELLEY,                             A. S. PRATT,<lb/>
 A. F. WILLIAMS,                            A. HOWLAND LEE,<lb/>
 A. C. SPAULDING,                           S. A. PEUGH,<lb/>
@@ -143,14 +123,14 @@ THOMAS CRUX,                               WM. H. FRY,<lb/>
 J. G. WEAVER,                              J. N. BURKET,<lb/>
 J. H. REISS,                               J. H. KUEHLING,
                                            <lb/>LEWIS HEYL.</p>
-            <p pn="3">REPLY.</p>
-            <p pn="3">GENTLEMEN: The discourse for which you so kindly ask was
+            <p>REPLY.</p>
+            <p>GENTLEMEN: The discourse for which you so kindly ask was
 wholly extemporaneous, inspired by the deep grief which so suddenly
 overwhelmed our nation. I have, amid pressing duties, hastily
 endeavored to reproduce it. The times call for earnest thoughts and
 earnest men. When the
 <pb n="4"/>
-               <figure entity="butler4">
+               <figure><graphic url=""/>
                   <figDesc>4th page of J. G. Butler's
 The Martyr President.</figDesc>
                </figure>
@@ -161,29 +141,29 @@ which has occasioned all this blood yet struggles for being. If my
 voice or life can in any degree strengthen our Government and promote
 Truth and Freedom, I am not my own, but yours and Truth's and
 Christ's. The manuscript is at your disposal.</p>
-            <p pn="4">I am, gentlemen, very truly, for God and our country,
+            <p>I am, gentlemen, very truly, for God and our country,
 yours,</p>
-            <p pn="4">J. G. BUTLER,
+            <p>J. G. BUTLER,
                                              <lb/>
                <hi rend="italic">Pastor of St. Paul's Church.</hi>
             </p>
-            <p pn="4">ST. PAUL'S PARSONAGE, <hi rend="italic">April</hi> 24, 1865.</p>
-            <p pn="4">To Messrs. J. A . RHEEM, J. F. KELLEY, A. NOERR, A. S. PRATT,
+            <p>ST. PAUL'S PARSONAGE, <hi rend="italic">April</hi> 24, 1865.</p>
+            <p>To Messrs. J. A . RHEEM, J. F. KELLEY, A. NOERR, A. S. PRATT,
 Dr. A. H. LEE, and others.</p>
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="butler5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 J. G. Butler's The Martyr President.</figDesc>
                </figure>
             </p>
-            <div2 id="booth.002" n="OUR GRIEF AND OUR DUTY." type="sermon">
-               <head pn="5">OUR GRIEF AND OUR DUTY.</head>
-               <epigraph pn="5">
-                  <p pn="5">THE GOSPEL FOR THE DAY FROM THE 24TH CHAPTER OF LUKE WAS
+            <div2 xml:id="booth.002" n="OUR GRIEF AND OUR DUTY." type="sermon">
+               <head>OUR GRIEF AND OUR DUTY.</head>
+               <epigraph>
+                  <p>THE GOSPEL FOR THE DAY FROM THE 24TH CHAPTER OF LUKE WAS
 READ.</p>
                </epigraph>
-               <p pn="5">These badges of mourning, in the Sanctuary to-day, direct
+               <p>These badges of mourning, in the Sanctuary to-day, direct
 our thoughts to the terrible tragedy which has filled our city, our
 whole land, with sorrow. And though this be our Communion season, I
 feel that the improvement of this sad Providence furnishes the theme
@@ -201,7 +181,7 @@ this great Republic, as an Ambassador of truth, a servant of Christ,
 untrue to the promptings of my own deeply moved heart, unworthy the
 confidence and love you have ever reposed in me, did I fail to speak
 forth the words of truth and soberness.</p>
-               <p pn="5">This is resurrection day; the day upon which the Church,
+               <p>This is resurrection day; the day upon which the Church,
 during all her history, commemorates the rising from the grave of Him,
 who, but the third day before, had been crucified. In this drapery we
 have combined here to-day the emblems of sorrow and of joy. Nature is
@@ -210,18 +190,18 @@ the buds to swell, the leaves are unfolding, and the trees are covered
 with their varied blooms. After the long and dreary nights of winter,
 all nature has revived, and holds forth
 <pb n="6"/>
-                  <figure entity="butler6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of J. G. Butler's
 The Martyr President.</figDesc>
                   </figure>
 to our admiring eyes an immense bouquet, filling the air with
 fragrance and the soul with gladness.</p>
-               <p pn="6">These weeds of mourning, reminding us of the murder of our
+               <p>These weeds of mourning, reminding us of the murder of our
 honored President on the <hi rend="italic">Crucifixion day</hi> of our
 now risen Lord, are appropriately wreathed with beautiful flowers,
 preachers of the resurrection, entwined with evergreen, pointing to an
 immortality in a tearless land</p>
-               <p pn="6">The plotting enemies of our glorious Redeemer supposed the
+               <p>The plotting enemies of our glorious Redeemer supposed the
 nailing to the Cross ended all pretensions to the establishment of His
 kingdom among the kingdoms of earth. Unable to resist the power of His
 truth, they vainly hoped to bury all--even his very memory--in the new
@@ -234,7 +214,7 @@ to-day--this Christian congregation--the whole Church Catholic, in our
 land, in all lands, with her Bible, her Ministry, her thousand
 agencies for good, shows how false were the hopes, and how groundless
 the fears of enemies and friends.</p>
-               <p pn="6">Though our beloved Chief Magistrate lies in the chilling
+               <p>Though our beloved Chief Magistrate lies in the chilling
 embrace of death to-day, and our honored Prime Minister of State
 lingers in pain beneath the assassin's blow, our Government still
 lives. <hi rend="italic">Men may die</hi>--be murdered--but <hi rend="italic">truth never</hi>. Jesus may, by wicked hands, be
@@ -251,14 +231,14 @@ fathers, and sons and brothers--coined into the price of liberty. And
 now, when rebellion is well nigh crushed, when our armies, flushed
 with victory, are pursuing a fleeing foe, treason nerves her fiendish
 <pb n="7"/>
-                  <figure entity="butler7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of J. G. Butler's
 The Martyr President.</figDesc>
                   </figure>
 arm to strike down our Moses, who, under God, has led us through the
 wilderness, as he stands upon Pisgah, in full view of the Promised
 Land, the land flowing with milk and honey.</p>
-               <p pn="7">The most guilty of the murderers of our Lord were not the
+               <p>The most guilty of the murderers of our Lord were not the
 men who made the Cross, or plaited the crown of thorns, or drove the
 nails, or thrust the spear; not the Centurion and his hundred men, as
 they guarded that innocent victim of hellish malice. They were the
@@ -269,7 +249,7 @@ the populace, crying "Crucify, crucify Him"--these all were
 guilty. Their pride and envy, and malice and revenge, were all
 embodied, <hi rend="italic">vitalized</hi>, in that one act, the murder
 of the King of the Jews.</p>
-               <p pn="7">The poor, miserable, wicked assassin, whose name is not
+               <p>The poor, miserable, wicked assassin, whose name is not
 worthy of mention, though he has gone out with a mark deeper than the
 mark of Cain upon him, and who cannot escape the justice that awaits
 him, was but the representation and instrument of the enemies of the
@@ -278,14 +258,14 @@ Heaven-blessed Government, whose Head they have stricken down.</p>
                   <l>Our father's God, to Thee,</l>
                   <l>Author of Liberty,</l>
                </lg>
-               <p pn="7">though crushed and humbled in the very dust, to Thee we lift our
+               <p>though crushed and humbled in the very dust, to Thee we lift our
 hearts with confidence, and hope, and thanksgiving, that though the
 great, and good, and wise man whom Thou did'st give us, to govern; has
 been stricken down, the people, the government, the eternal principles
 of Truth, and Freedom, and Righteousness, <hi rend="italic">still
 live.</hi>
                </p>
-               <p pn="7">I call you to witness to-day, my brethren, that this pulpit
+               <p>I call you to witness to-day, my brethren, that this pulpit
 has offered no uncertain sound, during these four years of treason and
 blood. Neither by <hi rend="italic">silence</hi>--for <hi rend="italic">silence</hi> is treason, when the life of the nation is
 endangered--by thought, look, word, or act, has your pastor given aid
@@ -296,7 +276,7 @@ sea, nor in the presence of the crumbling ruins of rebellion. But the
 position of your pastor to-day is what it was at the firing of the
 first gun
 <pb n="8"/>
-                  <figure entity="butler8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of J. G. Butler's
 The Martyr President.</figDesc>
                   </figure>
@@ -311,7 +291,7 @@ ministry, that God gave me strength and courage to speak the truth. No
 man has ever weakened the arm of the government and given courage to
 the enemy from the inspiration of this sacred desk. This pulpit is in
 no sense chargeable with the blood of Abraham Lincoln.</p>
-               <p pn="8">When aroused from my midnight slumbers, by the alarming
+               <p>When aroused from my midnight slumbers, by the alarming
 intelligence, that our President had been assassinated--even now we
 can scarcely realize that he, from whose facile pen we were but a few
 days since receiving despatches of victories; whose pleasant, placid
@@ -335,13 +315,13 @@ great Champion of human rights, the friend of the oppressed, the
 emancipator of four millions of bondmen, is, that the land must be <hi rend="italic">free</hi>--an open Bible, a free pulpit, a free press,
 free speech, a free people.</p>
                <pb n="9"/>
-               <p pn="9">
-                  <figure entity="butler9">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>9th page of
 J. G. Butler's The Martyr President.</figDesc>
                   </figure>
                </p>
-               <p pn="9">These millions, enamored of their chains, may, as the delivered
+               <p>These millions, enamored of their chains, may, as the delivered
 Israelites in their straits, murmur against Moses and against God, and
 say, would God we had remained in bondage. We may not be able to
 answer all the hard questions which may arise as to our duty towards
@@ -357,7 +337,7 @@ saw, and was glad. Ah! yes, and though our hearts are sad to-day we
 are glad too--thankful that God gave so good, so wise, so humane a
 ruler, and spared him to us so long, crowning his government with the
 prospect of an early, a righteous, and permanent peace.</p>
-               <p pn="9">Our blessed Lord, once called to the death chamber in the
+               <p>Our blessed Lord, once called to the death chamber in the
 Ruler's house, said of the maid, "not <hi rend="italic">dead</hi>, but
 sleepeth." And these words of Jesus, on this resurrection day, inspire
 hope as we stand in the presence of the lifeless Ruler now. <hi rend="italic">Not dead</hi>; no, he is not dead. He needs no marble
@@ -378,14 +358,14 @@ Redeemer, whose name is <hi rend="italic">love</hi>. May these precious
 memories and hopes sustain and comfort his stricken widow and
 fatherless
 <pb n="10"/>
-                  <figure entity="butler10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of
 J. G. Butler's The Martyr President.</figDesc>
                   </figure>
 children. May the heavy affliction be sanctified by Him who makes all
 things to work together for good, and makes even the wrath of man to
 praise Him.</p>
-               <p pn="10">In a government other than Republican, the assassination of
+               <p>In a government other than Republican, the assassination of
 its Head might paralyze its energies or incite revolution. But the
 affairs of the Republic roll on to-day steadily--guided, under God, by
 a true and loyal heart, and by an arm strong and resolute. Sustained
@@ -396,7 +376,7 @@ when the whole land was flushed with victory. The patriot and
 christian heart of the nation should, and will, now encourage and make
 strong the arm of the President of the United States, whilst we embalm
 in memory the surpassing worth of the fallen Chieftain.</p>
-               <p pn="10">In partaking of this bread and wine, we are carried back to
+               <p>In partaking of this bread and wine, we are carried back to
 the <hi rend="italic">Betrayal night</hi>. And here, in the most solemn
 manner, we renew our consecration to our Divine King. This is a
 consecration act. We say by it that we are not our own--that we belong
@@ -419,13 +399,13 @@ press, free schools, and free people, the truth which only the despot
 in Church or State fears; and the oppressor ought to fear and tremble,
 for he is weighed in the balance and is found wanting.</p>
                <pb n="11"/>
-               <p pn="11">
-                  <figure entity="butler11">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>11th page of
 J. G. Butler's The Martyr President.</figDesc>
                   </figure>
                </p>
-               <p pn="11">But that our mission may be fulfilled, we must be a <hi rend="italic">consecrated people</hi>--a people consecrated to the great
+               <p>But that our mission may be fulfilled, we must be a <hi rend="italic">consecrated people</hi>--a people consecrated to the great
 principles of free government--to the teachings of Jesus, who came not
 only "to preach the Gospel to the poor, and heal the broken hearted,
 but to proclaim deliverance to the captives, and the opening of the
@@ -449,12 +429,12 @@ anointed</hi>,</l>
                   <l>Whose souls, condemned and dying,</l>
                   <l>Were precious in his sight."</l>
                </lg>
-               <p pn="11">The Church--the whole body of <hi rend="italic">believers</hi>, of every name--is the living
+               <p>The Church--the whole body of <hi rend="italic">believers</hi>, of every name--is the living
 representative of Jesus in a rebel world, to teach the truth He
 taught, to live the life He lived, and, if need be, to die the death
 He died, that the kingdom of ignorance, and oppression, and sin may be
 destroyed.</p>
-               <p pn="11">The bloody struggle of the past four years, of which this
+               <p>The bloody struggle of the past four years, of which this
 tragic deed is one of the closing acts, is full of
 significance. Nations, as well as individuals, may have their second
 birth--<hi rend="italic">must be born again</hi>--before they are
@@ -469,13 +449,13 @@ eyes rested, not upon the ruins of a once mighty Republic, but upon
 the land redeemed, regenerated, ennobled, prepared for the great
 mission upon which the King of Kings sends her forth.</p>
                <pb n="12"/>
-               <p pn="12">
-                  <figure entity="butler12">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>12th page of
 J. G. Butler's The Martyr President.</figDesc>
                   </figure>
                </p>
-               <p pn="12">We have come forth, not enfeebled by the death agony
+               <p>We have come forth, not enfeebled by the death agony
 through which we have passed, but <hi rend="italic">stronger</hi> than
 when we entered upon our life trial. God has smiled upon the nation in
 her noble struggle. Agriculture, manufactures, commerce, religion, all
@@ -488,9 +468,9 @@ in strengthening the bulwarks of Zion, but, above all, in ministering
 to the wants, bodily and spiritual, of our brave defenders, and even
 remembering those whose parricidal hand aimed a death blow at the very
 vitals of our Government.</p>
-               <p pn="12">The life of the nation is healthy, vigorous, to-day--nerved
+               <p>The life of the nation is healthy, vigorous, to-day--nerved
 with holy resolve.</p>
-               <p pn="12">As the war-cloud rolls away from the rebel States, we shall
+               <p>As the war-cloud rolls away from the rebel States, we shall
 witness the desolations of civil strife. Not only are governments
 disorganized, but the Church, too, needs reconstruction. The Southern
 pulpit, forgetting the Apostolic injunction, has fired the Southern
@@ -498,7 +478,7 @@ heart and strengthened the arm of the rebel government, by preaching
 treason and resistance to rightful authority. The terrible desolations
 of civil war have swept over these States. All is disorder there, in
 the family, the church, and the government.</p>
-               <p pn="12">In the midst of our sorrow to-day, our hearts should
+               <p>In the midst of our sorrow to-day, our hearts should
 overflow with thanksgiving that the hand of the destroyer has not
 paralyzed the arm of our industry nor polluted our altars. A glance at
 our Southern land shows what our cities and towns would be had the
@@ -507,13 +487,13 @@ upon Bunker Hill. But God has given us the victory, blessed be His
 holy name! Glory be to the Father and to the Son and to the Holy
 Ghost, as it was in the beginning, is now, and ever shall be, world
 without end!</p>
-               <p pn="12">We must now address ourselves, as patriot Christians, to
+               <p>We must now address ourselves, as patriot Christians, to
 the duties of the hour. It is ours to strengthen the arm of the
 Executive, to encircle him with our sympathies, our confidence, and
 our prayers. It is ours to remember the brave men who have stood as a
 wall of fire between us and our enemies; to care for the
 <pb n="13"/>
-                  <figure entity="butler13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of
 J. G. Butler's The Martyr President.</figDesc>
                   </figure>
@@ -537,7 +517,7 @@ wrath, his love of peace, must animate our hearts. Our erring
 brethren; whilst being taught that treason is <hi rend="italic">crime</hi>, must yet know that only the love of order and
 peace insists upon its penalty; that justice is tempered with mercy;
 that righteousness and peace may kiss each other.</p>
-               <p pn="13">In the memorial of our Saviour's death, and with these
+               <p>In the memorial of our Saviour's death, and with these
 emblems of our national sorrow, we must anew consecrate ourselves
 to-day to these works of Christian philanthropy. Though we be not able
 to see alike upon all the great questions that have agitated the land,
@@ -548,13 +528,13 @@ day as <hi rend="italic">men</hi>, planting ourselves upon the Bible, as
 we stand beside the Cross, and unfurl our starry banner, now draped in
 mourning, with the undying resolve, that, in God's name, <hi rend="italic">the right shall triumph, though our own blood pay the
 price</hi>.</p>
-               <p pn="13">God has taught us, during this struggle, what we can do,
+               <p>God has taught us, during this struggle, what we can do,
 when deeply in earnest. The Christian and the patriot, sparing not
 their own sons, have, with them, freely given of their treasure and
 labor to bind up the wounds and pour in oil and wine. The millions of
 treasure that have cheered our suffering soldiers may
 <pb n="14"/>
-                  <figure entity="butler14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of
 J. G. Butler's The Martyr President.</figDesc>
                   </figure>
@@ -565,7 +545,7 @@ labor--self-denying, constant, and earnest. The work so auspiciously
 begun, so successfully prosecuted by our martyred President, must be
 carried on, until the world shall enjoy that freedom wherewith Christ
 makes the people free.</p>
-               <p pn="14">The adage is no more trite than true, that the "blood of
+               <p>The adage is no more trite than true, that the "blood of
 the martyrs is the seed of the Church." The disciples scattered,
 during the first century, by the persecution and martyrdom of our
 Lord, and His defenceless ones, did not go with sealed lips, but
@@ -584,4 +564,4 @@ cunning, and my tongue cleave to the roof of my mouth.</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

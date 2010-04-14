@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>A Commemorative Discourse on the Death of Abraham Lincoln</title>
             <author>Sweetser, Seth</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -28,9 +22,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -40,8 +32,7 @@ Sermons Project</title>
 Seth. A Commemorative Discourse on the Death of Abraham
 Lincoln. Worcester, Massachusetts.  MDCCCLXV.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -64,81 +55,70 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="sweetser.001" n="A Commemorative Discourse on the Death of Abraham Lincoln" type="text">
-            <head pn="1"> 
+         <div1 xml:id="sweetser.001" n="A Commemorative Discourse on the Death of Abraham Lincoln" type="text">
+            <head> 
                <bibl> 
                   <title>A Commemorative
 Discourse on the Death of Abraham Lincoln</title>
                   <date>[unknown]</date> 
                   <pubPlace>Central Church</pubPlace>
                   <author>Sweetser, Seth</author> 
-                  <imprint>
+                  
                      <pubPlace>Boston</pubPlace>
                      <publisher>Press of John Wilson and Son</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15r7m</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="sweetser1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Seth Sweetser's A
 Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">A</p>
-            <p pn="1">COMMEMORATIVE  DISCOURSE</p>
-            <p pn="1">On the Death</p>
-            <p pn="1">of</p>
-            <p pn="1">ABRAHAM LINCOLN.</p>
-            <p pn="1">BY SETH SWEETSER,</p>
-            <p pn="1">PASTOR OF THE CENTRAL CHURCH</p>
-            <p pn="1">Worcester, Massachusetts.</p>
-            <p pn="1">MCDCCCLXV.</p>
+            <p>A</p>
+            <p>COMMEMORATIVE  DISCOURSE</p>
+            <p>On the Death</p>
+            <p>of</p>
+            <p>ABRAHAM LINCOLN.</p>
+            <p>BY SETH SWEETSER,</p>
+            <p>PASTOR OF THE CENTRAL CHURCH</p>
+            <p>Worcester, Massachusetts.</p>
+            <p>MCDCCCLXV.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="sweetser2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="2">Abraham Lincoln,</p>
-            <p pn="2">
+            <p>Abraham Lincoln,</p>
+            <p>
                <hi rend="italic">Sixteenth President of the United States,</hi>
             </p>
-            <p pn="2">DIED ON THE 15TH OF APRIL, A.D. 1865,</p>
-            <p pn="2">AGED 56.</p>
-            <p pn="2">"That magnanimity that neither feareth greatness of alteration, nor
+            <p>DIED ON THE 15TH OF APRIL, A.D. 1865,</p>
+            <p>AGED 56.</p>
+            <p>"That magnanimity that neither feareth greatness of alteration, nor
 the views of conspirators, nor the power of enemy, is more than
 heroical."</p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="sweetser3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="3">WORCESTER,
+            <p>WORCESTER,
 MAY 8, 1865.</p>
-            <p pn="3">DEAR SIR,</p>
-            <p pn="3">The Congregation of the Central Church in
+            <p>DEAR SIR,</p>
+            <p>The Congregation of the Central Church in
 this city greatly desire to preserve and perpetuate your Discourse in
 commemoration of the Death of our revered President, ABRAHAM
 LINCOLN. They have, therefore, this day commissioned us, the
@@ -147,47 +127,47 @@ this request, as we now do, we desire to express, for ourselves and
 for the Congregation, our conviction that the Discourse is eminently
 entitled to a place among the permanent memorials of our great
 national bereavement. Trusting that you will grant this request,</p>
-            <p pn="3">We remain, with great respect,</p>
-            <p pn="3">Your friends,</p>
-            <p pn="3">CHAS. E. STEVENS.<lb/>
+            <p>We remain, with great respect,</p>
+            <p>Your friends,</p>
+            <p>CHAS. E. STEVENS.<lb/>
 THOMAS H. GAGE.<lb/>
 P. EMORY ALDRICH.<lb/>
 C. M. MILES.<lb/>
 G. HENRY WHITCOMB.  <lb/>The REV. SETH SWEETSER, D. D.</p>
-            <p pn="3">WORCESTER,
+            <p>WORCESTER,
 MAY 10, 1865.</p>
-            <p pn="3">GENTLEMEN,</p>
-            <p pn="3">In compliance with your request, I send you the manuscript of my
+            <p>GENTLEMEN,</p>
+            <p>In compliance with your request, I send you the manuscript of my
 Discourse preached on Sunday, the 23d of April last.</p>
-            <p pn="3">With acknowledgments of your continued regard,</p>
-            <p pn="3">Your friend and Pastor,</p>
-            <p pn="3">S.
+            <p>With acknowledgments of your continued regard,</p>
+            <p>Your friend and Pastor,</p>
+            <p>S.
 SWEETSER.</p>
-            <p pn="3">Messrs. CHARLES E.  STEVENS, THOMAS H. GAGE,  P. EMORY ALDRICH,</p>
-            <p pn="3">C. M. MILES, G. HENRY WHITCOMB.</p>
+            <p>Messrs. CHARLES E.  STEVENS, THOMAS H. GAGE,  P. EMORY ALDRICH,</p>
+            <p>C. M. MILES, G. HENRY WHITCOMB.</p>
             <pb n="4"/>
-            <p pn="4">
-               <figure entity="sweetser4">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>4th page of
 Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="4">AND THE KING SAID UNTO HIS SERVANTS, KNOW YE NOT THAT
+            <p>AND THE KING SAID UNTO HIS SERVANTS, KNOW YE NOT THAT
 THERE IS A PRINCE AND A GREAT MAN FALLEN THIS DAY IN ISRAEL?</p>
-            <p pn="4">2
+            <p>2
 SAMUEL, III. 38.</p>
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="sweetser5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="sweetser.002" n="DISCOURSE." type="sermon">
-               <head pn="5">DISCOURSE.</head>
-               <p pn="5">TO keep in memory, and to review with gratitude and honor, the
+            <div2 xml:id="sweetser.002" n="DISCOURSE." type="sermon">
+               <head>DISCOURSE.</head>
+               <p>TO keep in memory, and to review with gratitude and honor, the
 lives of men conspicuous for great services, has the sanction of the
 universal judgment of mankind. In so doing, the goodness which would
 be ephemeral is embalmed; the examples worthy of perpetual imitation
@@ -197,12 +177,12 @@ archives with the choicest wisdom of the ages. It is thus that
 prophets and kings, benefactors and holy men, being dead, speak on
 from generation to generation, and the righteous are in everlasting
 remembrance.</p>
-               <p pn="5">A prince and a great man has fallen, and a grateful people will
+               <p>A prince and a great man has fallen, and a grateful people will
 establish his memorial: they will enrol his name with the illustrious
 benefactors of the world, and treasure his deeds amongst the worthiest
 traditions that are handed down to after-times. The
 <pb n="6"/>
-                  <figure entity="sweetser6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -230,7 +210,7 @@ with feelings of the utmost horror: the bereavement afflicts us with
 the deepest grief. A nation mourns as nations have seldom had occasion
 to mourn: a whole people
 <pb n="7"/>
-                  <figure entity="sweetser7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -257,7 +237,7 @@ and the smiling vineyards of the promised land. But, like the great
 leader of Israel, he was not permitted to come to the possession. His
 vigor was not diminished. His natural strength was
 <pb n="8"/>
-                  <figure entity="sweetser8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -271,7 +251,7 @@ lest misfortune should sully his glory: he has travelled to the end of
 his journey, and carried with him an increasing weight of honor: he
 has deposited it safely where misfortune cannot tarnish it, where
 malice cannot blast it."</p>
-               <p pn="8">An accomplished life is a great thing. There is, indeed, a charm in
+               <p>An accomplished life is a great thing. There is, indeed, a charm in
 a life rounded out with its full term of years, and closing with the
 serene light of a quiet evening. But life is estimated by its purposes
 and their fulfilment. And when a man's day has been crowded with great
@@ -284,7 +264,7 @@ have redeemed Israel. May not the revelations of the future satisfy us
 as the disciples were satisfied? May we not find yet, that all our
 loftiest and most cherished expectations are realized? 
 <pb n="9"/>
-                  <figure entity="sweetser9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -306,13 +286,13 @@ problem which now perplexes us shall have been worked out in all its
 parts, the whole troubled scene will present to the comprehension of
 the human mind an orderly and beneficent arrangement, fully justifying
 the ways of God.</p>
-               <p pn="9">The elevation of Mr. Lincoln to the chief magistracy was a pregnant
+               <p>The elevation of Mr. Lincoln to the chief magistracy was a pregnant
 event. It opened a new era. It was the first distinct and effective
 utterance of the reviving life of the nation. Whatever were the
 judgments of the hour,--and they were various,--whatever its hope or
 its fears, the result has demonstrated that 
 <pb n="10"/>
-                  <figure entity="sweetser10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -328,7 +308,7 @@ momentous events. The chief actors are invested with extraordinary
 responsibilities, with the high privilege of controlling the mighty
 issues at stake, and determining the welfare to be secured in the
 struggle.</p>
-               <p pn="10">Such were the circumstances and such the position in which the
+               <p>Such were the circumstances and such the position in which the
 President was called to discharge the duties of his office. That he
 had a singular fitness for it is now the universal judgment,
 notwithstanding many suspected or perceived
@@ -341,7 +321,7 @@ self-forgetfulness, at a period when selfish ambition had shamed
 patriotism into obscurity, was a rare jewel. His childlike simplicity,
 which exposed him to many
 <pb n="11"/>
-                  <figure entity="sweetser11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -363,12 +343,12 @@ and quality. The faint outlines and foreshadowings which in the outset
 inspired hope have been deeply drawn and filled in to the admiration
 of his countrymen, and so as to secure, we doubt not, the approving
 judgment of a dispassionate posterity.</p>
-               <p pn="11">Napoleon was fond of calling himself the child of Destiny. Abraham
+               <p>Napoleon was fond of calling himself the child of Destiny. Abraham
 Lincoln was the child of Providence. An undevout philosophy might say
 that he was the pupil of events, sagaciously detecting the clew, and
 then implicitly following the thread. We
 <pb n="12"/>
-                  <figure entity="sweetser12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -396,7 +376,7 @@ which outruns observation, and with a glance detects and follows out
 the certain connection between present causes and future
 consequences. His mind was
 <pb n="13"/>
-                  <figure entity="sweetser13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -421,10 +401,10 @@ be expected from a short-sighted mortal. That he was ever betrayed by
 malice, blinded by passion, or instigated to doubtful measures by
 self-seeking or personal ambition, his enemies would scarcely be
 willing to affirm.</p>
-               <p pn="13">In the letter addressed to Congress by the convention which framed
+               <p>In the letter addressed to Congress by the convention which framed
 the constitution of the United
 <pb n="14"/>
-                  <figure entity="sweetser14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -435,7 +415,7 @@ deliberations ... we kept steadily in our view that which appears to
 us the greatest interest of every true American,--the consolidation of
 our Union, in which is involved our prosperity, felicity, safety,
 perhaps our national existence."</p>
-               <p pn="14">One could hardly select more appropriate language in which to
+               <p>One could hardly select more appropriate language in which to
 describe the avowed aim of the administration which has so suddenly
 terminated. It is the leading idea in the entire series of the
 President's efforts. Whether or not he was too exclusively devoted to
@@ -452,7 +432,7 @@ were evolved from the confused and conflicting mass of judgments,
 opinions, and political dicta, he fearlessly accepted them, and firmly
 applied them. Upon the
 <pb n="15"/>
-                  <figure entity="sweetser15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -480,7 +460,7 @@ measures of things, was necessarily left far in the rear of the
 advancing column. Under a pressure so resistless, and exposed, almost
 of necessity, to be pushed onward,
 <pb n="16"/>
-                  <figure entity="sweetser16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -503,12 +483,12 @@ Aurelius, Alfred, Orange, or even of Washington. If the statue of
 George Washington fills, by unanimous consent, the first niche in the
 Pantheon of illustrious worthies, will not that of Abraham Lincoln
 fill the second?</p>
-               <p pn="16">It would be enough for the largest desire, and for fame, to have
+               <p>It would be enough for the largest desire, and for fame, to have
 administered well the affairs of the nation under the ordinary reign
 of peace and prosperity. But to have achieved success amid
 dismembering revolutionary struggles, and the convulsive
 <pb n="17"/>
-                  <figure entity="sweetser17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -534,9 +514,9 @@ distinct results, and pressing onward with increasing and resistless
 strength to the hour when victory crowned the whole with its cheering
 light, is an achievement to be ranked with the most illustrious deeds
 of the brightest names in the world's record.</p>
-               <p pn="17">But this is drawing faintly, and only in outline, the 
+               <p>But this is drawing faintly, and only in outline, the 
 <pb n="18"/>
-                  <figure entity="sweetser18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -564,7 +544,7 @@ perplexity. There was a higher restraint in the caution of his
 utterances than is due to prudence in affairs. A deeper feeling moved
 him than the instincts of
 <pb n="19"/>
-                  <figure entity="sweetser19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -592,7 +572,7 @@ MARCH last, without the conviction that they are the profound
 reflections of a heart which looked into the ways of God with
 trembling reverence, rather than the conventional
 <pb n="20"/>
-                  <figure entity="sweetser20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -619,7 +599,7 @@ sympathy for sufferers? His words come out with the clear tone of a
 heart subdued to a sense of guilt under the law of God, trembling with
 the consciousness of the terrors of divine justice, and humbly
 <pb n="21"/>
-                  <figure entity="sweetser21">
+                  <figure><graphic url=""/>
                      <figDesc>21st page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -644,9 +624,9 @@ broken hearts; and, if it were possible for all other voices to be
 dumb, there is one people, whose future life will always be devoted to
 the bestowment of honor upon the name of him who was God's hand in
 lifting the yoke and breaking the chain of their long oppression.</p>
-               <p pn="21">An administration has closed with results such as
+               <p>An administration has closed with results such as
 <pb n="22"/>
-                  <figure entity="sweetser22">
+                  <figure><graphic url=""/>
                      <figDesc>22nd page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -674,7 +654,7 @@ lesson, and with a clear eye and firm hand holding all things steady
 in the course of destiny. Such a life is an unfolding and a growth of
 its own
 <pb n="23"/>
-                  <figure entity="sweetser23">
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -702,7 +682,7 @@ high stewardship, and established a fame as ample as the affection he
 had inspired. He whom God raised up, and has allowed to do so much,
 cannot be said to have
 <pb n="24"/>
-                  <figure entity="sweetser24">
+                  <figure><graphic url=""/>
                      <figDesc>24th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -730,7 +710,7 @@ earnest co-operation encourage and strengthen his heart. He will need
 all the support of our prayers, and the guiding hand of God. Do we
 need any other argu-
 <pb n="25"/>
-                  <figure entity="sweetser25">
+                  <figure><graphic url=""/>
                      <figDesc>25th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -758,7 +738,7 @@ of lives should be wasted by the slow cruelties starvation, may there
 not have been a necessity in he last act of fatal wickedness to nerve
 the people to
 <pb n="26"/>
-                  <figure entity="sweetser26">
+                  <figure><graphic url=""/>
                      <figDesc>26th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -786,7 +766,7 @@ in the highest manifestation of God. Justice smote the afflicted
 Saviour upon the cross. The majesty of law, outraged by sin, demanded
 the sacrifice. Love moved the dying lips
 <pb n="27"/>
-                  <figure entity="sweetser27">
+                  <figure><graphic url=""/>
                      <figDesc>27th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -814,7 +794,7 @@ this is the duty to which God calls, shall we bold back? If the work
 of justice be more dreadful than the work of mercy, yet it must be
 done. The work of justice is
 <pb n="28"/>
-                  <figure entity="sweetser28">
+                  <figure><graphic url=""/>
                      <figDesc>28th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -840,9 +820,9 @@ secure to itself respect, and command the confidence of the people. It
 is equally important that we should be purged of all hateful and
 vindictive passion, and that we should address ourselves to the
 pressing and momentous duties of the hour in the fear of the Lord.</p>
-               <p pn="28">We have had a high and noble example. That
+               <p>We have had a high and noble example. That
 <pb n="29"/>
-                  <figure entity="sweetser29">
+                  <figure><graphic url=""/>
                      <figDesc>29th page of Seth
 Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
@@ -852,25 +832,25 @@ yet firm, ever simple and yet wise, ever humble but yet prompt, ever
 moderate but always true. We can do him no greater honor than to
 remember and follow the words with which he closed his last address to
 the American people:--</p>
-               <p pn="29">"WITH MALICE TOWARDS NONE, WITH CHARITY FOR ALL, WITH FIRMNESS IN
+               <p>"WITH MALICE TOWARDS NONE, WITH CHARITY FOR ALL, WITH FIRMNESS IN
 THE RIGHT AS GOD GIVES US TO SEE THE RIGHT, LET US STRIVE ON TO FINISH
 THE WORK WE ARE IN; TO BIND UP THE NATION'S WOUNDS; TO CARE FOR HIM
 WHO SHALL HAVE BORNE THE BATTLE, AND FOR HIS WIDOW AND HIS
 ORPHANS,--TO DO ALL WHICH MAY ACHIEVE AND CHERISH A JUST AND LASTING
 PEACE AMONG OURSELVES AND WITH ALL NATIONS."</p>
                <pb n="30"/>
-               <p pn="30">
-                  <figure entity="sweetser30">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>30th page
 of Seth Sweetser's A Commemorative Discourse on the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="30">BOSTON:</p>
-               <p pn="30">PRESS OF JOHN WILSON AND SON,</p>
-               <p pn="30">15, WATER STREET.</p>
+               <p>BOSTON:</p>
+               <p>PRESS OF JOHN WILSON AND SON,</p>
+               <p>15, WATER STREET.</p>
             </div2>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

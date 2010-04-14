@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="Memorial Sermons">
             <title>Memorial Sermons</title>
             <author>Webb, Edwin B.</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is  granted to download, transmit, or otherwise
 reproduce,  distribute or display the contributions to the work
@@ -27,9 +21,7 @@ claimed by Emory University for non-profit educational  purposes,
 provided this header is included in its entirety.   For inquiries
 about commercial uses, contact the Director,  Pitts Theology Library,
 Emory University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -40,8 +32,7 @@ B. Memorial Sermons.  The Capture of Richmond.  Some of the Results of
 the War.  The Assassination of the President.  Boston: Press of
 Geo. C. Rand &amp; Avery, 3 Cornhill. 1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text
 derives from the Special Collections  of Pitts Theology Library, Emory
@@ -65,23 +56,12 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="webb.001" n="Memorial Sermons" type="text">
-            <head pn="1"> 
+         <div1 xml:id="webb.001" n="Memorial Sermons" type="text">
+            <head> 
                <bibl> 
                   <title>Memorial
 Sermons</title> 
@@ -89,78 +69,78 @@ Sermons</title>
                   <pubPlace>Shawmut Church,
 Boston</pubPlace> 
                   <author>Webb, Edwin B.</author> 
-                  <imprint>
+                  
                      <pubPlace>Boston</pubPlace>
                      <publisher>Press of Geo. C. Rand &amp;
 Avery</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15rgk</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="webb1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Edwin B. Webb's
 Memorial Sermons.</figDesc>
                </figure>
             </p>
-            <p pn="1">MEMORIAL SERMONS.</p>
-            <p pn="1">THE CAPTURE OF RICHMOND.</p>
-            <p pn="1">SOME OF THE RESULTS OF THE WAR.</p>
-            <p pn="1">THE ASSASSINATION OF THE PRESIDENT.</p>
-            <p pn="1">BY</p>
-            <p pn="1">EDWIN B. WEBB,</p>
-            <p pn="1">PASTOR OF SHAWMUT CHURCH, BOSTON.</p>
-            <p pn="1">BOSTON:</p>
-            <p pn="1">PRESS OF GEO. C. RAND &amp; AVERY, 3 CORNHILL.</p>
-            <p pn="1">1865.</p>
+            <p>MEMORIAL SERMONS.</p>
+            <p>THE CAPTURE OF RICHMOND.</p>
+            <p>SOME OF THE RESULTS OF THE WAR.</p>
+            <p>THE ASSASSINATION OF THE PRESIDENT.</p>
+            <p>BY</p>
+            <p>EDWIN B. WEBB,</p>
+            <p>PASTOR OF SHAWMUT CHURCH, BOSTON.</p>
+            <p>BOSTON:</p>
+            <p>PRESS OF GEO. C. RAND &amp; AVERY, 3 CORNHILL.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="webb2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Edwin B. Webb's Memorial Sermons.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="webb3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Edwin B. Webb's Memorial Sermons.</figDesc>
                </figure>
             </p>
-            <p pn="3">BOSTON, April 19, 1865. </p>
-            <p pn="3">REV. E. B. WEBB.</p>
-            <p pn="3">Dear Sir,--</p>
-            <p pn="3">The undersigned beg leave to ask a copy of each of the
+            <p>BOSTON, April 19, 1865. </p>
+            <p>REV. E. B. WEBB.</p>
+            <p>Dear Sir,--</p>
+            <p>The undersigned beg leave to ask a copy of each of the
 discourses delivered by you in the Shawmut Church on the mornings of
 the 9th, 13th, and 16th inst., for the press.</p>
-            <p pn="3">Approving the sentiments which they contain, and believing them
+            <p>Approving the sentiments which they contain, and believing them
 adapted to perpetuate the memory of those <hi rend="italic">momentous
 events</hi> which followed in such rapid succession, and which gave to
 a great nation so much joy and such intense sorrow, we hope you will
 not deny our request.</p>
-            <p pn="3">Very
+            <p>Very
 respectfully yours,</p>
-            <p pn="3">L. R. SHELDON,
+            <p>L. R. SHELDON,
                                                                                                              <lb/>DANIEL
 HARWOOD,<lb/>
 OSBORNE HOWES, <lb/>CHARLES HUTCHINGS,<lb/>
 C. A. PUTNAM, <lb/>MOSES W. RICHARDSON, <lb/>
                <hi rend="italic">Committee.</hi>
             </p>
-            <p pn="3">BOSTON,
+            <p>BOSTON,
 April 20, 1865.</p>
-            <p pn="3">GENTLEMEN, --</p>
-            <p pn="3">The sermons for which you so kindly ask are very humble and hasty
+            <p>GENTLEMEN, --</p>
+            <p>The sermons for which you so kindly ask are very humble and hasty
 efforts; but, indorsed by a large and intelligent congregation of
 citizens, they may help to shape the popular opinion, and to record
 the fearful struggle between loyalty and treason, and also the sudden
 transition from one extreme of unutterable feeling to another, through
 which we have passed in these times which have no parallel in national
 history.  They are, therefore, submitted to your disposal.</p>
-            <p pn="3">With ever-increasing affection,</p>
-            <p pn="3">I am faithfully your pastor,</p>
-            <p pn="3">E. B. WEBB.</p>
-            <p pn="3">To L. R. SHELDON, M. D.., DANIEL HARWOOD, OSBORNE HOWES, CHARLES
+            <p>With ever-increasing affection,</p>
+            <p>I am faithfully your pastor,</p>
+            <p>E. B. WEBB.</p>
+            <p>To L. R. SHELDON, M. D.., DANIEL HARWOOD, OSBORNE HOWES, CHARLES
 HUTCHINGS, C. A. PUTNAM, MOSES W. RICHARDSON, Esqrs.,
 <lb/>
                <hi rend="italic">Committee.</hi>
@@ -174,20 +154,20 @@ Edwin B. Webb's Memorial Sermons.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="webb5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 Edwin B. Webb's Memorial Sermons.</figDesc>
                </figure>
             </p>
-            <div2 id="webb.002" n="THE CAPTURE OF RICHMOND." type="sermon">
-               <head pn="5">THE CAPTURE OF RICHMOND.</head>
-               <epigraph pn="5">
-                  <p pn="5">"The Lord is my strength and song, and he is become my
+            <div2 xml:id="webb.002" n="THE CAPTURE OF RICHMOND." type="sermon">
+               <head>THE CAPTURE OF RICHMOND.</head>
+               <epigraph>
+                  <p>"The Lord is my strength and song, and he is become my
 salvation: he is my God, and I will prepare him a habitation; my
 fathers' God, and I will exalt him." --EXODUS XV. 2.</p>
                </epigraph>
-               <p pn="5">THE past has been a week of great joy. Not one city, not one State,
+               <p>THE past has been a week of great joy. Not one city, not one State,
 but the whole loyal North, from Maine to California, has been
 jubilant. Not waiting for official requisitions, the
 people--spontaneously, unitedly, universally--have given thanks to God
@@ -197,12 +177,12 @@ cellar luminous with expressions of gladness; and at the call of
 authority, citizens have assembled with bands of music, amid the peal
 of cannon, with waving banners, in vast crowds, to congratulate each
 other, and give utterance to the general feeling of exultation.</p>
-               <p pn="5">And manifestly this has not been a. mechanical self-excitation: men
+               <p>And manifestly this has not been a. mechanical self-excitation: men
 have been moved; hearts have been oppressed with feelings that words
 could not utter; and the shouts of living, sympathetic masses have
 been called for, and Te Deums with full orchestra,
 <pb n="6"/>
-                  <figure entity="webb6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Edwin B. Webb's
 Memorial Sermons.</figDesc>
                   </figure>
@@ -212,11 +192,11 @@ oppressive apprehensions, with no reservations, but with full and deep
 respiration, and unclouded hope. Men feel that the foundations are
 sure, that the instincts of a loyal people are right, that justice
 lives, that God reigns.</p>
-               <p pn="6">And what is the occasion of all this gladness and congratulation?
+               <p>And what is the occasion of all this gladness and congratulation?
 Just that which called forth the Song of Moses from which our text is
 taken: "Thy right hand, 0 Lord, is become glorious in power: thy right
 hand, 0 Lord, hath dashed in pieces the enemy."</p>
-               <p pn="6">A little more than a year ago, a modest, reticent, but able and
+               <p>A little more than a year ago, a modest, reticent, but able and
 magnanimous commander was called to Washington, and made
 commander-in-chief of all our armies. Up to that time, the strength of
 the Rebellion had been once or twice checked, but never humbled. The
@@ -225,11 +205,11 @@ abroad, free, and able to move when and where he pleased. When he
 chose, he fortified and lay behind his works; when he chose, he
 invested the capital or invaded the loyal States. His power was
 unbroken, his spirit undaunted, his limbs unfettered.</p>
-               <p pn="6">With a quiet determination, our new commander said that <hi rend="italic">General Lee must be controlled</hi>, his army must be
+               <p>With a quiet determination, our new commander said that <hi rend="italic">General Lee must be controlled</hi>, his army must be
 conquered. The strength of the Rebellion is here. Operations
 aggressive and successful
 <pb n="7"/>
-                  <figure entity="webb7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Edwin B. Webb's
 Memorial Sermons.</figDesc>
                   </figure>
@@ -251,10 +231,10 @@ wounds,--will be known wherever history is read. Such fighting, so
 determined, prolonged, and persistent; such courage; such fortitude;
 such marching; such endurance of heat and wet, incessant fatigues and
 bloody battles,--the world never saw.</p>
-               <p pn="7">And how much we owe to that tenacity of purpose which never let go
+               <p>And how much we owe to that tenacity of purpose which never let go
 its hold, and never was
 <pb n="8"/>
-                  <figure entity="webb8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Edwin B. Webb's
 Memorial Sermons.</figDesc>
                   </figure>
@@ -271,7 +251,7 @@ Rebellion with the powerful grasp of one hand, and with the other
 points out what can be done in the Valley of the Shenandoah, and at
 Nashville, and along the Atlantic coast, and through the central and
 vital parts of the Confederacy.</p>
-               <p pn="8">After a council of war, on Monday night, March 27, 1865, at which
+               <p>After a council of war, on Monday night, March 27, 1865, at which
 were present men whose names will head new chapters
 in-history,--Lincoln, Grant, Sherman, and others,--the great army of
 the Lieutenant-general began to move, under his immediate
@@ -280,7 +260,7 @@ not only the thoughts and energies of this nation, but has interested
 and influenced to a great extent the nations of the whole earth, is
 about to be solved. A bold, stupendous plan is just unfold
 <pb n="9"/>
-                  <figure entity="webb9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of Edwin B. Webb's
 Memorial Sermons.</figDesc>
                   </figure>
@@ -307,21 +287,21 @@ ministers courage to fainting hearts. Cheers break out in well-known
 accents along the Union lines. The crisis is passed. Forward, forward!
 and <hi rend="italic">wrong</hi>
                   <pb n="10"/>
-                  <figure entity="webb10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 long defiant, cowers before the <hi rend="italic">right</hi>. Rebellion
 acknowledges its master.</p>
-               <p pn="10">And now what means this joy of the loyal people, this exultation of
+               <p>And now what means this joy of the loyal people, this exultation of
 loyal hearts seeking expression through every possible symbol of
 gladness and congratulation?</p>
-               <p pn="10">It means that the serpent, driven hissing and defiant into her den,
+               <p>It means that the serpent, driven hissing and defiant into her den,
 and kept there by a cordon of fire, is making her escape with the
 whole slimy brood, along a tortuous way,--the only one open to
 them,--dodging and dipping their vile heads to avoid the conqueror's
 uplifted heel.</p>
-               <p pn="10">It means that victory, complete and final victory, crowns the loyal
+               <p>It means that victory, complete and final victory, crowns the loyal
 cause. It means that the fortifications and forts, and all the
 defences of the rebel stronghold, are stormed and carried. It means
 that the spirit and strength of Rebellion are at length subdued and
@@ -335,7 +315,7 @@ enough to learn unmistakably all the resources and secrets and
 purposes of the Government; and who for the last four years, has been
 using all
 <pb n="11"/>
-                  <figure entity="webb11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -343,11 +323,11 @@ that knowledge, and all his education, and energy, and military skill,
 that with perjured hand he might plunge his sword into the bosom that
 nursed him, it means that Lee, the pet and pride of the Rebellion, is
 foiled and vanquished at last.</p>
-               <p pn="11">The old mother has had too many sons to stand between her and the
+               <p>The old mother has had too many sons to stand between her and the
 weapons poised and aimed by traitorous hands. Lee is flying, a
 criminal, he knows not where, to escape a merited halter, he knows not
 how; his army beaten, his braves captured, his followers deserting.</p>
-               <p pn="11">It means that the Lieutenant-general and the loyal armies are
+               <p>It means that the Lieutenant-general and the loyal armies are
 master of the field, and master of the Confederacy. It means that
 slavery, the one dark cause of all our bitterness and bloodshed, is
 forever dead. It means, no more massacres at Fort Pillow; no more
@@ -361,24 +341,24 @@ planted, in the resplendent morning of April 3, 1865, on the ramparts
 of Richmond, conquered and captured by Liberty's thundering legions,
 shall float, the emblem of strength, freedom and justice, over
 <pb n="12"/>
-                  <figure entity="webb12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 every capital and city and village and inhabitant of our original
 domain.</p>
-               <p pn="12">It means that the war, the long terrible war that has trampled down
+               <p>It means that the war, the long terrible war that has trampled down
 our harvests, and burdened our industry, and desolated our homes, and
 bereaved our hearts, and made delicate wives widows, and helpless
 babes orphans,--this war for the overthrow of a beneficent government
 is virtually ended.</p>
-               <p pn="12">It means that Republican Government, a Government of the people and
+               <p>It means that Republican Government, a Government of the people and
 by the people, is no longer a question and an experiment. It means
 that the people have the <hi rend="italic">right</hi> and the <hi rend="italic">capacity</hi> to govern themselves in peace and in war;
 and, therefore, that the Republic of the United States of America is a
 government and a success. It means that our institutions, affording
 security and liberty and opportunity and education and religion to <hi rend="italic">all men</hi>, are to triumph.</p>
-               <p pn="12">Such is the occasion of our joy to-day; and well may we
+               <p>Such is the occasion of our joy to-day; and well may we
 congratulate each other, and utter forth praise, and take up the
 strains of ancient Israel, "The Lord is my rock, and my fortress, and
 my deliverer; by thee I have run through a troop, and by my God have I
@@ -387,7 +367,7 @@ up that sublime strain which the shore echoed to the sea, and the sea
 back to heaven again, "I will sing unto the Lord, for he hath
 triumphed gloriously.... Thy right
 <pb n="13"/>
-                  <figure entity="webb13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -397,7 +377,7 @@ end of the earth; he breaketh the bow, and cutteth the spear in
 sunder; he burneth the chariot in the fire." "If it had not been the
 Lord who was on our side when men rose up against us, then they had
 swallowed us up quick when their wrath was kindled against us."</p>
-               <p pn="13">Let me not fail, my friends, to turn your thoughts and your
+               <p>Let me not fail, my friends, to turn your thoughts and your
 thanksgivings directly to God. As of old, when the prophet warned the
 king, "Behold the people shall rise up as a great lion, and lift up
 himself as a young lion: he shall not lie down until he eat of the
@@ -405,7 +385,7 @@ prey and drink the blood of the slain! "he exclaimed, "What hath God
 wrought!" so now, when the prophecy has such a striking fulfilment, as
 our forces, almost without rest, or food, or sleep, <hi rend="italic">sweep on, aroused, resistless, dominant</hi>, let us
 repeat, "What hath God wrought! what hath God wrought!</p>
-               <p pn="13">Everybody admits, consciously or unconsciously, that God's hand
+               <p>Everybody admits, consciously or unconsciously, that God's hand
 planted the nation. He prepared the seed; he prepared the soil. He
 controlled the forces of Nature, and the will, and the wickedness of
 man, to the end that Plymouth Rock should be the landing-place of our
@@ -413,7 +393,7 @@ fathers, and Puritan principles the foundation on which we should
 build; and whether the people of this nation purpose and execute, or
 purpose and fail, the building is going up. God
 <pb n="14"/>
-                  <figure entity="webb14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -429,22 +409,22 @@ with intense interest;</p>
 mould,</l>
                   <l>And Roman triumphs rising on the gold;"</l>
                </lg>
-               <p pn="14">for on that shield, celestial hands had prefigured the destiny, the
+               <p>for on that shield, celestial hands had prefigured the destiny, the
 course and glory, of Rome.</p>
-               <p pn="14">When a tabernacle was to be built in which the Israelites should
+               <p>When a tabernacle was to be built in which the Israelites should
 worship, Moses was to have control of the work, as indeed he had of
 every thing which that nation did; and the people were voluntarily to
 supply the materials; but it was to be built, <hi rend="italic">the
 whole</hi> and <hi rend="italic">every part</hi> of it, according to a
 pattern wrought in the Heavens. "After the pattern that was showed
 thee in the mount, even so shall ye make it."</p>
-               <p pn="14">So for us, whether <hi rend="italic">we</hi> see it or not, before
+               <p>So for us, whether <hi rend="italic">we</hi> see it or not, before
 celestial eyes, wrought by the divine hand, our history is written in
 prophecy, --and not the grand outline merely, but the perfect model
 and all the working plans of the glorious structure completed; and
 just according to that pattern all the resistless forces of this nation
 <pb n="15"/>
-                  <figure entity="webb15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -470,17 +450,17 @@ rifting results as huge stones from the quarry, and hewing and fitting
 them as materials for the great structure which is rising,--rising
 according to the pattern shown in <hi rend="italic">the mount</hi>.</p>
                <pb n="16"/>
-               <p pn="16">
-                  <figure entity="webb16">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>16th page of
 Edwin B. Webb's Memorial Sermons.</figDesc>
                   </figure>
                </p>
-               <p pn="16">Let us thank him! let us pitch our songs to reach his ear! let us
+               <p>Let us thank him! let us pitch our songs to reach his ear! let us
 praise Israel's God, our fathers' God, and our God, for unexpected,
 thorough, complete, and glorious victory! "The Lord is my strength and
 song; and he is become my salvation."</p>
-               <p pn="16">Let us thank God for the gift and endowments of the
+               <p>Let us thank God for the gift and endowments of the
 Lieutenant-general! Oh! how easy it seems to conquer now; but let us
 call to mind the feeling which blanched our cheeks, and bowed in the
 dust our hearts, when, after long and confident expectation in
@@ -499,7 +479,7 @@ highest order of mind, and for that peculiar combination of
 intellectual and moral endowment which has appeared only at rare
 intervals in the history of the
 <pb n="17"/>
-                  <figure entity="webb17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -519,14 +499,14 @@ to this nation. U. S. G. means hereafter the <hi rend="italic">United
 States General</hi>. Let us appreciate God's goodness in furnishing us
 this leader, and be thankful,--thankful to the Creator and Preserver
 and Disposer of men and nations!</p>
-               <p pn="17">Let us thank God also for the brave men who have executed his plans
+               <p>Let us thank God also for the brave men who have executed his plans
 and achieved the victory. Oh, what courage to go forth when certain
 death stared them in the face! Oh, what a spirit of self-sacrifice to
 close up broken ranks, and press steadily forward across ground once,
 twice, thrice lost, tramping in the blood of the dead and dying, and
 over
 <pb n="18"/>
-                  <figure entity="webb18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -543,27 +523,27 @@ courage, such almost superhuman endurance, such continued
 self-sacrifice,--let us thank God for such soldiers! And, remembering
 the patience, fidelity, and heroism of the navy, for such sailors
 too!</p>
-               <p pn="18">Mark also what a spirit God has given the people. How bravely they
+               <p>Mark also what a spirit God has given the people. How bravely they
 have sustained the Government! How patiently they have borne defeat
 and loss! How cheerfully they have anticipated the drafts! How readily
 they submit to taxation! How submissively they mourn their slain in
 battle! Neither Rome nor Sparta knew nobler fathers and mothers than
 weep to-day among our New-England hills and over our Western
 prairies. The God of all consolation comfort them!</p>
-               <p pn="18">Mark also how God has disposed the nations towards us, compelling
+               <p>Mark also how God has disposed the nations towards us, compelling
 us to develop our own re
 <pb n="19"/>
-                  <figure entity="webb19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 sources, and to depend upon own energies, keeping us clear of all
 foreign entanglements and hostile intervention.</p>
-               <p pn="19">But I must leave the story of God's goodness half told: I can only
+               <p>But I must leave the story of God's goodness half told: I can only
 hint at the multitude of mercies which should call forth our
 praise,--our praise to Him "who is glorious in holiness, fearful in
 praises, doing wonders."</p>
-               <p pn="19">In conclusion, my friends, what shall we render unto the Lord for
+               <p>In conclusion, my friends, what shall we render unto the Lord for
 all his benefits towards us? Shall we not serve him as these soldiers
 have served their country? This is what we want now, in the Church as
 in the Republic, only bloodless, and, without carnal weapons, a grand
@@ -579,7 +559,7 @@ make out to render once a week, a poor half-day's service on the
 sabbath, manifestly having no purpose or principle that does not
 govern an enemy or alien to the cause of Christ. Entangled with the
 <pb n="20"/>
-                  <figure entity="webb20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -594,11 +574,11 @@ yourselves as stragglers and deserters, deserving no share in the
 successes of the Church, as manifestly, consulting your own ease and
 convenience, you bear no part in her sleepless vigilance and
 protracted conflict.</p>
-               <p pn="20">When would our armies have won without discipline, self-denial, and
+               <p>When would our armies have won without discipline, self-denial, and
 heroic self-sacrifice? Shame! shame on such indifference, laxity of
 principle, skulking, and cowardice as is found creeping into the ranks
 of the Church!</p>
-               <p pn="20">This world is in revolt against the Son of God. It is to be
+               <p>This world is in revolt against the Son of God. It is to be
 conquered and subdued to his righteous sceptre. Already the battle is
 joined. Unwavering devotion, prompt obedience, patient faith, and
 persistent purpose,--these are the elements that win. Let us each hear
@@ -607,13 +587,13 @@ along our lines like the echoes of a bugle-note among the hills:
 "Thou, therefore, endure hardness as a good soldier of Jesus
 Christ."</p>
                <pb n="21"/>
-               <p pn="21">
-                  <figure entity="webb21">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>21st page of
 Edwin B. Webb's Memorial Sermons.</figDesc>
                   </figure>
                </p>
-               <p pn="21">Then shall the Church, like the Republic, advance to new conquests
+               <p>Then shall the Church, like the Republic, advance to new conquests
 and possessions; and our sabbath-songs thrill like a battle-hymn on a
 nation's anniversary. Then shall we sing, more sweet, more loud, "The
 Lord is my strength and song, and he is become my salvation: he is my
@@ -628,34 +608,34 @@ Edwin B. Webb's Memorial Sermons.</figDesc>
                   </figure>
                </p> -->
                <pb n="23"/>
-               <p pn="23">
-                  <figure entity="webb23">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of
 Edwin B. Webb's Memorial Sermons.</figDesc>
                   </figure>
                </p>
             </div2>
-            <div2 id="webb.003" n="SOME OF THE RESULTS OF THE WAR." type="sermon">
-               <head pn="23">SOME OF THE RESULTS OF THE WAR.</head>
-               <p pn="23">1 Chronicles xxii. chapter, 6-16 verses. I will not transcribe the
+            <div2 xml:id="webb.003" n="SOME OF THE RESULTS OF THE WAR." type="sermon">
+               <head>SOME OF THE RESULTS OF THE WAR.</head>
+               <p>1 Chronicles xxii. chapter, 6-16 verses. I will not transcribe the
 passage, but only so much of it as is necessary to exhibit its spirit
 and the foundation of my discourse.</p>
-               <p pn="23">"And David said to Solomon, My son, as for me, it was in my mind to
+               <p>"And David said to Solomon, My son, as for me, it was in my mind to
 build a house unto the name of the Lord my God; but the word of the
 Lord came to me, saying, Thou hast shed blood abundantly, and hast
 made great wars: thou shalt not build a house unto my
 name. . . . Behold, a son shall be born to thee, who shall be a man of
 rest: he shall build a house for my name.</p>
-               <p pn="23">"Now, my son, the Lord be with thee, and prosper thou and
+               <p>"Now, my son, the Lord be with thee, and prosper thou and
 build,--only the Lord give thee wisdom and understanding, and give
 thee charge concerning Israel, that thou mayest keep the law of the
 Lord thy God. Then shalt thou prosper, if thou takest heed to fulfil
 the statutes and judgments which the Lord charged Moses with
 concerning Israel: be strong and of good courage; dread not, nor be
 dismayed.</p>
-               <p pn="23">"Now, behold, in my trouble I have prepared for
+               <p>"Now, behold, in my trouble I have prepared for
 <pb n="24"/>
-                  <figure entity="webb24">
+                  <figure><graphic url=""/>
                      <figDesc>24th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -664,10 +644,10 @@ thousand thousand talents of silver; and of brass and iron without
 weight; timber also and stone. Moreover, there are workmen with thee
 in abundance,--hewers and workers of stone and timber, and all manner
 of cunning men for every manner of work.</p>
-               <p pn="24">"Of the gold, the silver, and the brass, and the iron, there is no
+               <p>"Of the gold, the silver, and the brass, and the iron, there is no
 number. Timber and stone also, all is in abundance. Arise therefore,
 and be doing, and the Lord be with thee."</p>
-               <p pn="24">Like David, our period of war and bloodshed is passing away. Like
+               <p>Like David, our period of war and bloodshed is passing away. Like
 Solomon, a new period of peace and rest, its offspring and successor,
 is about to succeed. Generally, it is true that every era is the child
 of that which preceded it; but the era upon which this nation is now
@@ -676,12 +656,12 @@ passing away. The present, these four years and more of pain and agony
 and travail are not merely giving place to the peaceful future,--this
 closing present is the parent of the hopeful, matchless future that is
 just stepping into its place.</p>
-               <p pn="24">And upon this rising future is devolved the inspiring but
+               <p>And upon this rising future is devolved the inspiring but
 tremendously responsible task of building a national structure whose
 magnificence and glory shall be to that which preceded the war, as the
 temple of Solomon was to the tent or tabernacle in which
 <pb n="25"/>
-                  <figure entity="webb25">
+                  <figure><graphic url=""/>
                      <figDesc>25th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -689,7 +669,7 @@ David worshipped. Using the text analogically, the points of discourse
 to which your attention is invited are two; viz., the materials
 accumulated, and the laws which must govern a successful use of
 them.</p>
-               <p pn="25">1. And first, as to the materials secured and prepared for future
+               <p>1. And first, as to the materials secured and prepared for future
 use by this period of war. After the boundaries of a nation are
 settled (and we are now pretty well defined in this particular, I
 think; at any rate, between the oceans on the <hi rend="italic">east</hi> and <hi rend="italic">west</hi>, and between the
@@ -708,38 +688,38 @@ ourselves for the last fifteen years that they were kept concealed
 till those western slopes, which connect the lofty line of perpetual
 snow with the warm waters of the gentle
 <pb n="26"/>
-                  <figure entity="webb26">
+                  <figure><graphic url=""/>
                      <figDesc>26th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 Pacific, came into the possession of a Protestant Christian nation.</p>
-               <p pn="26">But does it not seem as if the value of those mines was reserved
+               <p>But does it not seem as if the value of those mines was reserved
 especially for these days of war and bloodshed? What should we have
 done without them in the disturbed state of our currency? Where should
 we have obtained the vast amounts of gold that we have been obliged to
 export while we were issuing paper and promises to pay at such a
 fearful rate? What a timely deposit these mines have proved!</p>
-               <p pn="26">And, so far from being exhausted it would seem that we have but
+               <p>And, so far from being exhausted it would seem that we have but
 just begun to comprehend their extent and value. We have gathered up
 what has been washed out upon the surface. The great vaults hidden in
 the mountains, and the richly veined avenues that lead to them, are
 yet to be opened. During these years of bloody war, we have learned
 much as to the value and position of these deposits, and, therefore,
 are prepared to draw against them for the future.</p>
-               <p pn="26">Great advances have been made, too, in the discovery of silver, of
+               <p>Great advances have been made, too, in the discovery of silver, of
 copper, and lead and iron.</p>
-               <p pn="26">Of petroleum what shall be said? Who could have divined, four years
+               <p>Of petroleum what shall be said? Who could have divined, four years
 ago, that seas of oil should be discovered in the interior of the
 earth during this tremendous civil war?--an oil of so many and such
 remarkable qualities, that we have but just begun
 <pb n="27"/>
-                  <figure entity="webb27">
+                  <figure><graphic url=""/>
                      <figDesc>27th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 to conjecture the uses to which it may be put in the economy of
 civilization.</p>
-               <p pn="27">Doubtless, many a property and many a company are alike bogus; and
+               <p>Doubtless, many a property and many a company are alike bogus; and
 yet, after due allowance for all speculation and gambling, the real
 discoveries of precious metals, minerals, and ores, have been many and
 of immense value; and around all these mines must be gathered from
@@ -751,7 +731,7 @@ and whoever secures the building of a house, or a barn, or workshop or
 factory, or the converting of a tract of wild land into a farm on the
 coast of the Pacific, or in the forests of Pennsylvania, adds to the
 wealth and prosperity of the nation.</p>
-               <p pn="27">Our agricultural resources were large and rich before; but we add
+               <p>Our agricultural resources were large and rich before; but we add
 to them immensely by the issue of this bloody war. Now the sunny South
 is open to free labor and all the healthful rivalries of personal
 productive industry. Here are vast plantations to be made as the
@@ -760,7 +740,7 @@ unmeasured wastes of virgin soil waving in an unshorn wantonness of
 tropical luxuriance; and broad meadows white with cotton from
 generation to generation;
 <pb n="28"/>
-                  <figure entity="webb28">
+                  <figure><graphic url=""/>
                      <figDesc>28th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -772,7 +752,7 @@ Northern lands and Western prairies, into innumerable farms and
 freeholds occupied and improved by the willing, intelligent owner,
 white or black, and thus to become an incalculable means of growth and
 wealth to the nation.</p>
-               <p pn="28">As regards all such materials of national greatness, the war closes
+               <p>As regards all such materials of national greatness, the war closes
 with nothing wanting. Leaving now the productiveness and extent of the
 soil, and all the minerals, mines, ores, metals, deposited beneath its
 surface, let us turn to the people dwelling here. This is a material
@@ -786,7 +766,7 @@ kingdoms, says, "The greatness of an estate in bulk and territory doth
 fall under measure; and the greatness of finances and revenue doth
 fall under computation. The population may appear by mus-
 <pb n="29"/>
-                  <figure entity="webb29">
+                  <figure><graphic url=""/>
                      <figDesc>29th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -794,7 +774,7 @@ ters, and the number and greatness of cities and towns by cards and
 maps; but yet there is not any thing amongst civil affairs more
 subject to error than the right valuation and true judgment concerning
 the power and forces of a State."</p>
-               <p pn="29">"Walled towns, stored arsenals and armories, goodly races of horse,
+               <p>"Walled towns, stored arsenals and armories, goodly races of horse,
 chariots of war, . . .ordnance, artillery and the like,--all this is
 but a sheep in a lion's skin, <hi rend="italic">except the breed and
 disposition of the people be stout and warlike</hi>." Just at this
@@ -814,7 +794,7 @@ Government was like a rich prize, waiting only a mailed hand to pluck
 it,--such was the talk on the floor of Congress, such was the
 expectation of our enemies;
 <pb n="30"/>
-                  <figure entity="webb30">
+                  <figure><graphic url=""/>
                      <figDesc>30th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -823,12 +803,12 @@ corrected all this. The spirit of '76 had not died with our
 fathers. The heroic spirit of Spartan mothers was in our women; and
 the endurance of Roman soldiers in the men that answered to the
 country's call.</p>
-               <p pn="30">We have discovered or developed that stock and spirit, and
+               <p>We have discovered or developed that stock and spirit, and
 marvellous power of adaptation, which, with the blessing of God,
 insures the perpetuity of our Government and our free institutions
 against all secession and revolt at home, against all interference and
 insult from abroad.</p>
-               <p pn="30">All unprepared for such a gigantic and formidable rebellion, and
+               <p>All unprepared for such a gigantic and formidable rebellion, and
 abhorring the carnival of war, we have, nevertheless, created a navy
 which exacts the most deferential regard of the nations; and, turning
 the country into a camp, and the makers of cars and pianos into the
@@ -836,13 +816,13 @@ makers of cannons and rifles, we have tried and settled the question
 of self-preservation; and it will be a new element in our future,--a
 truth demonstrated and priceless, that the Republic wants neither
 living patriotism, nor the people warlike power.</p>
-               <p pn="30">And, in settling the question of self-preservation, we have also
+               <p>And, in settling the question of self-preservation, we have also
 settled the question of capacity,--the capacity of the people to
 govern themselves. However clearly the <hi rend="italic">right</hi> of
 self-government may be deduced from abstract principles, to maintain
 that right
 <pb n="31"/>
-                  <figure entity="webb31">
+                  <figure><graphic url=""/>
                      <figDesc>31st page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -864,12 +844,12 @@ defenceless</hi>, apparently, by the Constitution which they had sworn
 to <hi rend="italic">defend</hi>. Our politicians <hi rend="italic">babbled</hi> more than usual. The Old World looked from
 her thrones across the water, and said, "Yes, yes, I told you so: the
 great bubble has burst; your Republic has gone up!"</p>
-               <p pn="31">But by and by Beauregard opened fire on Sumter, humbling the flag,
+               <p>But by and by Beauregard opened fire on Sumter, humbling the flag,
 which, after four years, in the shot and smoke of battle, goes up
 again to-morrow, to float in triumph over the old fort, and over the
 humiliation of every traitor that has ever lifted his hand to assail
 <pb n="32"/>
-                  <figure entity="webb32">
+                  <figure><graphic url=""/>
                      <figDesc>32nd page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -890,13 +870,13 @@ plot something, to do something, they knew not what; but the people,
 following their instincts, held steadily on their way as if inspired
 by the Almighty. There was no wavering, no signs of weakness, no want
 of capacity, with the people.</p>
-               <p pn="32">In addition to all this, and adding immensely to the strain, in the
+               <p>In addition to all this, and adding immensely to the strain, in the
 very midst of the storm and fury of civil war, a Presidential election
 came. The polls were opened; bayonets did not guard nor govern
 them. The day passed as quietly as the sun runs his course, and closed
 with benedictions and doxolo-
 <pb n="33"/>
-                  <figure entity="webb33">
+                  <figure><graphic url=""/>
                      <figDesc>33rd page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -909,7 +889,7 @@ may be the result as regards parties, our institutions will have
 received a triumph: no nobler spectacle will have been witnessed in
 this land, since it first asserted its title to be called a land of
 liberty." Behold, the triumph, the nobler spectacle!</p>
-               <p pn="33">Another question, and one of vast importance in this nation, has
+               <p>Another question, and one of vast importance in this nation, has
 been settled; and the conclusion, definite and dominant, is one of the
 grandest materials to be built into our rising future: I mean the
 question of <hi rend="italic">State sovereignty</hi>. Out of this
@@ -922,15 +902,15 @@ these United Colonies are, and of right ought to be, free and
 independent States." Mark two things: 1. This is done by authority,
 not of the States, but of <hi rend="italic">the people</hi>. 2. The
 <pb n="34"/>
-                  <figure entity="webb34">
+                  <figure><graphic url=""/>
                      <figDesc>34th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 States are declared "free, independent," but not sovereign.</p>
-               <p pn="34">The doctrine was in the old confederation, which lasted thirteen
+               <p>The doctrine was in the old confederation, which lasted thirteen
 years from the time of the Declaration of Independence, and was a
 failure.</p>
-               <p pn="34">The doctrine is not in the Constitution. That starts off, like the
+               <p>The doctrine is not in the Constitution. That starts off, like the
 full sweep and swell of the sea: "We <hi rend="italic">the people</hi>
 of the United States,. . . do ordain and establish this Constitution."
 Our national government is not the creation of sovereign States,--is
@@ -944,12 +924,12 @@ law of the land, . . . any thing in the constitution or laws of any
 State to the contrary notwithstanding. John Quincy Adams says tersely,
 speaking of this doctrine of State sovereignty, "The Declaration says,
 It is not in me. The Constitution says, It is not in me."</p>
-               <p pn="34">And yet, this very doctrine, having no fixed foundation in our
+               <p>And yet, this very doctrine, having no fixed foundation in our
 history, and none in the great exponents of our national life, and
 absolutely destructive of the very idea of self-preservation, exposed
 and exploded
 <pb n="35"/>
-                  <figure entity="webb35">
+                  <figure><graphic url=""/>
                      <figDesc>35th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -970,13 +950,13 @@ and custom-houses of the United States,--they are not likely to repeat
 their appeal to the sword. The question of State sovereignty is,
 therefore, settled; and the settlement is a cornerstone in our new
 structure.</p>
-               <p pn="35">And the settlement of this question settles the policy of the
+               <p>And the settlement of this question settles the policy of the
 Government and the destiny of the South. The Government must sustain
 the loyal men of the South, whatever their social condition or
 color. Any other hypothesis is too base to be entertained. Multitudes
 of these rebel leaders have fled,
 <pb n="36"/>
-                  <figure entity="webb36">
+                  <figure><graphic url=""/>
                      <figDesc>36th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1003,7 +983,7 @@ the leniency of our national authority,--causes that have gone too far
 to be resisted or controlled,--causes which must decide the future of
 the South. Let Congress keep strictly
 <pb n="37"/>
-                  <figure entity="webb37">
+                  <figure><graphic url=""/>
                      <figDesc>37th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1025,35 +1005,35 @@ completely they have revolutionized their own society. Henceforth, the
 Government is a unit, controlled and worked in the interests of
 loyalty, freedom, and nationality; and this will be found another and
 a mighty element in our rising future.</p>
-               <p pn="37">Such, my friends, as well as I can describe them now, are some of
+               <p>Such, my friends, as well as I can describe them now, are some of
 the elements or materials gathered and prepared by this war for the
 building which is to rise in the days of peace upon which we are en-
 <pb n="38"/>
-                  <figure entity="webb38">
+                  <figure><graphic url=""/>
                      <figDesc>38th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 tering; and they are as essential and as abundant certainly as the
 materials prepared by David for the building of the temple.</p>
-               <p pn="38">I have been compelled to write in weariness and in haste; but I
+               <p>I have been compelled to write in weariness and in haste; but I
 cannot conclude without touching an essentially practical thought for
 us all. How shall these materials be put together? on what foundation?
 in accordance with what laws? beautified with what ornament?</p>
-               <p pn="38">1. First as to the foundation. The temple, which is the glory of
+               <p>1. First as to the foundation. The temple, which is the glory of
 Jerusalem, rested on deep foundations of solid rock; and so our vast
 national structure must rest upon an immutable foundation; that is,
 upon the fundamental doctrines and principles of the inspired <hi rend="italic"> word</hi>. The Christian religion is the only secure
 basis on which we can build.</p>
-               <p pn="38">Expediency has its place in the affairs of Government; but, as a
+               <p>Expediency has its place in the affairs of Government; but, as a
 foundation on which to raise a vast and permanent superstructure, it
 is a quicksand. Neither can morality alone bear the tremendous weight
 of Government. Religion--the religion of the New Testament, vital,
 immutable, eternal--is our only foundation.</p>
-               <p pn="38">Washington, in his Farewell Address says, "Religion and morality
+               <p>Washington, in his Farewell Address says, "Religion and morality
 are indispensable supports of every habit and disposition that can
 contribute to national prosperity;" and then adds like a
 discriminating preacher of the gospel, "and let us with caution in-<pb n="39"/>
-                  <figure entity="webb39">
+                  <figure><graphic url=""/>
                      <figDesc>39th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1063,11 +1043,11 @@ principle." And then he adds with a power of exhortation which has
 lost nothing of its point or pertinency, "Who, that is a sincere
 friend to the <hi rend="italic">Government</hi>, can look with
 indifference upon attempts to shake the foundation of the fabric?"</p>
-               <p pn="39">The declaration of the prophet has been mournfully illustrated in
+               <p>The declaration of the prophet has been mournfully illustrated in
 the downfall of many and mighty structures: "For the nation and
 kingdom that will not serve thee shall perish." Jesus Christ is the
 corner-stone of our national as of our personal salvation.</p>
-               <p pn="39">2. Then again: in accordance with what laws shall we build? There
+               <p>2. Then again: in accordance with what laws shall we build? There
 is no objection to a leaning tower, as an object of curiosity to
 attract the traveller; but the walls that are to stand must rise in
 accordance with the laws of gravitation: not more surely must the
@@ -1076,10 +1056,10 @@ way of tying walls together with iron, instead of making them of that
 substance and form, that they shall naturally poise themselves upon
 their butment, is against the rules of good architecture," says one;
 and George Herbert has this line: "Houses are built by rule, <hi rend="italic">and commonwealths</hi>."</p>
-               <p pn="39">To determine what the will of God is, as respects society, and to
+               <p>To determine what the will of God is, as respects society, and to
 define that will in laws to which the
 <pb n="40"/>
-                  <figure entity="webb40">
+                  <figure><graphic url=""/>
                      <figDesc>40th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1087,12 +1067,12 @@ judgment and conscience of the people will respond, is the great work
 of the legislator. To re-affirm the ordinances of Nature, to re-enact
 the laws of the Creator and Sovereign and Judge of the world,--this is
 the essence of all wise legislation.</p>
-               <p pn="40">We are indeed through the war; but we have a mighty work on our
+               <p>We are indeed through the war; but we have a mighty work on our
 hands,--one over which, in the midst of all our joy, we may well fast
 and pray,--a work requiring the profoundest wisdom, the firmest
 adherence to principle,--a work that can only be done in obedience to
 the commands of God.</p>
-               <p pn="40">This is what we must do,--all the people of this land,--render the
+               <p>This is what we must do,--all the people of this land,--render the
 hearty, scrupulous obedience of Christian men in all our work. No
 mistake is more fatal than that a great nation, with such materials as
 we have, can afford to be lax and lawless and irreligious. Just the
@@ -1102,17 +1082,17 @@ not always and uniformly obey the laws of gravitation; but the
 heavenly bodies, sun, moon, and stars, must obey. The great ocean must
 obey influences that little lakes and rivers are not required to
 recognize even.</p>
-               <p pn="40">Just so, like the sun and the sea, this nation must obey the laws
+               <p>Just so, like the sun and the sea, this nation must obey the laws
 and precepts of the Almighty. Let us each one, with heart and hand,
 with lip and life, however humble, however lofty our part, do all in 
 <pb n="41"/>
-                  <figure entity="webb41">
+                  <figure><graphic url=""/>
                      <figDesc>41st page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 strictest obedience to Him who filled the temple with his glory, and
 honors them that honor him!</p>
-               <p pn="41">3. And, finally, as to the adorning of our temple: above all the
+               <p>3. And, finally, as to the adorning of our temple: above all the
 splendor of art, above all the creations of genius in stone or on
 canvas, let it be like the inscription on the bells of the horses in
 the last days;--on all our door-posts and windows, on ceiling and
@@ -1122,7 +1102,7 @@ meek and quiet spirit, which is, in the sight of God, of great price."
 "Thus saith the Lord of hosts, . . . the fast of the fourth month
 shall be, to the house of Judah, joy and gladness and cheerful feasts:
 . . . therefore love the truth and peace."</p>
-               <p pn="41">And do thou, 0 Lord, for whose sake we would build our temple
+               <p>And do thou, 0 Lord, for whose sake we would build our temple
 enduring, lofty, and beautiful, "make us glad according to the days
 wherein thou bast afflicted us, and. the years wherein we have seen
 evil. Let thy work appear unto thy servants, and thy glory unto their
@@ -1138,22 +1118,22 @@ Edwin B. Webb's Memorial Sermons.</figDesc>
                   </figure>
                </p> -->
                <pb n="43"/>
-               <p pn="43">
-                  <figure entity="webb43">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>43rd page of
 Edwin B. Webb's Memorial Sermons.</figDesc>
                   </figure>
                </p>
             </div2>
-            <div2 id="webb.004" n="THE ASSASSINATION OF THE PRESIDENT." type="sermon">
-               <head pn="43">THE ASSASSINATION OF THE PRESIDENT.</head>
-               <epigraph pn="43">
-                  <p pn="43">He calleth to me out of Seir, Watchman, what of the
+            <div2 xml:id="webb.004" n="THE ASSASSINATION OF THE PRESIDENT." type="sermon">
+               <head>THE ASSASSINATION OF THE PRESIDENT.</head>
+               <epigraph>
+                  <p>He calleth to me out of Seir, Watchman, what of the
 night? Watchman, what of the night?</p>
-                  <p pn="43">The Watchman said, The morning cometh, and also the
+                  <p>The Watchman said, The morning cometh, and also the
 night.</p>
                </epigraph>
-               <p pn="43">THESE words seem to me strikingly appropriate to our present
+               <p>THESE words seem to me strikingly appropriate to our present
 circumstances. Last Sabbath morning it was my privilege to place
 before your minds some reasons for thankfulness,--thankfulness to
 God. Then the streets were decked with symbols of joy; gladness in
@@ -1161,13 +1141,13 @@ welcome accents broke from every lip. Men's countenances were bright,
 as if reflecting the coming of the morning. We clasped each other's
 hands with a jubilant pulse, and every eye answered back hope,
 inspiration, to the eye that looked into it.</p>
-               <p pn="43">But how changed is all in a moment! Yesterday morning flags were
+               <p>But how changed is all in a moment! Yesterday morning flags were
 set at half-mast. Even Sumter's flag is but half raised. As the day
 advanced, emblems of mourning drooped from the highest windows to the
 sidewalk. <hi rend="italic">The President is assassinated</hi>! Men hold
 their breath, and turn pale at the appalling words. Citizens meet, and
 <pb n="44"/>
-                  <figure entity="webb44">
+                  <figure><graphic url=""/>
                      <figDesc>44th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1185,7 +1165,7 @@ only two days, how appalling, in this cheerful home of our religious
 affections, are these wide-hung emblems of grief and anguish! It is
 manly to weep to-day. The coming of the morning, and also the night,
 are strangely mingled.</p>
-               <p pn="44">Had death overtaken any one of our brilliant military leaders in
+               <p>Had death overtaken any one of our brilliant military leaders in
 the field, we should have said it was a thing to be expected. Had any
 sudden reverse in the fortunes of war visited one of our armies, it
 would have been a terrible grief, but still a kind of calamity to
@@ -1194,7 +1174,7 @@ shot in Richmond, or by the hand of some lurking assassin, as he
 passed the fortifications through which our hearts did not consent to
 his going,
 <pb n="45"/>
-                  <figure entity="webb45">
+                  <figure><graphic url=""/>
                      <figDesc>45th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1204,7 +1184,7 @@ much pleasure in telegraphing to the people, we had almost dismissed
 from our minds any fears for the safety of his life. And hence the
 telegram announcing the death of the President at such a time, in such
 a way, falls upon us like a crash of thunder from an unclouded sky.</p>
-               <p pn="45">Wearied with the duties of his high position, and the persistent
+               <p>Wearied with the duties of his high position, and the persistent
 annoyance of petty office-seekers, and unwilling to disappoint the
 people even in their unreasonable expectations, he sought an hour's
 recreation in the theatre. And what a horrible tragedy! The actor,
@@ -1220,7 +1200,7 @@ calling had made him acquainted. There are no last words for wife or
 children,--no word for the people's heart to which he always
 spoke,--no part-
 <pb n="46"/>
-                  <figure entity="webb46">
+                  <figure><graphic url=""/>
                      <figDesc>46th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1233,7 +1213,7 @@ have spoken mercy so often, and would perhaps, like martyred
 Stephen's, have said in their last articulate speech, "Lord, lay not
 this sin to their charge," are sealed forever. The nation has lost a
 father; the human race a sincere, devoted, and able leader!</p>
-               <p pn="46">I have had no time to analyze the character, or choose out words to
+               <p>I have had no time to analyze the character, or choose out words to
 express our sense of the worth, of the late Abraham Lincoln. But I may
 employ, with your approbation I am sure, the words used by Daniel
 Webster concerning Zachary Taylor: "He has left on the minds of the
@@ -1241,13 +1221,13 @@ country a strong impression; first, of his absolute honesty and
 integrity of character; next, of his sound, practical good sense; and,
 lastly, of the mildness, kindness, and friendliness of his temper
 towards all his countrymen."</p>
-               <p pn="46">Yes: "towards all his countrymen." He was, on the very day of his
+               <p>Yes: "towards all his countrymen." He was, on the very day of his
 untimely death, exerting all the kindness of his unselfish nature, and
 prepared, it is believed, to peril all his great popularity, in
 inaugurating a policy <hi rend="italic">most lenient, most
 forgiving,</hi>
                   <pb n="47"/>
-                  <figure entity="webb47">
+                  <figure><graphic url=""/>
                      <figDesc>47th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1255,13 +1235,13 @@ towards those who had forfeited every thing except the right to be
 hung. They have put aside their friend. They have murdered the
 new-born mercy which waited to bless them. No man could if he would,
 and no man was disposed to, do so much for them as Abraham Lincoln.</p>
-               <p pn="47">And how the loyal people confided in him! how implicitly the common
+               <p>And how the loyal people confided in him! how implicitly the common
 people trusted him! The world has scarcely seen the like. He came to
 the chair of the Chief Magistrate from the rough experience of
 frontier life. He owed his election, and the favor with which he was
 received, to the belief, in the minds of the people, that he was an
 honest man.</p>
-               <p pn="47">And did he disappoint that confidence? Did he show himself
+               <p>And did he disappoint that confidence? Did he show himself
 unworthy? Did he ever incur the suspicion of dishonesty or corruption?
 Or did he ever swerve from what he conceived to be the path of duty to
 win popular applause? Never. On the other hand, so impartial was he in
@@ -1272,7 +1252,7 @@ people called him a second time to guide the nation for another four
 years. He knew nothing of tricks or double-dealing or party-shifts, or
 crooked policies. He was a sincere, impartial, straightfor-
 <pb n="48"/>
-                  <figure entity="webb48">
+                  <figure><graphic url=""/>
                      <figDesc>48th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1284,22 +1264,22 @@ no brilliant oratory, with no winning grace of manners, he was the
 foremost man for the highest office in the gift of a great, free, and
 intelligent people, once and again, because he was a man of absolute
 honesty and integrity of character.</p>
-               <p pn="48">And besides these unselfish, impartial, upright elements of
+               <p>And besides these unselfish, impartial, upright elements of
 character, there was a masterful common sense, a genial mother-wit,
 and a practical statesmanship, which showed themselves in some of the
 most compact specimens of argument, happy avoidances of difficulty,
 and a thorough apprehension of popular instincts and judgments.</p>
-               <p pn="48">He was unpolished in style, but he was profound in thought. He was
+               <p>He was unpolished in style, but he was profound in thought. He was
 pithy in his sentences, but original and patient in investigation;
 rough on the exterior, but a jewel within,-</p>
                <lg type="stanza">
                   <l>"Rich in saving common sense."</l>
                </lg>
-               <p pn="48">How much we owe to his unambitious example; how much to his
+               <p>How much we owe to his unambitious example; how much to his
 far-reaching discernment; how much to his good-natured hearing of all
 sides; how much to his steady calm judgment, which held the scales, in
 <pb n="49"/>
-                  <figure entity="webb49">
+                  <figure><graphic url=""/>
                      <figDesc>49th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1310,7 +1290,7 @@ confidence in the people and the people's cause, God knows, but we
 know not as yet. May the day never come, when, by bitter contrast, we
 shall learn how wise and safe was the confidence which we reposed in
 him!</p>
-               <p pn="49">This nation mourns to-day as it never mourned before. The statesmen
+               <p>This nation mourns to-day as it never mourned before. The statesmen
 of the land had learned to trust him in the greatest exigencies; the
 impatient were restrained by his moderation; the immovable and morose
 were moved and almost brought into time by his steady, sympathetic
@@ -1325,7 +1305,7 @@ permitted to come to the border, and, in these last few days, catch
 pleasing glimpses of the glorious, opening future. And as when Moses
 died, his eye not dim, and his natural
 <pb n="50"/>
-                  <figure entity="webb50">
+                  <figure><graphic url=""/>
                      <figDesc>50th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1338,7 +1318,7 @@ heart and hand has freed. All men unconsciously speak of him as our
 beloved President; and the hand of the assassin has embalmed him with
 all his virtues and greatness, and made him sacred and sublime in our
 fond, loving hearts, and in the heart of the world forever.</p>
-               <p pn="50">Were I to select some one thing by which to characterize Abraham
+               <p>Were I to select some one thing by which to characterize Abraham
 Lincoln, I should name his profound apprehension and appreciation of
 the popular instinct,--that instinct which is true to the right as the
 needle to the pole, in all storms, and on every sea. He believed in
@@ -1351,7 +1331,7 @@ drift. As the philosopher learns the plans of God from an unprejudiced
 study of Nature, so he learned the purposes of God from the instincts
 of the people. As the naturalist discovers from the structure of the
 <pb n="51"/>
-                  <figure entity="webb51">
+                  <figure><graphic url=""/>
                      <figDesc>51st page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1365,11 +1345,11 @@ people, in this great crisis of the Republic, as the voice of God, he
 kept his ear open and his eye attent, and marshalled his policy not
 quite abreast of the divinely led masses. He sought not to control an
 age thus moved and inspired, but to be controlled by it.</p>
-               <p pn="51">Herein was his wisdom, herein his greatness, herein his power. This
+               <p>Herein was his wisdom, herein his greatness, herein his power. This
 was the secret of his success, the source of that light which, in all
 coming time, shall gild with unfading splendor the name of Abraham
 Lincoln.</p>
-               <p pn="51">As the Netherlands mourned for William, Prince of Orange, as France
+               <p>As the Netherlands mourned for William, Prince of Orange, as France
 mourned for Henry IV., "We have lost our father, we have lost our
 father!" so America mourns to-day.</p>
                <lg type="stanza">
@@ -1385,8 +1365,8 @@ pure,</l>
                   <l>The path of duty be the way to glory.</l>
                </lg>
                <pb n="52"/>
-               <p pn="52">
-                  <figure entity="webb52">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>52nd page of
 Edwin B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1399,7 +1379,7 @@ fancies down;</l>
                   <l>God
 accept him, Christ receive him!"</l>
                </lg>
-               <p pn="52">1. And now, my friends, what are the lessons of this great
+               <p>1. And now, my friends, what are the lessons of this great
 calamity? <hi rend="italic">First of all, submission</hi>. God reigns:
 we are absolutely dependent and sinful. The Emperor Mauritius seeing
 all his children slain before his face at the command of the bloody
@@ -1419,14 +1399,14 @@ becomes us, let us bow our heads in meek submission to the divine
 will! Surely his footsteps are in the great deep; his designs are
 hidden
 <pb n="53"/>
-                  <figure entity="webb53">
+                  <figure><graphic url=""/>
                      <figDesc>53rd page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 from us in the dark; but let us trust him; let us cleave unto him!
 Submitting penitently to the rod of affliction, let us put our hand in
 his, and say, Father, lead; Father, spare and bless!</p>
-               <p pn="53">2. A second lesson is this: Execute justice in the land. What is
+               <p>2. A second lesson is this: Execute justice in the land. What is
 the foundation of our confidence in God? Is it not that he will do
 right? Is it not what David says over and over again in all his
 trials?--<hi rend="italic">justice</hi> and <hi rend="italic">judgment</hi> are the habitation of his throne. And just
@@ -1446,7 +1426,7 @@ crime? Yes; but did that give the injured man a right to murder him?
 Are there no courts, no ministers of justice, in the land? But the
 murderer was acquitted with applause in the
 <pb n="54"/>
-                  <figure entity="webb54">
+                  <figure><graphic url=""/>
                      <figDesc>54th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1464,21 +1444,21 @@ object of sympathy. To shield his forfeited life imperils that of
 every young man who stands behind a counter in Massachusetts. Living,
 he is an encouragement to all persons like-minded to do likewise. Yea,
 saith the governor, ye shall not surely die.</p>
-               <p pn="54">And so in regard to the leaders of this infernal Rebellion: the
+               <p>And so in regard to the leaders of this infernal Rebellion: the
 feeling was gaining ground here to let them off really without
 penalty. They are our brethren, it is said. Then, we reply, they have
 added <hi rend="italic">fratricide</hi> to the enormity of their other
 crimes, and are unspeakably the more guilty!</p>
-               <p pn="54">The punishment which a nation inflicts on crime is the nation's
+               <p>The punishment which a nation inflicts on crime is the nation's
 estimate of the evil and guilt of that crime. Let these men go, and we
 have said practi-
 <pb n="55"/>
-                  <figure entity="webb55">
+                  <figure><graphic url=""/>
                      <figDesc>55th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 cally that treason is merely a difference of political opinion.</p>
-               <p pn="55">I do not criticise the parole which was granted; though, for the
+               <p>I do not criticise the parole which was granted; though, for the
 life of me, I cannot see one shadow of reason for expecting it will be
 kept by men who have broken their most solemn and deliberate oath to
 the same Government. It was not kept by the rebels who took it at
@@ -1499,7 +1479,7 @@ forts and starving garrisons. Because of a drivelling, morbid
 perverted sense of justice, the enemy of the Government has been
 permitted to go at large, under the shadow
 <pb n="56"/>
-                  <figure entity="webb56">
+                  <figure><graphic url=""/>
                      <figDesc>56th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1510,7 +1490,7 @@ inflexible indignation of the old Puritan, and the <hi rend="italic">lex
 talionis</hi> of the Hebrew Lawgiver. Our consciences are debauched,
 our instincts confounded, our laws set aside, by this indorsement of a
 blind, passionate philanthropy.</p>
-               <p pn="56">Theodore Parker has a passage in his work on religion, in which he
+               <p>Theodore Parker has a passage in his work on religion, in which he
 gathers into heaven the debauchee, the swarthy Indian, the imbruted
 Calmuck, and the grim-faced savage, with his hands still red and
 reeking with the blood of his slaughtered human victims. And the idea,
@@ -1526,14 +1506,14 @@ society the men who systematically murdered our prisoners by
 starvation, and again and again shot prisoners of war after they had
 surrendered,--shot gallant officers, even
 <pb n="57"/>
-                  <figure entity="webb57">
+                  <figure><graphic url=""/>
                      <figDesc>57th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 in these last battles, after being told that they were mortally
 wounded, and strung up Union men in North Carolina, because they had
 enlisted in the Federal army.</p>
-               <p pn="57">And now, <hi rend="italic">we</hi> see and feel just as the soldiers
+               <p>And now, <hi rend="italic">we</hi> see and feel just as the soldiers
 do. The spirit that shot down our men on the way to the capital; the
 spirit that shot Ellsworth at Alexandria; the spirit that organized
 treachery, treason, and rebellion; the spirit that armed those leaders
@@ -1542,7 +1522,7 @@ that dastardly takes the life of our beloved President, is the same
 atrocious spirit that seeks the bed-chamber of a sick and helpless
 man, and cuts his throat, and strikes the murderous dirk at the heart
 of every attendant. We see its malignant, fiendish nature now!</p>
-               <p pn="57">And what shall be done with these secessionists if we succeed in
+               <p>And what shall be done with these secessionists if we succeed in
 arresting them before they get out of the country, with the blood of
 the President, and of the Minister of State on their hands? Pity them
 as insane? parole them as prisoners of war? Doubtless, like the
@@ -1552,7 +1532,7 @@ shall we hang them?--hang the less guilty, and let the more guilty go
 free? hang the miserable, worthless hirelings, and let the principals
 and chiefs live? To do that is to arm men, and goad them to take ven-
 <pb n="58"/>
-                  <figure entity="webb58">
+                  <figure><graphic url=""/>
                      <figDesc>58th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
@@ -1569,24 +1549,24 @@ it defileth the land, and the land cannot be cleansed but by the blood
 of him that shed it." And, when David died, he charged Solomon to
 fulfil this divine command in regard to Joab and Shimei, who had been
 too strong for him during his life.</p>
-               <p pn="58">3. One thing more: <hi rend="italic">let us face the future, and all
+               <p>3. One thing more: <hi rend="italic">let us face the future, and all
 the solemn responsibilities of these uncertain hours, with
 courage</hi>. We have God on the throne that no violence can
 reach,--the God who has always been with us. "Why art thou cast down,
 0 my soul? and why art thou disquieted in me? Hope thou in God; for I
 shall yet praise him who is the health of my countenance and my
 God."</p>
-               <p pn="58">And then, such is the happy structure of our Government, that no
+               <p>And then, such is the happy structure of our Government, that no
 assassination can arrest its wheels. 
 <pb n="59"/>
-                  <figure entity="webb59">
+                  <figure><graphic url=""/>
                      <figDesc>59th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 A terrible calamity has overtaken us; but it will only the more
 exhibit the inherent vitality of our institutions, and the greater
 strength of the people.</p>
-               <p pn="59">Andrew Johnson, who now becomes the Chief Magistrate by the
+               <p>Andrew Johnson, who now becomes the Chief Magistrate by the
 mysterious providence of God, is unquestionably an able man. He has
 been much in public life, and never failed, except in his speech on
 inauguration-day, to meet the exigencies of his position. Besides, he
@@ -1599,21 +1579,21 @@ States, I would arrest you as traitors, and try you as traitors, and
 convict you as traitors, and hang you as traitors." And, judging from
 the speech which he made at Washington after the news of the fall of
 Richmond, he has not changed his mind.</p>
-               <p pn="59">We want no revenge: we will wait the forms and processes of law. We
+               <p>We want no revenge: we will wait the forms and processes of law. We
 want justice tempered with mercy. We want the leaders punished, but
 the masses of the people pardoned. Let us confide in him as our
 President. And do you make crime odious, disfranchise every man who
 has held office in the rebel government, and every commissioned
 officer in the rebel army; make the halter certain to the
 <pb n="60"/>
-                  <figure entity="webb60">
+                  <figure><graphic url=""/>
                      <figDesc>60th page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 intelligent and influential, who are guilty of perjury and treason,
 and so make yourself a terror to him that doeth evil, and a praise to
 him that doeth good,--and we will stand by you, Andrew Johnson.</p>
-               <p pn="60">Another ground of courage is, that the nation is a unit against
+               <p>Another ground of courage is, that the nation is a unit against
 rebellion to-day as it never was before. It is too much to hope, I
 suppose, that any traitor will have his eyes opened to see the true
 character of the awful work in which he has been engaged, though it
@@ -1630,21 +1610,21 @@ prop removed, till now, just ready to glide into the new future, she
 is settling all her weight upon her ways,--ways made slippery by the
 blood of the murdered Chief Magistrate, and Minister: <hi rend="italic">woe, woe, woe</hi> to him who puts himself
 <pb n="61"/>
-                  <figure entity="webb61">
+                  <figure><graphic url=""/>
                      <figDesc>61st page of Edwin
 B. Webb's Memorial Sermons.</figDesc>
                   </figure>
 in the line of her course! Infinitely better for him had he been
 strangled at the birth!</p>
-               <p pn="61">Be sure, this people will mourn from sea to sea; but be sure also,
+               <p>Be sure, this people will mourn from sea to sea; but be sure also,
 that any provocation will bring out the indignant, instant,
 sympathetic cry from every lip, "Die, traitors, assassins all! live,
 the republic, liberty, and law!"</p>
-               <p pn="61">The God of infinite justice and mercy be our helper! Amen.</p>
-               <p pn="61">NOTE. --Preached Sunday morning, April 16, after the news of the
+               <p>The God of infinite justice and mercy be our helper! Amen.</p>
+               <p>NOTE. --Preached Sunday morning, April 16, after the news of the
 assassination of President Lincoln.</p>
             </div2>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="Eulogy of Abraham Lincoln">
             <title>Eulogy of Abraham Lincoln</title>
             <author>Deming, Henry Champion</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -28,9 +22,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -41,8 +33,7 @@ Champion. Eulogy of Abraham Lincoln.  Before the General Assembly of
 Connecticut, at Allyn Hall, Hartford, Thursday, June 8th,
 1865. Hartford: A. N. Clark &amp; Co., State Printers. 1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text
 derives 
@@ -59,23 +50,12 @@ Preservation Office, and Pitts Theology Library.</p>
             <p>COMPRESSION: Resolution 144 per inch with Constrain Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="deming.001" n="Eulogy of Abraham Lincoln" type="text">
-            <head pn="1"> 
+         <div1 xml:id="deming.001" n="Eulogy of Abraham Lincoln" type="text">
+            <head> 
                <bibl> 
                   <title>Eulogy of
 Abraham Lincoln</title> 
@@ -83,78 +63,78 @@ Abraham Lincoln</title>
                   <pubPlace>Allyn
 Hall, Hartford</pubPlace> 
                   <author>Deming, Henry Champion</author>
-                  <imprint>
+                  
                      <pubPlace>Hartford</pubPlace>
                      <publisher>A. N. Clark &amp;
 Co.</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15q2t</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="deming1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Henry Champion
 Deming's Eulogy of Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">EULOGY</p>
-            <p pn="1">OF</p>
-            <p pn="1">ABRAHAM LINCOLN,</p>
-            <p pn="1">BY</p>
-            <p pn="1">HENRY CHAMPION DEMING,</p>
-            <p pn="1">BEFORE THE</p>
-            <p pn="1">GENERAL ASSEMBLY OF CONNECTICUT</p>
-            <p pn="1">AT</p>
-            <p pn="1">ALLYN HALL, HARTFORD, THURSDAY, JUNE 8th, 1865.</p>
-            <p pn="1">HARTFORD:</p>
-            <p pn="1">A. N. CLARK &amp; CO., STATE PRINTERS.</p>
-            <p pn="1">1865.</p>
+            <p>EULOGY</p>
+            <p>OF</p>
+            <p>ABRAHAM LINCOLN,</p>
+            <p>BY</p>
+            <p>HENRY CHAMPION DEMING,</p>
+            <p>BEFORE THE</p>
+            <p>GENERAL ASSEMBLY OF CONNECTICUT</p>
+            <p>AT</p>
+            <p>ALLYN HALL, HARTFORD, THURSDAY, JUNE 8th, 1865.</p>
+            <p>HARTFORD:</p>
+            <p>A. N. CLARK &amp; CO., STATE PRINTERS.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="deming2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="deming3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="3">COMMITTEE ON DEATH OF PRESIDENT LINCOLN.</p>
-            <p pn="3">Hon. Mr. HARRISON. </p>
-            <p pn="3">Messrs. PRATT of Norwich,</p>
-            <p pn="3">OAKLEY  of Bristol, </p>
-            <p pn="3">MERRITT of Greenwich, </p>
-            <p pn="3">PAYNE of North Haven,</p>
-            <p pn="3">AMSBURY Of Killingly,</p>
-            <p pn="3">HART Of  Cornwall, </p>
-            <p pn="3">HUNGERFORD of East Haddam, </p>
-            <p pn="3">PAINE  of Woodstock.</p>
-            <p pn="3">GENERAL
+            <p>COMMITTEE ON DEATH OF PRESIDENT LINCOLN.</p>
+            <p>Hon. Mr. HARRISON. </p>
+            <p>Messrs. PRATT of Norwich,</p>
+            <p>OAKLEY  of Bristol, </p>
+            <p>MERRITT of Greenwich, </p>
+            <p>PAYNE of North Haven,</p>
+            <p>AMSBURY Of Killingly,</p>
+            <p>HART Of  Cornwall, </p>
+            <p>HUNGERFORD of East Haddam, </p>
+            <p>PAINE  of Woodstock.</p>
+            <p>GENERAL
 ASSEMBLY,</p>
-            <p pn="3">MAY
+            <p>MAY
 SESSION, A. D. 1865.</p>
-            <p pn="3">
+            <p>
                <hi rend="italic">Resolved</hi>, That the thanks of this General
 Assembly are hereby tendered to the Hon. HENRY C. DEMING, for his
 able, eloquent and patriotic Address on the life and character of
 ABRAHAM LINCOLN.</p>
-            <p pn="3">
+            <p>
                <hi rend="italic">Resolved</hi>, That
 thirty-five hundred copies of said address be printed for the use of
 this Assembly.</p>
-            <p pn="3">IN
+            <p>IN
 SENATE,  June 9th, 1865.</p>
-            <p pn="3">Passed.</p>
-            <p pn="3">WM. T. ELMER, <hi rend="italic">Clerk</hi>.</p>
-            <p pn="3">HOUSE OF REPRESENTATIVES, JUNE 9th, 1865.</p>
-            <p pn="3">Passed.</p>
-            <p pn="3">JOHN R. BUCK, <hi rend="italic">Clerk</hi>.</p>
+            <p>Passed.</p>
+            <p>WM. T. ELMER, <hi rend="italic">Clerk</hi>.</p>
+            <p>HOUSE OF REPRESENTATIVES, JUNE 9th, 1865.</p>
+            <p>Passed.</p>
+            <p>JOHN R. BUCK, <hi rend="italic">Clerk</hi>.</p>
             <pb n="4"/>
 <!-- blank page -->
 <!--            <p>
@@ -165,38 +145,38 @@ Lincoln.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="deming5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="deming.002" n="EULOGY" type="sermon">
-               <head pn="5">EULOGY.</head>
-               <p pn="5">By authority of a joint resolution, the Select Committee on the
+            <div2 xml:id="deming.002" n="EULOGY" type="sermon">
+               <head>EULOGY.</head>
+               <p>By authority of a joint resolution, the Select Committee on the
 Death of President Lincoln, invited the Hon. Henry Champion Deming, of
 Hartford, Member of Congress from the First District, to deliver
 before the General Assembly a eulogy upon the life, character and
 services of the lamented President.</p>
-               <p pn="5">The invitation was accepted by the honorable gentleman, and the
+               <p>The invitation was accepted by the honorable gentleman, and the
 eulogy was delivered at Allyn Hall, in the city of Hartford, on the
 evening of June 8th, 1865.</p>
-               <p pn="5">The Hall was festooned with flags and mourning, and music was
+               <p>The Hall was festooned with flags and mourning, and music was
 furnished by Colt's Band.</p>
-               <p pn="5">The meeting was called to order by Hon. H. Lynde Harrison, Senator
+               <p>The meeting was called to order by Hon. H. Lynde Harrison, Senator
 from the Sixth District, who announced the following officers:</p>
-               <p pn="5">PRESIDENT.</p>
-               <p pn="5">HIS EXCELLENCY, WM. A. BUCKINGHAM.</p>
-               <p pn="5">VICE-PRESIDENTS.</p>
-               <p pn="5">(On the part of the Senate.)<lb/>
+               <p>PRESIDENT.</p>
+               <p>HIS EXCELLENCY, WM. A. BUCKINGHAM.</p>
+               <p>VICE-PRESIDENTS.</p>
+               <p>(On the part of the Senate.)<lb/>
 Hon. ROGER AVERILL, President,	Hon. SAMUEL ROCKWELL,
  <lb/> "   EDWARD I.  SANDFORD,	         	  	"   SYLVESTER
 SMITH,
   <lb/>"   CHARLES H. MALLORY,                      	"   JOHN
 T. WAITE,
 <pb n="6"/>
-                  <figure entity="deming6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Henry Champion
 Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -207,7 +187,7 @@ W. BALLARD, <lb/>  "    EDWIN H. BUGBEE,
 "   ROBBINS BATTELL, <lb/>  "    WILLIAM E. CONE,
 "   JASPER H. BOLTON,
                                            Hon. CHARLES A. ATKINS.</p>
-               <p pn="6">(On the part of the
+               <p>(On the part of the
 House.)  <lb/>Hon. E.K. FOSTER, Speaker,
 Mr. HENRY B. HARRISON, <lb/>Mr. H.K.W. WELCH,
 "   JOHN S. RICE, <lb/>  "    FRANKLIN CHAMBERLIN,
@@ -231,11 +211,11 @@ WILLIAM G. COE,
 WILLIAM R. CLARK,
  <lb/> "    GEORGE KELLOGG,                                     	"
 JULIUS CONVERSE.</p>
-               <p pn="6">SECRETARIES,
+               <p>SECRETARIES,
        <lb/>(On the part
 of the Senate.) <lb/>Hon. FREDERICK W. RUSSELL,
 Hon. FRANCIS A. SANFORD.</p>
-               <p pn="6">(On the part of
+               <p>(On the part of
 the House.)  <lb/>Mr. SAMUEL J. DAY,
 Mr. EDWARD S. SCRANTON,
  <lb/> "   ALONZO F. WOOD,
@@ -248,17 +228,17 @@ LUCIAN CARPENTER,
 LEWIS CATLIN, <lb/>  "   JOHN M. DOUGLAS,
 "   GEORGE D. HASTINGS.</p>
                <pb n="7"/>
-               <p pn="7">
-                  <figure entity="deming7">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>7th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="7">On taking the chair, Governor Buckingham was loudly applauded. He
+               <p>On taking the chair, Governor Buckingham was loudly applauded. He
 said:</p>
-               <p pn="7">LADIES AND GENTLEMEN:--</p>
-               <p pn="7">It is difficult for us to review the past and contemplate the rapid
+               <p>LADIES AND GENTLEMEN:--</p>
+               <p>It is difficult for us to review the past and contemplate the rapid
 and marvelous changes which have crowded the events of generations
 into a few passing months, without inquiring whether it all has not
 been a dream; and yet our minds and hands have been so much occupied,
@@ -266,7 +246,7 @@ and our hearts so deeply affected by the scenes through which we have
 passed, that our judgment and consciousness decide the question, and
 assure us that we have not been moved by visions and dreams, but by
 realities.</p>
-               <p pn="7">The rebellion has been a reality. The power of the government has
+               <p>The rebellion has been a reality. The power of the government has
 not been imaginary. The organization of armies, their conflict upon a
 thousand battle-fields, the overthrow of our national enemies, the
 suppression of the rebellion, and the emancipation of the enslaved,
@@ -277,7 +257,7 @@ the scenes which have transpired. There can be no correct history of
 the Israelites, of their oppression and deliverence, of their passage
 through the sea and through the wilderness, without the lives of
 <pb n="8"/>
-                  <figure entity="deming8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Henry Champion
 Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -289,7 +269,7 @@ through this great struggle for existence, without the life of Abraham
 Lincoln, and without connecting his name with that immortal
 proclamation which gave freedom and manhood to four millions of
 bondmen.</p>
-               <p pn="8">The General Assembly has properly invited a gentleman of
+               <p>The General Assembly has properly invited a gentleman of
 distinguished ability, who was intimately acquainted with Mr. Lincoln,
 to present to us this evening, and to weave into our nation's history,
 the life and character of our late President, so that all may see
@@ -302,17 +282,17 @@ clearly the precise influence which he exerted over public affairs
 during this period of danger, than the orator of the evening, whom I
 now introduce--the Hon. Henry C. Deming.</p>
                <pb n="9"/>
-               <p pn="9">
-                  <figure entity="deming9">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>9th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="9">Mr. Deming was received with long continued applause. He said:</p>
-               <p pn="9">MAY IT PLEASE YOUR EXCELLENCY, AND GENTLEMEN OF THE GENERAL
+               <p>Mr. Deming was received with long continued applause. He said:</p>
+               <p>MAY IT PLEASE YOUR EXCELLENCY, AND GENTLEMEN OF THE GENERAL
 ASSEMBLY:--</p>
-               <p pn="9">FROM the seat of our Republican Empire which, during the last four
+               <p>FROM the seat of our Republican Empire which, during the last four
 years and for all coming time, he has preserved from the spoiler by
 his wisdom and address; through avenues of weeping myriads who have
 thronged the thoroughfare, all the way from the Potomac to the
@@ -329,8 +309,8 @@ to dirge, anthem and lamentation, ABRAHAM LINCOLN has reached that
 silent home of all the living, which "buries every error, covers every
 defect, extinguishes every resentment."</p>
                <pb n="10"/>
-               <p pn="10">
-                  <figure entity="deming10">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>10th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
@@ -342,7 +322,7 @@ Lincoln.</figDesc>
                   <l>Malice domestic, foreign levy, nothing</l>
                   <l>Can touch him further!</l>
                </lg>
-               <p pn="10">With ampler honors, and with more of the symbols and ceremonial of
+               <p>With ampler honors, and with more of the symbols and ceremonial of
 universal love and veneration, than this continent ever paid before to
 any of her sons, the funeral pageant had scarcely reached the portals
 of the tomb, before the posthumous tributes of another Hemisphere are
@@ -360,7 +340,7 @@ we have free, generous, intelligent homage to a LIBERATOR, whom
 William Tell would have been proud to recognize as a brother. Ancient
 cities, which might have wept, when at the base of Pompey's statue
 <pb n="11"/>
-                  <figure entity="deming11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -381,13 +361,13 @@ demonstrative, upon the receipt of the sad intelligence as an
 Indignation Meeting of Loyal Leagues in Union Square. Indeed, for
 ABRAHAM LINCOLN one cry of universal regret is raised all over the
 civilized earth.</p>
-               <p pn="11">It is difficult to descend from the fervor of these first
+               <p>It is difficult to descend from the fervor of these first
 impassioned outbursts of a world wide grief, to cool analysis and
 historic delineation. And yet that is the task before me. I should
 violate the proprieties of this occasion, if I indulged in mere
 rhapsodies,
 <pb n="12"/>
-                  <figure entity="deming12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -397,7 +377,7 @@ habitually dwells in the mild atmosphere congenial to deliberation,
 that it solicits unvarnished statement instead of rhetorical flourish,
 and records its own judgment in the composed style of fact and
 argument.</p>
-               <p pn="12">In these days of photographs, it is almost superfluous to paint in
+               <p>In these days of photographs, it is almost superfluous to paint in
 speech the portrait of a distinguished man, but as the resources of
 the language have been exhausted in depreciation of MR. LINCOLN'S
 person, I am unwilling that he shall pass into history, in any shape,
@@ -413,7 +393,7 @@ veritable record of life's experiences, and to some extent, an index
 of character. It was not unsuited to one who was born from a rude
 stock, in a wild forest, and was nurtured and moulded by
 <pb n="13"/>
-                  <figure entity="deming13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -439,7 +419,7 @@ eyes are dark gray, sunk in deep sockets, but bright, soft and
 beautiful in expression, and sometimes lost and half abstracted, as if
 their glance
 <pb n="14"/>
-                  <figure entity="deming14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -448,7 +428,7 @@ was far away. The teeth are white and regular and it is only when a
 smile, radiant, captivating and winning as was ever given to mortal,
 transfigures the plain countenance, that you begin to realize that it
 is not impossible for artists to admire and woman to love it.</p>
-               <p pn="14">As the world has rung with ridicule of the ungainliness of his
+               <p>As the world has rung with ridicule of the ungainliness of his
 manners, I may be permitted to say, that without any pretensions to
 superfine polish, they were frank, cordial, and dignified, without
 rudeness, without offence, and without any violation of the
@@ -465,14 +445,14 @@ at Madrid, and the Admiral of the French Fleet, and that in
 gentlemanly appearance, manners and conversation he was the peer of
 any man at the table."</p>
                <pb n="15"/>
-               <p pn="15">
-                  <figure entity="deming15">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>15th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="15">To borrow one of his own conversational phrases he did'nt brag on
+               <p>To borrow one of his own conversational phrases he did'nt brag on
 deportment. He was not a Turveydrop or Sir Harcourt Courtly or General
 Banks. It would have puzzled him to stand in tableau for the Earl of
 Chatham, or the Pompeian Ajax. He was not proud of his leg, like
@@ -493,7 +473,7 @@ Dr. Johnson calls a thoroughly "clubbable" man, eminently social and
 familiar; in private interviews and sometimes in public, overflowing
 with
 <pb n="16"/>
-                  <figure entity="deming16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -519,13 +499,13 @@ them all that would have been out of place if uttered in a lady's
 drawing room. I am aware that a different impression may prevail,
 founded it maybe in some instances on facts, but
 <pb n="17"/>
-                  <figure entity="deming17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
 where there is one fact of the kind, I am persuaded that there are
 forty falsehoods at least."</p>
-               <p pn="17">Of his intellectual capacity, Mr. Lincoln gave the most signal
+               <p>Of his intellectual capacity, Mr. Lincoln gave the most signal
 proof, in that memorable contest with Judge Douglas, and his speeches
 are in no sense inferior to his rivals--the Charles James Fox of our
 forum, by universal consent the most athletic and expert offhand
@@ -545,7 +525,7 @@ whole no pattern, no parallel--not even a resemblance, contravening
 every antique and modern standard of Hero-worship,--a greatness which
 admits of no exact analysis and can only be loosely described as com
 <pb n="18"/>
-                  <figure entity="deming18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -571,7 +551,7 @@ shrinking ranks of vulnerable and pain suffering warriors. It may be
 said of him, as has been said of another indigenous American type of
 manliness, that
 <pb n="19"/>
-                  <figure entity="deming19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -585,7 +565,7 @@ exposing a fallacy. He contemned all the elegancies of diction, using
 only plain homespun English, aiming at direct and compact statement in
 the fewest words, and those sometimes chosen with more respect to
 convenience than precision.</p>
-               <p pn="19">His education was self-acquired and unpretending, and, in the
+               <p>His education was self-acquired and unpretending, and, in the
 department of History, wherein the Past by experience and example
 instructs and exhorts the Present, and therefore so essential to
 genuine statesmanship, it was somewhat narrow and defective. It must
@@ -597,14 +577,14 @@ protest, his opinions and actions. "I have never willingly planted a
 thorn in any man's bosom," is the accurate description which he gives
 of himself. The domination of this amiable disposition must be con
 <pb n="20"/>
-                  <figure entity="deming20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
 stantly remembered, and carried along with you into the development
 and estimate of his public career, which I am attempting to
 present.</p>
-               <p pn="20">The chief mental equipments which he brought to the mighty task
+               <p>The chief mental equipments which he brought to the mighty task
 before him, were that downright uncompromising common sense which
 seems to divine its way through the most intricate problems, a keen
 insight into human nature, an intimate acquaintance with the spasmodic
@@ -621,9 +601,9 @@ in abundance was in him but tears were also there. To these
 characteristics should always be added, an intuitive comprehension of
 the precise line which divides Right from Wrong, and implicit reliance
 upon the goodness and wisdom of Almighty God.</p>
-               <p pn="20">Let us now see how this peculiar organization
+               <p>Let us now see how this peculiar organization
 <pb n="21"/>
-                  <figure entity="deming21">
+                  <figure><graphic url=""/>
                      <figDesc>21st page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -634,7 +614,7 @@ money-making thrift, pluck from pusilanimity, steadfast principle from
 vacillating expediency, constancy and endurance from over-sanguine and
 vain-glorious dreams--and millions of self-willed and arrogant despots
 to be humbled forever. He began by almost re-creating himself.</p>
-               <p pn="21">In one of the brief speeches which ABRAHAM LINCOLN made, when as
+               <p>In one of the brief speeches which ABRAHAM LINCOLN made, when as
 President elect, and in the full flush of life, he traveled the same
 road upon which he has recently returned, in the habiliments of the
 grave, he says to his countrymen: "In my view of the present aspect of
@@ -646,9 +626,9 @@ sentence furnishes us with the first insight into his mind, when
 contemplating the task before him, and it unlocks all the mystery and
 explains the purely defensive course of his administration, during the
 first two months of its existence.</p>
-               <p pn="21">At the same time Jefferson Davis, on his progress
+               <p>At the same time Jefferson Davis, on his progress
 <pb n="22"/>
-                  <figure entity="deming22">
+                  <figure><graphic url=""/>
                      <figDesc>22nd page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -674,7 +654,7 @@ and a premature radical policy would have subjected him instantly, to
 the reproach from a vast majority of his countrymen, of stimulating an
 undeveloped
 <pb n="23"/>
-                  <figure entity="deming23">
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -698,10 +678,10 @@ inflexible theory, which would prevent him afterwards, from adapting
 his measures to the growth and development of the monstrous anomaly,
 and of justifying his policy by its frighful vicissitudes and
 crime.</p>
-               <p pn="23">Nor is the language of his Inaugural much more decisive. His temper
+               <p>Nor is the language of his Inaugural much more decisive. His temper
 and spirit towards it is most
 <pb n="24"/>
-                  <figure entity="deming24">
+                  <figure><graphic url=""/>
                      <figDesc>24th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -727,7 +707,7 @@ there will be no invasion, no using of force against or among the
 people anywhere." In deference to the irritation which prevailed in
 the insurrectionary
 <pb n="25"/>
-                  <figure entity="deming25">
+                  <figure><graphic url=""/>
                      <figDesc>25th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -735,7 +715,7 @@ States, he expressly foregoes the right of appointing obnoxious
 strangers to Federal offices within their limits, and promises that
 the mails shall be furnished to all parts of the Union, until they are
 violently repelled.</p>
-               <p pn="25">In this brief statement, I have condensed all the foreshadowings of
+               <p>In this brief statement, I have condensed all the foreshadowings of
 a policy, which this wise and unfaltering PRESIDENT vouchsafed to the
 world, when consciously entering upon the most perilous era of our
 history, and assuming the most momentous responsibilities. While we
@@ -751,9 +731,9 @@ terrible enough to chastise two God-defying centuries of crime, or
 that his chief mission to this earth was to conduct a nation through
 the jaws of death and the gates of hell, to regenerated and immortal
 life.</p>
-               <p pn="25">Let me now attempt to ascertain, at what precise
+               <p>Let me now attempt to ascertain, at what precise
 <pb n="26"/>
-                  <figure entity="deming26">
+                  <figure><graphic url=""/>
                      <figDesc>26th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -767,7 +747,7 @@ persuaded his placable and scrupulous mind to the unhesitating and
 implacable purpose of exercising all the tremendous powers conferred
 upon him by the Rights of War and of grasping every weapon in its
 terrible arsenal.</p>
-               <p pn="26">The Time, when this decided change in his purpose first appears,
+               <p>The Time, when this decided change in his purpose first appears,
 was more than a month after our flag was struck from Sumpter's
 crumbling battlements, more than a month after that bugle blast which
 summoned seventy-five thousand men to arms, a month at least after the
@@ -779,7 +759,7 @@ closed, he had finally resolved to turn upon the inveterate Rebellion
 the unbridled wrath of War. The hour, when doubt and hesitancy first
 yielded to
 <pb n="27"/>
-                  <figure entity="deming27">
+                  <figure><graphic url=""/>
                      <figDesc>27th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -805,14 +785,14 @@ upon a man whose maxim was (in the language of one of his favorite
 texts,) "let the potsherd strive with the potsherds of the Earth"-and
 into whose mind, had
 <pb n="28"/>
-                  <figure entity="deming28">
+                  <figure><graphic url=""/>
                      <figDesc>28th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
 been thoroughly ingrained that traditional notion of our politics,
 that the first drop of blood, shed in a sectional strife, was the
 death-knell of the American Union.</p>
-               <p pn="28">Let us enter in, where that now disembodied spirit was, in the
+               <p>Let us enter in, where that now disembodied spirit was, in the
 recesses of its clay tenement, in stormy debate with itself. What
 throes, what agony do we witness! What heart rending sobs, what heaven
 piercing prayers that the cup may pass from his lips! Here was that
@@ -831,7 +811,7 @@ virtues, which had hitherto exclusively occupied this holy
 sanctuary. Domesticated here are Justice and Mercy, ("and earthly
 power is likest God's when Mercy seasons Justice.") 
 <pb n="29"/>
-                  <figure entity="deming29">
+                  <figure><graphic url=""/>
                      <figDesc>29th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -857,7 +837,7 @@ craving hilarity and harmless mirth, and joy-inspiring wit and
 anecdote, as the only effectual relief to an over-anxious spirit and
 an over-tasked brain, and how reluctantly does
 <pb n="30"/>
-                  <figure entity="deming30">
+                  <figure><graphic url=""/>
                      <figDesc>30th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -865,7 +845,7 @@ this part of his nature admit to close companionship, the gloomy
 forebodings, the bitter memories, the dreadful uncertainties, the
 everlasting shrieks, dirges, vengeful tragedies, and heart-rending
 atrocities of War.</p>
-               <p pn="30">In addition to the protest of these conservative habits, and
+               <p>In addition to the protest of these conservative habits, and
 amiable emotions, upon his adoption of any radical and thorough-going
 policy of grappling with the Rebellion, he was also, like many others,
 held back for a season, by the legal scruples which his reflecting
@@ -883,7 +863,7 @@ attention of the PRESIDENT, had been exclusively turned to the PEACE
 side of the instrument, to the provisions which address themselves to
 conditions of unbroken amity, domestic tranquility,
 <pb n="31"/>
-                  <figure entity="deming31">
+                  <figure><graphic url=""/>
                      <figDesc>31st page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -904,12 +884,12 @@ influence of the National government. But Courts and individuals have
 alike ignored the WAR side of the Constitution, or drawn but feebly
 upon that slumbering element in our system, which holds each revolving
 planet in complete subjection to the sun.</p>
-               <p pn="31">What are its powers over States which abjure allegiance, and
+               <p>What are its powers over States which abjure allegiance, and
 conspire together for its destruction and overthrow, and raise armies,
 and wage War against it, was, fortunately, a question which no
 judicial tribunal had been called upon to adjudi-
 <pb n="32"/>
-                  <figure entity="deming32">
+                  <figure><graphic url=""/>
                      <figDesc>32nd page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -923,7 +903,7 @@ and terror of the Federal arm. The elements of strength and power
 which were hid away, in the weighty clauses, which give to the
 PRESIDENT and Congress the issues of Peace and War, were dragged to
 light and employed for the salvation of the Republic.</p>
-               <p pn="32">By the middle of May the doubt and haze which had settled upon the
+               <p>By the middle of May the doubt and haze which had settled upon the
 legal relation of the Insurgent States to the Government, began to
 disappear. On the sixth of that month, the Confederate Congress at
 Montgomery, declared war against the United States, and MR. LINCOLN'S
@@ -935,7 +915,7 @@ facto</hi> War, and you are justified in treating it as the one, as
 the other, and as both." With equal truth it was shortly afterwards
 said, in the United States Senate, "it is a Rebellion swollen
 <pb n="33"/>
-                  <figure entity="deming33">
+                  <figure><graphic url=""/>
                      <figDesc>33rd page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -949,7 +929,7 @@ severe, and momentous as was ever submitted to human arbitrament, he
 was called upon, without precedent, without authority, and from his
 habits of mind without assistance, forthwith to determine by his
 peculiar process of divination.</p>
-               <p pn="33">The Constitution, does it not? establishes in law and in fact, an
+               <p>The Constitution, does it not? establishes in law and in fact, an
 independent government. By that act alone, all the belligerent rights,
 which from time immemorial, by international law belong to independent
 governments, were instantly conveyed to the new born nation. Yes, yes,
@@ -960,14 +940,14 @@ themselves to execute our behests, against all of our public enemies
 whether they rally under the bastard banner of an Insurgent State, or
 the legitimate flag of a recognized nation.</p>
                <pb n="34"/>
-               <p pn="34">
-                  <figure entity="deming34">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>34th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="34">But not only did MR. LINCOLN find full belligerent rights,
+               <p>But not only did MR. LINCOLN find full belligerent rights,
 according to the laws and usages of nations, and against all armed
 foes implied in the independent government which the Constitution
 creates and endows with the powers of self-defence, but he found,
@@ -989,7 +969,7 @@ maintain a navy," "to make rules for the government of the land and
 naval forces," "to provide for the calling forth of the militia, to
 execute the laws of the Union,
 <pb n="35"/>
-                  <figure entity="deming35">
+                  <figure><graphic url=""/>
                      <figDesc>35th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -998,7 +978,7 @@ decisive clause which empowers it "to make all laws necessary and
 proper" for carrying these enumerated powers into execution, he found
 plenary authority for employing, in its extremest rigor, every right
 of war against rebels in arms.</p>
-               <p pn="35">Turning away then, from the pages of the Constitution which confer
+               <p>Turning away then, from the pages of the Constitution which confer
 <hi rend="italic">belligerent rights</hi>, he reperused the article
 which deals with Rebellion <hi rend="italic">as a crime</hi>, and
 provides for it a criminal punishment, to be enforced in the Courts,
@@ -1006,7 +986,7 @@ by the peaceful processes of the <hi rend="italic">municipal</hi> law;
 and he finds that levying war against the United States and adhering
 to their enemies is <hi rend="italic">treason</hi>, and is liable to all
 the pains, penalties and forfeitures which are visited upon that <hi rend="italic">crime</hi>.</p>
-               <p pn="35">From this long review, MR. LINCOLN rose with the conviction, that
+               <p>From this long review, MR. LINCOLN rose with the conviction, that
 for the overthrow of the rebels he might draw upon two fountains, and
 a double source of power, <hi rend="italic">the Constitution</hi> and
 the <hi rend="italic">rights of war</hi>; that as criminals he might
@@ -1017,14 +997,14 @@ with the full determination from which he never afterwards deflected
 to draw upon both magazines, to fight from both batteries, and with
 all their thunder.</p>
                <pb n="36"/>
-               <p pn="36">
-                  <figure entity="deming36">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>36th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="36">The powers thus claimed, are all indubitably conferred, and may be
+               <p>The powers thus claimed, are all indubitably conferred, and may be
 all unquestionably used, unless in behalf of rebels in arms, you urge
 the preposterous plea that they are not <hi rend="italic">enemies,</hi>
 because they are <hi rend="italic">traitors</hi>, thereby constituting
@@ -1033,7 +1013,7 @@ from the penalties of war, and thus disfranchise an independent nation
 of every belligerent right against those foes, who have once owed it
 allegiance, and to the guilt of treason have added that of unjust
 war.</p>
-               <p pn="36">If, in addition to the considerations I have urged in favor of
+               <p>If, in addition to the considerations I have urged in favor of
 these positions, time would permit me to cite the judgments of the
 Supreme Court, I could present precise points, raised in admiralty
 appeals, and ruled by such judges as Marshall, Livingstone, Tilghman,
@@ -1046,7 +1026,7 @@ resorted to for the accomplishment of its purpose. By inflicting,
 through its agent the Judiciary, the penalty which the law affixes to
 the capital crimes of treason and piracy, it treats them as <hi rend="italic">criminals</hi>, and acts in its capacity as a <hi rend="italic">sovereign</hi>, and its courts are but enforcing its <hi rend="italic">municipal</hi>
                   <pb n="37"/>
-                  <figure entity="deming37">
+                  <figure><graphic url=""/>
                      <figDesc>37th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1054,8 +1034,8 @@ regulations. By instituting a blockade of the ports of its rebellious
 citizens, invading their territory, sequestrating their property, and
 emancipating their slaves, the Government treats them as <hi rend="italic">enemies</hi>, and exercises its rights as a <hi rend="italic">belligerent</hi>, and its courts, in their adjudication
 upon capture, seizures, and forfeitures, are organized as courts of
-prize, under the <hi rend="italic">law of nations</hi>.<ref target="deming.002.n01">*</ref></p>
-               <p pn="37">I have dwelt longer, than may be deemed judicious by some, upon the
+prize, under the <hi rend="italic">law of nations</hi>.<ref target="#deming.002.n01">*</ref></p>
+               <p>I have dwelt longer, than may be deemed judicious by some, upon the
 process by which ABRAHAM LINCOLN'S mind was gradually led, from vague
 and undefined notions, to defined and accurate views of the relations
 of the armed insurgent to the Federal Government, because it lies at
@@ -1067,21 +1047,21 @@ inevitable death lay, in the fundamental and germinant idea, that as
 <hi rend="italic">criminals</hi> they were subject to all the penalties
 of the Constitution, and as enemies to all the legal consequences of
 War.</p>
-               <p pn="37">In that classic drama, which first revealed to the world the
+               <p>In that classic drama, which first revealed to the world the
 masterly genius of Talford, unhappy Ion</p>
-               <note pn="37" id="deming.002.n01" n="*" place="foot" anchored="yes">
-                  <p pn="37">Upton's Maritime Warfare and Prize,
+               <note xml:id="deming.002.n01" n="*" place="foot" anchored="true">
+                  <p>Upton's Maritime Warfare and Prize,
 p. 212.</p>
                </note>
                <pb n="38"/>
-               <p pn="38">
-                  <figure entity="deming38">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>38th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="38">proceeds upon the task, to which he was called by the audible voice
+               <p>proceeds upon the task, to which he was called by the audible voice
 of the gods, with a firm hand and unfaltering will, but with supreme
 pity and tenderness towards the father he was doomed to slay. With as
 compassionate a heart, with as complete exemption from all vengeful
@@ -1103,7 +1083,7 @@ against the counterscarps of Big Bethel, forthwith the tented villages
 disappear, like snow flakes, from the surrounding fields of the
 Metropolis, and the rumbling
 <pb n="39"/>
-                  <figure entity="deming39">
+                  <figure><graphic url=""/>
                      <figDesc>39th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1118,7 +1098,7 @@ Suspension of the Habeas Corpus, they are forthwith approved, for in
 determining that the Government was endowed, in time of War, with
 unabridged belligerent rights, he had settled a principle which
 underlies all these controverted measures.</p>
-               <p pn="39">In the seven months which follow, he evinces an administrative
+               <p>In the seven months which follow, he evinces an administrative
 vigor that would have satisfied Napoleon the Great, but it was all
 alas! counteracted, by a military imbecility in his Generals that was
 fairly sublime. It is the era of almost unrelieved disaster,
@@ -1129,14 +1109,14 @@ marched on from victory to victory, and from Alp to Alp, up to the
 crowning summit of military grandeur, where Ulysses S. Grant now
 stands unchallenged and secure.</p>
                <pb n="40"/>
-               <p pn="40">
-                  <figure entity="deming40">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>40th page of
 Henry Champion Deming's Eulogy of Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="40">How nobly the PRESIDENT bore himself, during this interval of
+               <p>How nobly the PRESIDENT bore himself, during this interval of
 darkness that could be felt, when bold men trembled at every click of
 the telegraph, let two tributes offered by unfriendly voices to his
 Stoicism attest the first, is from no less a master of it than
@@ -1157,7 +1137,7 @@ were three that the first was at Malvern Hill where McClellan failed
 to command an immediate advance upon Richmond, that the second was at
 Chancellorville, where Hooker failed to reinforce
 <pb n="41"/>
-                  <figure entity="deming41">
+                  <figure><graphic url=""/>
                      <figDesc>41st page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1183,7 +1163,7 @@ such passage as that in <hi rend="italic">his</hi> Bible. After I had
 pointed it out to him, and he was satisfied of its genuineness, he
 asked me if I
 <pb n="42"/>
-                  <figure entity="deming42">
+                  <figure><graphic url=""/>
                      <figDesc>42nd page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1209,7 +1189,7 @@ Shakspeare, the peasant poet of Scotland, with whom his sympathies
 were very acute, and those peculiar off-shoots of American wit, of
 which Orpheus
 <pb n="43"/>
-                  <figure entity="deming43">
+                  <figure><graphic url=""/>
                      <figDesc>43rd page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1217,14 +1197,14 @@ C. Kerr, Artemas Ward, and Doesticks are types. I frequently saw all
 these books in his hands, during a voyage of three days upon the
 Potomac, when the party consisted only of the President and his
 family, the Secretary of War and his aid and myself.</p>
-               <p pn="43">The ten months which divide the fall of Fort Donelson, (February
+               <p>The ten months which divide the fall of Fort Donelson, (February
 16th, 1862,) from the battle of Fredericksburg, (December 13th, 1862,)
 constitute the depressing era of military uncertainty. Administrative
 ability, executive resolution and hardihood, were never more
 impressively displayed than during this disheartening period, but in
 spite of it, inconstant victory seems to vibrate between the hostile
 banners.</p>
-               <p pn="43">The encouraging results of Iuka and Corinth, and the opening of the
+               <p>The encouraging results of Iuka and Corinth, and the opening of the
 Upper Mississippi, inspire the national heart with new confidence in
 the protection of Heaven and in the heroism of our western
 soldiers. Brave old Farragut earns the grade of Admiral, and the
@@ -1236,7 +1216,7 @@ guns of his fleet sweep the streets of New Orleans, and the Tamer of
 Cities hangs up its scalp in his wigwam. War surges and resurges over
 the
 <pb n="44"/>
-                  <figure entity="deming44">
+                  <figure><graphic url=""/>
                      <figDesc>44th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1249,7 +1229,7 @@ Mountain and Antietam, fairly costing their weight in gore, and
 turning to ashes in our grasp, failed to reanimate our hopes, while
 Pittsburg Landing and Shiloh, are more than counterpoised by the heart
 rending butchery of Fredericksburg.</p>
-               <p pn="44">The progress of MR. LINCOLN'S mind from his plan of colonizing the
+               <p>The progress of MR. LINCOLN'S mind from his plan of colonizing the
 slave, and after that was abandoned, to compensated liberation, and
 from this expedient to unconditional emancipation, is analogous to the
 deliberate advance, which I have already detailed, from a conservative
@@ -1261,7 +1241,7 @@ revolutionary crisis, and to exclaim "Justice shall be omnipotent
 though the Heavens fall," are unquestionably sublime manifestations,
 but in such imminent peril, it is rather the sublimity of madness than
 <pb n="45"/>
-                  <figure entity="deming45">
+                  <figure><graphic url=""/>
                      <figDesc>45th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1287,7 +1267,7 @@ Presidential chair, with a solemn disavowal of any constitutional
 right to interfere with slavery in the States, and if they had
 continued faithful to the Constitution, their cherished
 <pb n="46"/>
-                  <figure entity="deming46">
+                  <figure><graphic url=""/>
                      <figDesc>46th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1313,7 +1293,7 @@ was based, should not only be plausible, but real and imperious, and
 it is now well understood that if victory had perched more signally on
 our banners, and Lee's army had
 <pb n="47"/>
-                  <figure entity="deming47">
+                  <figure><graphic url=""/>
                      <figDesc>47th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1321,7 +1301,7 @@ been more thoroughly crippled and demoralized in that battle, the
 proclamation which restores to millions of living men, and to unborn
 generations, the rights of manhood, would have been postponed to an
 indefinite future.</p>
-               <p pn="47">Are we not here able to interpret and explain one of those purposes
+               <p>Are we not here able to interpret and explain one of those purposes
 which are sometimes called mysterious and inscrutable? I can almost
 see a mighty arm, stretching out of the unfathomable blue, hastening
 the fugitive in his flight, holding back the feet of the pursuer, and
@@ -1337,9 +1317,9 @@ invocation which closes the imperishable manifesto, "UPON THIS ACT,
 BELIEVED TO BE AN ACT OF JUSTICE WARRANTED BY THE CONSTITUTION UPON
 MILITARY NECESSITY, I INVOKE THE CONSIDERATE JUDGMENT OF MANKIND AND
 THE GRACIOUS FAVOR OF ALMIGHTY GOD."</p>
-               <p pn="47">The definitive proclamation of emancipation was
+               <p>The definitive proclamation of emancipation was
 <pb n="48"/>
-                  <figure entity="deming48">
+                  <figure><graphic url=""/>
                      <figDesc>48th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1364,7 +1344,7 @@ bosom of the North. Away up in mid air, on the cloud capped crests of
 the south-eastern Alleghanies, there is the roar and lurid flame of
 battle, as if the pent up fires of the cavernous earth were bursting
 <pb n="49"/>
-                  <figure entity="deming49">
+                  <figure><graphic url=""/>
                      <figDesc>49th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1388,12 +1368,12 @@ woe-begone messenger, such as</p>
                   <l>And told him
 half his Troy, was burned"--</l>
                </lg>
-               <p pn="49">breaks from the sequestered thicket, with a tantalizing tale, of
+               <p>breaks from the sequestered thicket, with a tantalizing tale, of
 the fierce, sanguinary, but indecisive shock and recoil of embattled
 hosts. What weeks of heart-rending suspense! But finally, from the
 Saturnalia of death and butchery long rampant in its 
 <pb n="50"/>
-                  <figure entity="deming50">
+                  <figure><graphic url=""/>
                      <figDesc>50th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1411,14 +1391,14 @@ scroll and hangs on its flying flank with the scent of a hound and the
 snap of a terrier. Lee surrenders his decimated horde, and over the
 old endeared, precious inheritance from the Rappahannock to the
 Sabine, up flies the banner, down droops the rag.</p>
-               <p pn="50">ABRAHAM LINCOLN'S work was finished, when unheralded and almost
+               <p>ABRAHAM LINCOLN'S work was finished, when unheralded and almost
 unattended, leading his little son by the hand, he walks into the
 streets of humiliated Richmond. If upon that auspicious morn, the
 crowning benediction had descended upon him, he might have well wished
 to die. What more could he ask for on earth? Assailed by the strongest
 conspiracy 
 <pb n="51"/>
-                  <figure entity="deming51">
+                  <figure><graphic url=""/>
                      <figDesc>51st page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1439,11 +1419,11 @@ with the laurels of a conqueror, if power had offered him a sceptre,
 and ambition a crown, he would have scorned them all. He asked from
 man, he asked, from God but one culminating boon, peace, peace on the
 bloody waters and the blighted shore.</p>
-               <p pn="51">Alas! such an enviable consummation to his career was denied. There
+               <p>Alas! such an enviable consummation to his career was denied. There
 are mysterious conferences of suspicious and guilt-laden men, ominous
 flittings of a bat-like flock from Washington to Richmond, and
 <pb n="52"/>
-                  <figure entity="deming52">
+                  <figure><graphic url=""/>
                      <figDesc>52nd page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1465,11 +1445,11 @@ entered our History--stealthy assassination has broken the sacred
 succession of the people's anointed-the life of the best beloved of
 Presidents is oozing from a murderous wound--the soul of Abraham
 Lincoln is transferred from Earth to Heaven.</p>
-               <p pn="52">Whether the Confederate Government is legally guilty of
+               <p>Whether the Confederate Government is legally guilty of
 MR. LINCOLN'S murder, is a question yet to be determined, but of one
 thing we are sure, that
 <pb n="53"/>
-                  <figure entity="deming53">
+                  <figure><graphic url=""/>
                      <figDesc>53rd page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1495,7 +1475,7 @@ fiendish plan, and day after day, hour after hour, composedly weigh
 and measure out to helpless prisoners, the precise ration which was
 sure to produce their slow starvation. What a
 <pb n="54"/>
-                  <figure entity="deming54">
+                  <figure><graphic url=""/>
                      <figDesc>54th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1518,10 +1498,10 @@ defeat, too corrupt to die with honor, too putrid to rise again, it
 gathers up its expiring strength to strike an assassin's blow that it
 might die as it had lived, violating every law, human and divine, and
 accursed by God and man.</p>
-               <p pn="54">"Useless, useless," said the dying Thug, as his shrieking ghost
+               <p>"Useless, useless," said the dying Thug, as his shrieking ghost
 fled from the angry earth to the
 <pb n="55"/>
-                  <figure entity="deming55">
+                  <figure><graphic url=""/>
                      <figDesc>55th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1547,7 +1527,7 @@ maxims of liberty and enfranchisement. The good never die; to them
 belongs a double immortality, they perish not upon the earth, and they
 exist forever in heaven. The good of the
 <pb n="56"/>
-                  <figure entity="deming56">
+                  <figure><graphic url=""/>
                      <figDesc>56th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1573,10 +1553,10 @@ battle line of liberty, till the last generation of man-</p>
 behold</l>
                   <l>As Adam saw her prime."</l>
                </lg>
-               <p pn="56">His fame will grow brighter and grander, as it descends the ages,
+               <p>His fame will grow brighter and grander, as it descends the ages,
 and posterity will regard him as
 <pb n="57"/>
-                  <figure entity="deming57">
+                  <figure><graphic url=""/>
                      <figDesc>57th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1602,7 +1582,7 @@ harmonious fraternity all the estranged and repellant complexion's of
 mankind. With reverent and grateful hearts they will pour their
 choicest frankincense at the feet, 
 <pb n="58"/>
-                  <figure entity="deming58">
+                  <figure><graphic url=""/>
                      <figDesc>58th page of Henry
 Champion Deming's Eulogy of Abraham Lincoln.</figDesc>
                   </figure>
@@ -1616,4 +1596,4 @@ LINCOLN Of  Illinois.</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

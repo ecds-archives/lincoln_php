@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="Discourse on the Occasion of the Death of Abraham Lincoln">
             <title>Discourse on the Occasion of the Death of Abraham Lincoln</title>
             <author>Sutphen, Morris C.</author>
@@ -11,14 +9,10 @@
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is  granted to download, transmit, or otherwise
 reproduce,  distribute or display the contributions to the work
@@ -26,9 +20,7 @@ claimed by Emory University for non-profit educational  purposes,
 provided this header is included in its entirety.   For inquiries
 about commercial uses, contact the Director,  Pitts Theology Library,
 Emory University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -40,8 +32,7 @@ Late President of the United States, Preached in the Spring Garden
 Presbyterian Church, Philadelphia, April 16th, 1865.  Philadelphia:
 Jas. B. Rodgers, Printer, 52 &amp; 54 North Sixth Street. 1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text
 derives from the Special Collections  of Pitts Theology Library, Emory
@@ -65,23 +56,12 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="sutphen.001" n="Discourse on the Occasion of the Death of Abraham Lincoln" type="text">
-            <head pn="1"> 
+         <div1 xml:id="sutphen.001" n="Discourse on the Occasion of the Death of Abraham Lincoln" type="text">
+            <head> 
                <bibl> 
                   <title>Discourse on
 the Occasion of the Death of Abraham Lincoln</title> 
@@ -90,76 +70,76 @@ the Occasion of the Death of Abraham Lincoln</title>
                   <pubPlace>Spring Garden Presbyterian Church,
 Philadelphia</pubPlace> 
                   <author>Sutphen, Morris C.</author> 
-                  <imprint>
+                  
                      <pubPlace>Philadelphia</pubPlace>
                      <publisher>Jas. B. Rodgers,
 Printer</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15r6g</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="sutphen1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Morris C. Sutphen's
 Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">ON THE OCCASION OF THE DEATH OF</p>
-            <p pn="1">ABRAHAM LINCOLN,</p>
-            <p pn="1">LATE</p>
-            <p pn="1">President of the United States,</p>
-            <p pn="1">PREACHED IN THE SPRING GARDEN PRESBYTERIAN CHURCH, PHILADELPHIA,</p>
-            <p pn="1">BY THE PASTOR,</p>
-            <p pn="1">REV. MORRIS C. SUTPHEN,</p>
-            <p pn="1">APRIL  16th, 1865.</p>
-            <p pn="1">PHILADELPHIA</p>
-            <p pn="1">JAS.  B. RODGERS, PRINTER, 52 &amp; 54 NORTH
+            <p>ON THE OCCASION OF THE DEATH OF</p>
+            <p>ABRAHAM LINCOLN,</p>
+            <p>LATE</p>
+            <p>President of the United States,</p>
+            <p>PREACHED IN THE SPRING GARDEN PRESBYTERIAN CHURCH, PHILADELPHIA,</p>
+            <p>BY THE PASTOR,</p>
+            <p>REV. MORRIS C. SUTPHEN,</p>
+            <p>APRIL  16th, 1865.</p>
+            <p>PHILADELPHIA</p>
+            <p>JAS.  B. RODGERS, PRINTER, 52 &amp; 54 NORTH
 SIXTH STREET.</p>
-            <p pn="1">1865.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="sutphen2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="sutphen3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="3">Philadelphia, Sabbath, April 16th, 1865.</p>
-            <p pn="3">Rev. Morris
+            <p>Philadelphia, Sabbath, April 16th, 1865.</p>
+            <p>Rev. Morris
 C. Sutphen:</p>
-            <p pn="3">
+            <p>
                <hi rend="italic">Dear Pastor</hi>-The satisfaction
 and as we hope the profit, with which we have just listened to this
 morning's sermon upon the death of our President, prompts us to
 request of you, for ourselves and others, a copy for publication,
 that the benefit may be more widely spread, and the discourse
 preserved.</p>
-            <p pn="3">Respectfully and truly yours,</p>
-            <p pn="3">WILLIAM
+            <p>Respectfully and truly yours,</p>
+            <p>WILLIAM
 A. DUFF,        GILBERT PARKER <lb/>CHAS. HENDERSON,        JOHN
 WIEGAND, JR., <lb/>JOHN McDOWELL,          S. G. DENNISSON,<lb/>
 H. H. SHILLINGFORD,     H. B. ARRISON, <lb/>GILBERT COMBS,
 H. D. GREGORY, <lb/>THOMAS POLLOCK,         B. L. HERKNESS.</p>
-            <p pn="3">Philadelphia, April 17th, 1865.</p>
-            <p pn="3">
+            <p>Philadelphia, April 17th, 1865.</p>
+            <p>
                <hi rend="italic">Gentlemen</hi>-Although perhaps justice to myself would
 dictate the withholding from print of a discourse prepared in a few
 hours of great confusion, yet I cheerfully consent to its publication,
 as my grateful tribute to the distinguished worth of our Martyr
 President, and my humble contribution to the consolation of an
 afflicted people.</p>
-            <p pn="3">With sincere regard, yours,</p>
-            <p pn="3">M. C. SUTPHEN.</p>
-            <p pn="3">To MESSRS. WILLIAM A. DUFF, <lb/>CHARLES
+            <p>With sincere regard, yours,</p>
+            <p>M. C. SUTPHEN.</p>
+            <p>To MESSRS. WILLIAM A. DUFF, <lb/>CHARLES
 HENDERSON, <lb/>and others.</p>
             <pb n="4"/>
 <!-- blank page -->
@@ -171,20 +151,20 @@ Lincoln.</figDesc>
                </figure>
             </p> -->
             <pb n="5"/>
-            <p pn="5">
-               <figure entity="sutphen5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="sutphen.002" n="DISCOURSE." type="sermon">
-               <head pn="5">DISCOURSE.</head>
-               <epigraph pn="5">
-                  <p pn="5">"THOU DESTROYEST THE HOPE OF  MAN."--Job
+            <div2 xml:id="sutphen.002" n="DISCOURSE." type="sermon">
+               <head>DISCOURSE.</head>
+               <epigraph>
+                  <p>"THOU DESTROYEST THE HOPE OF  MAN."--Job
 xiv. 19.</p>
                </epigraph>
-               <p pn="5">THIS world is a world of vicissitude. The joys of to-day and the
+               <p>THIS world is a world of vicissitude. The joys of to-day and the
 tears of to-morrow are life's constant interchanges. Of this truth we
 have had sad experience as a people within the last few hours. But
 yesterday our hearts were bounding with glee, to-day our hearts are
@@ -198,7 +178,7 @@ settled upon city and country, like that which shrouded Egypt on the
 memorable night of the universal slaughter of her first-born--from the
 first-born of Pharaoh on the throne, to the first-born of the
 <pb n="6"/>
-                  <figure entity="sutphen6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -208,26 +188,26 @@ stall. In one short hour silence and sorrow, darkness and distress,
 weeping and wailing, have supplanted light and life, happiness and
 hope, elation and exultation, in the hamlets, and homes, and hearts
 throughout the land.</p>
-               <p pn="6">What has so suddenly dashed our cup of joy, changed our feastings
+               <p>What has so suddenly dashed our cup of joy, changed our feastings
 into fastings, our congratulations into commiserations? The answer is
 too well known to you. "Death is come into our windows, and is entered
 into our palaces." "The beauty of Israel is slain upon the high
 places: the mighty is fallen." The President of the United States,
 most suddenly and unexpectedly, most cowardly and cruelly, has been
 cut down by the hand of an assassin in human form.</p>
-               <p pn="6">And it is no wonder that the death of the nation's Chief Magistrate
+               <p>And it is no wonder that the death of the nation's Chief Magistrate
 sends a tide of sorrow over the land, and that houses hitherto
 uninvaded by the desolations of this desolating war, are now filled
 with grief. The loss of the loved head of a family, makes many
 mourners,--the loss of the loved head of a church more--the loss of
 the loved head of a State still more; but, more than all, the loss of
 the loved head of a nation.</p>
-               <p pn="6">But it is not simply because a respected and regarded Chief
+               <p>But it is not simply because a respected and regarded Chief
 Magistrate is so suddenly dashed from the high place of power, that
 the people mourn. This heavy blow we have felt once and again
 before. Two Pre-
 <pb n="7"/>
-                  <figure entity="sutphen7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -242,7 +222,7 @@ of disrespect or injustice to either of these worthy dead, it may
 safely be said, this people mourns to-day as never before. And the
 reason is, that not only the head, but the HOPE of the nation is
 destroyed.</p>
-               <p pn="7">ABRAHAM LINCOLN was the human hope of the country. This is too
+               <p>ABRAHAM LINCOLN was the human hope of the country. This is too
 evident to be questioned. The man who disputes it, shows either
 pitiable ignorance, or still more pitiable prejudice. His original
 nomination to the Presidency, intimated that in him were thought, by a
@@ -256,7 +236,7 @@ above all his countrymen, rested the popular confidence. The painful
 solicitude, also, which filled our hearts, on the occasion of his
 first and second inauguration, argues that to him
 <pb n="8"/>
-                  <figure entity="sutphen8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -278,14 +258,14 @@ leading men, we were looking for a happy termination of our
 troubles. Truly, from the beginning of our peril, without
 interruption, and without change, except by way of increase, the
 confidence of the country has centred in ABRAHAM LINCOLN.</p>
-               <p pn="8">And the reasons why our trust so largely reposed in him are
+               <p>And the reasons why our trust so largely reposed in him are
 obvious. One undoubtedly was his <hi rend="italic">successful conduct of
 our affairs during the four years of difficulty recently
 ended</hi>. For, recall the troubles that beset him at the time of his
 entrance upon office. The capital swarmed with traitors, and approach
 to it was barred by armed assassins lurking for his life. Secretly
 <pb n="9"/>
-                  <figure entity="sutphen9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -313,7 +293,7 @@ the army, in which treason specially trusted and boasted, and to order
 the suspension of conscription throughout the land.  Thanks to God, he
 was permitted to
 <pb n="10"/>
-                  <figure entity="sutphen10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -325,7 +305,7 @@ ascended the staff, from which, just four years before, it had been
 lowered in Charleston harbor, he might have said--"Lord, now, lettest
 thou thy servant depart in peace, for mine eyes have seen thy
 salvation."</p>
-               <p pn="10">And not only the eminent success with which he conducted the
+               <p>And not only the eminent success with which he conducted the
 affairs of the nation, but also <hi rend="italic">the eminent
 qualities</hi> which he manifestly possessed, led the people to repose
 their confidence in him. Time will permit me only baldly to enumerate
@@ -342,7 +322,7 @@ his counsellors; as also in the measures he originated, perfected, and
 executed. The manner, too, in which he moderated the bitter passions
 of opposing partisans, and mediated between
 <pb n="11"/>
-                  <figure entity="sutphen11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -356,7 +336,7 @@ moment, so wonderfully harmonized sentiment and action in our midst,
 will be respected and regarded by an admiring posterity, as eminently
 products and paragons of wisdom. No wonder that an insight so keen,
 commanded the confidence of the country.</p>
-               <p pn="11">Another distinguishing quality of the late President, and which
+               <p>Another distinguishing quality of the late President, and which
 made him justly the hope of the nation, was his singular <hi rend="italic">honesty</hi>. That he was eminently an honest man, may be
 asserted in any presence, without the fear of successful
 contradiction. In all the lying lampoons invented against him during
@@ -370,13 +350,13 @@ discouraged litigation on the part of his clients, at the expense of
 profitable employment. Truly, if an honest man is the noblest work of
 God, the dispassionate judgment of mankind will
 <pb n="12"/>
-                  <figure entity="sutphen12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
 enroll Abraham Lincoln among the princes of the race.</p>
-               <p pn="12">And if he had honesty as a citizen, he had <hi rend="italic">integrity</hi> as a ruler. In all his official acts he
+               <p>And if he had honesty as a citizen, he had <hi rend="italic">integrity</hi> as a ruler. In all his official acts he
 showed most praiseworthy disinterestedness. I am not aware that he has
 been charged with corruption even by his most irresponsible
 detractors. And if such accusations have been preferred, I am sure
@@ -392,11 +372,11 @@ among his illustrious predecessors, directed the affairs of state with
 less regard to self, and his name will live in history as that of a
 man of unimpeachable integrity. No marvel that from such a character
 the country derived high expectation.</p>
-               <p pn="12">Another eminent quality of the lamented dead, which made him so
+               <p>Another eminent quality of the lamented dead, which made him so
 largely the nation's delight and dependence, was his broad-hearted <hi rend="italic">benevolence</hi>.  Indeed, he was by common consent kind
 to a fault; and it may well be questioned whether to his overflow-
 <pb n="13"/>
-                  <figure entity="sutphen13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -424,7 +404,7 @@ speech he delivered was a plea for his liberal plan of state, instead
 of territorial, reconstruction. Rarely, if ever, did a human heart
 beat with purer, kindlier impulses; and no won-
 <pb n="14"/>
-                  <figure entity="sutphen14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -432,7 +412,7 @@ Lincoln.</figDesc>
 der that the nation loved him, and looked to him, as to no other
 functionary, civil or military, for the reduction of the rebellion of
 Southern hearts, as well as the rebellion of Southern hands.</p>
-               <p pn="14">The only other prominent characteristic of President Lincoln which
+               <p>The only other prominent characteristic of President Lincoln which
 I can, on the present occasion, notice, and which made him the hope of
 the country, was his <hi rend="italic">dependence on Almighty
 God</hi>. I do not mean positively to assert that he was a man of
@@ -452,7 +432,7 @@ the absent Lieutenant-General, I find it not impossible to think of
 him among the blood-bought throng of martyrs--himself a martyr in one
 of the holiest causes that ever demanded the sacrifice of
 <pb n="15"/>
-                  <figure entity="sutphen15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -480,14 +460,14 @@ affairs of state, was the destruction of the nation's hope. No wonder
 that at this seemingly irreparable loss, lion-hearted men, as well as
 timid-hearted women, are moved to fears, as well as melted
 <pb n="16"/>
-                  <figure entity="sutphen16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                   </figure>
 to tears, and that doubt, and despondency, and dismay, should depict
 themselves on all faces throughout the land.</p>
-               <p pn="16">But should we yield to discouragement and despair, because of this
+               <p>But should we yield to discouragement and despair, because of this
 dark dispensation? NO, NO, NO. "Why art thou cast down, O my soul? and
 why art thou disquieted within me? Hope thou in God, for I shall yet
 praise him, who is the health of my countenance and my God." Though
@@ -508,10 +488,10 @@ there is light in this dark dispensation.</p>
                   <l>E'en crosses, from his sovereign hand,</l>
                   <l>Are blessings in disguise."</l>
                </lg>
-               <p pn="16">It is his province and prerogative to bring good out of evil; and
+               <p>It is his province and prerogative to bring good out of evil; and
 how often has he turned the gloomi-
 <pb n="17"/>
-                  <figure entity="sutphen17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -539,7 +519,7 @@ staff upon which we were leaning? If he had been spared to complete
 our deliverance, would not much of the glory due to the Creator have
 been ac
 <pb n="18"/>
-                  <figure entity="sutphen18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -551,7 +531,7 @@ all should acknowledge his agency and ascribe to him the praise due
 his great name? Do we not feel that now we are cast upon the Lord; and
 are we not prepared to say, when brought out of our straits into a
 large and wealthy place, "Behold what God hath wrought!"</p>
-               <p pn="18">Besides, is it not possible that the overflowing love of our late
+               <p>Besides, is it not possible that the overflowing love of our late
 President would have made concessions to rebels, calculated to imperil
 the peace and safety of the nation, and to tarnish the fair fame with
 which he will now descend to posterity? Is it not probable that the
@@ -567,7 +547,7 @@ fitted, until he had seen the banner of the Union elevated in triumph
 over both the cradle and the capital of secession, took him up to the
 higher duties and delights of the heavenly world,
 <pb n="19"/>
-                  <figure entity="sutphen19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of Morris
 C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
@@ -584,7 +564,7 @@ thee all the days of thy life: as I was with Moses, so I will be with
 thee: I will not fail thee, nor forsake thee. Be strong and of good
 courage; for unto this people shalt thou divide for an inheritance the
 land, which I sware unto their fathers to give them."</p>
-               <p pn="19">There is then no reason for despair, or despondency, or even
+               <p>There is then no reason for despair, or despondency, or even
 discouragement, because of this seemingly dark dispensation. On this
 black cloud we may already behold the rainbow of promise. Let us only
 persevere in "loosing the bands of wickedness, in undoing heavy
@@ -597,4 +577,4 @@ the glory of the Lord shall be our rereward."</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

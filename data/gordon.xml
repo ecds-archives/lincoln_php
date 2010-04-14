@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="The Sin of Reviling, and Its Work">
             <title>The Sin of Reviling, and Its Work</title>
             <author>Gordon, W. R.</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -28,9 +22,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -42,8 +34,7 @@ by the Assassination of President Lincoln, April 14th, 1865. Preached
 on May 7, 1865. Published by Request of Consistory. New York: John A
 Gray &amp; Green, Printers, 16 &amp; 18 Jacob Street. 1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -66,84 +57,73 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="gordon.001" n="The Sin of Reviling, and Its Work" type="text">
-            <head pn="1"> 
+         <div1 xml:id="gordon.001" n="The Sin of Reviling, and Its Work" type="text">
+            <head> 
                <bibl> 
                   <title>The Sin of
 Reviling, and Its Work</title> 
                   <date>May 7, 1865</date>
                   <pubPlace>Ref. Prot. Dutch Church of Schraalenberg, N. J.</pubPlace>
                   <author>Gordon, W. R.</author> 
-                  <imprint>
+                  
                      <pubPlace>New York</pubPlace>
                      <publisher>John A Gray &amp; Green, Printers</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15q9s</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="gordon1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of W. R. Gordon's The
 Sin of Reviling, and Its Work.</figDesc>
                </figure>
             </p>
-            <p pn="1">THE SIN OF REVILING, AND ITS WORK.</p>
-            <p pn="1">A</p>
-            <p pn="1">FUNERAL SERMON,</p>
-            <p pn="1">OCCASIONED BY THE ASSASSINATION OF</p>
-            <p pn="1">PRESIDENT LINCOLN.</p>
-            <p pn="1">APRIL 14TH, 1865.</p>
-            <p pn="1">BY</p>
-            <p pn="1">W.R. GORDON, D.D.,</p>
-            <p pn="1">PASTOR OF THE REF. PROT. DUTCH CHURCH OF SCHRAALENBERG, N. J.</p>
-            <p pn="1">
+            <p>THE SIN OF REVILING, AND ITS WORK.</p>
+            <p>A</p>
+            <p>FUNERAL SERMON,</p>
+            <p>OCCASIONED BY THE ASSASSINATION OF</p>
+            <p>PRESIDENT LINCOLN.</p>
+            <p>APRIL 14TH, 1865.</p>
+            <p>BY</p>
+            <p>W.R. GORDON, D.D.,</p>
+            <p>PASTOR OF THE REF. PROT. DUTCH CHURCH OF SCHRAALENBERG, N. J.</p>
+            <p>
                <hi rend="italic">Preached on May 7,1865.</hi>
             </p>
-            <p pn="1">PUBLISHED BY REQUEST OF CONSISTORY.</p>
-            <p pn="1">New York:</p>
-            <p pn="1">JOHN A. GRAY &amp; GREEN, PRINTERS,16 &amp; 18 JACOB
+            <p>PUBLISHED BY REQUEST OF CONSISTORY.</p>
+            <p>New York:</p>
+            <p>JOHN A. GRAY &amp; GREEN, PRINTERS,16 &amp; 18 JACOB
 STREET.</p>
-            <p pn="1">1865.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="gordon2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 W. R. Gordon's The Sin of Reviling, and Its
 Work.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="gordon3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 W. R. Gordon's The Sin of Reviling, and Its
 Work.</figDesc>
                </figure>
             </p>
-            <div2 id="gordon.002" n="SERMON" type="sermon">
-               <head pn="3">SERMON.</head>
-               <epigraph pn="3">
-                  <p pn="3">ACTS 23: 5. 
+            <div2 xml:id="gordon.002" n="SERMON" type="sermon">
+               <head>SERMON.</head>
+               <epigraph>
+                  <p>ACTS 23: 5. 
 <lb/>
 IT is written, Thou shalt not speak evil of the Ruler of thy
 people.</p>
                </epigraph>
-               <p pn="3">THE connection of this text contributes much to make it
+               <p>THE connection of this text contributes much to make it
 emphatic. Paul had been rescued from the violence of a Jewish mob by a
 military force, whose captain had subsequently assembled the Sanhedrim
 to try his case. The High-Priest then presiding was bound to protect
@@ -153,7 +133,7 @@ mouth. Paul's instinctive indignation prompted him to return this
 answer: "God shall smite thee, thou whited wall; for sittest thou to
 judge me after the law, and commandest me to be smitten contrary to
 the law?"</p>
-               <p pn="3">Horrified by this unexpected display of daring boldness,
+               <p>Horrified by this unexpected display of daring boldness,
 some of the members of that notable court thus remonstrated: "Revilest
 thou God's high-priest?" Paul, not recognizing his claim to that
 office illegally procured, or having been so long absent from
@@ -163,12 +143,12 @@ that he was the high-priest; for it is written, Thou shalt not speak
 evil of the ruler of thy people." This special prohibition is found in
 Ex. 22: 28: "Thou shalt not revile the judges, nor curse the ruler of
 thy people."</p>
-               <p pn="3">God is the author of civil society. He has ordained laws
+               <p>God is the author of civil society. He has ordained laws
 for its protection and government, and a magistracy for their
 execution. He has also made special enactments, such as Paul quoted,
 for its safety in the execution of political trust,
 <pb n="4"/>
-                  <figure entity="gordon4">
+                  <figure><graphic url=""/>
                      <figDesc>4th page of W. R. Gordon's
 The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -185,7 +165,7 @@ to his character, had given offence to the king, were liable to the
 infliction of capital punishment. Now there are many forms of
 evil-speaking, all of which are condemned in the word of God, but the
 special form of the sin here spoken of, is that of REVILING.</p>
-               <p pn="4">But what is reviling? It is treating a person with vile
+               <p>But what is reviling? It is treating a person with vile
 epithets of language cursing him, wishing him harm, and loading his
 character with reproaches and railing accusation. Whoever did this
 among the Hebrews, respecting their Chief-Magistrate, though in
@@ -201,33 +181,33 @@ respecting magistracy is applicable to all forms of government among
 men. Keeping this in view, we shall readily understand that the
 teachings of Scripture must be supremely regarded by all Christian
 men, in the discharge of their civil as well as religious duties.</p>
-               <p pn="4">"My son, fear thou the Lord and the king; and meddle not
+               <p>"My son, fear thou the Lord and the king; and meddle not
 with them that are given to change." (Prov. 14: 21.)</p>
-               <p pn="4">"Whosoever will not do the law of thy God and of the king,
+               <p>"Whosoever will not do the law of thy God and of the king,
 let judgment be executed speedily upon him, whether it be unto death,
 or to banishment, or to confiscation of goods: or to imprisonment."
 (Ezra 7: 26.)</p>
                <pb n="5"/>
-               <p pn="5">
-                  <figure entity="gordon5">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>5th page of
 W. R. Gordon's The Sin of Reviling, and Its
 Work.</figDesc>
                   </figure>
                </p>
-               <p pn="5">"Let every soul be subject unto the higher powers, for
+               <p>"Let every soul be subject unto the higher powers, for
 there is no power but of God: the powers that be are ordained of
 God. Whosoever, therefore, resisteth the power, resisteth the
 ordinance of God; and they that resist shall receive to themselves
 damnation." (Rom. 13: 1, 2.)</p>
-               <p pn="5">"Submit yourselves to every ordinance of man for the Lord's
+               <p>"Submit yourselves to every ordinance of man for the Lord's
 sake; whether it be to the king as supreme, or unto governors as unto
 them that are sent by him for the punishment of evil-doers, and for
 the praise of them that do well. For so is the will of God, that with
 well-doing ye may put to silence the ignorance of foolish men: as
 free, and not USING LIBERTY FOR A CLOAK OF MALICIOUSNESS, but as the
 servants of God. Fear God. Honor the king." (1 Peter 2: 13-17.)</p>
-               <p pn="5">"The Lord knoweth how to deliver the godly out of
+               <p>"The Lord knoweth how to deliver the godly out of
 temptation, and to reserve the unjust unto the judgment-day to be
 punished; but CHIEFLY them that walk after the flesh in the lust of
 uncleanness, and despise governments. Presumptuous are they,
@@ -237,12 +217,12 @@ against them before the Lord; but these, as natural brute beasts made
 to be taken and destroyed, speak evil of the things that they
 understand not; and shall utterly perish in their own corruption." (2
 Peter 2: 8-12.)</p>
-               <p pn="5">Paul thus enjoins the <hi rend="italic">duty of political
+               <p>Paul thus enjoins the <hi rend="italic">duty of political
 preaching</hi> upon ministers: "Put them in mind to be subject to
 principalities and powers, to obey magistrates, to be ready to every
 good work, to speak evil of no man, to be no brawlers, but gentle,
 showing all meekness unto all men." (Tit. 3: 1, 2.)</p>
-               <p pn="5">Thus you will perceive, that God, having clothed magistracy
+               <p>Thus you will perceive, that God, having clothed magistracy
 with divine sanctions, has not only enforced obedience, but sternly
 denounced the sin of traducing those of high official character. The
 Thirty-seventh Article of Faith of the Reformed Dutch Church
@@ -253,19 +233,19 @@ respect to them, and to obey them in all things which are not
 repugnant to the word of God; to supplicate for them in their
 prayers. Where-
 <pb n="6"/>
-                  <figure entity="gordon6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of W. R. Gordon's
 The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
-fore we detest the Anabaptists<ref target="gordon.002.n01">*</ref> and other seditious people, and in
+fore we detest the Anabaptists<ref target="#gordon.002.n01">*</ref> and other seditious people, and in
 general all those who reject the higher powers and magistrates, and
 would subvert justice, and confound that decency and good order which
 God has established among men."</p>
-               <p pn="6">From the authority quoted, we are warranted to make this
+               <p>From the authority quoted, we are warranted to make this
 general deduction: REVILING THE PRESIDENT OF THE UNITED STATES, IS A
 CRIME AGAINST GOD, AND AGAINST THE GOVERNMENT. This we prove from two
 considerations.</p>
-               <p pn="6">1. The practice of reviling is an abuse of the faculty of
+               <p>1. The practice of reviling is an abuse of the faculty of
 speech, and altogether reprehensible. It discovers in the guilty a
 bitterness of spirit, an envious nature, a malicious disposition, the
 indulgence of which is sure to recoil upon themselves. It makes them
@@ -288,22 +268,22 @@ is, they that love to use the power of the tongue, shall reap the
 fruit of their speech, according as it is influential to the death or
 life of the person of whom they speak, "for by thy words thou shalt be
 justified, and by thy words thou shalt be condemned."</p>
-               <p pn="6">In the Sermon on the Mount, our Saviour thus discourses:
+               <p>In the Sermon on the Mount, our Saviour thus discourses:
 "Ye have heard that it was said by them of old time, Thou shalt not
 kill, and whosoever shall kill, shall be in danger of</p>
-               <note pn="6" id="gordon.002.n01" n="*" place="foot" anchored="yes">
-                  <p pn="6">A seditious sect of the sixteenth
+               <note xml:id="gordon.002.n01" n="*" place="foot" anchored="true">
+                  <p>A seditious sect of the sixteenth
 century.</p>
                </note>
                <pb n="7"/>
-               <p pn="7">
-                  <figure entity="gordon7">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>7th page of
 W. R. Gordon's The Sin of Reviling, and Its
 Work.</figDesc>
                   </figure>
                </p>
-               <p pn="7">the judgment; but I say unto you, that whosoever is angry with his
+               <p>the judgment; but I say unto you, that whosoever is angry with his
 brother without a cause, shall be in danger of the judgment, and
 whosoever shall say to his brother, Raca"--a word of bitter
 contempt--"shall be in danger of the council: but whosoever shall say,
@@ -317,7 +297,7 @@ uses these expressions of reviling to brand with infamy the fair name
 of any man, according to the exposition of Christ, is a murderer in
 his heart, and in danger of hell-fire. Hence John says: "Whosoever
 hateth his brother is a murderer."</p>
-               <p pn="7">2. Crimes are great or small in accordance with their
+               <p>2. Crimes are great or small in accordance with their
 issues, and the relative standing of those against whom they are
 committed. The life of a man may be mainly valuable to himself, or
 beyond himself to a family, or beyond a family to a nation. Should he
@@ -337,11 +317,11 @@ entire religious freedom by the Edict of Nantes, was also assassinated
 by the Jesuits, A.D. 1610. Our own noble Lincoln, the victim of an
 execrable conspiracy, was thus deprived of life, April fourteenth,
 A.D. 1865.</p>
-               <p pn="7">Between each of these horrible tragedies there is, more or
+               <p>Between each of these horrible tragedies there is, more or
 less, a long series of years; and the inference is natural, that while
 assassins have been numerous, and murders multiplied
 <pb n="8"/>
-                  <figure entity="gordon8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of W. R. Gordon's
 The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -358,7 +338,7 @@ officer is intrusted. This is clear from the awful tragedy that has
 recently overflowed our cup of affliction. No one had any <hi rend="italic">personal</hi> quarrel with Mr. Lincoln, but as President,
 he was reviled; as President, he was hated; as President, he was
 murdered.</p>
-               <p pn="8">No matter to what party our Chief-Magistrate may belong, no
+               <p>No matter to what party our Chief-Magistrate may belong, no
 matter what policy he may adopt in the sworn execution of his trust,
 the simple facts of his election and assumption of the oath of office
 imply a corresponding obligation upon the part of the whole people
@@ -381,7 +361,7 @@ crimes. Moreover, as treasonable words lead to treasonable deeds, even
 to the extent of overt crime, as in the case of our late President,
 the guilt of the latter fearfully recoils upon all who, in violation
 <pb n="9"/>
-                  <figure entity="gordon9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of W. R. Gordon's
 The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -390,7 +370,7 @@ and persecuted the honest ruler who has fallen a victim to consequent
 violence, because they have helped to manufacture a treasonable public
 sentiment pervading a mischievous faction, which has issued in the
 blackest crime.</p>
-               <p pn="9">Therefore while in human law there was but one murderer of our
+               <p>Therefore while in human law there was but one murderer of our
 Chief-Magistrate, according to divine law there are hundreds of them,
 and perhaps thousands who survive the single wretch. That the doctrine
 of the Scriptures on this point is not misstated, we prove by brief
@@ -412,7 +392,7 @@ portion of any people who, "using liberty as a cloak of
 maliciousness," revile a good magistrate, until his innocent life be
 taken by some villain whose bloody work is an agreeable surprise to
 their criminal hearts?</p>
-               <p pn="9">That Abraham Lincoln was a good magistrate is the unanimous
+               <p>That Abraham Lincoln was a good magistrate is the unanimous
 verdict of all competent to pronounce upon the subject. His qualities
 of intellectual and moral worth have shone all the more conspicuously
 for incessant use, and the friction of hard trials. We do not intend
@@ -423,7 +403,7 @@ culminated in treason no less wide-spread than malignant; beset with
 unusual difficulties and novel dangers, and a man untried and unknown
 to
 <pb n="10"/>
-                  <figure entity="gordon10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -436,7 +416,7 @@ the Capitol, he fearlessly took the oath of office amid a multitude of
 political friends and foes. During the delivery of his first inaugural
 address, the lamented Douglas, his rival, beautifully showed by a
 courteous act, that political opposition need not be in conflict with
-personal friendship. The feeling was mutual. One of our neighbors<ref target="gordon.002.n02">*</ref>
+personal friendship. The feeling was mutual. One of our neighbors<ref target="#gordon.002.n02">*</ref>
 visited the President last May, and during the interview, informed him
 that at his first election he had voted for his opponent, whereupon
 Mr. Lincoln led off in a eulogy upon Mr. Douglas, declaring a purpose
@@ -452,7 +432,7 @@ expensive testimonials are demonstrative of the fact that no ruler
 exalted to the highest seat of honor in the wide world, has ever been
 so lovingly clasped by millions of hearts whose affections were drawn
 out by the attractions of his character.</p>
-               <p pn="10">Our martyr patriot was providentially placed, from the very
+               <p>Our martyr patriot was providentially placed, from the very
 outset, in the midst of the strangest and most embarrassing
 difficulties that ever arose in our country. His novel situation awoke
 the liveliest interest in his behalf, as well as great anxiety as to
@@ -461,20 +441,20 @@ multiplied by the revilings of the adverse portion of the press, which
 had succeeded in exciting some little fear among his friends; but the
 first thing that assured their confidence was his farewell address
 when he left</p>
-               <note pn="10" id="gordon.002.n02" n="*" place="foot" anchored="yes">
-                  <p pn="10">Hon. Thomas H. Herring</p>
+               <note xml:id="gordon.002.n02" n="*" place="foot" anchored="true">
+                  <p>Hon. Thomas H. Herring</p>
                </note>
                <pb n="11"/>
-               <p pn="11">
-                  <figure entity="gordon11">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>11th page of
 W. R. Gordon's The Sin of Reviling, and Its
 Work.</figDesc>
                   </figure>
                </p>
-               <p pn="11">his Illinois home. In that speech, on February eleventh, 1861, he
+               <p>his Illinois home. In that speech, on February eleventh, 1861, he
 said:</p>
-               <p pn="11">"A duty devolves upon me which is perhaps greater than
+               <p>"A duty devolves upon me which is perhaps greater than
 that which has devolved upon any man since the days of Washington. He
 never would have succeeded except for the aid of Divine Providence,
 upon which he at all times relied. I feel that I cannot succeed,
@@ -483,13 +463,13 @@ Almighty Being I place my reliance for support, and I hope you, my
 friends, will all pray that I may receive that divine assistance
 without which I cannot succeed, but with which success is
 certain."</p>
-               <p pn="11">This earnest, touching appeal made its way directly
+               <p>This earnest, touching appeal made its way directly
 to every Christian heart. It drew out the sympathy of the wise and the
 good of other lands besides our own, as the morning sun draws vapors
 from the earth; and from that hour the breath of prayer has been
 burdened for him, until he reached the happy place where dangers no
 more cluster, where prayer is no more needed.</p>
-               <p pn="11">It was not long before the private life of ABRAHAM LINCOLN
+               <p>It was not long before the private life of ABRAHAM LINCOLN
 became familiar to the people. Made to pass under the severest
 scrutiny of a merciless investigation, like the unfallen snow, it was
 found spotless, his enemies being judges. This result of their
@@ -509,7 +489,7 @@ contrary, circumstances, purposes, plans carried out, conquests, and
 steady progress have proved that he was a man exactly adapted to the
 situation: of quick perception;
 <pb n="12"/>
-                  <figure entity="gordon12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -522,7 +502,7 @@ thing needed to insure success, not only expressed publicly and in
 private, but manifested by daily expositions of conduct, formed the
 rarest assemblage of dignifying qualities that ever shone in human
 character, as a constellation in mid-heaven.</p>
-               <p pn="12">Four years of hard trial only served to burnish the gold
+               <p>Four years of hard trial only served to burnish the gold
 and remove the dross. The hearts of the people lodged full confidence
 in him, and this they proved to him by the immense majorities with
 which he was carried into the second term of office. He was so devoid
@@ -534,22 +514,22 @@ future, until our calamities should vanish away. If any additional
 pledge for this popular confidence was needed, it was given in his
 second inaugural, which, alas! proved to be his farewell address. He
 concluded it in these memorable words:</p>
-               <p pn="12">"With malice toward none, with charity for all, with
+               <p>"With malice toward none, with charity for all, with
 firmness in the right, as God gives us to see the right, let us strive
 to finish the work we are in, to bind up the nation's wounds, to care
 for him who shall have borne the battle, and for his widows and his
 orphans, to do all which may achieve and cherish a just and lasting
 peace among ourselves and with all nations."</p>
-               <p pn="12">Shortly after this, he had the satisfaction to see the
+               <p>Shortly after this, he had the satisfaction to see the
 rebellion broken down; but O our misfortune! Only one month and ten
 days elapsed, when the assassin reached and took his life: yet his
 work was done, and well done, and ABRAHAM LINCOLN, washed with tears,
 was embalmed in the imperishable love of a grateful people.</p>
-               <p pn="12">That he was not only a good magistrate, but also a
+               <p>That he was not only a good magistrate, but also a
 Christian man, I must believe from two facts. His sterling honesty was
 proverbial, and had become so inwrought in his nature by
 <pb n="13"/>
-                  <figure entity="gordon13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -572,7 +552,7 @@ immutable foundation, the justness and goodness of God. And when
 events are very threatening, and prospects very dark, I still hope
 that in some way which man cannot see, all will be well in the end,
 because our cause is just, and God is on our side.'"</p>
-               <p pn="13">But, it is said, Mr. Lincoln perished in a theatre. We
+               <p>But, it is said, Mr. Lincoln perished in a theatre. We
 readily grant that he ought not to have been there. We regret it,
 because we believe the theatre to be the devil's schoolhouse; but at
 the same time we lament to say many professing Christians have been
@@ -580,16 +560,16 @@ there before him, by whose base example he might have been misled. We
 do not excuse him; but we must state in fairness to all concerned,
 that he was there, more from a desire not to disappoint an expectant
 audience, than from any self-prompting.</p>
-               <p pn="13">Passing this, we adduce, in further proof of his Christian
+               <p>Passing this, we adduce, in further proof of his Christian
 character, this fact, as given by Rev. Mr. Carey, of Illinois:</p>
-               <p pn="13">"A gentleman, having recently visited Washington on
+               <p>"A gentleman, having recently visited Washington on
 business with the President, was, on leaving home, requested by a
 friend to ask Mr. Lincoln <hi rend="italic">whether he loved
 Jesus</hi>. The business being completed, the question was kindly
 asked. The President buried his face in his handkerchief, turned away,
 and wept. He then turned, and said: 'When I left
 <pb n="14"/>
-                  <figure entity="gordon14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -599,7 +579,7 @@ my life, I was not a Christian. But when I went to Gettysburgh, and
 looked upon the graves of our dead heroes, who had fallen in the
 defence of their country, I then and there consecrated myself to
 Christ. <hi rend="italic">I do love Jesus</hi>.'"</p>
-               <p pn="14">Such is the living character of this good man and honest
+               <p>Such is the living character of this good man and honest
 ruler upon whom reviling tongues and pens hounded the assassin. As far
 as known, he never had a personal enemy until he undertook to save his
 dear Columbia from assassination, and when he had succeeded, and
@@ -617,7 +597,7 @@ her love, and be kept green by the watering of her tears.</p>
                   <l>And the rocks shall raise their head</l>
                   <l>Of his deeds to tell?"</l>
                </lg>
-               <p pn="14">Of all the distinguished rulers of the earth, no other one
+               <p>Of all the distinguished rulers of the earth, no other one
 has ever been borne to the tomb amid such extensive preparations to do
 him honor. His funeral procession may be said to have been more than
 one thousand miles long! On each side of the track over which the
@@ -631,7 +611,7 @@ carried a plain white banner, bearing these touching mottoes: "Our
 Emancipator." "To thousands of bondmen he gave liberty." Yes, the poor
 tortured
 <pb n="15"/>
-                  <figure entity="gordon15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -645,7 +625,7 @@ creatures. He showed how deeply he felt, that</p>
 affection</l>
                   <l>Dwells in black and white the same."</l>
                </lg>
-               <p pn="15">God rules, and most fearfully has he answered the prayers,
+               <p>God rules, and most fearfully has he answered the prayers,
 and the groans, and the tears of millions in this land, who have lived
 and died the victims of heart-rending oppression. God has so combined
 circumstances in his wonder-working providence, that the mad
@@ -659,7 +639,7 @@ Wilberforce:</p>
                   <l>"Enjoy what thou hast won, esteem and love,</l>
                   <l>From all the just on earth, and all the blest above."</l>
                </lg>
-               <p pn="15">But it will no doubt be said, that superlative eulogy upon
+               <p>But it will no doubt be said, that superlative eulogy upon
 the departed must be expected from his admirers; and while the late
 catastrophe will dispose all to silent acquiescence, yet the proper
 discount must not be forgotten in the due estimate of his
@@ -669,13 +649,13 @@ defamation. A worldwide celebrated sheet, well known for the
 bitterness of its opposition to Mr. Lincoln when he was alive, upon
 the announcement of his tragic death put on mourning; and, under the
 date of April seventeenth, thus soberly discoursed:</p>
-               <p pn="15">"When the most experienced and reputable statesmen of the
+               <p>"When the most experienced and reputable statesmen of the
 country came to opposite conclusions, it is creditable to the
 strength, solidity, and modesty of Mr. Lincoln's mind that he acted
 with a cautious and hesitating deliberation proportioned rather to a
 sense of his great responsibilities than to a
 <pb n="16"/>
-                  <figure entity="gordon16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -708,26 +688,26 @@ as the strife has been deadly: the loss of such a President, at such a
 conjuncture, is an afflicting dispensation which bows a disappointed
 and stricken nation in sorrow more deep, sincere, and universal than
 ever before supplicated the compassion of pitying Heaven."</p>
-               <p pn="16">This is, well said, and has only the disadvantage of being
+               <p>This is, well said, and has only the disadvantage of being
 <hi rend="italic">extorted</hi> truth. Coming from the editorial columns
 of the print referred to, and put in contrast with its former
 relentless persecution of this good man, and now confessedly,
 well-deserving President, it must be perfectly amazing to all those
 <pb n="17"/>
-                  <figure entity="gordon17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
 who have accredited it with honesty, and have yielded their feelings
 to its guidance.</p>
-               <p pn="17">Again, we take up another widely circulated daily newspaper
+               <p>Again, we take up another widely circulated daily newspaper
 of the same date, still more remarkable for its vituperative
 language. About a month before his death, referring to the President
 and Vice-President, it informed us that we had "a <hi rend="italic">jester</hi> and a <hi rend="italic">drunkard</hi>: at the
 head of the Government." But now we find it in mourning too, and
 pouring out incense to the former victim of its gross abuse. We read
 the following:</p>
-               <p pn="17">"It is as if a pall overhung the land, and in the shadow of
+               <p>"It is as if a pall overhung the land, and in the shadow of
 it dwelled a chilled and awe-struck people. A brotherhood of
 sorrow--sorrow so poignant that it makes strong men weep, and veteran
 soldiers shudder--has brought all classes and all parties to the drear
@@ -749,12 +729,12 @@ conditions, that it would have been acceptable to a large portion of
 the South, as well as the conservative people of the North." "No
 fitter requiem to Abraham Lincoln than the song of peace swelling from
 the grateful hearts of his countrymen."</p>
-               <p pn="17">These editorials go to the extreme of eulogy, and while
+               <p>These editorials go to the extreme of eulogy, and while
 they are gratifying to the friends of the deceased, though coming in
 strange contrast with previous ones of a very opposite character from
 the same source, they must be amazing
 <pb n="18"/>
-                  <figure entity="gordon18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -765,7 +745,7 @@ encouragement to "Knights of the Golden Circle," and to traitors of
 every hue, present beautiful sketches of the moral and official worth
 of the man whom, when living, they reviled; when dead, they affect to
 honor!</p>
-               <p pn="18">In the progress of the latter panegyric, we meet the
+               <p>In the progress of the latter panegyric, we meet the
 exclamation: "O the disgrace of it, the shame of it, the peril, if
 ever that crime should be identified with the American character!"
 Now, with the American character it can never be identified; the loyal
@@ -775,7 +755,7 @@ be identified by the law of God, and the rectified opinion of people
 betrayed into a vindictive feeling against the ruler of our
 country. Did the bullet of the assassin suddenly change a <hi rend="italic">tyrant</hi> into "the best friend of the South"? "O shame!
 where is thy blush?"</p>
-               <p pn="18">Although these utterances, if honest, can be considered
+               <p>Although these utterances, if honest, can be considered
 only as intonations of the penitence of remorse, we gladly accept them
 as confirmatory of what has been said in simple justice to the
 distinguished character of the honored dead. "He rests from his
@@ -785,7 +765,7 @@ everlasting remembrance; but the name of the wicked shall rot."
 theirs is the Kingdom of God." While American literature shall last,
 Bryant's beautiful commemorative poem shall live:</p>
                <lg type="stanza">
-                  <head pn="18">ABRAHAM LINCOLN.</head>
+                  <head>ABRAHAM LINCOLN.</head>
                   <l>O slow to smite, and swift to spare,</l>
                   <l>Gentle, and merciful
 and just!</l>
@@ -802,8 +782,8 @@ all,</l>
 horror at thy fall.</l>
                </lg>
                <pb n="19"/>
-               <p pn="19">
-                  <figure entity="gordon19">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>19th page of
 W. R. Gordon's The Sin of Reviling, and Its
 Work.</figDesc>
@@ -824,7 +804,7 @@ noble hosts of those</l>
                   <l>Who perished in the cause of
 Right.</l>
                </lg>
-               <p pn="19">Before closing, I wish to impress upon my hearers that I
+               <p>Before closing, I wish to impress upon my hearers that I
 speak from no partisan feeling, nor in the interest of any party or
 administration as such, but in the behalf of our Government and the
 Rulers of our people. Any other course would be a desecration of
@@ -845,7 +825,7 @@ of the pulpit on this point, so long as the moral law is made a
 subject of exposition, and so long as the precept of Christ is
 binding: "Render unto Caesar the things that are Caesar's, and unto
 God the things that are God's."</p>
-               <p pn="19">We are now called to mourn over a mighty calamity, which
+               <p>We are now called to mourn over a mighty calamity, which
 demands that the pulpit shall speak out. Humiliated by the present
 dreadful state of public morals, as they relate to politics, it
 becomes us to reflect upon the direful causes which have contributed
@@ -854,7 +834,7 @@ we have to mourn for our never-to-be-forgotten President, who fell a
 victim to villainy in the rightful discharge of his duties. If this
 treasonable spirit
 <pb n="20"/>
-                  <figure entity="gordon20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -876,7 +856,7 @@ must see that instant reformation must be made, or all will be
 lost. Every man of us has therefore a duty to perform toward the Ruler
 of his people and all in official subordination, which he cannot evade
 and be guiltless.</p>
-               <p pn="20">1. When any party succeeds in placing its men in power, it
+               <p>1. When any party succeeds in placing its men in power, it
 is the duty of all to cease opposition, and make the best of it. We
 are responsible to God, who is the Author of civil society, for our
 conduct in the political relations of life we hold. He is a God of
@@ -891,17 +871,17 @@ aid it in compassing the ends of good government and human
 happiness. If errors of administration occur, reviling is not the way
 to correct them; nor breeding confusion the way of promoting the
 public interest.</p>
-               <p pn="20">2. It is the duty, inseparable from moral order, of every
+               <p>2. It is the duty, inseparable from moral order, of every
 man to refrain from speaking evil of the Ruler of his people.</p>
                <pb n="21"/>
-               <p pn="21">
-                  <figure entity="gordon21">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>21st page of
 W. R. Gordon's The Sin of Reviling, and Its
 Work.</figDesc>
                   </figure>
                </p>
-               <p pn="21">The President of our country is placed in possession of an
+               <p>The President of our country is placed in possession of an
 important trust, the honorable and conscientious discharge of which,
 so far as can be, is secured by his oath of office. Now, when he takes
 this oath, every citizen comes under a corresponding obligation,
@@ -911,14 +891,14 @@ rendering such a personal respect for his office's sake, that the
 President shall not be reviled by tongue or pen; because all such
 reviling contributes to the damage of his official character and to
 his personal danger.</p>
-               <p pn="21">Had all our Northern people acted according to this obvious
+               <p>Had all our Northern people acted according to this obvious
 duty, I believe Mr. Lincoln would not have met a violent death. Some
 may say that the immediate tools of the rebellion killed him; but when
 we are horrified by many of the North feloniously clapping hands over
 his murder, how can we avoid the conclusion that much of the dreadful
 sentiment responsible for the bloody deed originated at the North? May
 God forgive all his detractors, and wash away their murderous sin!</p>
-               <p pn="21">The safety of our institutions and the strength of our
+               <p>The safety of our institutions and the strength of our
 Government depend upon the intelligence and moral honesty of the
 masses. Nowhere has the Christian a better opportunity for doing good
 than in his political relations. Let him carry the influence of his
@@ -938,14 +918,14 @@ recklessness and disregard of human rights. Conflicting opinions and
 rival ambitions, uncontrolled by a supreme regard to the authority of
 God and the majesty of
 <pb n="22"/>
-                  <figure entity="gordon22">
+                  <figure><graphic url=""/>
                      <figDesc>22nd page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
 law, and directed by the unholy aims of the ill-designing, will bring
 down to the dust our political fabric, to the joy of all despots and
 the disgrace and ruin of the theory of democracy.</p>
-               <p pn="22">Now there is nothing to prevent this but the diffusion of
+               <p>Now there is nothing to prevent this but the diffusion of
 intelligence and the religious enlightenment of the public
 conscience. This is a sphere of action in which every Christian and
 good citizen will find a large work for himself to do. Hitherto, the
@@ -976,11 +956,11 @@ been called to a halt. We therefore owe it to God, we owe it to
 ourselves, we owe it to the world, that every man be a sentinel upon
 the walls of freedom, ever ready to do his whole duty to his country
 and her rulers.</p>
-               <p pn="22">"As ye would that men shall do to you, do ye even so to
+               <p>"As ye would that men shall do to you, do ye even so to
 them." This simple all-comprehensive rule, is the best safe-guard of
 public and private rights; and if it be deeply impressed upon
 <pb n="23"/>
-                  <figure entity="gordon23">
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                   </figure>
@@ -994,11 +974,11 @@ YOKE. <hi rend="italic">Then</hi> shall thy light break forth as the
 morning, and Thine health shall spring forth speedily; and thy
 righteousness shall go before thee; the glory of the Lord shall be thy
 rearward." (Is. 58: 6, 8.)</p>
-               <p pn="23">A REMINISCENCE</p>
-               <p pn="23">THE unhappy close of life to our beloved President, has
+               <p>A REMINISCENCE</p>
+               <p>THE unhappy close of life to our beloved President, has
 given to the following poem an impressive interest, and has suggested
 the propriety of its appearance in the present connection.</p>
-               <p pn="23">Mr. F. B. Carpenter, the artist, referring, in a letter to
+               <p>Mr. F. B. Carpenter, the artist, referring, in a letter to
 the <title>Evening Post</title>, to a certain occasion when
 Mr. Lincoln spoke feelingly of this poem observing that he would give
 a great deal to know who wrote it, says: "Then, half closing his eyes,
@@ -1012,10 +992,10 @@ for the bust, I was suddenly reminded of the poem, and said to him
 that then would be a good time to dictate it to me. He complied, and
 sitting upon some books at his feet, as nearly as I can remember, I
 wrote the lines down, one by one, from his lips."</p>
-               <q pn="23" direct="unspecified">
-                  <text>
-                     <body>
-                        <head pn="23">OH! WHY SHOULD THE SPIRIT OF MORTAL BE PROUD?</head>
+               
+                  
+                                 <q>
+                        <p>OH! WHY SHOULD THE SPIRIT OF MORTAL BE PROUD?</p>
                         <lg type="stanza">
                            <l>Oh! why should the spirit of mortal be proud?</l>
                            <l>Like a
@@ -1031,8 +1011,8 @@ rest in the grave.</l>
 scattered around and together be laid: </l>
                         </lg>
                         <pb n="24"/>
-                        <p pn="24">
-                           <figure entity="gordon24">
+                        <p>
+                           <figure><graphic url=""/>
                               <figDesc>24th page of
 W. R. Gordon's The Sin of Reviling, and Its Work.</figDesc>
                            </figure>
@@ -1129,11 +1109,10 @@ the gilded saloon to the bier and the shroud- </l>
                            <l>Oh! why should
 the spirit of mortal be proud? </l>
                         </lg>
-                     </body>
-                  </text>
+                     
                </q>
             </div2>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

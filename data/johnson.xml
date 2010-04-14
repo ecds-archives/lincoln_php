@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="God's Ways Unsearchable">
             <title>God's Ways Unsearchable</title>
             <author>Johnson, Herrick</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -28,9 +22,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -43,8 +35,7 @@ Congregation, in Mozart Hall, Pittsburgh, PA.  Sunday, April 23d,
 1865. W. G. Johnston &amp; Co., Printers, Stationers and Blank Book
 Makers, 57 Wood Street, Pittsburgh.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -67,23 +58,12 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="johnson.001" n="God's Ways Unsearchable" type="text">
-            <head pn="1"> 
+         <div1 xml:id="johnson.001" n="God's Ways Unsearchable" type="text">
+            <head> 
                <bibl> 
                   <title>God's Ways
 Unsearchable</title> 
@@ -91,50 +71,50 @@ Unsearchable</title>
                   <pubPlace>Third
 Presbyterian Congregation, in Mozart Hall, Pittsburgh, PA </pubPlace>
                   <author>Johnson, Herrick</author> 
-                  <imprint>
+                  
                      <pubPlace>Pittsburgh,
 PA</pubPlace>
                      <publisher>W. G. Johnston &amp; Co.</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qgg</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="johnson1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Herrick Johnson's
 God's Ways Unsearchable.</figDesc>
                </figure>
             </p>
-            <p pn="1">"GOD'S WAYS UNSEARCHABLE."</p>
-            <p pn="1">A DISCOURSE,</p>
-            <p pn="1">ON THE DEATH OF PRESIDENT LINCOLN,</p>
-            <p pn="1">PREACHED BEFORE THE</p>
-            <p pn="1">Third Presbyterian Congregation,</p>
-            <p pn="1">IN MOZART HALL, PITTSBURGH, PA.</p>
-            <p pn="1">SUNDAY, APRIL 23rd, 1865.</p>
-            <p pn="1">BY</p>
-            <p pn="1">Rev. HERRICK JOHNSON, Pastor.</p>
-            <p pn="1">PUBLISHED BY REQUEST.</p>
-            <p pn="1">W. G. Johnston &amp; Co., Printers, Stationers and Blank Book
+            <p>"GOD'S WAYS UNSEARCHABLE."</p>
+            <p>A DISCOURSE,</p>
+            <p>ON THE DEATH OF PRESIDENT LINCOLN,</p>
+            <p>PREACHED BEFORE THE</p>
+            <p>Third Presbyterian Congregation,</p>
+            <p>IN MOZART HALL, PITTSBURGH, PA.</p>
+            <p>SUNDAY, APRIL 23rd, 1865.</p>
+            <p>BY</p>
+            <p>Rev. HERRICK JOHNSON, Pastor.</p>
+            <p>PUBLISHED BY REQUEST.</p>
+            <p>W. G. Johnston &amp; Co., Printers, Stationers and Blank Book
 Makers, 57 Wood Street, Pittsburgh.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="johnson2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Herrick Johnson's God's Ways Unsearchable.</figDesc>
                </figure>
             </p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="johnson3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Herrick Johnson's God's Ways Unsearchable.</figDesc>
                </figure>
             </p>
-            <div2 id="johnson.002" n="GOD'S WAYS UNSEARCHABLE." type="sermon">
-               <head pn="3">"GOD'S WAYS UNSEARCHABLE."</head>
-               <epigraph pn="3">
-                  <p pn="3">
+            <div2 xml:id="johnson.002" n="GOD'S WAYS UNSEARCHABLE." type="sermon">
+               <head>"GOD'S WAYS UNSEARCHABLE."</head>
+               <epigraph>
+                  <p>
                      <hi rend="italic">O the depths of the riches, both of the
 wisdom and knowledge of God! How unsearchable are his judgments and
 his ways past finding out! For who hath known the mind of the Lord? or
@@ -144,7 +124,7 @@ him are all things; to whom be glory forever. Amen.-ROM. XI:
 33-36.,</hi>
                   </p>
                </epigraph>
-               <p pn="3">IT was with these words, my people, that I had thought to
+               <p>IT was with these words, my people, that I had thought to
 lead you in a jubilant song of triumph and of praise. I had already
 selected them as the basis of a discourse commemorative of our recent
 victories. But while I paused for official hand to write proclamation
@@ -160,7 +140,7 @@ peoples hearts that vibrate only to mournful music. The nation is in
 sackcloth. And to day we weep our tears over the bier that contains
 all that was mortal of our beloved and honored Chief Magistrate,
 ABRAHAM LINCOLN.</p>
-               <p pn="3">Yet the words, whose consideration I had deemed appropriate
+               <p>Yet the words, whose consideration I had deemed appropriate
 to a day of thanksgiving, strike me as alike consonant with the
 changed circumstances in which we now come to our altars. The great
 truth they embody is as fitted to stay our hearts in the shock of
@@ -176,12 +156,12 @@ our victories will it be, for us to be brought by this great woe to a
 clearer recognition of God, and even out of our stony grief to say,
 "Of him and through him and to him are all things: to whom be glory
 forever. Amen."</p>
-               <p pn="3">That God reigns, that in the government of human affairs he
+               <p>That God reigns, that in the government of human affairs he
 has a plan, and that the accomplishment of that plan is by judgments
 unsearchable and ways past finding out--ways not ours and of which we
 have
 <pb n="4"/>
-                  <figure entity="johnson4">
+                  <figure><graphic url=""/>
                      <figDesc>4th page of Herrick
 Johnson's God's Ways Unsearchable.</figDesc>
                   </figure>
@@ -189,7 +169,7 @@ had no thought or conception, until their revelation has struck men
 dumb with astonishment and bewildering wonder--are truths emphasized
 and corroborated with remarkable frequency and remarkable power ever
 since the outbreak of our civil war.</p>
-               <p pn="4">The war itself, in its
+               <p>The war itself, in its
 scope and significance, in its length and vastness and unlooked for
 results, in its waste and desolation and havoc, in its high and grand
 redemption; Is a thing of which we never dreamed. So opposed to human
@@ -202,7 +182,7 @@ ago uttered and written down in advance the events of this period, the
 story would have appeared more marvelous than anything in the Arabian
 Nights." More marvelous indeed. Fiction sinks into the utterest and
 tamest common place before these wonders of fact.</p>
-               <p pn="4">We of the North thought to lay the strong iron hand of the
+               <p>We of the North thought to lay the strong iron hand of the
 Government down upon this petty revolt and crush it in ninety
 days. God's way was to soak our soil with gore and redden our rivers
 with blood, and thicken the very air with groans for four long years
@@ -220,13 +200,13 @@ ripe for execution and when it seemed as if the very hour had struck
 for their success, that the instinctive feeling of even irreligious
 men has been, It is the Lord's doing, and it is marvelous in our
 eyes.</p>
-               <p pn="4">A bare enumeration of events that go to substantiate this
+               <p>A bare enumeration of events that go to substantiate this
 idea, is impossible in the brief hour allotted to this discourse. The
 simplest refference to a few of the most signal and prominent must
 suffice.</p>
-               <p pn="4">The first mortifying failure of our arms at Bull Run may be
+               <p>The first mortifying failure of our arms at Bull Run may be
 instanced as proof of our ignorance of the mind of the Lord.</p>
-               <p pn="4">And right upon the heel of that national humiliation, the
+               <p>And right upon the heel of that national humiliation, the
 people's cry was for a Leader. We were ready to make an idol of him
 who should redeem us from that great shame, by marshaling our armed
 hosts and leading them out to victory. The man came whom we thought
@@ -241,7 +221,7 @@ personal worthiness and conspicuous agency and commanding influence,
 was always made by an inscrutable Providence to appear in the eyes of
 the people simply as
 <pb n="5"/>
-                  <figure entity="johnson5">
+                  <figure><graphic url=""/>
                      <figDesc>5th page of Herrick
 Johnson's God's Ways Unsearchable.</figDesc>
                   </figure>
@@ -254,7 +234,7 @@ as in the hush of silence, in awe of this new proof of the mysterious
 ways of God, we listen to a voice from the opening heavens, saying,
 "Be still, and know that I am God. I will be exalted among the
 heathen, I will be exalted in the earth."</p>
-               <p pn="5">Still further is it seen that the judgments of the most
+               <p>Still further is it seen that the judgments of the most
 High are unsearchable in this: that while in the beginning of the
 strife we sent heralds and proclamations in advance of our armies,
 announcing to traitors that the. institution which had given birth to
@@ -273,7 +253,7 @@ years of unrequited toil shall be sunk, and until every drop of blood
 drawn with the lash shall be paid by another drawn with the sword, as
 was said three thousand years ago, so still it must be said, that the
 judgments of the Lord are true and righteous altogether."</p>
-               <p pn="5">Little dreamed that Child of Providence, and man of the
+               <p>Little dreamed that Child of Providence, and man of the
 people, as he stood there on the platform erected over the steps of
 the last entrance of the Capitol, his forehead kissed by the sun-light
 that came streaming down through the rifted clouds from heaven, and
@@ -285,7 +265,7 @@ unrequited toil. But God so willed it. And for this more than for all
 else, an awe-struck people, through their blinding tears, look up and
 say, "How unsearchable are thy judgments, and thy ways past finding
 out."</p>
-               <p pn="5">Ah, here indeed, God's thought was not our thought. If, at
+               <p>Ah, here indeed, God's thought was not our thought. If, at
 this particular juncture in our affairs, we had been asked, who of the
 honored and trusted leaders could least be spared, we should all have
 answered ABRAHAM LINCOLN. Yet this was not the way of the Lord. In His
@@ -301,7 +281,7 @@ the God-fearing and God-honoring man,-wedded to liberty by a devotion
 that made him prefer death to its surrender, touching the throbbing
 pulses of the people's hearts to regulate his own, so true to
 <pb n="6"/>
-                  <figure entity="johnson6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of Herrick
 Johnson's God's Ways Unsearchable.</figDesc>
                   </figure>
@@ -335,7 +315,7 @@ of the fallen form of the martyr-President, saying, in deep emotion,
 "she wanted that little child to see the man that made her free."
 Hardly had there been such lamentation in the land, had the first-born
 in every house been slain.</p>
-               <p pn="6">O, we seem to see him now, that high pure soul, who could
+               <p>O, we seem to see him now, that high pure soul, who could
 say he "never willingly planted a thorn in any man's bosom," as he
 stood before the nation when about to take his first official oath,
 pleading with the South to pause ere they plunged the country into an
@@ -355,13 +335,13 @@ nature." It was thus he closed the most affecting appeal. ever made to
 a disaffected party against the madness and crime of treason. But,
 alas! the better angels of the hearts to whom he made appeal had left
 them, and fell spirits of evil struck the chords.</p>
-               <p pn="6">He stood there again, the loved and trusted President, to
+               <p>He stood there again, the loved and trusted President, to
 take his second oath. The rude shock had come. The country had gone
 down into the dark abyss, but was emerging now on the other
 side. Still, however, the path onward was rugged and bloody and full
 of peril. Have four
 <pb n="7"/>
-                  <figure entity="johnson7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Herrick
 Johnson's God's Ways Unsearchable.</figDesc>
                   </figure>
@@ -380,7 +360,7 @@ this fratricidal strife. Vindictive wrath and hate have done their
 worst, but they have waked no echo in his bosom. <hi rend="italic">Abraham Lincoln has firmer hold of truth and God and the
 people's hearts. That is all.</hi>
                </p>
-               <p pn="7">A few weeks later and the Ruler, who, of all the men that
+               <p>A few weeks later and the Ruler, who, of all the men that
 ever lived, made war with a Christian spirit, was seeking, under the
 inspiration of decisive victory, with paternal and generous
 magnanimity, his heart full of charities and pardons, to effect
@@ -395,7 +375,7 @@ at Golgotha, where, from the bloody cross on which his murderers had
 nailed him, and amidst their jeers and scoffs, the lips of the dying
 Son of God moved with the prayer, "Father forgive them: they know not
 what they do."</p>
-               <p pn="7">It was most foul and atrocious deed. To name it is to
+               <p>It was most foul and atrocious deed. To name it is to
 expose its malignity and horror. And yet,--and yet, my hearers, though
 his charities and nobilities and virtues, all "plead like angels,
 trumpet-tongued, against the deep damnation of his taking off," it was
@@ -420,7 +400,7 @@ this, was it not His providence that bade the faithful servant "come
 up higher," when his work was done? We wonder, indeed, that the
 thunderbolts of God were still, when that arm was
 <pb n="8"/>
-                  <figure entity="johnson8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Herrick
 Johnson's God's Ways Unsearchable.</figDesc>
                   </figure>
@@ -428,7 +408,7 @@ raised to do the cruel, deadly deed of causeless murder; but that
 infinitely wise and holy purposes will be answered by it, it is not
 permitted us to doubt. For of him and through and to him are all
 things.</p>
-               <p pn="8">Gathered about the fallen form of our lamented President,
+               <p>Gathered about the fallen form of our lamented President,
 we fortify our hearts with this sublimest truth, and re-dedicate
 ourselves to the work in which he died a martyr. Beneath the laurel
 and the willow the bowed heart of the nation pays its tribute of
@@ -444,7 +424,7 @@ with the dawn of a morning he had prayed and longed for all our dark
 night, the darkest through which nation ever passed to day. Upon the
 summit of the mount he stood and looked, and he was not--for God took
 him.</p>
-               <p pn="8">There are no broken lives in God's plan. ABRAHAM LINCOLN'S
+               <p>There are no broken lives in God's plan. ABRAHAM LINCOLN'S
 had rounded into perfect completeness, and he was called home. Sacred
 be the commonwealth that entombs him. The gentle flowers of the
 prairie make room for his grave. And not another in all the earth
@@ -454,7 +434,7 @@ nation! Let wreaths of faceless laurel be woven for his burial
 place. Yet, know that his deeds shall be his noblest monument; and
 believe that God has given him "truer crown than any wreath that man
 can weave him."</p>
-               <p pn="8">And now, what to the living? This, first and most manifestly: <hi rend="italic">Our trust is not to lie in an arm of flesh, but in the
+               <p>And now, what to the living? This, first and most manifestly: <hi rend="italic">Our trust is not to lie in an arm of flesh, but in the
 living God</hi>. "Cease ye from man whose breath is in his nostrils;
 for wherein is he to be accounted of?" When Massillon stood in that
 crowded cathedral by the coffin of a King, and saw lying there the
@@ -478,20 +458,20 @@ felt need of, more than the lamented dead. We have lost our
 President--but the President's God is our God still. "Trust him, ye
 people," is one of the voices out of the midst of the cloud.</p>
                <pb n="9"/>
-               <p pn="9">
-                  <figure entity="johnson9">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>9th page of
 Herrick Johnson's God's Ways Unsearchable.</figDesc>
                   </figure>
                </p>
-               <p pn="9">This, secondly, is to be said concerning the event that has
+               <p>This, secondly, is to be said concerning the event that has
 draped the land with symbols of sorrow: <hi rend="italic">It has given
 another signal vindication of Republican institutions--of government
 by the people</hi>. Liberty takes on new courage from this hour
 forth. She has received a new baptism of blood, and <hi rend="italic">lives</hi>: and assurance deepens in men's hearts that she
 is placed beyond the manacle and the sword of her foes, now and
 forever.</p>
-               <p pn="9">No doubt the assassins thought to make such record that
+               <p>No doubt the assassins thought to make such record that
 dark night of death and blood as should lead to national
 dismemberment. They looked for division in consequence of the anarchy
 they hoped to effect. Ah, the murderous blow struck away all our past
@@ -516,12 +496,12 @@ doubt that the fruit of its past shall pale before the glorious
 yielding of its future, when <hi rend="italic">such martyr-blood has
 moistened its soil.</hi>
                </p>
-               <p pn="9">Another voice out of the midst of the cloud is this: <hi rend="italic">that the spirit of this rebellion is revealed before all
+               <p>Another voice out of the midst of the cloud is this: <hi rend="italic">that the spirit of this rebellion is revealed before all
 the world as most malignant and atrocious</hi>. Perhaps this last
 exhibition was needed, in the providence of God, to keep the plotters
 of treason from playing the role of martyrs. It puts an eternal stigma
 upon their cause and sends it down to posterity loaded with infamy.</p>
-               <p pn="9">The plot of assassination may not be traced to the leaders
+               <p>The plot of assassination may not be traced to the leaders
 of the rebellion. I trust it will not be. Possibly they did not know
 of this foul conspiracy. But it was born of their spirit. It had its
 inspiration in their madness. It was the culmination of their savage
@@ -538,14 +518,14 @@ sought to fire the largest metropolis of the nation, full of helpless
 women and children. Thy have waged their deadly strife by acts wholly
 outside
 <pb n="10"/>
-                  <figure entity="johnson10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Herrick
 Johnson's God's Ways Unsearchable.</figDesc>
                   </figure>
 the pale of civilized warfare. Truly they had been guilty of crimson
 horrors enough, to make this last not so utterly beyond their agency
 and connivance.</p>
-               <p pn="10">And what was their treason itself? Was it anything less
+               <p>And what was their treason itself? Was it anything less
 than that of which this crime is the personification? Was not that a
 blow at the Nation's heart? And did it not mean <hi rend="italic">death</hi> to the Nation, as truly as the blow that struck
 down its head and chief? Perhaps there was danger of our forgetting
@@ -570,7 +550,7 @@ unto them from the ground; and though their hoarded gold buy them the
 privileges of a dwelling place on some spot of earth, they will go
 down with sorrow to the grave, their punishment greater than they can
 bear.</p>
-               <p pn="10">There comes another voice out of the midst of the
+               <p>There comes another voice out of the midst of the
 cloud--<hi rend="italic">justice</hi>! There <hi rend="italic">is</hi>
 such a thing. God is just. Justice is the habitation of his
 throne--yea, its foundation. His government rests upon it. His law
@@ -585,7 +565,7 @@ to the conscience, as light is to the eye, or truth to the intellect,
 or sentiment to the heart. Thus constituted we must be true to it, or
 false to our own nature and so false to God. It is as much our duty to
 do justly, as to love mercy and to walk humbly.</p>
-               <p pn="10">This quality has relation to law! If law is mere advice,
+               <p>This quality has relation to law! If law is mere advice,
 justice is a farce. If law is command, sustained by penalty for its
 violation, then justice is vindicated as a reality. In human
 government this is so. In God's government. If in either, penalty is
@@ -597,13 +577,13 @@ her scales. The innocent Sufferer would never have prayed "Father
 forgive them," if his sufferings and death were not even then making
 it <hi rend="italic">just</hi> for God to forgive.</p>
                <pb n="11"/>
-               <p pn="11">
-                  <figure entity="johnson11">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>11th page of
 Herrick Johnson's God's Ways Unsearchable.</figDesc>
                   </figure>
                </p>
-               <p pn="11">Guilt, therefore, must be expiated. Crime must be atoned
+               <p>Guilt, therefore, must be expiated. Crime must be atoned
 for. Offenders against law, must suffer the penalties of law. To the
 extent that we fail of exacting this up to the utmost requirements of
 the public safety and the general good, to that extent we harm justice
@@ -611,7 +591,7 @@ and open upon ourselves the flood-gates of lawlessness. "The soul that
 sinneth, it shall die," is not an arbitrary edict of naked power, but
 the enunciation of a principle proceeding from the very nature and
 being of God.</p>
-               <p pn="11">Perhaps we were in danger of ignoring this fundamental
+               <p>Perhaps we were in danger of ignoring this fundamental
 quality. I think we were. In our joy at the prospect of peace, and on
 account of the difficulties that surrounded the whole question of the
 settlement of the protracted strife, we were being led to feel and act
@@ -628,14 +608,14 @@ perhaps his was too kindly a nature for the stern work of righteous
 retribution, that God has especially commissioned governments to
 execute upon evil doers. So God took him away from war's tumults and
 from retribution's ungrateful office,--home.</p>
-               <p pn="11">But his taking off, by wicked instrument was a startling
+               <p>But his taking off, by wicked instrument was a startling
 and terrible revelation of rebel malignity. And the sharp report of
 that deadly pistol shot has flashed the word justice through the
 Nation's heart. O, does it not seem that God would thus write on our
 national records, in the blood of a martyred President, that treason
 is the highest and the blackest of crimes, and that its punishment
 must be adequate and inevitable.</p>
-               <p pn="11">Surely this is one of the interpretations to be put upon
+               <p>Surely this is one of the interpretations to be put upon
 the event, we mourn to-day. But let it be <hi rend="italic">justice</hi>, not <hi rend="italic">vengeance</hi>. <hi rend="italic">"Vengeance is mine, I will repay</hi>," saith the
 Lord. Personally, we have no right to cherish other than the spirit of
 forgiveness, and from our heart of hearts to pray for them. And in our
@@ -645,7 +625,7 @@ ordainment. Blind passion, illegal violence, reckless dealing out of
 retribution, will only defeat the ends of justice, and lift the
 conspirators in the eyes of mankind, from the ignominious doom of
 traitors, into the welcome elevation of heroic martyrs.</p>
-               <p pn="11">No. Let the grave of ABRAHAM LINCOLN be unpolluted by the
+               <p>No. Let the grave of ABRAHAM LINCOLN be unpolluted by the
 blood of Americans slaughtered for revenge. But, if the culprits shall
 at last be brought under the police arm of national power, with all
 the solemnities high judicial process, let them be proceeded against;
@@ -662,4 +642,4 @@ whom and to whom are all things; to whom be glory forever. Amen.</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

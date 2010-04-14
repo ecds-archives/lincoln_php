@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="The Martyred President: A Sermon Preached in the First Presbyterian Church, Brooklyn, N. Y.">
             <title>  The Martyred
 President: A Sermon Preached in the First Presbyterian Church,
@@ -14,14 +12,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -30,9 +24,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -43,8 +35,7 @@ Rev. Chas. S. The Martyred President: A Sermon Preached in the First
 Presbyterian Church, Brooklyn, N. Y.  On the Morning of April 16th,
 1865.  New York: John F. Trow, Printer, 50 Greene Street.  1865.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -67,24 +58,13 @@ JPEG format.  We produced GIF thumbnails from the JPEG files.</p>
 Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott
-Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in
-compliance with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott
+Ellis</name>SGML tags inserted in
+compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="robinson.001" n="The Martyred President: A Sermon Preached in the First Presbyterian Church, Brooklyn, N. Y." type="text">
-            <head pn="1"> 
+         <div1 xml:id="robinson.001" n="The Martyred President: A Sermon Preached in the First Presbyterian Church, Brooklyn, N. Y." type="text">
+            <head> 
                <bibl> 
                   <title> The Martyred President: A
 Sermon Preached in the First Presbyterian Church, Brooklyn,
@@ -93,42 +73,42 @@ N. Y.</title>
                   <pubPlace>Brooklyn,
 NY</pubPlace> 
                   <author>Robinson, Rev. Chas. S.</author> 
-                  <imprint>
+                  
                      <pubPlace>New York</pubPlace>
                      <publisher>John F. Trow,
 Printer</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qzd</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="robinson1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
                </figure>
             </p>
-            <p pn="1">The Martyred President:</p>
-            <p pn="1">A</p>
-            <p pn="1">SERMON</p>
-            <p pn="1">PREACHED IN THE</p>
-            <p pn="1">FIRST PRESBYTERIAN CHURCH, BROOKLYN, N.Y.,</p>
-            <p pn="1">BY THE PASTOR,</p>
-            <p pn="1">REV. CHAS. S. ROBINSON,</p>
-            <p pn="1">ON THE MORNING OF</p>
-            <p pn="1">APRIL 16th, 1865.</p>
-            <p pn="1">NEW YORK:</p>
-            <p pn="1">JOHN F. TROW, PRINTER, 50 GREENE STREET.</p>
-            <p pn="1">1865.</p>
+            <p>The Martyred President:</p>
+            <p>A</p>
+            <p>SERMON</p>
+            <p>PREACHED IN THE</p>
+            <p>FIRST PRESBYTERIAN CHURCH, BROOKLYN, N.Y.,</p>
+            <p>BY THE PASTOR,</p>
+            <p>REV. CHAS. S. ROBINSON,</p>
+            <p>ON THE MORNING OF</p>
+            <p>APRIL 16th, 1865.</p>
+            <p>NEW YORK:</p>
+            <p>JOHN F. TROW, PRINTER, 50 GREENE STREET.</p>
+            <p>1865.</p>
             <pb n="2"/>
-            <p pn="2">
-               <figure entity="robinson2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
                </figure>
             </p>
-            <p pn="2">BROOKLYN, N. Y., <hi rend="italic">April 17th</hi>, 1865
+            <p>BROOKLYN, N. Y., <hi rend="italic">April 17th</hi>, 1865
 <lb/>
 Rev. CHAS. S. ROBINSON:
 <lb/>
@@ -137,18 +117,18 @@ wish to indicate to you our warm appreciation of the discourse
 delivered in your pulpit on yesterday morning, occasioned by that
 appalling dispensation of Providence which has imprinted the deepest
 sorrow in every loyal bosom in this afflicted land.</p>
-            <p pn="2">We regard the Sermon as embodying a fitting and felicitous tribute
+            <p>We regard the Sermon as embodying a fitting and felicitous tribute
 to the character of ABRAHAM LINCOLN, our late President, who has
 fallen an illustrious martyr to the cause of constitutional government
 and universal freedom of man.</p>
-            <p pn="2">We respectfully request that you will furnish us a copy of it for
+            <p>We respectfully request that you will furnish us a copy of it for
 the press, believing that by its preservation in a permanent form it
 will embody a just record, proper to be filed among the archives of
 the Church, and handed down to our children, of the unwavering loyalty
 of Pastor and people to the cause of national integrity and
 constitutional rule during these eventful and perilous years of
 conflict with organized and armed rebellion.</p>
-            <p pn="2">With assurances of our cordial regards
+            <p>With assurances of our cordial regards
 	<lb/>FISHER HOWE,	HENRY SHELDON,
 	<lb/>CYRUS P. SMITH,	LOWELL HOLBROOK,
 	<lb/>SILAS H. STRINGHAM,	JONATHAN OGDEN,
@@ -159,17 +139,17 @@ conflict with organized and armed rebellion.</p>
 	<lb/>JONATHAN D. STEELE,	RICHARD J. DODGE,
 	<lb/>ANDREW A. SMITH,	HOBART FORD,
 	<lb/>ALEXANDER M. EARLE,	ABIJAH FISHER.</p>
-            <p pn="2">FIRST PRESBYTERIAN CHURCH, BROOKLYN, April 18th, 1865. 
+            <p>FIRST PRESBYTERIAN CHURCH, BROOKLYN, April 18th, 1865. 
 <lb/>
 To Messrs. FISHER HOWE, Hon. C. P. SMITH, Rear Admiral
 S. H. STRINGHAM, SAMUEL HUTCHINSON, and others:</p>
-            <p pn="2">Gentlemen: The Discourse which you request, prepared so hurriedly in
+            <p>Gentlemen: The Discourse which you request, prepared so hurriedly in
 the midst of such confusion and excitement, takes all its value from
 your cordial endorsement of its sentiments.</p>
-            <p pn="2">We are just closing a four years' war; the air is vibrating with
+            <p>We are just closing a four years' war; the air is vibrating with
 tidings of victory as I write. But we are beginning a new war of more
 than four years, the weapons of which are not carnal.</p>
-            <p pn="2">Much of the peril of that conflict will be forestalled by a frank,
+            <p>Much of the peril of that conflict will be forestalled by a frank,
 firm stand taken at the outset.  And I am unaffectedly happy in your
 willingness to commit yourselves, as a church, now with me, to the
 truth, fearless as you all have ever been in your steadfastness to the
@@ -178,19 +158,19 @@ principles involved in the war.
 		       <lb/> Your friend and Pastor
 		<lb/>CHAS. S. ROBINSON.</p>
             <pb n="3"/>
-            <p pn="3">
-               <figure entity="robinson3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
                </figure>
             </p>
-            <div2 id="robinson.002" n="The Martyred President." type="sermon">
-               <head pn="3">The Martyred President.</head>
-               <epigraph pn="3">
-                  <p pn="3">HE WAS A GOOD MAN, AND A JUST.-Luke xxiii: 50.</p>
+            <div2 xml:id="robinson.002" n="The Martyred President." type="sermon">
+               <head>The Martyred President.</head>
+               <epigraph>
+                  <p>HE WAS A GOOD MAN, AND A JUST.-Luke xxiii: 50.</p>
                </epigraph>
-               <p pn="3">ONE other Sabbath like this I remember, and only one; that
+               <p>ONE other Sabbath like this I remember, and only one; that
 of which this is the exact anniversary, four years ago. What
 humiliated the nation then is now measurably rectified. The ensign of
 our country floats once more on the ramparts from which it had just
@@ -200,33 +180,33 @@ have been forced to pour forth their empty salutes in honor of the
 restoration. And the proclamation is already in the air, which was to
 summon the grateful Republic to a thanksgiving for t he manifold mercy
 of Almighty God.</p>
-               <p pn="3">Right in the midst of our rejoicing we are dashed into sorrow deeper
+               <p>Right in the midst of our rejoicing we are dashed into sorrow deeper
 than ever.  To-day it is not the humbling of our pride that makes us
 mourn, but the wounding of our hearts in their keenest
 sensibilities. For he who has been our leader lies low in his coffin;
 foul murder has been done at the capital; and the nation stands hushed
 in the presence of its unburied dead.</p>
                <pb n="4"/>
-               <p pn="4">
-                  <figure entity="robinson4">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>4th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
                   </figure>
                </p>
-               <p pn="4">Have the old days of barbarism returned upon us? Is assassination
+               <p>Have the old days of barbarism returned upon us? Is assassination
 become civilized? Has the bullet of a murderer recognition as a
 belligerent right? In what age do we live? Is justice dead? Where are
 we? How happens it that the wires quiver with tidings of deeds worthy
 only of the darkest years of Venetian conspiracy and shame?</p>
-               <p pn="4">I said, we have got the flag back again on Sumter. So we have. But
+               <p>I said, we have got the flag back again on Sumter. So we have. But
 only at half-mast. It reached the staff just in time to droop. Men
 began to cheer--suddenly they turn to wailing. The triumph seems a
 mockery. Victory waits recognition unheeded, for the bells are
 tolling. He who made our success welcome is not here to share
 it. ABRAHAM LINCOLN, the honored and beloved head of the nation, is no
 more!</p>
-               <p pn="4">My brethren, bear me record here to-day. This pulpit has never
+               <p>My brethren, bear me record here to-day. This pulpit has never
 uttered one timid, troubled word in these four years. I have not lost
 heart for a moment in the essential righteousness of our cause, nor
 confidence in the final success that would come to it. You will
@@ -237,7 +217,7 @@ attempt to conceal from you that I am shocked more than ever before,
 and under the cloud of God's providence as I never expected to be. I
 do not know the meaning of this awful transaction. 
 <pb n="5"/>
-                  <figure entity="robinson5">
+                  <figure><graphic url=""/>
                      <figDesc>5th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -249,23 +229,23 @@ I have met no greater sorrow in my manly life than this.  "I behave
 myself as though be had been my friend or brother; I bow down heavily,
 as one that mourneth for his mother." And all this sensibility, I
 know, you are sharing with me.</p>
-               <p pn="5">The feeling which rests on each mind and heart to-day is not a
+               <p>The feeling which rests on each mind and heart to-day is not a
 simple feeling. To us all it is, in some measure, undefined. I cannot
 be of any real help to you, I fear, save in the way of giving you an
 analysis of your grief, and suggesting the form of its expression.</p>
-               <p pn="5">I.--Let me say, then, that in this complex mourning of heart is
+               <p>I.--Let me say, then, that in this complex mourning of heart is
 found, first of all, our admiration of that great man's character,
 whose sudden death has saddened the entire nation. Surely, you will
 not need that I enter into argument to prove that these words of the
 text I have chosen, applied to the counsellor from Arimathea in the
 inspired record, are most fitting when applied to our late Chief
 Magistrate.</p>
-               <p pn="5">He was "a good man." Called by the great voice of the American
+               <p>He was "a good man." Called by the great voice of the American
 people to leave his rural home, and assume the highest honors it could
 confer, his parting request to his old friends and neighbors was only
 for their continuous prayers. With the sincerest humil-
 <pb n="6"/>
-                  <figure entity="robinson6">
+                  <figure><graphic url=""/>
                      <figDesc>6th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -286,7 +266,7 @@ wonderfully pathetic, almost prophetic, as he told us, in the second
 inaugural address, of the simplicity of his faith, the humility of his
 estimate of himself, and his profound reliance upon the infinite
 God.</p>
-               <p pn="6">He was a "just" man. Through all these years it has been touching to
+               <p>He was a "just" man. Through all these years it has been touching to
 notice how implicitly the true-hearted believed, Abraham Lincoln to be
 true. The mean hirelings of place, and the mere parasites of office,
 kept out of his way. The demagogues and partisans grew passionate over
@@ -294,7 +274,7 @@ his perversity to their principles, and called him an impracticable
 leader, because of his steadfast loyalty to truth and fairness as
 between man and man. When one received injus-
 <pb n="7"/>
-                  <figure entity="robinson7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -315,22 +295,22 @@ yet seemed day; but at the evening time it was light. He died at the
 height of his fame. All rancor of party has disappeared. The clouds
 that dimmed his noon gather now, at the twilight, to, glow in his
 praise.</p>
-               <p pn="7">So much, then, is true; "he was a good man, and a just." But there
+               <p>So much, then, is true; "he was a good man, and a just." But there
 is a question, which our intelligent, Bible-reading, people  are wont
 to ask when any one of their great men dies-was he a Christian man?
 There is no reason why we should turn away, unanswered, an inquiry
 like this. It is not an impertinent and obtrusive investigation of his
 interior life. He made, no mystery of his faith. His own
 <pb n="8"/>
-                  <figure entity="robinson8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
                   </figure>
 tale of his religious experience is something like, this--coming in
 more than one way, and attested with more than one witness:</p>
-               <p pn="8">
-                  <q pn="8" direct="unspecified">"When I left Springfield, I felt my utter dependence upon
+               <p>
+                  <q>"When I left Springfield, I felt my utter dependence upon
 God. The responsibility weighed heavily upon my heart. I knew I should
 fall without a divine help. But I was not then a Christian. When my
 child died, I felt that I needed the comfort of the Gospel. It was the
@@ -340,13 +320,13 @@ wandered one day, alone, among the graves of the boys that fell at
 Gettysburg. There, when I read the inscriptions, so full of hope and
 faith, I began to think I loved and trusted Jesus as my Saviour."</q>
                </p>
-               <p pn="8">Thus our image of this humble, noble, man rises on our vision
+               <p>Thus our image of this humble, noble, man rises on our vision
 complete. Gifted with great intellectual power; proverbial for his
 rectitude; bearing "honest" for his title as Aristides bore "just" for
 his; affectionate, with all the instincts of common humanity, even to
 the lowliest; fearless and brave; he added the crowning grace to his
 memory with his unaffected piety as a Christian.</p>
-               <p pn="8">II.--For all this the nation mourns his loss. But I am not mistaken
+               <p>II.--For all this the nation mourns his loss. But I am not mistaken
 in believing there is an element in our sorrow here to-day, far more
 subtle and experimental than mere admiration of his spotless
 character. There is, in the second place, a feeling of personal
@@ -354,7 +334,7 @@ bereavement. Singularly identified with us all has this man come to
 be. Test your heart now. Tell me, of all the leaders in civil life, of
 all the commanders in the field, who has the hold upon your
 <pb n="9"/>
-                  <figure entity="robinson9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -365,7 +345,7 @@ household. Never, till the hand of an assassin struck him, did you
 know how dear he was. I see, in all this, that which makes me happy
 and hopeful; here is a token of the infinite capacities of tenderness
 in the spirit of the American people.</p>
-               <p pn="9">I think to-day, as the fearful news is flashed across the land, of
+               <p>I think to-day, as the fearful news is flashed across the land, of
 the families that live in the valleys, and among the hills, and over
 the prairies, to some member of which be has been kind and so has
 endeared himself to all. How they will weep as for a brother beloved!
@@ -379,10 +359,10 @@ few hours of privacy, to send an epistle, so generous, so full of
 grateful sympathy, so gentle and appreciative, that the wounded hearts
 felt soothed, and bore the bereavement without breaking. He knew how
 to say kind things so well, and loved to say them!</p>
-               <p pn="9">I think of the soldiers, also, whose interests he watched like a
+               <p>I think of the soldiers, also, whose interests he watched like a
 jealous parent. In these trying times
 <pb n="10"/>
-                  <figure entity="robinson10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -402,7 +382,7 @@ through the wards of the hospitals, saluting, with his warm-hearted
 grasp, each wounded hero in turn; and, when they bad no hands to
 offer, he laid his big palm on their foreheads, and thanked them in
 the name of the country!</p>
-               <p pn="10">I think, more than all, of the poor freedmen, when they hear of the
+               <p>I think, more than all, of the poor freedmen, when they hear of the
 President's death. How they will wonder, and will wail! They called
 him "Father," as if it were part of his name. Oh, they believed in
 Abraham Lincoln! They expected him, as the Israelites did Moses. Some,
@@ -411,7 +391,7 @@ ignorant, and that good, kind man seemed so like a being from
 heaven. They said he would come. They prayed he would come. They
 waited for him
 <pb n="11"/>
-                  <figure entity="robinson11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -428,25 +408,25 @@ enfranchised millions opened their very souls to him, as if out under
 the sunshine. His name was a spell to quiet or to rouse them. What
 will they do, now he is dead! Alas! alas! for the weeping and the
 wonder they will have when they know how he died!</p>
-               <p pn="11">Thus, we all weep together. Christian resignation offers its high
+               <p>Thus, we all weep together. Christian resignation offers its high
 consolations, and we have no spirit of murmuring or complaint. Yet,
 none of us will deny that this is the severest blow, which, as a great
 people, we have ever received. The nation has, twice before, lost its
 Chief Magistrate by death; but there has been no mourning like this
 to-day.</p>
-               <p pn="11">III. --A third element in our grief, under this afflictive
+               <p>III. --A third element in our grief, under this afflictive
 dispensation of Providence, is the fear of impending calamity.  It is
 impossible to free our minds of the deepest solicitude for the
 future. Alas! we say, for the nation bereaved of its pilot, when
 <pb n="12"/>
-                  <figure entity="robinson12">
+                  <figure><graphic url=""/>
                      <figDesc>12th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
                   </figure>
 out in the midst of such a sea as this! Palinurus has been suddenly
 swept, by a wave, from the helm.</p>
-               <p pn="12">I suppose this anxiety is natural; and yet, I am sure,  it is
+               <p>I suppose this anxiety is natural; and yet, I am sure,  it is
 needless. Difficult questions are coming up. The practical wisdom of
 our recognized leader was cutting knots which men's perversity kept
 tying. We trusted him. We were knitting ourselves together in closer
@@ -467,7 +447,7 @@ made us devout. Put a man on the busiest street-corner, and let him
 keep looking upward, and he will gather a crowd that will all be
 looking upward. So our President gave unaffected
 <pb n="13"/>
-                  <figure entity="robinson13">
+                  <figure><graphic url=""/>
                      <figDesc>5th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -475,7 +455,7 @@ the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
 praise to God, until we all began to sing with him. Spectacles like
 these, which have been witnessed daily, have never been known in this
 land before; Mammon has learned the doxologies belonging to God.</p>
-               <p pn="13">When such a leader is taken suddenly away, there is nothing
+               <p>When such a leader is taken suddenly away, there is nothing
 unphilosophical in the feeling of utter dismay and apprehension that
 men are apt to experience. But, in our case, all this is needless. My
 brethren, I commend to your calm consideration, one solemn thought,
@@ -493,9 +473,9 @@ all this four years' war, has been, to bring to nought the things that
 are, not by the things that are, but by the things that are not. We
 have lived under the unvarying discipline of surprise. By this time,
 we ought to have learned our lesson.</p>
-               <p pn="13">With courage undiminished, therefore, let us be-
+               <p>With courage undiminished, therefore, let us be-
 <pb n="14"/>
-                  <figure entity="robinson14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -514,7 +494,7 @@ nothing at all; nor consider that it is expedient that one man should
 die for the people, and that the whole nation perish not?" Perhaps, in
 this very alarm for the future, there will be found a healthier spirit
 for us all.</p>
-               <p pn="14">IV.--For, in the fourth place, I remark, we find, as an element in
+               <p>IV.--For, in the fourth place, I remark, we find, as an element in
 our mourning to-day, a deep-seated indignation at the horrible crime
 which has been committed. Humanity sickens and shudders at the
 diabolical ingenuity, the malignant hatred, of this culminating act of
@@ -524,14 +504,14 @@ deed done nor seen from the day that the Children of Israel came up
 out of the land of Egypt unto this day; consider of it, take advice,
 and speak your minds."</p>
                <pb n="15"/>
-               <p pn="15">
-                  <figure entity="robinson15">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>15th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
                   </figure>
                </p>
-               <p pn="15">Let a vast public sentiment be aroused and organized, that shall
+               <p>Let a vast public sentiment be aroused and organized, that shall
 exhibit this vile wickedness in its true light. Let us invoke
 Christendom to make it an eternal hissing. With a recoil of feeling so
 violent that it wearies my will, and shocks my very being, with
@@ -550,11 +530,11 @@ description. As much as in you is, live peaceably with all men; but
 there ought to be a voice of opinion so stern, so outspoken, that  no
 man of credited decency should stand tamely by and hear a crime, so
 unparalleled in its baseness, even extenuated.</p>
-               <p pn="15">Is the world going back into savagery? Is this Christian land to
+               <p>Is the world going back into savagery? Is this Christian land to
 become the rival of Dahomey? This is no isolated act. The history of
 this slaveholders' rebellion is full of such. Again and again
 <pb n="16"/>
-                  <figure entity="robinson16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -573,7 +553,7 @@ forbearing, has been sublime enough to make our enemies wonder. They
 have called our magnanimity meanness, and complimented us upon our
 manifold spaniel-like virtues, with sarcasm that burnt in upon manly
 sensibility like fire.</p>
-               <p pn="16">This assassination is the earliest reply which chivalry has had to
+               <p>This assassination is the earliest reply which chivalry has had to
 make to forbearance unmeasured and friendliness almost fraternal. Now,
 let us have done with it! Talk to me no more of "our misguided
 brethren." Some are misguided--and it is those who misguide them I
@@ -582,7 +562,7 @@ when it says, "Art thou in health, my brother," and then stabs under
 the fifth rib. Talk to me no more of the same race, educated at the
 same colleges, born of
 <pb n="17"/>
-                  <figure entity="robinson17">
+                  <figure><graphic url=""/>
                      <figDesc>17th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -595,7 +575,7 @@ foul cause of human bondage, fights with a rural massacre, makes war
 with midnight arson, and crowns his unmanly barbarity with stabbing a
 sick man in his bed, and shooting an unarmed husband in the very sight
 of his wife!</p>
-               <p pn="17">Let no one deem this violence unnecessary. They tell us that none of
+               <p>Let no one deem this violence unnecessary. They tell us that none of
 our utterances are lost; the vibrations of the air on which they fall
 perpetuate them into an eternity of circles, spreading wider and
 wider. If I am ever again to meet these denunciations of mine,
@@ -609,10 +589,10 @@ incite, who clap their hands in applause of this murder! I think, in
 serious self-defence, we are to see that this thing is ended. This
 wickedness clamors for retributive judgment, and invokes the wrath of
 God.</p>
-               <p pn="17">V.-Thus I am led, naturally, to speak of a fifth element in our
+               <p>V.-Thus I am led, naturally, to speak of a fifth element in our
 feeling of mourning to-day; the pro-
 <pb n="18"/>
-                  <figure entity="robinson18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -637,11 +617,11 @@ becomes a victim to the very magnanimity he was inculcating. Warned
 fully of the peril, he would not  believe human nature could be so
 base. He trusted, and was betrayed. The entire government was menaced,
 in the moment of its open-hearted proffer of good will.</p>
-               <p pn="18">We are satisfied that all this is perilous pusillanimity now. There
+               <p>We are satisfied that all this is perilous pusillanimity now. There
 is no fitness of generosity to malignants venomous as these. So, while
 our hearts
 <pb n="19"/>
-                  <figure entity="robinson19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -662,15 +642,15 @@ spared. But, on the track of the villains that have opened this
 insurrection, and urged it along its bloody track even to this
 dreadful consummation, let the footsteps of justice follow swiftly,
 relentlessly.</p>
-               <p pn="19">It may, possibly, be said, by some, that this assassination of the
+               <p>It may, possibly, be said, by some, that this assassination of the
 officers of government is a mere act of madness done by a brace of
 frantic fanatics; and that it is not equitable and fair to hold a
 whole people responsible for its wickedness.</p>
-               <p pn="19">Let it be said, in reply, that the tidings of this murder, going
+               <p>Let it be said, in reply, that the tidings of this murder, going
 into the ranks of rebellion, will be hailed with a howl of gladness
 and satisfaction equal to the yell in Pandemonium, when Satan seduced
 <pb n="20"/>
-                  <figure entity="robinson20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -691,15 +671,15 @@ bullet. The spirit is the same in all cases. This wickedness is the
 legitimate outgrowth of that system of slavery which originated the
 rebellion, and debauched, from time immemorial, all the finer
 instincts of man.</p>
-               <p pn="20">Hence, there is no revenge in the popular heart to-day, but only
+               <p>Hence, there is no revenge in the popular heart to-day, but only
 retribution. We pity the malefactors; we pray for them; but in this
 determination we are fixed-let the majesty of the law be vindicated
 upon them as traitors; let justice pursue them, one by one; let the
 gates of the world be closed to their search for asylum; let judgment
 follow on as implacable as a doom.</p>
-               <p pn="20">VI.--I might well pause here, in the enumeration
+               <p>VI.--I might well pause here, in the enumeration
 <pb n="21"/>
-                  <figure entity="robinson21">
+                  <figure><graphic url=""/>
                      <figDesc>21st page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -712,7 +692,7 @@ inquire for His counsels, and humbly learn of Him. My office, as a
 Christian minister, will be discharged this morning, when I have
 sought to point out to you some few of the lessons forced into vivid
 illumination by this terrible dispensation of Providence.</p>
-               <p pn="21">1. First of all, then, let us learn here how history is composed. I
+               <p>1. First of all, then, let us learn here how history is composed. I
 am certain we have no proper conception of the magnitude of an event
 like this. We are too near it to discover its proportions. Travellers
 tell us they are always disappointed with the earliest glimpse of vast
@@ -722,11 +702,11 @@ amazing mass. These need distance on the landscape to be truly
 appreciated. So an event like this is never really reverenced as it
 should be. It needs time for the free play of the imagination. We are
 all unconscious of the spectacle we are to present to posterity.</p>
-               <p pn="21">The dreadful deed, which has filled our minds with horror, will be a
+               <p>The dreadful deed, which has filled our minds with horror, will be a
 growing vision of weird wickedness, shining with a strange luridness
 of its own, as one of the wildest tragedies of the world's most un-
 <pb n="22"/>
-                  <figure entity="robinson22">
+                  <figure><graphic url=""/>
                      <figDesc>22nd page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -741,7 +721,7 @@ results. The criminals will soon be apprehended. The insurrection will
 end, and all the excitement will subside. But when the mighty future
 shall receive the inheritance, it will be weighed by other balances,
 and estimated more truly.</p>
-               <p pn="22">Thus history selects and perpetuates its own materials. Each
+               <p>Thus history selects and perpetuates its own materials. Each
 thought, each word, each deed, each flash of sentiment, each outbreak
 of passion, each exercise of influence, enters into the grand
 aggregate of human recollection and intelligence, which we call our
@@ -755,11 +735,11 @@ in front the cross stands ready, and the crackling fagots burn,</l>
                   <l>To glean
 up the scattered ashes into History's golden urn."</l>
                </lg>
-               <p pn="22">2. In the second place, let us learn the essential iniquity and
+               <p>2. In the second place, let us learn the essential iniquity and
 barbarism there is in any system of human oppression. It was long ago
 remarked by Lamartine, that no man ever bound a chain around
 <pb n="23"/>
-                  <figure entity="robinson23">
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -769,7 +749,7 @@ links around his own. Whoever debases the image of God will certainly
 become debased. This thought receives an illustration here that
 amounts almost to a demonstration. This crime is the manifest outshoot
 of American slavery.</p>
-               <p pn="23">I suppose no one remains now who doubts that all this aggregated
+               <p>I suppose no one remains now who doubts that all this aggregated
 mass of abomination, this summation of villanies, whose tide of murky
 violence is rolling itself along before our weary eyes, had its
 fountain-head in the malignant ambition of a few men, who started the
@@ -786,9 +766,9 @@ run on. There will still remain the secret progress of debasement, on
 the bold face of which they have happened to become conspicuous. You
 will gain nothing till you tear the hideous system to pieces, and
 break the spring that lies coiled within it.</p>
-               <p pn="23">What is this crime? Nothing new, surely; only
+               <p>What is this crime? Nothing new, surely; only
 <pb n="24"/>
-                  <figure entity="robinson24">
+                  <figure><graphic url=""/>
                      <figDesc>24th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -808,7 +788,7 @@ all through the history of this infamous rebellion. The pride of
 power, engendered by the tyranny, petty at first, over the unprotected
 black race, has betrayed these miserable wretches into the mistake of
 supposing they could lord it over the white race-that is all.</p>
-               <p pn="24">This latest crime is more showy, but the hearts are no blacker than
+               <p>This latest crime is more showy, but the hearts are no blacker than
 before. And the hearts have been made black, by the system. How else
 will you explain this appalling fact; there are <hi rend="italic">women</hi>, with babes in their arms, who will declare
 that this murder in cold blood of a man in the presence of his wife is
@@ -816,7 +796,7 @@ that this murder in cold blood of a man in the presence of his wife is
 system of philosophy. There is but one solution of the mystery:
 underlying all the ferocity of such a
 <pb n="25"/>
-                  <figure entity="robinson25">
+                  <figure><graphic url=""/>
                      <figDesc>25th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -832,19 +812,19 @@ meanness with so much of hellish cruelty, finds women unsexed enough
 to applaud it! Home on the diabolical system it represents, do I
 soberly urge the responsibility of this murder. It is high time to
 have done with it, root and branches.</p>
-               <p pn="25">3. Once more: Let us learn here to-day the power of martyrdom in
+               <p>3. Once more: Let us learn here to-day the power of martyrdom in
 fixing great principles. President LINCOLN has been useful in his
 life, far beyond what falls to the common lot of even the most
 patriotic and public-spirited men. But his death has confirmed his
 usefulness-made it illustrious, influential, and immortal.</p>
-               <p pn="25">In the natural course of time his period of official service would
+               <p>In the natural course of time his period of official service would
 have ended. His administration of the government would have been
 canvassed cautiously, and, perhaps, uncharitably criticised, and, by
 some parties, condemned. By this sudden, tragic close of it, however,
 it has been forced into prominence. It will now be marked forever. All
 the principles it
 <pb n="26"/>
-                  <figure entity="robinson26">
+                  <figure><graphic url=""/>
                      <figDesc>26th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -862,7 +842,7 @@ the spot where the shafts bang quivering, look around to discover
 whose was the sinewy strength that sent them so forcefully and so
 true, they will find that another hand, just as firm, has assumed the
 bow, and another eye, just as keen, has discerned the same target.</p>
-               <p pn="26">They who oppose an honest man living, are ever among the first to
+               <p>They who oppose an honest man living, are ever among the first to
 honor him dead. Nobody dares uproot a standard planted by a loved
 leader who poured out his life at the foot of its staff. Perhaps it
 was this which was needed to bring our people together
@@ -870,10 +850,10 @@ permanently. Perhaps this was the essential condition of our
 restoration to unity, that we become reconciled over an open grave. It
 may be that party-spirit will yield now, and bury the bitterness of
 its animosity in a martyr's tomb.</p>
-               <p pn="26">You will recall the touching fable of Roman history. A vast seam
+               <p>You will recall the touching fable of Roman history. A vast seam
 opened in the land, in the very
 <pb n="27"/>
-                  <figure entity="robinson27">
+                  <figure><graphic url=""/>
                      <figDesc>27th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -891,25 +871,25 @@ then the heroic warrior, arraying himself in full armor, and mounting
 his horse, rode headlong into the chasm; whereupon the earth
 immediately closed, and over the memorable spot swept a placid lake
 bearing his name.</p>
-               <p pn="27">Shall we say that now our divided country will come together again,
+               <p>Shall we say that now our divided country will come together again,
 when he who seemed the glory and strength of the American people has
 gone down in the breach? Shall not his sacrifice avail for
 propitiation to that foul spirit of sectional pride which rent the
 land asunder?</p>
-               <p pn="27">4. And this leads me on to mention a final lesson. We see now the
+               <p>4. And this leads me on to mention a final lesson. We see now the
 inevitable triumph and perpetuity of our cause. We are not
 hero-worshippers in any degree. We never were. But we believe in
 God. We entered upon this war not willingly, not of our own accord. We
 have been fighting for a principle. 
 <pb n="28"/>
-                  <figure entity="robinson28">
+                  <figure><graphic url=""/>
                      <figDesc>28th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
                   </figure>
 That we have never surrendered nor forgotten. What we loved this
 leader for was what we deemed truth to our cause.</p>
-               <p pn="28">What is our cause? It is easier to say what it is not; for its
+               <p>What is our cause? It is easier to say what it is not; for its
 essence is negative. Whatever this crime of assassination is, whatever
 it represents, whatever it aimed at, whatever was the spirit that
 prompted it, whatever may be now wickedly offered in its apology--just
@@ -923,7 +903,7 @@ the dignity of universal labor, and the absolute equality of all races
 before the common law. He who, at this late day, shuts his eyes to
 this fact, is neither intelligent nor wise. We have fought for an open
 Bible, a free school, an unfettered press, and a Scriptural pulpit.</p>
-               <p pn="28">In all the doctrines ostentatiously put forth by our foes-States'
+               <p>In all the doctrines ostentatiously put forth by our foes-States'
 rights, uncontaminated blood, family pride, sectional
 independence-there has ever been this keen, sharp liking for slavery
 as a social system. They recognized it as a kind of secret zest among
@@ -931,7 +911,7 @@ themselves; as voluptuaries recognize, with an understood leer, a
 favorite lust; as wine-bibbers recognize the subtle flavor of an
 indescribable liquor. Our
 <pb n="29"/>
-                  <figure entity="robinson29">
+                  <figure><graphic url=""/>
                      <figDesc>29th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -946,7 +926,7 @@ and held us responsible. We were the enemies of all class-systems,
 castes, and aristocracies. We were the champions of manhood in all
 that was noble, of womanhood in all that was pure. This has been, and
 still is, our cause.</p>
-               <p pn="29">And what I call you to learn now is, that this cause is safe. A
+               <p>And what I call you to learn now is, that this cause is safe. A
 martyr's blow has sealed the covenant we are making with
 posterity. Oh, the glories of our immediate prospect of usefulness in
 the years to come! The republic is secure. The Union is confirmed as a
@@ -958,9 +938,9 @@ primeval granite. The most delicate balances of commercial life show
 not even the semblance of noticeable variation, even when this
 violence of a ton's weight all at once jars the beam! Our cause is
 eternally secure!</p>
-               <p pn="29">Think, then, as we close our meditation upon this
+               <p>Think, then, as we close our meditation upon this
 <pb n="30"/>
-                  <figure entity="robinson30">
+                  <figure><graphic url=""/>
                      <figDesc>30th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -980,16 +960,16 @@ of unutterable oppression--rayless and stifled--and then one voice
 breaks the silence; a voice wailing, piercing, as if from a crushed
 and broken heart, lifting the burden of the Miserere; the grief of the
 race over its Helper and its Hope.</p>
-               <p pn="30">Fitting seems the symbol to us now, as we look only on the earthly
+               <p>Fitting seems the symbol to us now, as we look only on the earthly
 side of this tremendous loss; on that same day, while the shadows were
 gathering in the chapel of that seven-hilled city, our light appeared
 to go out, and the nation was in the gloom.</p>
-               <p pn="30">But to-day, let us look on the heavenly side. How sweet and calm it
+               <p>But to-day, let us look on the heavenly side. How sweet and calm it
 is to think of that great, brave heart, this Easter Sabbath! He is not
 here, but risen. Far beyond the sound of battle, far beyond the
 turmoil of state, in the infinite realms of gladness,
 <pb n="31"/>
-                  <figure entity="robinson31">
+                  <figure><graphic url=""/>
                      <figDesc>31th page of
 Rev. Chas. S. Robinson's The Martyred President: A Sermon Preached in
 the First Presbyterian Church, Brooklyn, N. Y.</figDesc>
@@ -1009,9 +989,9 @@ faith in the Saviour, that he learned by the graves of the boys that
 fell at Gettysburg; and, as you gaze after him, with a subdued and
 tearful heart, you can only pay him the tribute that trembles on the
 lip that speaks it--</p>
-               <p pn="31">"HE WAS A GOOD MAN, AND A JUST!"</p>
+               <p>"HE WAS A GOOD MAN, AND A JUST!"</p>
             </div2>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>

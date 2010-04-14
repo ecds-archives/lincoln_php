@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="The Great Funeral Oration on Abraham Lincoln">
             <title>The Great Funeral Oration on Abraham Lincoln</title>
             <author>Hardinge, Emma</author>
@@ -12,14 +10,10 @@ Center</name>
             </respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -28,9 +22,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact the Director, 
 Pitts Theology Library, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1999</date>
-         </publicationStmt>
+            </availability><date>1999</date></publicationStmt>
          <seriesStmt>
             <title>Lincoln
 Sermons Project</title>
@@ -42,8 +34,7 @@ April 16, 1865, at Cooper Institute, New York, Before Upwards of Three
 Thousand Persons.  New York: American News Company, Nassau
 Street.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This text derives from the Special Collections 
 of Pitts Theology Library, Emory University, and is produced in 
@@ -58,23 +49,12 @@ Preservation Office, and Pitts Theology Library.</p>
             <p>COMPRESSION: Resolution 144 per inch with Constrain Properties to 72 per inch.</p>
             <p>SOURCE: Original documents.</p>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1999</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance
-with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance
+with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-         <div1 id="britten.001" n="The Great Funeral Oration on Abraham Lincoln" type="text">
-            <head pn="1"> 
+         <div1 xml:id="britten.001" n="The Great Funeral Oration on Abraham Lincoln" type="text">
+            <head> 
                <bibl> 
                   <title>The Great
 Funeral Oration on Abraham Lincoln</title> 
@@ -82,55 +62,55 @@ Funeral Oration on Abraham Lincoln</title>
                   <pubPlace>Cooper Institute, New York</pubPlace> 
                   <author>Hardinge,
 Emma</author> 
-                  <imprint>
+                  
                      <pubPlace>New York</pubPlace>
                      <publisher>American News Company</publisher>
                      <date>1865</date>
-                  </imprint> 
+                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15ptr</idno></bibl> 
             </head>
-            <p pn="1">
-               <figure entity="hardinge1">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>1st page of Emma Hardinge's The
 Great Funeral Oration on Abraham Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="1">THE GREAT</p>
-            <p pn="1">FUNERAL ORATION</p>
-            <p pn="1">ON</p>
-            <p pn="1">ABRAHAM LINCOLN,</p>
-            <p pn="1">BY</p>
-            <p pn="1">MISS EMMA HARDINGE.</p>
-            <p pn="1">DELIVERED SUNDAY, APRIL 16, 1865, AT COOPER INSTITUTE,</p>
-            <p pn="1">NEW
+            <p>THE GREAT</p>
+            <p>FUNERAL ORATION</p>
+            <p>ON</p>
+            <p>ABRAHAM LINCOLN,</p>
+            <p>BY</p>
+            <p>MISS EMMA HARDINGE.</p>
+            <p>DELIVERED SUNDAY, APRIL 16, 1865, AT COOPER INSTITUTE,</p>
+            <p>NEW
 YORK, BEFORE UPWARDS OF THREE</p>
-            <p pn="1">THOUSAND PERSONS.</p>
-            <p pn="1">NEW YORK:</p>
-            <p pn="1">AMERICAN NEWS COMPANY</p>
-            <p pn="1">NASSAU STREET.</p>
-            <p pn="1">TWENTY-FIVE CENTS.</p>
-            <p pn="1">
+            <p>THOUSAND PERSONS.</p>
+            <p>NEW YORK:</p>
+            <p>AMERICAN NEWS COMPANY</p>
+            <p>NASSAU STREET.</p>
+            <p>TWENTY-FIVE CENTS.</p>
+            <p>
                <pb n="2"/>
             </p>
-            <p pn="2">
-               <figure entity="hardinge2">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>2nd page of
 Emma Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="2">
+            <p>
                <pb n="3"/>
             </p>
-            <p pn="3">
-               <figure entity="hardinge3">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>3rd page of
 Emma Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="3">PREFACE.</p>
-            <p pn="3">The news of the death of Abraham Lincoln, President of the United
+            <p>PREFACE.</p>
+            <p>The news of the death of Abraham Lincoln, President of the United
 States, was telegraphed to New York on Saturday morning, April
 15. Toward the close of the day, Miss Emma Hardinge received an
 invitation from several influential citizens to deliver an oration
@@ -145,12 +125,12 @@ thousand persons interrupted her discourse, sufficiently testified not
 less to the earnestness and justice of the tribute paid to the
 illustrious martyr than to the eloquence that characterized this most
 valuable oration.</p>
-            <p pn="3">The oration having fortunately been phonographically reported, is
+            <p>The oration having fortunately been phonographically reported, is
 now published in response to a very generally expressed desire on the
 part of citizens of all shades of political belief, who are solicitous
 that so fitting, a memento of the virtues of Abraham Lincoln should be
 read by every American patriot.</p>
-            <p pn="3">
+            <p>
                <pb n="4"/>
             </p>
 <!-- blank page -->
@@ -161,18 +141,18 @@ Emma Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
                </figure>
             </p> -->
-            <p pn="4">
+            <p>
                <pb n="5"/>
             </p>
-            <p pn="5">
-               <figure entity="hardinge5">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>5th page of
 Emma Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <p pn="5">INVOCATION.</p>
-            <p pn="5">0 Thou that hearest prayer! Look upon us, Thy children, in this
+            <p>INVOCATION.</p>
+            <p>0 Thou that hearest prayer! Look upon us, Thy children, in this
 hour of deepest soul-affliction! Lord of the sunshine and the storm,
 God of the starry night and sunlit day, Thou who art our joy, our
 grief, our all! teach us to remember, in the darkness as the light,
@@ -199,19 +179,19 @@ blessed Nazarene, His follower in life, His prototype in death, he has
 joined the sons of light, the hosts of victory crowned, and wears the
 palm of a glorious immortality, arisen, arisen! to his Father's home,
 and ours.</p>
-            <p pn="5">
+            <p>
                <pb n="6"/>
             </p>
-            <p pn="6">
-               <figure entity="hardinge6">
+            <p>
+               <figure><graphic url=""/>
                   <figDesc>6th page of
 Emma Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
                </figure>
             </p>
-            <div2 id="booth.002" n="ORATION." type="sermon">
-               <head pn="6">ORATION.</head>
-               <p pn="6">It seems to me as if I heard a tone, borne on the wings of time and
+            <div2 xml:id="booth.002" n="ORATION." type="sermon">
+               <head>ORATION.</head>
+               <p>It seems to me as if I heard a tone, borne on the wings of time and
 sounding through the corridors of space, sweeping the earth like a
 breeze, from the shores of the remotest East to this land of the
 distant West--a voice that for eighteen hundred years has pleaded
@@ -225,7 +205,7 @@ that afflicts us in this most unparalleled and sublime national woe. I
 recall the page of history in vain to find any precedent (save the one
 which laid the foundations of your religion) for this foul and
 monstrous act of guilt which forms the record of this solemn hour.</p>
-               <p pn="6">When I remember the circumstances, time, and personages of this
+               <p>When I remember the circumstances, time, and personages of this
 tragic history, all attempts at parallel grow pale and fail us
 utterly. Rome's Caesar pleads to us with the dumb but most eloquent
 voices of "his bleeding wounds;" but before that piteous sacrifice
@@ -235,9 +215,9 @@ martyrdom; but even then his guiltless life was yielded up to time and
 preparation, a show of justice, and the sanction of a multitude. The
 wrongs of an oppressed people and the ruin of a nation were on the
 heads of both the Roman and French rulers.</p>
-               <p pn="6">The shadow, if not the substance, of justice condemned
+               <p>The shadow, if not the substance, of justice condemned
 <pb n="7"/>
-                  <figure entity="hardinge7">
+                  <figure><graphic url=""/>
                      <figDesc>7th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -253,7 +233,7 @@ for the insanity which destroys in a nation's preserver a nation's
 institutions; in a nation's noblest man her brightest jewel; and in
 the hour of his noblest recorded acts inflicts on him the blow that
 recoils in an immortal stain upon a nation's honor?</p>
-               <p pn="7">Pass over the perilous scenes of strife, political hatred, and
+               <p>Pass over the perilous scenes of strife, political hatred, and
 factional discord, that might have drawn lines of separation between
 himself and those who could not appreciate his acts of policy, and
 follow him to the time when he stands the central figure of the dark
@@ -272,7 +252,7 @@ of mercy; and after having gallantly conquered, generously forgave the
 foe, uniting again in one fraternal clasp the severed hands of North
 and South, and silenced every jealous
 <pb n="8"/>
-                  <figure entity="hardinge8">
+                  <figure><graphic url=""/>
                      <figDesc>8th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -283,7 +263,7 @@ by their arms. In all his public acts, even <hi rend="italic">to the
 very last</hi>, we see him ever casting himself trustingly and nobly
 on the fealty of the people. Surely he must have loved them, for who
 ever before so trusted them?</p>
-               <p pn="8">Despite of the fearful storm which treason had conjured up around
+               <p>Despite of the fearful storm which treason had conjured up around
 him, in defiance of the insolent presence of the rebellion and the
 infamous serpent-trail of conspiracy, the generous, unselfish heart of
 the man still confided in the people, and he went among them with none
@@ -297,17 +277,17 @@ the arms of the parricide that struck him down. Oh! what an hour, and
 under what a sacred trust, to consummate this deep and burning stain
 upon humanity! Accursed be the hand, the time, the place, that wrote
 upon the page of history the foulest blot that page has ever borne.</p>
-               <p pn="8">'Tis well the dying Master on the cross plead, in his pitying love,
+               <p>'Tis well the dying Master on the cross plead, in his pitying love,
 for the children of perdition. Our lips are too unchristlike, face to
 face with such an act as this, to say amen for the prayer of mercy on
 this wretch.</p>
-               <p pn="8">In view of the special infamy which time, circumstance, and person
+               <p>In view of the special infamy which time, circumstance, and person
 all so fearfully aggravate, permit me here to speak my deep conviction
 that this act, however fatally we know it is the work of plot and
 rebellion, still cannot be, for the honor of humanity, the organized
 act of any great section of the land we call <hi rend="italic">American</hi>. I cannot believe it the work
 <pb n="9"/>
-                  <figure entity="hardinge9">
+                  <figure><graphic url=""/>
                      <figDesc>9th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -327,23 +307,23 @@ disclosed in this solemn lesson. First, then, we are called upon to
 review the noble teaching in our lost friend's history; next, to
 scrutinize the deed which closed it; and then determine what the
 trumpet-voice of this dread hour demands of us as <hi rend="italic">duty</hi>.</p>
-               <p pn="9">I cannot think it is out of place
+               <p>I cannot think it is out of place
 to-day to retrace "those shining foot-prints on the sands of time"
 which he we mourn has left behind him, although they are, as they
 justly should be, already household words among the people of his
 love.</p>
-               <p pn="9">Now, will you deem it less in order that I should presume to be
+               <p>Now, will you deem it less in order that I should presume to be
 your memento of this sacred page? Month after month it has seemed my
 special inspiration to call upon the people, whom it was my privilege
 to address, to study out and comprehend the acts of him whom I felt
 and named as the true  "PRESERVER OF HIS COUNTRY."</p>
-               <p pn="9">Scarcely ten days have passed since these walls, re-echoed to the
+               <p>Scarcely ten days have passed since these walls, re-echoed to the
 gallant cheer that hailed my voice when I told you of the sterling
 worth, the loyal faith, and providential wisdom of this noble
 incarnation of earth's best republicanism--the man of the people, the
 PEOPLE'S ABRAHAM LINCOLN.  Some
 <pb n="10"/>
-                  <figure entity="hardinge10">
+                  <figure><graphic url=""/>
                      <figDesc>10th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -355,7 +335,7 @@ unpaid and zealous service. My hope is quenched, and the kind paternal
 hand is marble now; nor YOU nor I shall clasp it, until that day when
 we stand with him "where the sun goes down no more; where the mourners
 cease to weep; and the just rejoice forever."</p>
-               <p pn="10">What a retrospect of a splendid career developed, if not wholly
+               <p>What a retrospect of a splendid career developed, if not wholly
 fashioned, by the fostering sun of American republicanism, does our
 great chief magistrate's history present us with! Fifty-six years ago,
 and the low sigh of the breeze stirring the trees of old Kentucky, the
@@ -370,7 +350,7 @@ friends and teachers; and yet we trace the germs of Nature's truest
 nobility unfolding themselves in every year of his faithful life;
 always the good and dutiful child, the industrious little aid of the
 toiling father, the willing little drudge of the patient mother.</p>
-               <p pn="10">At seven years he goes forth with the spelling-book, one of the
+               <p>At seven years he goes forth with the spelling-book, one of the
 three volumes that constitute the family library. At eight he learns
 the first dread lesson of slavery, namely, that free white labor has
 no chance in competition with captive black; that the condition of a
@@ -378,7 +358,7 @@ poor white laborer in a slave State is more hopeless than the slave
 himself; and hence himself and little household endure the toil and
 hardship of a weary pioneer journey from Kentucky slavery and darkness,
 <pb n="11"/>
-                  <figure entity="hardinge11">
+                  <figure><graphic url=""/>
                      <figDesc>11th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -394,7 +374,7 @@ become the scribe of all who sought the good boy's service in this
 humble way. At nineteen he is the Mississippi boat-man, intrusted with
 wealth and others' welfare, honored and sought for himself and. his
 honest manhood.</p>
-               <p pn="11">At twenty-one he first set foot in that Illinois whose proudest
+               <p>At twenty-one he first set foot in that Illinois whose proudest
 boast to-day is to call him hers. Here he makes his father's home,
 helps build his house, and fence his farm, and immortalized that
 humble form of labor which renders the title of the "rail-splitter" a
@@ -414,7 +394,7 @@ republicanism, thou knowest thy kings, and never can mistake thy
 princes! And in every step of this great magic ladder cut by his
 hands, erected by
 <pb n="13"/>
-                  <figure entity="hardinge13">
+                  <figure><graphic url=""/>
                      <figDesc>13th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -424,7 +404,7 @@ fail to perceive, from the entire tenor of Mr. Lincoln's remarkable
 life, that he fully understood and completely loathed the monstrous
 blot that had crept into the national legislation in the form of
 legalized slavery.</p>
-               <p pn="13">He was its open and avowed enemy, ever voting in his place,
+               <p>He was its open and avowed enemy, ever voting in his place,
 whenever occasion served, against its extension in any form; the
 contest I have alluded to, enabled him to bring all the powers of his
 acute and logical mind and forcible nervous oratory, to bear on the
@@ -447,10 +427,10 @@ irrepressible conflict in which the nation's life was yet to be
 involved, he was ever led to refuse his sanction to a single, act, by
 which (as we now perceive) in after years the rebellious South could
 have founded a plea upon, to excuse their base secession.</p>
-               <p pn="13">That rash and hasty zeal that would have hurried the nation's Chief
+               <p>That rash and hasty zeal that would have hurried the nation's Chief
 Magistrate into acts which ignored the letter
 <pb n="14"/>
-                  <figure entity="hardinge14">
+                  <figure><graphic url=""/>
                      <figDesc>14th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -468,7 +448,7 @@ emergencies and times. Behold him next assuming the reins of
 government at a time when every other mind on earth would have shrunk
 aghast from the fearful task, or sunk beneath its complicated
 perils.</p>
-               <p pn="14">Surrounded by treason, environed by secret foes, the ground beneath
+               <p>Surrounded by treason, environed by secret foes, the ground beneath
 him undermined by plots, a vast and relentless offensive war already
 thundering at the nation's gate, while the thews and sinews of defense
 were stolen, removed, and broken; ships, arsenals, forts, treasuries
@@ -486,7 +466,7 @@ treacherous foreign despot powers, all waiting, longing greedily to
 aid the ruin of the earth's democracy, their own most dreaded foe--and
 yet, in any of these
 <pb n="15"/>
-                  <figure entity="hardinge15">
+                  <figure><graphic url=""/>
                      <figDesc>15th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -497,7 +477,7 @@ Abraham Lincoln ever found at fault? I answer, boldly challenging
 earth's statesmen to disprove my words--<hi rend="italic">not in one
 single instance!</hi>
                </p>
-               <p pn="15">There's not a statesman of the age but might read a lesson in the
+               <p>There's not a statesman of the age but might read a lesson in the
 firm and lofty dignity of tone in which the nation's status was
 defined, aye, and maintained, too, in all his foreign messages and
 ministerial instructions. When dark, impending ruin shook the earth
@@ -523,7 +503,7 @@ American republicanism grandly depicted. A mind capable of analyzing
 with such irresistible and clear deductions the entangled meshes of
 treason in which
 <pb n="16"/>
-                  <figure entity="hardinge16">
+                  <figure><graphic url=""/>
                      <figDesc>16th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -557,14 +537,14 @@ rights they had forfeited, as jealous as themselves could have
 exercised, retaining by his wise policy the strength of the
 vacillating western and border States still attached to the Union.</p>
                <pb n="17"/>
-               <p pn="17">
-                  <figure entity="hardinge17">
+               <p>
+                  <figure><graphic url=""/>
                      <figDesc>17th page of
 Emma Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
                   </figure>
                </p>
-               <p pn="17">Assailed by unwise friends and bitter foes, with taunts and
+               <p>Assailed by unwise friends and bitter foes, with taunts and
 revilings on every hand, still he moved not; but when the crisis came
 in which the nation's life was balanced against protective southern
 policy, how long did the noble statesman hesitate? The cry of the
@@ -578,11 +558,11 @@ Him for deliverance, three thousand years has seen that awful charge
 hold disregarded, mocked, and spit upon, until good  Abraham Lincoln,
 in 1863, proclaimed it in "Liberty throughout the land, to every
 inhabitant thereof!" God bless him for it!</p>
-               <p pn="17">I was present in San Francisco one year after this memorable deed,
+               <p>I was present in San Francisco one year after this memorable deed,
 and, in company with the only other white orator who could be found to
 take part on such an occasion, helped the enfranchised race to honor
 the glorious anniversary.</p>
-               <p pn="17">The memory of the sable martyrs that had perished at Port Hudson
+               <p>The memory of the sable martyrs that had perished at Port Hudson
 and Fort Pillow was still green in memory; they told of the black
 regiments, formed of men whose ancestors' unpaid. toil had made the
 country rich, whose backs were still seamed with lashes, and whose
@@ -593,7 +573,7 @@ wild, and touching eloquence; but all was forgotten, all forgiven when
 the name of their modern Moses was pronounced, and then it was that a
 shout went
 <pb n="18"/>
-                  <figure entity="hardinge18">
+                  <figure><graphic url=""/>
                      <figDesc>18th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -603,7 +583,7 @@ by the white slaves of despotism and tyranny all over the world--a
 shout of  "God bless Abraham Lincoln!" That cry will be a passport to
 his soul through the courts of heaven, in all eternity, did it stand
 alone as the only record of his pure and spotless life.</p>
-               <p pn="18">But wherever I turn my eyes in his unprecedented career I find some
+               <p>But wherever I turn my eyes in his unprecedented career I find some
 fresh challenge to my wonder and admiration. No man in history was
 ever before, intrusted with the charge of such vast armies, the
 disbursements of such enormous sums of money, or the exercise of such
@@ -628,7 +608,7 @@ with that moral fitness for command which has made the world's most
 potent conquests and furnished in history its brightest wreaths of
 victory. From the very
 <pb n="19"/>
-                  <figure entity="hardinge19">
+                  <figure><graphic url=""/>
                      <figDesc>19th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -647,7 +627,7 @@ on the shrine of that glorious Union that bent beneath the storm only
 to rise in more glorious majesty again on the shattered walls of
 Sumter--and the crowning acts of all were the last of this strange
 eventful history.</p>
-               <p pn="19">True to the genius of the opposing sections, behold the pampered
+               <p>True to the genius of the opposing sections, behold the pampered
 aristocrats of the South, made rich on stolen labor <hi rend="italic">sending their</hi> "<hi rend="italic">Commissioners</hi>" to
 treat with the nation they had so recklessly sought to destroy; on the
 other hand, see the man who held the highest dignity the earth could
@@ -656,14 +636,14 @@ none of the guards his sacred life required, none of the outward shows
 of form his stupendous charge might sanction, going himself, in
 person, father-like, to receive and welcome back his prodigal
 child.</p>
-               <p pn="19">What a contrast does the simple, unassuming presence of the man,
+               <p>What a contrast does the simple, unassuming presence of the man,
 conferring with the rebel emissaries, present to the lofty and
 unflinching tone of the President when he spoke for the nation! He was
 nothing for himself, all for the people; he went forth, the unassuming
 backwoodsman's boy, to meet his southern brothers; he stood, the chief
 of the great New World, to speak of the terms on which its peace
 <pb n="20"/>
-                  <figure entity="hardinge20">
+                  <figure><graphic url=""/>
                      <figDesc>20th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -671,7 +651,7 @@ Lincoln.</figDesc>
 could be insured; nor, when treating for its people, abated one jot of
 the unconditional submission of every soul beneath the shelter of the
 American Constitution, the just but literal letter of its laws.</p>
-               <p pn="20">We have traced him as the incarnate spirit of true republicanism,
+               <p>We have traced him as the incarnate spirit of true republicanism,
 the self-made boy, the unimpeachable youth, the noble man, the
 legislator, statesman, orator, chief magistrate, and father of a
 mighty people, their staff in the earthquake's shock, their anchor in
@@ -697,7 +677,7 @@ away, and all other stormy passages of this tempestuous time be
 obliterated in the triumph of that Christ-like spirit which opened its
 arms of welcome to the fallen
 <pb n="21"/>
-                  <figure entity="hardinge21">
+                  <figure><graphic url=""/>
                      <figDesc>21st page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -720,7 +700,7 @@ harsh, dissonant voice rings in the requiem notes of the very bells
 that to-day should have sounded out the glad rejoicing tones of
 peace. I have but a few words to say concerning this deed, but a
 passing glance to cast upon its already doomed and inhuman authors!</p>
-               <p pn="21">He who knows the secrets of all hearts can best decide how many of
+               <p>He who knows the secrets of all hearts can best decide how many of
 His creatures sink so low beneath the human image of Himself as to be
 concerned in the act that struck down the noblest in his very noblest
 hour, and added to the impious crime of parricidal murder the wanton,
@@ -732,7 +712,7 @@ represent more than a petty band of Cains. But while the hiss of a
 whole earth's execration hoots the wretch from life who was the
 foremost hand to strike the
 <pb n="22"/>
-                  <figure entity="hardinge22">
+                  <figure><graphic url=""/>
                      <figDesc>22nd page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -748,16 +728,16 @@ of men, ruling, by force of blows and stripes and bullying tones,
 weakness and ignorance, and bearing inevitably (from a brutal source)
 the rank and hideous weeds secession, savage war, and treacherous
 murder.</p>
-               <p pn="22">There are men now who sit beneath the southern orange and magnolia
+               <p>There are men now who sit beneath the southern orange and magnolia
 and weep for him as we weep; hearts in the unhappy South as sorrowful
 as ours; heads bowed with shame, and many a one who would--as I or
 many of you would--cheerfully lay down his life to recall the precious
 one the country mourns.</p>
-               <p pn="22">Thousands of southern Rachels weep this day for our dead chief; and
+               <p>Thousands of southern Rachels weep this day for our dead chief; and
 wide, clear-sighted men in the furthest South know their best friend
 and the country's true preserver will lie low in the grave of
 Lincoln.</p>
-               <p pn="22">But what is that to the past? Who can recall it? God's footsteps
+               <p>But what is that to the past? Who can recall it? God's footsteps
 never return upon themselves. The southern institution, enemy alike of
 God and man, has slain the South, and as the monstrous blossom of a
 poison-tree, has slain its friend and honor in Abraham Lincoln. For
@@ -768,7 +748,7 @@ the unresisting form of sickness--but those who had learned to love
 the traffic in human life; but those whom the groans of lacerated
 black men had made callous,
 <pb n="23"/>
-                  <figure entity="hardinge23">
+                  <figure><graphic url=""/>
                      <figDesc>23rd page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -780,7 +760,7 @@ its spirit</hi>; if not upon the men of the South, <hi rend="italic">yet
 on its institutions</hi>; and if not the act in very person of
 slave-owners, the <hi rend="italic">blood of Lincoln lies at the door
 of</hi> SLAVERY!</p>
-               <p pn="23">Oh, friends! the prayer of the gentle Master, "Father, forgive
+               <p>Oh, friends! the prayer of the gentle Master, "Father, forgive
 them, <hi rend="italic">they know not what they do</hi>," constitutes
 the history of this dreadful wrong, but nevertheless it must not close
 our ears to the mighty right. We know that the cause that makes men
@@ -806,7 +786,7 @@ for evermore; the gates of every home on earth all violated by his
 parricidal act, shall close against him; the curse of every fettered
 captive 
 <pb n="24"/>
-                  <figure entity="hardinge24">
+                  <figure><graphic url=""/>
                      <figDesc>24th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -827,20 +807,20 @@ must swell, "<hi rend="italic">Death to Lincoln's murderer!</hi>" No
 more of him, but wake from the fearful palsy fallen upon you people,
 and answer to yourselves and to your country. What is now your duty?
 what the demands of the hour, if any, on your individual action?</p>
-               <p pn="24">Friends, the hour has come to try men's souls. The country waits
+               <p>Friends, the hour has come to try men's souls. The country waits
 for you, with arm and heart and bead, to rebuild its shattered altars,
 remould its glory, and restore or reconstruct, if need be, the charter
 of its life and all your liberties--your national Constitution. Permit
 me, then, to close up this address by a brief reference to this
 absorbing subject of your duties.</p>
-               <p pn="24">The very night before that fatal one that robbed us of our nation's
+               <p>The very night before that fatal one that robbed us of our nation's
 strong right arm, the people's voice demanded of me, in the city of
 Philadelphia, suggestive words on the theme of reconstruction.</p>
-               <p pn="24">I then said what I now repeat--that the question of reconstruction
+               <p>I then said what I now repeat--that the question of reconstruction
 depends almost solely ON THE TIME that is chosen, an THE CONDITIONS
 under which the work commences
 <pb n="25"/>
-                  <figure entity="hardinge25">
+                  <figure><graphic url=""/>
                      <figDesc>25th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -876,7 +856,7 @@ parchments don't; and if a nation's growth is to be hindered to suit
 the narrow limits of its laws, let <hi rend="italic">them grow too;</hi>
 or if they can
 <pb n="26"/>
-                  <figure entity="hardinge26">
+                  <figure><graphic url=""/>
                      <figDesc>26th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -907,12 +887,12 @@ another man of the people; another grand Republican ladder, on which
 the mudsills rise to the highest rounds of nature's loyalty; another
 living protest against the destroying influence of slavery on whites
 as well as blacks.</p>
-               <p pn="26">Rally around your President with heart and head and hand, and be
+               <p>Rally around your President with heart and head and hand, and be
 sure of this, that, if the mantle of the too-merciful Lincoln has not
 fallen upon his shoulders, that of bold Andrew Jackson has, and that
 in these troublous times,
 <pb n="27"/>
-                  <figure entity="hardinge27">
+                  <figure><graphic url=""/>
                      <figDesc>27th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -921,7 +901,7 @@ when mercy is requited with assassination, the spirit of the immortal
 Andrew Jackson and the mortal Andrew Johnson can better deal with
 treason and murder than the saintlike form whose, arms enfold its
 destroyer.</p>
-               <p pn="27">Mourn for Abraham Lincoln with your hearts, but prove your love to
+               <p>Mourn for Abraham Lincoln with your hearts, but prove your love to
 him by taking up the burden he's laid down and finishing the noble
 purposes of his great life so untimely quenched. For you, his country,
 and the holy cause of patriotism, he perished. He spoke no word, he
@@ -935,7 +915,7 @@ words; no more disloyal murmurs; no more pretense of plain, blunt
 speech to stab the government, ruin the nation, and kill its best
 defenders. Crush out the serpent in the egg, the henbane in the seed,
 and we'll have no more such bitter fruit as murder and rebellion.</p>
-               <p pn="27">Trust to the man of the people, raised up, in this hour of sudden
+               <p>Trust to the man of the people, raised up, in this hour of sudden
 need and strange calamity, like a God-given answer to a prayer our
 lips have not had time to fashion. Question not his faults, but regard
 his sterling qualities. Follow his brave, strong footsteps in his
@@ -943,11 +923,11 @@ great ascent of life; his noble words and pledges of good faith ere
 the nation's need had come, and be sure that God has sent him to our
 rescue, and your part is to give him added strength in a nation's
 united heart and faith,</p>
-               <p pn="27">What matters it, then, that he we love and so bitterly deplore has
+               <p>What matters it, then, that he we love and so bitterly deplore has
 gone before us? Sooner or later, for us all, his summons will be
 ours. God only give us grace to follow him to
 <pb n="28"/>
-                  <figure entity="hardinge28">
+                  <figure><graphic url=""/>
                      <figDesc>28th page of Emma
 Hardinge's The Great Funeral Oration on Abraham
 Lincoln.</figDesc>
@@ -962,4 +942,4 @@ Lord."</p>
          </div1>
       </body>
    </text>
-</TEI.2>
+</TEI>
