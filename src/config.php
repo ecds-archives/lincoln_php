@@ -1,28 +1,32 @@
 <?php
 
-$in_production="true";
+$in_production=false;
 
 /* Configuration settings for entire site */
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
-if ($in_production) {
+if($in_production==true) {
   error_reporting(E_ERROR);	// for production
  } else {
   error_reporting(E_ERROR | E_PARSE);    // for development
  }
 
 /* exist settings */
-if($in_production) {
+if($in_production==true) {
 $basedir = "/home/httpd/html/beck/lincoln";
 $server = "bohr.library.emory.edu";
 $base_path = "/lincoln/";
 $base_url = "http://beck.library.emory.edu$base_path/";
  } else {
 //development
-$basedir = "/home/ahickco/public_html/lincoln";
+$basedir = "/~christopherpollette";
+$server = "kamina.library.emory.edu";
+$webserver = "localhost";
+$base_path = "/~christopherpollette/lincoln";
+/* $basedir = "/home/ahickco/public_html/lincoln";
 $server = "wilson.library.emory.edu";
-$base_path = "/~ahickco/lincoln/";
-$base_url = "http://$server$base_path/";
+$base_path = "/~ahickco/lincoln/";*/
+$base_url = "http://$webserver$base_path/";
  }
 
 // root directory and url where the website resides
@@ -40,7 +44,7 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":
 $cssfile = "web/css/lincoln.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
-if($in_production) {
+if($in_production == true) {
   $port = "7080";
  } else {
   $port = "8080";

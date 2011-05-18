@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?> 
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:exist="http://exist.sourceforge.net/NS/exist" version="1.0" exclude-result-prefixes="exist">
+	xmlns:html="http://www.w3.org/TR/REC-html40" 
+	xmlns:xq="http://metalab.unc.edu/xq/"
+	xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:exist="http://exist.sourceforge.net/NS/exist">
 
 <!--	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
 	xmlns:xq="http://metalab.unc.edu/xq/"> -->
@@ -43,11 +46,11 @@
 </xsl:template>
 
 
-<xsl:template match="head/bibl">
+<xsl:template match="tei:head/tei:bibl">
   <xsl:element name="h2">
   <xsl:element name="i">
       <xsl:value-of select="title"/>
-  </xsl:element>, <xsl:value-of select="author"/>, <xsl:value-of select="date"/>,<br/>
+  </xsl:element>, <xsl:value-of select="tei:author"/>, <xsl:value-of select="tei:date"/>,<br/>
   <xsl:value-of select="pubPlace"/>.
   </xsl:element>
 </xsl:template>
@@ -79,7 +82,7 @@
     </p> 
 </xsl:template>
 
-<xsl:template match="p">
+<xsl:template match="tei:p">
 <p><xsl:apply-templates/></p>
 </xsl:template>
 

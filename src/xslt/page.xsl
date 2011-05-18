@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-                version="1.0">
+	xmlns:html="http://www.w3.org/TR/REC-html40" 
+	xmlns:xq="http://metalab.unc.edu/xq/"
+	xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:exist="http://exist.sourceforge.net/NS/exist">
 
   <xsl:output method="xml"/>
 
@@ -12,7 +15,7 @@
     <xsl:apply-templates select="//div"/>
   </xsl:template>
 
-  <xsl:template match="head">
+  <xsl:template match="tei:head">
     <xsl:apply-templates select="//title"/>
     <xsl:apply-templates select="//author"/>
   </xsl:template>
@@ -20,7 +23,7 @@
   <xsl:template match="title">
     <i>
       <a>
-        <xsl:attribute name="href">sermon.php?id=<xsl:value-of select="ancestor::div/@id"/></xsl:attribute>
+        <xsl:attribute name="href">sermon.php?id=<xsl:value-of select="ancestor::div/@xml:id"/></xsl:attribute>
         <xsl:apply-templates/>
       </a>
     </i>

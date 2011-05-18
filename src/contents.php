@@ -25,17 +25,19 @@ let $body := $a/:text/body
 return <div> {$auth}
 {for $div1 in $body/div1 return <div1>{$div1/@id}{$div1/head/bibl}</div1> } </div> sort by (author)'; */
 
-$query = 'for $a in /TEI.2
-let $auth := $a/teiHeader/fileDesc/titleStmt/author
-let $body := $a/text/body
+// query for all volumes -- eXist
+$query = 'declare namespace tei="http://www.tei-c.org/ns/1.0";
+for $a in /tei:TEI
+let $auth := $a/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author
+let $body := $a/tei:text/tei:body
 order by $auth
 return <div>
 {$auth}
-{for $div1 in $body/div1
+{for $div1 in $body/tei:div1
 return
 <div1>
-{$div1/@id}
-{$div1/head/bibl}
+{$div1/@xml:id}
+{$div1/tei:head/tei:bibl}
 </div1>}
 </div>';
 
