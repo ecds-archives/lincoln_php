@@ -7,13 +7,13 @@ $terms = $_GET['keyword'];
 
 // use tamino settings from config file
 //$args = $exist_args;
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 
 $xmldb = new xmlDbConnection($exist_args);
 
-$for = 'for $div in /TEI.2/text/body/div1[@id  = "' . $id . '"]';
+$for = 'for $div in /tei:TEI/text/body/tei:div1[@xml:id  = "' . $id . '"]';
 if ($terms != '') {$for .= "[. |= \"$terms\"]";}
-$let = 'let $hdr := root($div)/TEI.2/teiHeader';
+$let = 'let $hdr := root($div)/tei:TEI/teiHeader';
 $return = 'return <result>{$hdr}{$div}</result>';
 $xsl_file = "xslt/sermon.xsl";
 
