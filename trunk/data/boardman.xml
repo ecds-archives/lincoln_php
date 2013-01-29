@@ -74,13 +74,7 @@ Dana</author>
                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15pp6</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Reverend George
-Dana Boardman's An Address in Commemoration of the Re-Establishment of
-the National Flag at Fort Sumter.</figDesc>
-               </figure>
-            </p>
+            <pb facs="boardman1.jpg"/>
             <p>AN ADDRESS</p>
             <p>IN COMMEMORATION</p>
             <p>OF THE</p>
@@ -107,15 +101,7 @@ Re-Establishment of the National Flag at Fort
 Sumter.</figDesc>
                </figure>
             </p> -->
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-               </figure>
-            </p>
+            <pb n="3" facs="boardman3.jpg"/>
             <p>PHILADELPHIA, April 21st, 1865</p>
             <p>THE REV. GEORGE DANA BOARDMAN. 
 	<lb/>REVEREND AND DEAR SIR: Many of the undersigned were
@@ -168,15 +154,7 @@ JONES,	CHARLES H. AUNER, <lb/>ARCH. A. MCINTYRE		STEPHEN
 A. CALDWELL <lb/>JOSEPH W. BULLOCK		EDWIN HALL, <lb/>JOSEPH
 F. PAGE		ALEXANDER T. LANE, <lb/>H. C. HOWELL,		ISAAC
 H. O'HARRA, <lb/>S.F. HANSELL,		HENRY CLAY BUTCHER</p>
-            <pb n="4"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>4th page of
-Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-               </figure>
-            </p>
+            <pb n="4" facs="boardman4.jpg"/>
             <p>No. 1712 VINE
 STREET, April, 25, 1865.</p>
             <p>TO THOMAS WATTSON, ESQ., WILLIAM S
@@ -195,15 +173,7 @@ oppresses us all.</p>
             <p>I am, gentlemen, with profound respect, </p>
             <p>Your brother and townsman,</p>
             <p>GEORGE DANA BOARDMAN.</p>
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="boardman5.jpg"/>
             <div2 xml:id="boardman.002" n="ADDRESS" type="sermon">
                <head>ADDRESS.</head>
                <p>On the night of December twenty-sixth, eighteen hundred and
@@ -224,13 +194,7 @@ opening civil war between American citizens, by an act of gross breach
 of faith. He has, under counsels of a panic, deserted his post at Fort
 Moultrie, and, under false pretexts, has transferred his garrison and
 military stores and supplies
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="6" facs="boardman6.jpg"/>
 to Fort Sumter." <hi rend="italic">Breach of faith</hi>? In what school
 of infamy had South Carolina chivalry been trained, that she could
 brand the defense of the United States flag by a United States
@@ -262,15 +226,7 @@ beat and the bands played a stirring, martial tune, And silently we
 gathered round the flagstaff strong and high, Forever pointing upward
 to God's temple in the sky.</q>
                </p>
-               <pb n="7"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of
-Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
-               </p>
+               <pb n="7" facs="boardman7.jpg"/>
                <p>
                   <q>Our noble Major Anderson was good as he was brave, And he knew
 without God's blessing no banner long could wave; So he knelt with
@@ -304,13 +260,7 @@ Functionary, nervously swinging between the God of his fathers and the
 Baal of slaveholding treason, on the fourth of March yielded the chair
 of Washington to God's anointed champion of American freemen, Abraham
 Lincoln, of Illinois, crowned by the Grace of God and the National Will
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="8" facs="boardman8.jpg"/>
 the Moses of the New World. But I must press on with the narrative.</p>
                <p>During these three months and a half, Fort Sumter was
 closely besieged. The South Carolina insurgents had strengthened the
@@ -339,15 +289,7 @@ April 10, 1861.</p>
 War.</p>
                <p>"The demand will be made to-morrow at twelve o'clock.<lb/>
 " P. G. T. BEAUREGARD."</p>
-               <pb n="9"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
-               </p>
+               <pb n="9" facs="boardman9.jpg"/>
                <p>"HEADQUARTERS PROVISIONAL ARMY C.S.A.,
 						<lb/>CHARLESTON, S.C.,
 April 11, 1861, 2 P.M.</p>
@@ -389,13 +331,7 @@ ROBERT ANDERSON, <lb/>"Commanding at Fort Sumter, Charleston, S. C.</p>
                <p>"MAJOR: In consequence of the verbal observations made by
 you to my aids, Messrs. Chesnut and Lee, in relation to the condition
 of
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="10" facs="boardman10.jpg"/>
 your supplies, and that you would, in a few days, be starved out if
 our guns did not batter you to pieces, or words to that effect; and
 desiring no useless effusion of blood, I have the honor to say that,
@@ -432,13 +368,7 @@ consequence of the extreme scarcity of provisions in the fort, he
 would be compelled in all events to evacuate by noon of April 15th,
 unless supplies for the garrison should meantime arrive. Now observe
 the mad, atrocious haste
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="11" facs="boardman11.jpg"/>
 with which civil war was inaugurated. Unwilling to wait till the 15th
 inst., only three days, and so avert, as the rebel authorities would
 have us believe, " the useless effusion of blood," and fearing, it may
@@ -466,13 +396,7 @@ until the quarters were entirely burned, the main gates destroyed by
 fire, the gorge wall seriously injured, the magazine surrounded by
 flames, and its doors closed from the effects of the heat, four
 barrels and
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="12" facs="boardman12.jpg"/>
 three cartridges of powder only being available, and no provisions but
 pork remaining, I accepted terms of evacuation offered by General
 Beauregard, being the same offered by him on the 11th inst., prior to
@@ -503,13 +427,7 @@ us to see the day for which heroes have fought and sighed and prayed
 and died. Thou hast girded on Thy sword, O Most Mighty! and led us
 forth conquering and to conquer, till now we see this Confederacy,
 born of the pit, cloven in
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="13" facs="boardman13.jpg"/>
 twain, and these in twain again; its black chattel cornerstone
 disallowed and rejected of its own builders; its forts wrested from
 them; its capital abandoned; its legions, now routed and dying like
@@ -547,13 +465,7 @@ symbol of the <hi rend="italic">National Authority</hi>. It so
 thoroughly represents and even incarnates to the popular heart the
 Government of which it is the symbol, that wherever the flag is, there
 the Government itself
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="14" facs="boardman14.jpg"/>
 is, robed in full sovereignty. It was on the 14th of April, 1861, that
 the National Authority was first symbolically overthrown by the
 compulsory lowering of the national flag at Fort Sumter. It is on the
@@ -579,13 +491,7 @@ transcendent, it was when the Son of the Highest, mercifully gathering
 into His own Divine person the penalties of the race, and bowing His
 head beneath the thunderbolts of Jehovah's wrath, yielded up the ghost
 on the Judean cross. Meet it is that the day which celebrates the
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="15" facs="boardman15.jpg"/>
 vindication of Jehovah's ordinance of earthly government, is the same
 which celebrates the triumph of His celestial sovereignty.</p>
                <p/>
@@ -610,15 +516,7 @@ organism; so that secession is something more than subtraction, or
 even amputation: it is vivisection, suicide, murder, a death as real
 as that proposed in King Solomon's order for bisecting the child
 brought before him for adjudication.</p>
-               <pb n="16"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page
-of Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
-               </p>
+               <pb n="16" facs="boardman16.jpg"/>
                <p>Another lesson which the scene now transpiring at Fort
 Sumter teaches, is one which is addressed to foreign
 nations. Democracy has been on trial, and we see the result. When we
@@ -645,13 +543,7 @@ Government; when we remember that thousands and tens of thousands of
 men have been secretly banded together as Knights of the Golden
 Circle, or as Sons of Liberty, for the atrocious purpose of making
 organized resistance to the powers that be; when we re-
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="17" facs="boardman17.jpg"/>
 member how wide and profound at times, especially in the earlier part
 of the war, has been the disaffection with the administration in the
 loyal ranks themselves; when we remember how the people, sickening
@@ -678,13 +570,7 @@ let no defender of monarchical forms of government dare say that
 Democracy is unable to rule itself! That flag, whose reinstatement we
 celebrate to-day, announces to the waiting ears of earth's nations,
 that the
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="18" facs="boardman18.jpg"/>
 government the most capable of maintaining itself under circumstances
 the most adverse, is a government administered, not by rulers born to
 the throne in the line of hereditary succession, but by rulers crowned
@@ -711,13 +597,7 @@ inaugurated and guided this colossal and gory treason. But let us be
 careful how we permit these miscreants to become martyrs. The veriest
 caitiff that ever cowered beneath the majesty of the law may gather
 around him the semblance of heroism, if you
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="19" facs="boardman19.jpg"/>
 grant him the stateliness of a national gallows. On the other hand, I
 cannot say to these wretched ringleaders: "I forgive you, though you
 have drenched a continent in blood, desolated our hearth-stones,
@@ -743,13 +623,7 @@ finding them should slay them. And then with Cain shall they exclaim:
 'My punishment is greater than I can bear!'"</p>
                <p>But while I would thus sternly dispose of the leaders and
 arch-conspirators, I would speak words of forgiveness and
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="20" facs="boardman20.jpg"/>
 good cheer to the multitudes they have duped. I would learn a lesson
 from the cross, the lifting up of whose sacrificial Victim so many in
 Christendom this day mournfully celebrate. While, like the crucified
@@ -775,13 +649,7 @@ always hast over " the home of the brave."</p>
                <p>In conclusion, I congratulate you, my countrymen, of the
 bright portents which are gilding the horizon. Watch man! what of the
 night? Watchman! what of the night? 
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of Reverend
-George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
+<pb n="21" facs="boardman21.jpg"/>
 The watchman saith: <hi rend="italic">The morning cometh!</hi> Peace is
 near at hand. I already feel my cheek fanned with the beating of her
 halcyon wings. All glory be to Thee, Thou Prince of Peace! Thou hast
@@ -835,15 +703,7 @@ Re-Establishment of the National Flag at Fort
 Sumter.</figDesc>
                   </figure>
                </p> -->
-               <pb n="23"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page
-of Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
-               </p>
+               <pb n="23" facs="boardman23.jpg"/>
             </div2>
             <div2 xml:id="boardman.003" n="APPENDIX" type="appendix">
                <head>APPENDIX.</head>
@@ -889,15 +749,7 @@ melted,</l>
                   <l>Sinai itself before Jehovah's face,</l>
                   <l>The God of Israel.</l>
                </lg>
-               <pb n="24"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page
-of Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
-               </p>
+               <pb n="24" facs="boardman24.jpg"/>
                <lg type="stanza">
                   <head>THE DISMAY.</head>
                   <l>In the days of Shamgar, Son of
@@ -963,15 +815,7 @@ princes came with Deborah,</l>
                   <l>Issachar, the strength of Barak;</l>
                   <l>They burst into the valley in his footsteps.</l>
                </lg>
-               <pb n="25"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>25th page
-of Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
-               </p>
+               <pb n="25" facs="boardman25.jpg"/>
                <lg type="stanza">
                   <head>THE RECREANTS.</head>
                   <l>By Reuben's fountains there was
@@ -1043,15 +887,7 @@ fell: he lay:</l>
                   <l>Where
 he bowed, there he fell dead.</l>
                </lg>
-               <pb n="26"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>26th page
-of Reverend George Dana Boardman's An Address in Commemoration of the
-Re-Establishment of the National Flag at Fort
-Sumter.</figDesc>
-                  </figure>
-               </p>
+               <pb n="26" facs="boardman26.jpg"/>
                <lg type="stanza">
                   <head>THE MOTHER OF SISERA.</head>
                   <l>Through the window stretched
@@ -1116,12 +952,7 @@ Printers</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15pqb</idno></bibl> 
             </head>
-               <pb n="27"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>1st page of Reverend George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
-               </p>
+               <pb n="27" facs="boardman27.jpg"/>
 <!--            <epigraph> -->
                <p>"Man, thou Pendulum betwixt a Smile and Tear."</p>
 <!--            </epigraph> -->
@@ -1134,13 +965,7 @@ Reverend George Dana Boardman's Death, the Law of
 Life</figDesc>
                </figure>
             </p> -->
-            <pb n="29"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of Reverend George Dana Boardman's
-Death, the Law of Life</figDesc>
-               </figure>
-            </p>
+            <pb n="29" facs="boardman29.jpg"/>
             <p>DEATH, THE LAW OF LIFE.</p>
             <p>A DISCOURSE,</p>
             <p>DELIVERED ON THE SUNDAY MORNING AFTER THE</p>
@@ -1164,14 +989,7 @@ of Reverend George Dana Boardman's Death, the Law of
 Life</figDesc>
                </figure>
             </p> -->
-            <pb n="31"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page
-of Reverend George Dana Boardman's Death, the Law of
-Life</figDesc>
-               </figure>
-            </p>
+            <pb n="31" facs="boardman31.jpg"/>
             <div2 xml:id="boardman.005" n="DISCOURSE" type="sermon">
                <head>DISCOURSE.</head>
                <p>WHAT a day, or rather night, is this, my countrymen! How
@@ -1194,12 +1012,8 @@ Gospel according to St. John:</p>
                <p>
                   <hi rend="italic">"Verily, verily,
 I say unto you: except a corn of wheat</hi>
-                  <pb n="32"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
-                  <hi rend="italic">fall into the ground and die, it abideth alone; but if
+                  <pb n="32" facs="boardman32.jpg"/>
+		  <hi rend="italic">fall into the ground and die, it abideth alone; but if
 it die, it bringeth forth much fruit."</hi>
                </p>
                <p>I.  Thoughtless or dull must that man's spirit be which
@@ -1223,11 +1037,7 @@ is everywhere exhibited, from the loftiest pine to the tiniest
 lichen. Behold the bursting seed, the protruding shoots, the opening
 leaves, the unfolding buds of spring! Whence all this abounding life?
 Next autumn you will put your hand to the sickle, and
-<pb n="33"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="33" facs="boardman33.jpg"/>
 reap the golden ears. But whence will come your glorious crop? Ah! the
 law of the harvest is death. "Except a kernel of wheat fall into the
 ground and die, it abideth alone; but if it die, it bringeth forth
@@ -1268,14 +1078,7 @@ involuntary, whether in emotion or volition, involves attrition, the
 wasting away, the absolute loss and death of animal material. The
 processes of life are at the same time the processes of death. The
 condition, the law of physical life, is physical death.</p>
-               <pb n="34"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of
-Reverend George Dana Boardman's Death, the Law of
-Life</figDesc>
-                  </figure>
-               </p>
+               <pb n="34" facs="boardman34.jpg"/>
                <p>This, then, is the grand law of life that prevails in the
 physical world, whether vegetable or animal. Death must precede
 life. Death is the source, or, rather, the means of life. The death of
@@ -1301,11 +1104,7 @@ entry which He had just made into the City of the Great fling. And now
 they themselves being in Jerusalem to attend the Passover, they wished
 to see the illustrious Stranger for themselves, and learn by personal
 acquaintance whether He were the Saviour their
-<pb n="35"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="35" facs="boardman35.jpg"/>
 own hearts so sighed for. Deeply moved by this touching request of
 these Gentile proselytes, our Lord accedes to their wish. In their
 hearing he reveals, by means of this exquisite similitude we are
@@ -1330,11 +1129,7 @@ heavenly seed was sown in the ground, and died, that it might evolve
 itself into a mighty increment, and display itself in the glorious
 blossom and fruitage of redeemed humanity. Verily, as He Himself said
 to the
-<pb n="36"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="36" facs="boardman36.jpg"/>
 Gentiles that sought His presence, the hour of His death was the hour
 of His life; the hour of His defeat in crucifixion the hour of His
 triumph in redemption.</p>
@@ -1360,11 +1155,7 @@ nature.</p>
 Regeneration. What, in fact, is the great mystery of the New Birth but
 the decease of the spirit,--the old man dying, that it may rise again
 the new man and the
-<pb n="37"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="37" facs="boardman37.jpg"/>
 better? Ah! there are some of you present who know experimentally what
 this parable of the dying seed means as applied to the great fact of
 conversion. There was a time when you, dear child of God, died. There
@@ -1388,11 +1179,7 @@ whirlwinds of centuries, how he became so colossal and strong; and he
 will answer you, that once he was but a little acorn, lying idle on
 the soil, and the heedless foot of a bounding deer tramped it beneath
 the sod; and then it decayed and died, and its greatness and its
-<pb n="38"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="38" facs="boardman38.jpg"/>
 glory date from its death. Think it not strange, then, that you should
 endure trial and sorrow, and die years before your body reaches the
 grave; for it is the law of the spiritual harvest. No man can become
@@ -1418,11 +1205,7 @@ agency. Could we lift up the curtain which conceals God's plan of
 guiding this nation, I believe that we should discover that He had
 employed a system of providential arrests and clogs, which should
 hamper and sometimes sud-
-<pb n="39"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="39" facs="boardman39.jpg"/>
 denly balk some of our best-laid schemes. I believe this, not because
 our national history is an exception to God's general method of
 administering human affairs, but because it is in harmony with it. The
@@ -1447,11 +1230,7 @@ consummate schemes, till the national heart feels at its very core
 that the Lord God of Hosts is the real ruler of America, and that
 President, Secretary of State, general, soldier, citizen, is strong
 only as Almighty God
-<pb n="40"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="40" facs="boardman40.jpg"/>
 stoops down from His throne, and helps him to be strong. And this is
 the way our God is teaching us. Our wisest thinkers are but as blind
 men groping after light and an open way. And the blessed thing is that
@@ -1475,11 +1254,7 @@ vain-gloriously marched to the field of Bull Run, and almost every
 paper in the North positively predicted an easy victory, which should
 decide beyond cavil or peradventure, the issue of the war. We
 understand ourselves better now. We are more humble. We feel more
-<pb n="41"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="41" facs="boardman41.jpg"/>
 keenly our dependence on God for the happy issue of the
 struggle. Hence, when victory perches on our banner, as when Richmond
 fell and Lee surrendered, instead of rending the air with our boastful
@@ -1504,11 +1279,7 @@ agitated, lest we become paralyzed through sheer monotony of action
 and sentiment. Uninterrupted prosperity produces the same effect on
 nations that it does on individuals; it tends to stunt the growth,
 weaken the capacity, debase the nobility. Of all calami-
-<pb n="42"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="42" facs="boardman42.jpg"/>
 ties, considered as affecting those who have capacity for growth,
 nothing is more fatal than simple stagnation. It is a great blessing
 to be convulsed and dislodged, whenever our wheels have worn so deep
@@ -1539,11 +1310,7 @@ bereavements of this war, and, specially the awful calamity before
 which the nation now stands aghast, are, under God's providence, a
 perturbing, loosening force, knocking away the bolts that imprisoned
 the soul, and
-<pb n="43"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="43" facs="boardman43.jpg"/>
 letting into its opened chambers and corridors the winnowing,
 gladdening gales of the Spirit. Accordingly, I expect that, when the
 immediate, turbulent excitements of this assassination and of the war,
@@ -1568,11 +1335,7 @@ What floods of sacred, lofty sensibility have surged over the land!
 What splendors of heroism have lighted up the firmament, grandly
 illustrating (may I reverently say?) Jehovah's sublime law of
 vicarious suffering! Even the seed dies
-<pb n="44"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="44" facs="boardman44.jpg"/>
 vicariously in order to the harvest. What a magnificent hecatomb has
 been the nation's offering, not by compulsion, not in superstition,
 but in solemn, rational, heroic joy! This mighty army, not of
@@ -1596,11 +1359,7 @@ of his Illinois home, he would still have been the glorious nobleman
 that God crowned him in his birth; but he might have <hi rend="italic">abided alone</hi>, fructifying into no national
 harvest. We should still have revered him, as we revere all of God's
 great ones; but no nation would have been born
-<pb n="45"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Reverend
-George Dana Boardman's Death, the Law of Life</figDesc>
-                  </figure>
+<pb n="45" facs="boardman45.jpg"/>
 of him. But when, beneath the sufferance of an inscrutable Providence,
 the assassin's bullet laid him low, the glorious seed died, that it
 might no longer abide alone, but <hi rend="italic">bring forth much
@@ -1638,14 +1397,7 @@ Boardman's An Address in Commemoration of Abraham
 Lincoln</figDesc>
                </figure>
             </p> -->
-            <pb n="47"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page
-of Reverend George Dana Boardman's An Address in Commemoration of
-Abraham Lincoln</figDesc>
-               </figure>
-            </p>
+            <pb n="47" facs="boardman47.jpg"/>
             <p>In Memoriam</p>
             <pb n="48"/>
 <!-- blank page -->
@@ -1656,14 +1408,7 @@ of Reverend George Dana Boardman's An Address in Commemoration of
 Abraham Lincoln</figDesc>
                </figure>
             </p> -->
-            <pb n="49"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>4th page
-of Reverend George Dana Boardman's An Address in Commemoration of
-Abraham Lincoln</figDesc>
-               </figure>
-            </p>
+            <pb n="49" facs="boardman49.jpg"/>
             <p>AN ADDRESS</p>
             <p>IN COMMEMORATION OF</p>
             <p>ABRAHAM LINCOLN,</p>
@@ -1688,14 +1433,7 @@ of Reverend George Dana Boardman's An Address in Commemoration of
 Abraham Lincoln</figDesc>
                </figure>
             </p> -->
-            <pb n="51"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>6th page
-of Reverend George Dana Boardman's An Address in Commemoration of
-Abraham Lincoln</figDesc>
-               </figure>
-            </p>
+            <pb n="51" facs="boardman51.jpg"/>
             <div2 xml:id="boardman.007" n="ADDRESS" type="sermon">
                <head>ADDRESS.</head>
                <p>How different this scene, my countrymen, from that which was
@@ -1717,12 +1455,7 @@ all the land, a darkness so thick that
 <note xml:id="boardman.007.n01" n="*" place="foot" anchored="true">This allusion is to the festive services in
 commemoration of the re-establishment of the national flag at Fort
 Sumter, April 14.</note>
-                  <pb n="52"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+                  <pb n="52" facs="boardman52.jpg"/>
 it may be felt? Why this cry that goes up from every hearthstone, a
 universal, piercing cry, such as there was none ever like it, nor can
 be like it any more? It is because there is not a house in all the
@@ -1747,12 +1480,7 @@ of my countrymen, the soul itself seemed benumbed. And though
 subsequently the horrible stupefaction passed away, to be succeeded by
 most poignant bitterness of soul, yet, in endeavoring to arrange my
 thoughts for this dreaded
-<pb n="53"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="53" facs="boardman53.jpg"/>
 occasion, I have felt the same stupefying, freezing horror creeping
 over me again. It seems to me that brain, heart, pen, are
 paralyzed. Instead of attempting to say aught to-day, I feel like
@@ -1776,12 +1504,7 @@ persistent assiduity. In 1834 he was elected to the legislature by the
 highest vote cast for any candidate in the State, which position he
 held for six years in virtue of consecutive re-elections. Meanwhile he
 had removed to the capital of the State, where he rapidly
-<pb n="54"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="54" facs="boardman54.jpg"/>
 rose to great distinction as an advocate in jury trials. In 1846, at
 the age of 37, Illinois sent him as one of her representatives at
 Washington. His Congressional career was marked by a scrupulous
@@ -1805,12 +1528,7 @@ votes, yet Mr. Douglas was elected Senator by the joint ballot of the
 legislature. On May 18, 1860, he was unanimously nominated by the
 Republican National Convention a candidate for President, which
 nomination was ratified by the people on November 6, and, on the 4th of
-<pb n="55"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="55" facs="boardman55.jpg"/>
 March, 1861, having succeeded in reaching Washington in spite of the
 most desperate obstacles to prevent it, was inaugurated the sixteenth
 President of the United States. At twenty minutes past four o'clock on
@@ -1834,12 +1552,7 @@ ever true and trustful, his clear brain ever vigilant and
 wide-sweeping, his strong hand ever untrembling, towering, placid and
 imperial, like Neptune's brow, above the white foam, and smiling it
 into peace. After
-<pb n="56"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="56" facs="boardman56.jpg"/>
 a canvass of unexampled intensity, throughout which he preserved the
 same calm beauty of soul, he was, on the 8th of November, 1864,
 re-elected President of the United States by an almost unprecedented
@@ -1863,12 +1576,7 @@ their type aggregate, embodiment, and symbol. But passing over those
 years of boyish poverty and struggle, and also the years of youthful
 brain and will endeavor, and conquest too, let us gaze on him when, in
 the ma-
-<pb n="57"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="57" facs="boardman57.jpg"/>
 turity of his powers, he wields a sceptre more august than that of
 Roman Caesar. It is difficult to form a just estimate of his
 character; for, its vast proportions are lost in its extraordinary
@@ -1892,12 +1600,7 @@ the facility with which he detected the pivotal point in any question,
 however complex. Hence the ease and precision with which he led the
 people to catch the same point, leading them directly thither by the
 avenue of a diction which, however peculiar and homely, was
-<pb n="58"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="58" facs="boardman58.jpg"/>
 as straightforward and pellucid as his own judgment. Hence, also, it
 was that he so rarely made mistakes. Hence it was that every public
 act or plan of his, however wide-spread or intense the execration with
@@ -1922,12 +1625,7 @@ difficulty, or when a pressing moral obligation is offset by a present
 practical impossibility. Seeing all sides of a question, and
 intuitively just, he was enabled to equate the problem, thus steering
 the ship of state safely be-
-<pb n="59"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="59" facs="boardman59.jpg"/>
 tween the Charybdis of fanatic propulsion and the Scylla of timorous
 procrastination. The highest eulogy that can be pronounced on the
 intellectual character of a ruler, in times of great civil convulsion,
@@ -1952,14 +1650,7 @@ his taking it. And all this, too, was without the slightest
 ostentation. Like a wire-bridge across a mountain gorge, he could sway
 to the softest zephyr, yet, like the same wire-bridge, the whirlwind
 could not uproot him.</p>
-               <pb n="60"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page
-of Reverend George Dana Boardman's An Address in Commemoration of
-Abraham Lincoln</figDesc>
-                  </figure>
-               </p>
+               <pb n="60" facs="boardman60.jpg"/>
                <p>Gifted with this intellectual judgment so instinctively infallible,
 and this gentle steadfastness of will, the late President blended with
 it a moral nature remarkably pure, keen, sensitive, and
@@ -1987,12 +1678,7 @@ of his life beneath the most crushing responsibilities that ever fell
 on man. And amidst all these distracting, hardening, shrivelling
 cares, he ever retained the same freshness and tenderness of
 soul. While just and kind to all, he
-<pb n="61"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="61" facs="boardman61.jpg"/>
 was, to the very last, in a special sense, the poor man's friend. And
 among all those who weep over his untimely death, the chief mourners
 of the land, next to the members of his own family, are the sable
@@ -2016,12 +1702,7 @@ that since he must fall, he had fallen elsewhere, engaged in a purer
 service, which had some "relish of salvation in't." But let that glide
 into oblivion. It is the solitary cloud that flecked the expanse of
 his public career. 
-<pb n="62"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="62" facs="boardman62.jpg"/>
 If ever mortal obeyed Wolsey's dying counsel, it was Abraham
 Lincoln:</p>
                <lg type="stanza">
@@ -2058,12 +1739,7 @@ insurrectionary movement of the South, this assassination of President
 Lincoln has been! If ever the genius of suicide took upon itself the
 impersonation of a human form, it was when this colossal slaveholding
 conspiracy was epito-
-<pb n="63"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="63" facs="boardman63.jpg"/>
 mized and became incarnate in the person of the diabolical miscreant,
 whose only passport to immortality is, that, when the martyr President
 fell, his descending shadow fell on <hi rend="italic">him</hi>, and set
@@ -2095,12 +1771,7 @@ dead which he slew at his death were more than they which he slew in
 his life."</p>
                <p>My countrymen! I have woven my garland, simple and unworthy as it
 is, and hung it on the bier. It is
-<pb n="64"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Reverend
-George Dana Boardman's An Address in Commemoration of Abraham
-Lincoln</figDesc>
-                  </figure>
+<pb n="64" facs="boardman64.jpg"/>
 scarce fitting to linger longer. For even now the sad cortege has
 begun to move which shall bear to his last sleeping-place all that is
 mortal of the martyr statesman, patriot, emancipator, and friend. And
