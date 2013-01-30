@@ -73,12 +73,7 @@ Jenks</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15q1p</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of P. D. Day's A Memorial
-Discourse on the Character of Abraham Lincoln </figDesc>
-               </figure>
-            </p>
+            <pb facs="day1.jpg"/>
             <p>A</p>
             <p>MEMORIAL DISCOURSE</p>
             <p>ON THE</p>
@@ -96,20 +91,8 @@ CHURCH.</p>
             <p>CONCORD:</p>
             <p>PRINTED BY McFARLAND &amp; JENKS.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-P. D. Day's A Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-P. D. Day's A Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="day2.jpg"/>
+            <pb n="3" facs="day3.jpg"/>
             <div2 xml:id="day.002" n="DISCOURSE" type="sermon">
                <head>DISCOURSE.</head>
                <p>WE are here to-day, my friends, at the request of the
@@ -131,11 +114,7 @@ conspire to make the event one of the most mournful interest. All
 civilized nations tender us their sympathy, and unite with us in
 sorrowing over our sad bereavement. Thirty millions of hearts have
 been pierced by one foul blow of the assassin,
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="4" facs="day4.jpg"/>
 and all the enlightened world pause to sigh, and to utter their
 grief. The very Goddess of Liberty comes to the bier of her martyred
 chief, with folding robes, to weep.</p>
@@ -163,11 +142,7 @@ Jews was the fact that a man of <hi rend="italic">great worth</hi> had
 fallen. Precisely in what Abner's greatness consisted, his brief
 biography does not inform us, but certain it is he was a man
 possessing extraordinary
-<pb n="5"/>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="5" facs="day5.jpg"/>
 virtues. It was the combination of these two circumstances that threw
 the whole Jewish people into such depths of sorrow.</p>
                <p>It is these two considerations that have pierced so deeply
@@ -193,11 +168,7 @@ justice, our holy and unholy cravings for revenge, are all aroused,
 and the national heart cries out for redress from the depths of her
 sorrow.</p>
                <p>But MR. LINCOLN and his cruel murderer are both
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="6" facs="day6.jpg"/>
 gone to their reward, and we will not pause to scrutinize further this
 mysterious Providence. Justice has been defrauded of her dues, by the
 sudden death of the assassin. Before the victim at which he aimed his
@@ -223,11 +194,7 @@ have thought tenderness and love a weakness. But  MR. LINCOLN has
 changed our views. He was one of those rare men who could sit with
 dignity and ability in the chair of State, under the ermine of
 domestic and
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="7" facs="day7.jpg"/>
 social virtue. While he was equal to any of his peers in
 statesmanship, and could hold the reins of government with firmness
 and strength, he could also assume the position of a father, brother
@@ -254,11 +221,7 @@ as they never loved a President before. He was plain, honest,
 straight-forward, unsophisticated. They saw he was unambitious, and
 had the courage to stand between intriguing politicians and
 themselves. They heard
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="8" facs="day8.jpg"/>
 of his genial humor, his amusing stories, his happy illustrations,
 and, above all, his instinctive, genuine good sense, and persistency
 in the right. They saw his self-abnegation, and his continual aim at
@@ -285,11 +248,7 @@ sat writing an order for the son's discharge, and said, "The Lord
 bless you, Mr. President." Is it strange that such a ruler should be
 loved by his people? Is it strange that they should exclaim, in the
 bereaving
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="9" facs="day9.jpg"/>
 strains of the ancient bard, "Thou wast slain in thine high places. I
 am distressed for thee, my brother. Very pleasant hast thou been unto
 me; thy love to me was wonderful, passing the love of women."</p>
@@ -315,11 +274,7 @@ more independent of the earlier influences which surrounded him, the
 people saw his superior wisdom. They saw that he had a farther reach
 of mind than themselves; that he took into view and balanced
 considerations which they had not thought of;
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="10" facs="day10.jpg"/>
 that he swept the whole horizon of public interest in his vision. They
 learned at length to suspend their judgment when in doubt about his
 policy, and to wait till all the facts were made public; and so
@@ -346,11 +301,7 @@ is this, more than all things else, that gives us security in our
 public interests. Who does not know that every civilized country has
 suffered more for the want of <hi rend="italic">honesty</hi> than of <hi rend="italic">ability</hi>, in their rulers? Statesmanship is now a
 science, and reduced
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="11" facs="day11.jpg"/>
 to rules, and men of <hi rend="italic">ordinary</hi> capacity can
 succeed in it. It is not superiority here that we need, as much as
 unswerving integrity. We need men of intelligence, to <hi rend="italic">see</hi> the right with firmness enough to <hi rend="italic">maintain</hi> it; discernment, to discover the wrong, with
@@ -376,11 +327,7 @@ can use great men at his pleasure, who can discover their talents,
 weaknesses, and sagacity, and shape their course for a given purpose,
 and who knows by instinct what others learn in schools and by
 experience. Mr. 
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="12" facs="day12.jpg"/>
 Lincoln had this greatness. It was the greatness of intuition. His
 native sagacity taught him what others obtained by study and
 observation. Some of his generals sought to override his judgment
@@ -408,11 +355,7 @@ came from a mind imbued with the spirit of the gospel. "Fondly do we
 hope and fervently do we pray."  "With malice toward none; with
 charity for all; with firmness in the right, as God gives us to see
 the right, let us strive to finish
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="13" facs="day13.jpg"/>
 the work we are in, and to bind up the nation's wounds." Such were the
 noble christian sentiments of our departed chief, which secured love
 and respect for him among thousands at home and abroad.</p>
@@ -440,11 +383,7 @@ won on our faith and love. Ah, what tears, what prayers, what
 aspirations, what lamentations, what struggles have been witnessed by
 the four walls of that quiet room. Aye, what food have the angels
 brought him there! There, day after day, while we
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="14" facs="day14.jpg"/>
 have been sleeping, has he knelt and prayed for us, prayed for the
 country, prayed for victory, prayed for wisdom and guidance, prayed
 for strength for his great mission, prayed for the accomplishment of
@@ -476,11 +415,7 @@ all in all,</l>
 Mr. Lincoln in the following language:</p>
                <p>
                   <note xml:id="day.002.n01" n="*" type="foot" anchored="true">Dr. Holland's address at Springfield, Mass.</note>
-                  <pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+                  <pb n="15" facs="day15.jpg"/>
 And we take pleasure in presenting it, because it comes from a source
 where we should not be likely to find an over-drawn eulogy:</p>
                <p>
@@ -511,11 +446,7 @@ of the man so ruthlessly slain. Too many Englishmen lent themselves to
 the vulgar and ignoble cry which was raised against him. English
 writers degraded themselves to the level of the coarsest caricaturists
 when they had to tell of Abraham
-<pb n="16"/>
-                     <figure><graphic url=""/>
-                        <figDesc>16th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                     </figure>
+<pb n="16" facs="day16.jpg"/>
 Lincoln. They stooped to criticise a foreign patriot as a menial might
 comment on the bearing of a hero. They sneered at his manners, as if
 Cromwell was a Chesterfield; they accused him of ugliness, as if
@@ -545,11 +476,7 @@ and we thank God that, like Moses, he was permitted to see the
 promised land. He led his people to the borders, and gazed upon it,
 and we prayed he might go over Jordan and possess it. But God had a
 higher and more glorious reward for him. 
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="17" facs="day17.jpg"/>
 He had toiled, and wept, and prayed for his people, and now the time
 had come to give his labors into other hands; to lay down his armor,
 and take up his crown. And we doubt not, while we are clothed in
@@ -576,11 +503,7 @@ will adhere to his name. His memory will shine in ages to come like a
 fixed star in a cloudless night, on which continents may gaze with
 admiration.</p>
                <p>As painful as the event of our President's death is
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="18" facs="day18.jpg"/>
 to us, we think we can see the divine hand in it. It was necessary
 that this great, superlative act of treason, which has cost the North,
 according to official statements, two hundred and forty thousand
@@ -606,11 +529,7 @@ view it. It was Booth who shot the President; but Booth was educated
 for the deed. He had masters who taught and encouraged him, and who
 fired up his deadly passions to the work. These masters were those,
 whether with pen or voice, who
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="19" facs="day19.jpg"/>
 vilified the Chief of the nation. If a tithe of what they said was
 true, it might almost seem that one was doing God's service to remove
 him. And the next great mission which we have to do for our country
@@ -637,11 +556,7 @@ portentous war clouds would have passed away, and the olive branch of
 peace would have cast its shadow on all our borders? Who would have
 thought that secession would have come to such an inglorious end, and
 taper out in a grand finale of a woman's dress. 
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of P. D. Day's A
-Memorial Discourse on the Character of Abraham Lincoln</figDesc>
-                  </figure>
+<pb n="20" facs="day20.jpg"/>
 God has brought in the ridiculous to help in giving odiousness to the
 crime; and it will not be strange if the emblem of secession will
 hereafter be a spurred man, decked with crinoline and halter. "Though

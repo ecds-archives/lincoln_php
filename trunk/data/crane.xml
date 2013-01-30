@@ -69,12 +69,7 @@ Lockwood and Company.</publisher>
                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15pz9</idno></bibl>
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Rev. C. B. Crane's Sermon
-on the Occasion of the Death of President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="crane1.jpg"/>
             <p>S E R M O N</p>
             <p>ON THE</p>
             <p>OCCASION OF THE</p>
@@ -86,22 +81,8 @@ on the Occasion of the Death of President Lincoln.</figDesc>
             <p>HARTFORD:</p>
             <p>PRESS OF CASE, LOCKWOOD AND COMPANY.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="crane2.jpg"/>
+            <pb n="3" facs="crane3.jpg"/>
             <p>HARTFORD, APRIL,
 17,1865 <lb/>REV. C B. CRANE. 
 	<lb/>Dear Sir: Having listened to your sermon yesterday, upon
@@ -137,14 +118,7 @@ Rev. C. B. Crane's Sermon on the Occasion of the Death of President
 Lincoln.</figDesc>
                </figure> 
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>4th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="crane5.jpg"/>
             <div2 xml:id="crane.002" n="SERMON" type="sermon">
                <head>SERMON.</head>
                <epigraph>
@@ -165,14 +139,7 @@ relaxation. Over the whole American sky are clouds and thick
 darkness. Threnodies are sung by quivering lips and wail from
 melancholy organs. All sounds are dirges, and the countenance of
 sorrow is adorned with the jewelry of tears.</p>
-               <pb n="6"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="6" facs="crane6.jpg"/>
                <p>Oh, friends, on the evening of Good Friday, the memorial
 day of the crucifixion of our Lord, our good, true-hearted,
 magnanimous, supremely loyal, great President was smitten down by the
@@ -194,12 +161,7 @@ country. The consecration of Jesus to humanity began in the antiquity
 of eternity, and found its culmination when he cried with white, yet
 triumphant, lips, on the cross, "it is finished." The consecration of
 Abraham Lincoln to the American people had its phenomenal and most
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="crane7.jpg"/>
 manifest beginning in the summer of 1858, when he entered upon that
 memorable Senatorial Campaign in which, while he sustained a technical
 defeat, he gained a substantial victory; it found its culmination on
@@ -221,12 +183,7 @@ reluctance, and urged Mr. Colfax to go with him; but that gentleman
 had made other arrangements, and, with Mr. Ashmun of Massachusetts,
 bade him Good Bye." He did not wish the audience to be
 disappointed,"--this was the
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="crane8.jpg"/>
 reason of his presence at the theatre on that fateful evening; and the
 sentiment which dictated the words has given character to all his
 private and public life.</p>
@@ -248,12 +205,7 @@ and I recollect that while many of them were rubicund and jovial, and
 others showed in their countenances only the resultant fatigue of
 their labor,-the form of the President was bowed as by the
 superimposition of a crushing
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="crane9.jpg"/>
 load, his flesh was wasted as by the consuming flames of incessant
 solicitude, and his face was thin and furrowed and pale as though it
 had become spiritualized by the vicarious pain which he endured in
@@ -276,12 +228,7 @@ the creatures of the ghastly rebellion which has reared its horrid
 front in the South and has had shameful affiliation with dastardly
 reptiles of the North, were finishing, each his own hideous work, in
 our nation's capital The one was permitted by an
-<pb n="10"/> 
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="crane10.jpg"/>
 inscrutable Providence in the presence of a crowded assembly to
 consummate his purpose upon the life of him whom the world was
 delighting to honor. The other, with a daring which is well-nigh
@@ -304,12 +251,7 @@ our eyes do bend in inexpressible grief.</p>
 our national Israel, unveil itself now before us, that we may
 appreciate how much we have lost.</p>
                <p>We remember his obscure birth in Hardin
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="crane11.jpg"/>
 County, Kentucky. We remember how at eight years of age his sturdy
 arms swung the axe in the forests of Indiana; and how the next ten
 years of his life were mostly occupied in hard labor on his father's
@@ -330,12 +272,7 @@ attorney which he took in the evening and returned in the morning,
 studying while others slept. We remember how the surveyor of his
 county offered to depute to him a portion of his work, and how he
 procured a treatise on surveying and a compass and
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="12" facs="crane12.jpg"/>
 chain, and did the work. We remember his rapid rise to distinction in
 the profession which he had chosen. We remember his election to the
 lower house of Congress in 1846, and his inflexible, though not
@@ -356,12 +293,7 @@ which he spoke to those who announced to him his nomination for the
 Presidency. We remember the total absence of personal triumph and of
 malevolence against his foes and ours, which distinguished his second
 inaugural. And we remem-
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="crane13.jpg"/>
 ber--for it is a thing of yesterday--the yearning of his great,
 brotherly heart toward the people of the insurgent states so soon as
 their capital was taken and their only formidable army was either
@@ -383,12 +315,7 @@ his. Such was his greatness, that our wisest men are fearful of
 trusting any other hands than his at the helm of our ship of
 state. Such was the affection which his gentleness awakened, that
 women wept yesterday as though their babes had
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="crane14.jpg"/>
 perished, and little children bore the news of his death to their
 parents in tears.</p>
                <p>And can not we say together to-day: more blessed is Abraham
@@ -411,12 +338,7 @@ affection which I have now publicly paid to the beloved and honored
 dead.</p>
                <p>But there remains for me a duty to you who hear me. God
 visits no such providence, smites with no
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="crane15.jpg"/>
 such smiting, as this, without a reason and purpose. Is it immodest in
 me to assume that it is my office to voice your inquiries after the
 meaning of this mournful event?</p>
@@ -438,12 +360,7 @@ abominable and devilish of which it is not capable. Every man,
 together with every woman, of the North, who has hitherto launched
 fiercer invectives against the government and its friends than against
 the spurious
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="crane16.jpg"/>
 confederacy and its friends, and who does not from this day eat the
 hellish words which he has spoken and repent of his well-nigh
 unpardonable sin, is an abandoned traitor, and deserves to be hanged
@@ -466,12 +383,7 @@ husbands and fathers and brothers and sons. They had been laid upon
 the altar and were consumed. We thought our offering was costly
 enough, and that none costlier would be demanded. But there was a man,
 occupying the highest office of state, dear to all loyal
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="crane17.jpg"/>
 hearts, the nation's father and brother and son, more anointed than
 any other with the holy chrism of a great people's love. The
 government was upon his shoulders, but he must be, nevertheless, yea,
@@ -493,12 +405,7 @@ salvation of my beloved country?" Just that prayer from the best
 beloved man of the nation God may have waited for long: just that
 prayer he answered on Good Friday night. God accepted the costly and
 self-devoted sacrifice which we had not dreamed of
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="18" facs="crane18.jpg"/>
 offering. The "Lo I come to do thy will, oh God," which fell from the
 lips of Jesus when he made himself the Lamb of sacrifice for the
 restoration of an apostate humanity to allegiance to the divine
@@ -521,12 +428,7 @@ peace was secured between the contending regions of our distracted
 country.</p>
                <p>(2.) If your meditations have been like mine, friends, you
 have already framed a second inquiry. Who are <hi rend="italic">responsible</hi> for the assassination of Abraham
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="19" facs="crane19.jpg"/>
 Lincoln, and who share the guilt? The question which I have asked, I
 dare answer. I have already shown that the open enemy are responsible,
 and share the guilt. But this is not the whole answer. The event about
@@ -549,12 +451,7 @@ deed.</p>
 assassination of Good Friday night, I answer, that in addition to our
 enemies in the South, it is those men of the North who promulgated the
 false
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="20" facs="crane20.jpg"/>
 opinion and generated the infernal sentiment to which I have alluded
 above, and which made the assassin the fanatic and monomaniac that he
 is. And if you ask who share the <hi rend="italic">guilt</hi> of the
@@ -575,12 +472,7 @@ bonds, in token of his sympathy with the crime of treason: that man
 who once held office in the President's cabinet, and who has never
 since broken his infamous silence except to malign the government
 which protected instead of hanging him: these are the men who
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="21" facs="crane21.jpg"/>
 share the <hi rend="italic">responsibility</hi> of the murder of Abraham
 Lincoln. They helped to produce the opinion and sentiment which
 produced the man who did the deed. Blood is upon their souls. Wash
@@ -601,12 +493,7 @@ and New Haven railroad who expressed joy at the murder of Mr. Lincoln,
 and remarked that "he ought to have been shot four years ago." Every
 man who has felt a secret joy at the horrible tragedy of the night
 before the last. 
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="22" facs="crane22.jpg"/>
 Every man who has not been carrying a mourning heart all yesterday and
 to-day.</p>
                <p>Shall I include any <hi rend="italic">women</hi> in this
@@ -628,12 +515,7 @@ which we have not yet assumed. Friendship, fraternization, forbearance
 with them, should cease till they purge themselves of their crime. The
 lines must be drawn, and even households be divided if necessary, as
 our
-<pb n="23"/>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="23" facs="crane23.jpg"/>
 Savior has predicted. Toleration of traitors and murderers and makers
 of murderers is not a virtue, it is a vice. The wine of our national
 life must become pure by separating itself from the lees of
@@ -656,12 +538,7 @@ on which occasion Andrew Johnson brought shame upon himself and the
 nation, we have come almost to believe that the destiny of our country
 was suspended upon the single life of Abraham Lincoln.</p>
                <p>God has smitten down him upon whom our faith
-<pb n="24"/>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="24" facs="crane24.jpg"/>
 was impiously reposed, in order that he might transfer our faith to
 himself. And in one short hour he has accomplished what he
 undertook. There is not a christian man before me, nor in the whole
@@ -684,12 +561,7 @@ have all faith that Andrew Johnson will be used for the accomplishment
 of our deliverance.</p>
                <p>True, he stumbled fearfully at the start. But there has
 been wrought a marvelous change in the
-<pb n="25"/>
-                  <figure><graphic url=""/>
-                     <figDesc>25th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="25" facs="crane25.jpg"/>
 man during the forty-one days which have since elapsed. If that
 maudlin speech of his in the Senate chamber on the fourth of March was
 a disgrace to himself and to the nation, his speech yesterday on the
@@ -710,12 +582,7 @@ career, have signally failed; while they whom at the outset we
 distrusted, have attained to preeminent success.</p>
                <p>And so my faith in God's using of Andrew Johnson for our
 national salvation is all the greater be-
-<pb n="26"/>
-                  <figure><graphic url=""/>
-                     <figDesc>26th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="26" facs="crane26.jpg"/>
 cause the beginning of his more exalted career was so inauspicious.</p>
                <p>But there is another phase of the general thought which we
 are considering to which I invite your attention. Abraham Lincoln's
@@ -736,12 +603,7 @@ because they starved ours;--these were qualities which eminently
 fitted him for the conduct of the war.</p>
                <p>But it is more than possible, it is even more than
 probable, that just these qualities unfitted him for
-<pb n="27"/>
-                  <figure><graphic url=""/>
-                     <figDesc>27th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="27" facs="crane27.jpg"/>
 the final settlement of this conflict. There was danger that he would
 subordinate his executive functions to his personal sympathies; that
 he would forget that God had placed the sword of retributive justice
@@ -764,12 +626,7 @@ debauched.</p>
                <p>I say, then, there was danger that the late President, by
 reason of his kindness of heart, would not be equal to the retributive
 work which was soon to
-<pb n="28"/>
-                  <figure><graphic url=""/>
-                     <figDesc>28th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="28" facs="crane28.jpg"/>
 be required of him; that pardoning the very arch-rebels themselves he
 would fail to place upon the crime of treason its appropriate stigma,
 and thus encouraging future rebellion, endanger the future of the
@@ -791,12 +648,7 @@ things well."</p>
 did the work he did, and finished it when he did. The nation will
 understand ere long that the dark Providence of last Friday night was
 a merciful Providence. Andrew Johnson is the Joshua
-<pb n="29"/>
-                  <figure><graphic url=""/>
-                     <figDesc>29th page of
-Rev. C. B. Crane's Sermon on the Occasion of the Death of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="29" facs="crane29.jpg"/>
 whom God has appointed to consummate the work which our dead Moses so
 nobly commenced.</p>
                <p>And so, on this Easter Sunday, the anniversary of our
