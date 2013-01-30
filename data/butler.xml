@@ -70,12 +70,7 @@ Witherow, Printers and Stereotypers </publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15pw1</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of J. G. Butler's The
-Martyr President.</figDesc>
-               </figure>
-            </p>
+            <pb facs="butler1.jpg"/>
             <p>THE MARTYR PRESIDENT.</p>
             <p>OUR GRIEF AND OUR DUTY.</p>
             <p>BY J.G. BUTLER,</p>
@@ -84,20 +79,8 @@ Martyr President.</figDesc>
             <p>McGILL &amp; WITHEROW, PRINTERS AND
 STEREOTYPERS.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-J. G. Butler's The Martyr President.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-J. G. Butler's The Martyr President.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="butler2.jpg"/>
+            <pb n="3" facs="butler3.jpg"/>
             <p> LETTER OF REQUEST.</p>
             <p>WASHINGTON, <hi rend="italic">April</hi> 17, 1865.</p>
             <p>REV. J. G. BUTLER</p>
@@ -129,11 +112,7 @@ wholly extemporaneous, inspired by the deep grief which so suddenly
 overwhelmed our nation. I have, amid pressing duties, hastily
 endeavored to reproduce it. The times call for earnest thoughts and
 earnest men. When the
-<pb n="4"/>
-               <figure><graphic url=""/>
-                  <figDesc>4th page of J. G. Butler's
-The Martyr President.</figDesc>
-               </figure>
+<pb n="4" facs="butler4.jpg"/>
 nation's life is in danger, silence is treason. God has wrought
 wonderful deliverances for us; and though the strife of the
 battle-field be well nigh ended, the <hi rend="italic">great sin</hi>
@@ -150,13 +129,7 @@ yours,</p>
             <p>ST. PAUL'S PARSONAGE, <hi rend="italic">April</hi> 24, 1865.</p>
             <p>To Messrs. J. A . RHEEM, J. F. KELLEY, A. NOERR, A. S. PRATT,
 Dr. A. H. LEE, and others.</p>
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-J. G. Butler's The Martyr President.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="butler5.jpg"/>
             <div2 xml:id="booth.002" n="OUR GRIEF AND OUR DUTY." type="sermon">
                <head>OUR GRIEF AND OUR DUTY.</head>
                <epigraph>
@@ -189,11 +162,7 @@ putting on her Easter robes--the grass is beginning to spring forth,
 the buds to swell, the leaves are unfolding, and the trees are covered
 with their varied blooms. After the long and dreary nights of winter,
 all nature has revived, and holds forth
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of J. G. Butler's
-The Martyr President.</figDesc>
-                  </figure>
+<pb n="6" facs="butler6.jpg"/>
 to our admiring eyes an immense bouquet, filling the air with
 fragrance and the soul with gladness.</p>
                <p>These weeds of mourning, reminding us of the murder of our
@@ -230,11 +199,7 @@ treasure. It is all covered with the blood of our husbands and
 fathers, and sons and brothers--coined into the price of liberty. And
 now, when rebellion is well nigh crushed, when our armies, flushed
 with victory, are pursuing a fleeing foe, treason nerves her fiendish
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of J. G. Butler's
-The Martyr President.</figDesc>
-                  </figure>
+<pb n="7" facs="butler7.jpg"/>
 arm to strike down our Moses, who, under God, has led us through the
 wilderness, as he stands upon Pisgah, in full view of the Promised
 Land, the land flowing with milk and honey.</p>
@@ -275,11 +240,7 @@ begotten amid the victorious battles of our noble men by land and by
 sea, nor in the presence of the crumbling ruins of rebellion. But the
 position of your pastor to-day is what it was at the firing of the
 first gun
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of J. G. Butler's
-The Martyr President.</figDesc>
-                  </figure>
+<pb n="8" facs="butler8.jpg"/>
 upon our glorious flag of Sumter. Though Southern by birth, and by
 residence, during his entire ministry, his loyalty is not a thing of
 prejudice or passion, but takes its inspiration from this blessed <hi rend="italic">Book</hi>, which teaches us to <hi rend="italic">obey
@@ -314,13 +275,7 @@ the American people to-day, as it looks upon the spilled blood of the
 great Champion of human rights, the friend of the oppressed, the
 emancipator of four millions of bondmen, is, that the land must be <hi rend="italic">free</hi>--an open Bible, a free pulpit, a free press,
 free speech, a free people.</p>
-               <pb n="9"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-J. G. Butler's The Martyr President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="9" facs="butler9.jpg"/>
                <p>These millions, enamored of their chains, may, as the delivered
 Israelites in their straits, murmur against Moses and against God, and
 say, would God we had remained in bondage. We may not be able to
@@ -357,11 +312,7 @@ spirit of Jesus, is in perfect and eternal sympathy with the great
 Redeemer, whose name is <hi rend="italic">love</hi>. May these precious
 memories and hopes sustain and comfort his stricken widow and
 fatherless
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-J. G. Butler's The Martyr President.</figDesc>
-                  </figure>
+<pb n="10" facs="butler10.jpg"/>
 children. May the heavy affliction be sanctified by Him who makes all
 things to work together for good, and makes even the wrath of man to
 praise Him.</p>
@@ -398,13 +349,7 @@ proclaim to the nations of the earth, through a free pulpit, a free
 press, free schools, and free people, the truth which only the despot
 in Church or State fears; and the oppressor ought to fear and tremble,
 for he is weighed in the balance and is found wanting.</p>
-               <pb n="11"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-J. G. Butler's The Martyr President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="11" facs="butler11.jpg"/>
                <p>But that our mission may be fulfilled, we must be a <hi rend="italic">consecrated people</hi>--a people consecrated to the great
 principles of free government--to the teachings of Jesus, who came not
 only "to preach the Gospel to the poor, and heal the broken hearted,
@@ -448,13 +393,7 @@ offer this last sacrifice, and thank God that our President's dying
 eyes rested, not upon the ruins of a once mighty Republic, but upon
 the land redeemed, regenerated, ennobled, prepared for the great
 mission upon which the King of Kings sends her forth.</p>
-               <pb n="12"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-J. G. Butler's The Martyr President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="12" facs="butler12.jpg"/>
                <p>We have come forth, not enfeebled by the death agony
 through which we have passed, but <hi rend="italic">stronger</hi> than
 when we entered upon our life trial. God has smiled upon the nation in
@@ -492,11 +431,7 @@ the duties of the hour. It is ours to strengthen the arm of the
 Executive, to encircle him with our sympathies, our confidence, and
 our prayers. It is ours to remember the brave men who have stood as a
 wall of fire between us and our enemies; to care for the
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-J. G. Butler's The Martyr President.</figDesc>
-                  </figure>
+<pb n="13" facs="butler13.jpg"/>
 widow and orphan of the slain soldier; to feed the hungry and clothe
 the naked of our country's enemies; to educate and elevate, so far as
 sanctified knowledge can elevate, the four millions of freedmen from
@@ -533,11 +468,7 @@ when deeply in earnest. The Christian and the patriot, sparing not
 their own sons, have, with them, freely given of their treasure and
 labor to bind up the wounds and pour in oil and wine. The millions of
 treasure that have cheered our suffering soldiers may
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-J. G. Butler's The Martyr President.</figDesc>
-                  </figure>
+<pb n="14" facs="butler14.jpg"/>
 now be expended to restore the ruin of war and heal heart wounds which
 have estranged the North and the South. There is not before us a
 season of rest, though the clash of arms is soon to cease, but of

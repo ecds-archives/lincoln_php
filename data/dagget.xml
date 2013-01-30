@@ -74,12 +74,7 @@ Printer-Ontario County Times Office.</publisher>
                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15q0j</idno></bibl>
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of O. E. Daggett's A Sermon
-on the Death of Abraham Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="dagget1.jpg"/>
             <p>A SERMON</p>
             <p>ON THE DEATH OF</p>
             <p>ABRAHAM LINCOLN,</p>
@@ -94,14 +89,7 @@ on the Death of Abraham Lincoln.</figDesc>
             <p>N.J. MILLIKEN, PRINTER-ONTARIO COUNTY
 TIMES OFFICES</p>
             <p>1865</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="dagget2.jpg"/>
             <p>CANANDAIGUA, APRIL
 17TH, 1865.  <lb/>O.E. DAGGETT, D.D.,
 			<lb/>Dear Sir:-The undersigned, for themselves,
@@ -135,14 +123,7 @@ the close, as on the latter occasion, a paragraph inadvertently
 omitted in the first hasty preparation. 
 					<lb/>Yours respectfully
 								<lb/>O. E. DAGGETT.</p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="3" facs="dagget3.jpg"/>
             <div2 xml:id="dagget.002" n="SERMON" type="sermon">
                <head>SERMON</head>
                <epigraph>
@@ -173,12 +154,7 @@ were draped in mourning. The journals that of late had flamed with
 announcements of victories, now bore their black lines of
 grief. "President Lincoln is shot-there is no hope of his recovery;"
 yet after these telegrams some
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="4" facs="dagget4.jpg"/>
 of us would hope, until there came another, "The President is
 dead."<ref target="#dagget.002.n01">*</ref>
 Similar tidings came too, though not so hopeless, of his chief
@@ -211,12 +187,7 @@ addressed:-"Who by him (Christ) do believe in God who raised
 <note xml:id="dagget.002.n01" n="*" place="foot" anchored="true">He was shot on Friday at 10 P.M., but died Saturday,
 April 15th, at 7:22 A.M. The first intelligence came here in the
 Rochester paper, and the latter by telegraph, some hours later.</note>
-                  <pb n="5"/>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+                  <pb n="5" facs="dagget5.jpg"/>
 him up from the dead, and gave him glory, <hi rend="italic">that your
 faith and hope might be in God</hi>."</p>
                <p>The result described in these last words is the very confidence we
@@ -248,12 +219,7 @@ your faith and hope be in God!</p>
                <p>It is not a new thing for death to enter the highest place in our
 land,-we may say the post of highest honor in the world,-and to choose
 for his victim a President
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="dagget6.jpg"/>
 of the United States. President Harrison died in 1841, a month after
 his inauguration, and President Taylor held the office but little over
 a year, dying in 1850. But not so suddenly, not so fearfully, came the
@@ -284,11 +250,8 @@ has been mastered, what battles fought, what cities won, what a
 surrender received of the most formidable of the rebel chiefs and
 armies, and how has our loyal land rung with shouts of triumph, and
 leaped for joy in the prospect of re-union
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of O. E. Daggett's
-A Sermon on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="dagget7.jpg"/> ***NOTE: in the version of this file found in branches/xml-p4/dagget.xml, this appears to be crane7, NOT dagget7! I guessed that branches/xml-p4/dagget.xml is in error and went with dagget here, as crane is a separate piece altogether. OK? And should the other file be changed...?
+
 and peace! At such a time, for him in whom centered so many hearts and
 hopes, to fall by a murderer's hand,-for the pilot who has steered the
 ship through such storms so near to the desired haven, to be struck
@@ -320,12 +283,7 @@ southern oppression. It was a thing of course that there should be
 differences of honest opinion about sundry measures of his
 administration, and especially as to the conduct of the war in its
 different stages. Never
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="dagget8.jpg"/>
 was a magistrate set to a more difficult task than his, involving more
 delicate questions, complicated with more diverse, conflicting
 influences. Never was a public man more severely tried, or more fully
@@ -357,12 +315,7 @@ administration, to which he would subordinate events, but rather this
 one end, to put down the rebellion and to restore the Union of the
 States, and hence from time to time he adjusted himself to new
 emergencies with the
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="dagget9.jpg"/>
 practical wisdom that alone deserves the name. Neither to the more
 radical nor yet to the more conservative of his strongest partizans
 did he yield himself, whether supinely or impulsively, and hence at
@@ -394,12 +347,7 @@ President of the Union he addressed himself, by proclaiming the slaves
 free in all the insurgent territory, to the destruction of that which,
 so virulently assailed the union. While some might think, with
 Mr. Everett, when consulted on the subject, that
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="dagget10.jpg"/>
 such a measure was constitutional but not yet expedient, none can deny
 that he employed it in perfect consistency with his avowed patriotic
 and constitutional aim. The world abroad, that cannot so well
@@ -430,12 +378,7 @@ but in a closer relation, somewhat as of our brave men for whom he has
 mourned with us. Indeed he is himself added to our "noble army of
 martyrs." He too has fallen in his country's service, though not by a
 soldier's hand but an assassin's. From his high position he has
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="dagget11.jpg"/>
 gone higher to the rank of his country's sacrifices. To him belongs
 now the tribute which he paid to them with most simple touching
 eloquence on the field of Gettysburg. Of the myriads of graves which
@@ -467,12 +410,7 @@ bereavement. Besides sorrow for a faithful servant of his country in
 her highest office, that country is thrilled with horror at the crime
 which bereaves her, and indignation toward his murderer. If there be
 on earth
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="12" facs="dagget12.jpg"/>
 a man who rejoices in or approves of this atrocity, that man is
 himself an assassin. If in all our loyal States there be one who is
 indifferent, we must leave him to God's mercy, for on such a man his
@@ -504,12 +442,7 @@ overruled in subordination to his cause, and against their guilty
 authors. The Son of God was "crucified and slain by wicked hands" on a
 Friday, more than eighteen centuries ago
 <note xml:id="dagget.002.n02" n="*" place="foot" anchored="true">2 Tim. 4., 14.</note>
-                  <pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+                  <pb n="13" facs="dagget13.jpg"/>
 yet was He "delivered by the determinate counsel and foreknowledge of
 God." <ref target="#dagget.002.n3">*</ref> Let not this new crime in out annals, wrought on the day kept
 as the anniversary of that day, seem to us as if it had not been
@@ -540,12 +473,7 @@ borne to that supremacy by faithful champions from among those whom
 that rebellion would have trodden down forever; till the ablest rebel
 leader had surrendered with his army; nor did he die till he could say,
 <note xml:id="dagget.002.n3" n="*" place="foot" anchored="true">Acts 2., 23.</note>
-                  <pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+                  <pb n="14" facs="dagget14.jpg"/>
 Already this day has that old flag gone up to its place, and been
 flung out in the free air over Fort Sumter by the heroic hands that
 held it there so valiantly to the last four years ago. I thank God for
@@ -577,12 +505,7 @@ sentimentalism that prevails too much in our days. There has been what
 one writer called a "rose water philanthropy," which protested against
 all capital punishment, on the plea of the sacred-
 <note xml:id="dagget.002.n4" n="*" place="foot" anchored="true">Job 33:13.</note>
-                  <pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+                  <pb n="15" facs="dagget15.jpg"/>
 ness of human life in a murderer, though losing sight of its
 sacredness in his victim. But how many can be found to say that if the
 Washington assassins can be caught, they ought not to die, and what
@@ -613,12 +536,7 @@ as we can see of present promise, but in God? How little do we know
 what is before us, what even "a day may bring forth?" How a single
 week or day may be crowded with lights and shades, with rejoicings and
 lamentations! And how can we dare to lay up
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-O. E. Daggett's A Sermon on the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="dagget16.jpg"/>
 any trust in man when man himself is so perishable, and God is the
 only Being on whom it can be placed so as never to be confounded?
 Every nation has reason to thank God for its wise and good men in

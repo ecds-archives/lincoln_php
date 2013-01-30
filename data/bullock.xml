@@ -72,13 +72,7 @@ Hamilton, Palladium Office</publisher>
                   
                <idno type="ark">http://pid.emory.edu/ark:/25593/15pvw</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Alex. H. Bullock's
-Abraham Lincoln: The Just Magistrate, the Representative Statesman,
-the Practical Philanthropist.</figDesc>
-               </figure>
-            </p>
+            <pb facs="bullock1.jpg"/>
             <p>ABRAHAM LINCOLN</p>
             <p>THE JUST MAGISTRATE, THE REPRESENTATIVE STATESMAN,</p>
             <p>THE PRACTICAL PHILANTHROPIST.</p>
@@ -91,15 +85,7 @@ the Practical Philanthropist.</figDesc>
             <p>PRINTED BY CHARLES HAMILTON,</p>
             <p>PALLADIUM
 OFFICE.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="bullock2.jpg"/>
             <p>City of Worcester,</p>
             <p>In City Council, June 1st, 1865.</p>
             <p>RESOLVED, That the unanimous thanks of the City Council are hereby
@@ -109,15 +95,7 @@ delivered, at the request of the Council, in Mechanics Hall this day,
 and that he be requested to furnish a copy for publication.</p>
             <p>A copy.  Attest, </p>
             <p>SAMUEL SMITH, <hi rend="italic">City Clerk</hi>.</p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-               </figure>
-            </p>
+            <pb n="3" facs="bullock3.jpg"/>
             <div2 xml:id="bullock.002" n="EULOGY" type="sermon">
                <head>EULOGY.</head>
                <p>IT would be a painful suppression of one of the finest of human
@@ -133,13 +111,7 @@ resemblance in anything which the conceits of heathen mythology have
 transmitted,--not in that mythical sympathy of the Tiber for
 Marcellus, fortunate recipient of such honor,--nor in the many
 memorial Italian marbles and temples--nor in all the tasteful
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="4" facs="bullock4.jpg"/>
 pomp which has conducted French kings to their imperial sleep, and has
 made their capital a vast lettered monument to its one great
 departed,--nor in the drum-beat, and cathedral service, and royal
@@ -162,13 +134,7 @@ horsemen, men and maidens, the grim visages of age and the dusky
 beauty of youth, in lengthened procession, with palms, and music, and
 benediction, in behalf of that early world paid the last tribute to a
 great and just benefactor, to a builder
-<pb n="5"/>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="5" facs="bullock5.jpg"/>
 of empire. Measuring the days by their solemn tramp and their halts
 for local condolence, the swarthy column moved on over two hundred
 miles, and laid their treasured hero in the august depository of the
@@ -191,13 +157,7 @@ hearts as he passed by. The great Emporium of the North, which had
 made a jest of much of his life in office, bowed as a unit, like a
 stricken child, and paid such honors to his passing shade as no where
 have been witnessed on
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="6" facs="bullock6.jpg"/>
 the earth. Still onward and westward, a thousand miles yet to go,
 surrounded by vast throngs, all and everywhere reverential, all and
 everywhere casting choicest flowers upon the pathway of the dead,--as
@@ -221,13 +181,7 @@ periods before, than to measure him who has been the central figure in
 these civic and martial achievements by the personalities of the
 past. He will be known and judged by the next age, not indeed without
 regard to his abstract
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="7" facs="bullock7.jpg"/>
 quality, but more conspicuously and vividly as the one man, who, in
 the unfolding of the panorama of these four years, everywhere appears
 in front and in chief. Under the limitations of a single Presidential
@@ -250,13 +204,7 @@ April opened, gone into the alcoves of all generations to come and of
 every race, as to all of his life save the last five years unknown to
 half his countrymen and to the whole world beside. Such and so
 exceptional
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="8" facs="bullock8.jpg"/>
 is our country and our time, such and so exceptional is Abraham
 Lincoln.</p>
                <p>And yet he had a childhood and a youth. In that which I
@@ -280,13 +228,7 @@ from the other side of the water. Did a man ever reflect better the
 light of youthful studies, then the President reflected Aesop and
 Bunyan? No books are more likely to be remembered than they; Cowper
 said that
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="9" facs="bullock9.jpg"/>
 his child-readings of the Pilgrim's Progress would abide with him till
 memory should perish. And I confess it is to me a grateful fancy, in
 looking back for the formative influences in the life of Lincoln, to
@@ -308,13 +250,7 @@ asked an English journal, would imitate the modest honesty of the
 President and acknowledge that they had never read all parts of
 Shakespeare? But he understood and remembered all that he had read.</p>
                <p>And now, before he opens his office of law, we
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="10" facs="bullock10.jpg"/>
 catch a glimpse of the young man of nineteen floating as super-cargo
 on a flat-boat to New Orleans. It was his last act of rusticity and
 adventure. He was now unconsciously completing that democratic type of
@@ -337,13 +273,7 @@ issues of life and death to this Union should be unrolled on every
 field of a continental war,--that he himself should sit in control
 over larger armies than Europe north or south had ever seen,--that his
 hand should touch the electric
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="11" facs="bullock11.jpg"/>
 wire which should awake four millions of the children of men to
 liberty and immortality,--that the government of his country should at
 last be sealed in his own blood to eternal security and glory, and
@@ -366,13 +296,7 @@ entitled few men to enduring distinction. We know, however, that he
 distinguished himself in his own cases, and that he was a favorite
 sought to manage the causes of the clients of others. In the
 Legislature of his State he measured lances
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="12" facs="bullock12.jpg"/>
 with the rising Douglas and there for the first time caught the gleam
 of his own future. Once he went into Congress, and left it without
 great distinction,--but that should not be counted largely against
@@ -394,13 +318,7 @@ much discretion and leave our side as well in its prospects as he
 could. His benignant eye caught my meaning and his gentle spirit
 responded approval. His address was one of the best it has ever been
 my fortune to hear, and left not one root of bitterness behind. Some of
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="13" facs="bullock13.jpg"/>
 you will remember all this, but not so distinctly as I do. I never saw
 him afterwards. The next day the convention came; the genius-eloquence
 of Choate, of blessed memory, was applauded to the echo, and the
@@ -423,13 +341,7 @@ discussions with his eminent rival in that canvass, I can declare my
 conviction that to the clear analysis which he constantly presented of
 the purposes and the teachings of the founders of this government, to
 the reverence with which he impressed the people for the humane
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="14" facs="bullock14.jpg"/>
 and benevolent intent of the Constitution, to the exalted moral
 reasons upon which he predicated the new coming era, we are more
 largely indebted, than to any other person, for the firm purpose and
@@ -452,13 +364,7 @@ divided. It will become all one thing or all the other." Many
 elsewhere, some there, hesitated over the high doctrine; large numbers
 of Republicans in the North were not unwilling to see Mr. Douglas
 successful as a reward for his
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="15" facs="bullock15.jpg"/>
 brave contest with Buchanan. I confess that I felt so myself But the
 newly invested champion looked over the fleeting hour and the mere
 question of a senatorial chair, he saw farther than times or
@@ -484,13 +390,7 @@ the spring of '60 to an ascendancy over all others as the advocate of
 the primal principles of a free republic, and so recognized across the
 whole northern belt from the great plains to the Atlantic frontier,--I
 not only
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="16" facs="bullock16.jpg"/>
 count him most fortunate of men in the height to which all these
 things soon after conducted him and us, but I conclude that if he had
 gone then to the sleep in which he now reposes, he would have been
@@ -516,13 +416,7 @@ of the voice of God.</p>
                <p>Fortunate, providential selection! Any other apparently
 would have shipwrecked the Ark of the Covenant. If you consider how
 inevitable are the jealousies of the West towards the East, to which we
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="17" facs="bullock17.jpg"/>
 must always submit and which we must always palliate since we cannot
 prevent or remove them,--if, especially, you reflect what a bond of
 fate that Father of Waters is to us all, and how we must keep peace
@@ -545,13 +439,7 @@ the issue now so triumphant and so sad. It was an issue worthy of the
 best days of any nation. As he received it from the convention that
 framed it, and as he stated it in his letter of acceptance, it was a
 system of policy and
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="18" facs="bullock18.jpg"/>
 statesmanship which Daniel Webster even on that memorable seventh of
 March would have rejoiced to acknowledge, which Henry Clay in any of
 his later and brilliant years would have gladly made resound as out of
@@ -574,13 +462,7 @@ designs should attend with equal promptness the humanity and
 patriotism of the North. The work of secession began at the instant,
 and before the President elect had reached the Capital so many of the
 slave states had already
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="19" facs="bullock19.jpg"/>
 declared themselves out of the Union as to make it certain that nearly
 all the others intended to follow. Though Buchanan had remained in
 office four months since the election,--let the curtain drop over all
@@ -603,13 +485,7 @@ American Union disappear like a dream. In the general gloom which shut
 down over the whole horizon good men everywhere were ready to exclaim,
 HAIL, HOLY LIGHT,--if only it might come from any quarter. What kind
 of statesmanship, or learning, or experience, could make
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="20" facs="bullock20.jpg"/>
 a magistrate equal to such a work? Diplomacy could not save the flag
 then, eloquence could not start a throb beneath the ribs of that
 death, an arm of flesh could not hold a charm over the engulfing
@@ -632,13 +508,7 @@ he would gather the arms of his countrymen around him, and would keep
 step with the majestic marches of Providence. Never doubting that our
 jurisdiction would be recovered, always believing the conflict would
 be long and
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="21" facs="bullock21.jpg"/>
 varied, he promised just enough to keep the element of hope uppermost
 in the country, and not too much to unfit the masses for their own
 great part. Clay or Webster in his chair might have restored the old
@@ -660,13 +530,7 @@ could not believe that new men are best for great crises; that for
 such a ruler and for such a period Bunyan is a better master than all
 the Georges, and Æsop a keener teacher than both the Walpoles; that
 in a trial of the national spirit and the national forces involving
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="22" facs="bullock22.jpg"/>
 the issue of death at once or life perpetual to a nation, the study of
 Washington is higher than the schools; that in such an emergency a
 single Cromwell is greater than a dozen earls out of Eton and
@@ -689,13 +553,7 @@ him, within four years, the shortest space ever illustrated by such
 distinction, triumphed over a civil war of imperial proportions, and
 left a name to be recorded and repeated in the courts of St. Louis,
 St. James, and St. Peter, among the inscrip-
-<pb n="23"/>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="23" facs="bullock23.jpg"/>
 tions of a thousand years past and to come. So simple and rudimental
 in his origin and preparation, not learned by the side of the masters,
 and not ignorant of himself, he came to a supremacy over the grandest
@@ -717,13 +575,7 @@ of his command. Read them and re-read them and you will agree that
 they evince, in a remarkable degree for a civilian, the military
 sense. Having committed to that officer an army of eight scores of the
 flower of the land, he followed
-<pb n="24"/>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="24" facs="bullock24.jpg"/>
 it with an interest alike parental and patriotic, studying the map of
 its marches and its hopes, breasting back while he could the
 impatience of the country, at all times suggesting his advice kindly
@@ -746,13 +598,7 @@ strength enough in the country</hi>, AND WILL BRING IT OUT." He had a
 large power of patience, which this war required. The people of the
 North demanded a change of generals after each misfortune, but he saw
 difficulties they
-<pb n="25"/>
-                  <figure><graphic url=""/>
-                     <figDesc>25th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="25" facs="bullock25.jpg"/>
 could not see, and tried one after the other long and tolerantly till
 he found the right one. That is the highest proof of administrative
 talent, in war, which disregards a clamor, rejects instrumentalities
@@ -776,13 +622,7 @@ call legislative jurisprudence as had not been thought of before. To
 weaken the rebellion by the destruction of its civil rights, and this
 alike for purposes of punishment to treason and of strength to
 loyalty,--this, under our Constitu-
-<pb n="26"/>
-                  <figure><graphic url=""/>
-                     <figDesc>26th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="26" facs="bullock26.jpg"/>
 tion which never contemplated such a crisis as the present, and under
 the mutual relations of national and state sovereignty, the delicacy
 of which had not been apprehended until now, required a statesmanship
@@ -805,13 +645,7 @@ deferred in modesty to the representatives of the people, he stood
 upon his own responsibility, displayed in bold relief the abilities of
 a technical lawyer and a constitutional jurist. There has been no
 better
-<pb n="27"/>
-                  <figure><graphic url=""/>
-                     <figDesc>27th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="27" facs="bullock27.jpg"/>
 passage in his life by which he could have illustrated his capacity
 for the comprehensive field of an interstate and national war.</p>
                <p>And then I reckon it another striking feature of his
@@ -834,13 +668,7 @@ day. In the second year, when another Secretary of War was arraigned
 by large numbers of the people for having enforced the failure of
 McClellan in the Peninsula by withholding reinforcements, Mr. Lincoln
 came
-<pb n="28"/>
-                  <figure><graphic url=""/>
-                     <figDesc>28th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="28" facs="bullock28.jpg"/>
 gallantly to the response and claimed that the attack should be
 pointed against his own breast; and his dispatches to that General,
 since published, show that he could well afford to receive the
@@ -863,13 +691,7 @@ reproaches rose almost to mutiny in the North, if only he would say,
 <hi rend="italic">in me, in me vertite tela</hi>, from that moment as by
 a charm the tumult subsided. It is a great relief in the
 discouragements and troubles of war, to rest upon the one man who is
-<pb n="29"/>
-                  <figure><graphic url=""/>
-                     <figDesc>29th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="29" facs="bullock29.jpg"/>
 above all the others; it is a greater thing if that man can justify
 and warrant such a rest and solace. In this power of impressment is a
 good part of a ruler's greatness. And thus we trace to him even the
@@ -892,13 +714,7 @@ the rebellion and the weakness of the government, and when the
 alternative came at length it presented sombre and frightful
 proportions. To destroy slavery he had not been elected, nor for that
 had he called the people to arms; the only duty for him, and that
-<pb n="30"/>
-                  <figure><graphic url=""/>
-                     <figDesc>30th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="30" facs="bullock30.jpg"/>
 which he judged most pleasing to God, was to save this Union from
 dissolution You remember how after our flag had begun to trail in
 defeat, voices here and there raised this issue upon him in terms
@@ -921,13 +737,7 @@ success of our late President we have learned the right definition of
 a wise ruler. If it be his labor to initiate a measure that shall
 stand out among the beneficent acts that mark historical periods, it
 is his still more painful and vexatious work
-<pb n="31"/>
-                  <figure><graphic url=""/>
-                     <figDesc>31st page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="31" facs="bullock31.jpg"/>
 to commend it to public approval; he has to enlighten the ignorance of
 some, and to convince the intelligence of others; he has to combat
 honest prejudices, and modify interested opposition; if he would move
@@ -950,13 +760,7 @@ EMANCIPATION. I religiously believe that he was right, all along, from
 the stammering beginning to the clarion-like finality. You goaded him
 too soon, too often, and too long: he was the while in consultation
 with the counsellors
-<pb n="32"/>
-                  <figure><graphic url=""/>
-                     <figDesc>32nd page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="32" facs="bullock32.jpg"/>
 around him, with his little learning and his large reflection, with
 all of history he had read, with the fathers and the prophets. While
 editors and orators stirred strife and commotion in the country and in
@@ -979,13 +783,7 @@ already passed. His returning armies share their laurels with him and
 pay their resounding fusilade over the turf which covers their father
 and their friend! But higher honors await him! A nation rescued from
 the tyranny whose roots
-<pb n="33"/>
-                  <figure><graphic url=""/>
-                     <figDesc>33rd page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="33" facs="bullock33.jpg"/>
 have spread over two centuries, never relenting, never appeased, a
 race delivered from thraldom and elevated to the hopes of civilization
 and Christianity, shall walk to the beat of peaceful marches about his
@@ -1035,13 +833,7 @@ public sentiment,--what is it here with us but the product, not
 precisely the average quantity, but the result and the product of the
 intuitions, instincts, sagacities, and reflections of the millions of
 America,--the crystalization of the myriad forces of democracy,--to be
-<pb n="35"/>
-                  <figure><graphic url=""/>
-                     <figDesc>35th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="35" facs="bullock35.jpg"/>
 ascertained by the President only after incessant labor, and study,
 and retrospection,--then, when with satisfactory certainty
 ascertained, to be not only consulted, but to be received and accepted
@@ -1064,13 +856,7 @@ battle, but the single man does not make the revolution nor quell the
 storm. In the significant epochs of history or final clash of arms,
 the statesman can discern the occasions, the opportunities, and the
 necessities of the hour, but his greatness
-<pb n="36"/>
-                  <figure><graphic url=""/>
-                     <figDesc>36th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="36" facs="bullock36.jpg"/>
 and glory are largely the product of the times. An English journalist
 has just said of the lamented Mr. Cobden, that "his limitations as a
 statesman constituted his greatness as a representative thinker." I
@@ -1093,15 +879,7 @@ Constitution, and eight years of magisterial glory, constituted his
 vindication. So, as I have observed, Lincoln was summoned to submit to
 the same test of fame; and so we all see this day that his name
 ascends henceforth among the stars.</p>
-               <pb n="37"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>37th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
-               </p>
+               <pb n="37" facs="bullock37.jpg"/>
                <p>His speech, though not uniform, was not unworthy of his
 action. Consider how opposite are the requisitions in this respect
 which empires make upon their rulers, and take the two leading powers
@@ -1124,13 +902,7 @@ from associations, from delegations, from individual men, from
 spontaneous assemblages under a hundred moon-lights on the lawn around
 the Executive mansion. He had a word for them all. True it is, he had
 still that greatest gift of a magistrate, the power of reticence, the
-<pb n="38"/>
-                  <figure><graphic url=""/>
-                     <figDesc>38th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="38" facs="bullock38.jpg"/>
 masterly talent of suppression, whenever the occasion required it. He
 let them off with his joke and his western wit, whenever that was all
 they ought to have. In this sometimes, and too frequently, he reduced
@@ -1153,13 +925,7 @@ transcendent Everett, and inscribed his name on the tombstone of every
 soldier whose ashes there await the rising of the quick and the
 dead. His state papers are more lasting than these. His messages to
 Congress have
-<pb n="39"/>
-                  <figure><graphic url=""/>
-                     <figDesc>39th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="39" facs="bullock39.jpg"/>
 already passed into the national literature; they were read at the
 time in the courts of France and England; and though they may have
 been obliterated or obscured there by royal art, they will reappear
@@ -1183,13 +949,7 @@ gorgeousness and serenity of an Indian summer, to new campaigns, and
 heavier burdens, and coming victories. From '62 to '64 such was the
 power of his written and spoken words. In statement and argument he
 struck deeper
-<pb n="40"/>
-                  <figure><graphic url=""/>
-                     <figDesc>40th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="40" facs="bullock40.jpg"/>
 and richer veins than his supposed education would have suggested. I
 think we are quite apt to be in error as to this whole matter of
 education. When and where did Hamilton acquire his--for he left
@@ -1211,13 +971,7 @@ or Princeton might be proud to honor. This is not the extravaganza of
 eulogy; peruse, as I have perused, his written and spoken addresses,
 from Illinois in '58 to his last and singular Inaugural, and you shall
 say the same. I will not particularize out of them all, save one. Take
-<pb n="41"/>
-                  <figure><graphic url=""/>
-                     <figDesc>41st page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="41" facs="bullock41.jpg"/>
 up and read critically his published letter to Erastus Corning and his
 committee, covering the whole question of the suspension of the <hi rend="italic">habeas corpus</hi> and the subjection of the civil to
 military law, and it shall be your impartial judgment that in a broad
@@ -1239,13 +993,7 @@ years of labor, which would have broken like a reed any man of less
 iron cast, he not once got time to revisit the state and city of his
 love, seldom left the capital unless to visit the tents, hospitals or
 graves of his soldiers, and once only came so far as the
-<pb n="42"/>
-                  <figure><graphic url=""/>
-                     <figDesc>42nd page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="42" facs="bullock42.jpg"/>
 North to consult on the national safety with a retired chieftain. He
 gave attentive ear to humblest men and women, was as faithful in small
 acts of kindness as in great acts of justice, as amiable in little
@@ -1268,13 +1016,7 @@ discussed with him the importance of appointing Mr. Chase to fill the
 expected vacancy. The President at length gave the assurance. But the
 Chief Justice renewed his lease of life, and many months lapsed
 away. Mean-
-<pb n="43"/>
-                  <figure><graphic url=""/>
-                     <figDesc>43rd page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="43" facs="bullock43.jpg"/>
 while, between Mr. Lincoln and Mr. Chase, in the council of
 administration, divergences arose. At length in July, '64, the latter
 laid the key of the exchequer upon the President's table. He accepted
@@ -1297,13 +1039,7 @@ Washington in February, '61, in his parting words requesting that his
 neighbors would array in his support the mysterious power of the
 legions of prayer; and after he had assumed his high trust at the
 Capital he cultivated that religious life which is
-<pb n="44"/>
-                  <figure><graphic url=""/>
-                     <figDesc>44th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="44" facs="bullock44.jpg"/>
 the best guaranty of a nation's triumph. While war, according to its
 prescriptive laws, opened all the avenues of inconsideration and
 levity to others, he drew his consolations and refreshed his courage
@@ -1325,13 +1061,7 @@ a rule for official conduct; and the difference between us will have
 to be postponed to the adjustments which are yet to come of American
 and European ideas.</p>
                <p>Your President was kind and tender to a fault. 
-<pb n="45"/>
-                  <figure><graphic url=""/>
-                     <figDesc>45th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="45" facs="bullock45.jpg"/>
 This led him into some mistakes, but his magnanimity corrected
 them. So he yielded somewhat to the rebel Campbell at Richmond, and
 gave what might have proved a fatal order to Weitzel, but revoked it
@@ -1358,15 +1088,7 @@ He knew not what those men had in preparation for him, and the Lord in
 his infinite mercy was preparing him to go at their bidding,
 whispering as he ascended, "Father, forgive them, for they know not
 what they do!"</p>
-               <pb n="46"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>46th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
-               </p>
+               <pb n="46" facs="bullock46.jpg"/>
                <p>As you look backward along the galleries of history, you
 are surprised when you think how few are found whose fame has outlived
 their period or country, how few have passed into the constellations
@@ -1388,13 +1110,7 @@ honor and benignity.</p>
                <p>I appropriate to him the language of our own fellow-citizen
 and historian, Mr. Motley, which he applied to William of Orange:</p>
                <p>"No man was ever more devoted to a high purpose:
-<pb n="47"/>
-                  <figure><graphic url=""/>
-                     <figDesc>47th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="47" facs="bullock47.jpg"/>
 no man had ever more right to imagine himself, or less inclination to
 pronounce himself, entrusted with a divine mission. There was nothing
 of the charlatan in his character. His nature was true and
@@ -1418,13 +1134,7 @@ ceased to beat, when the rival of the dead, the representative cause
 of our sorrows, was overtaken by retribution. He enjoys this evening
 his reflections upon history, and providence, and judgment, in the
 hospitality of the noblest
-<pb n="48"/>
-                  <figure><graphic url=""/>
-                     <figDesc>48th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="48" facs="bullock48.jpg"/>
 Fortress of the Union, on a bed around which the shade of the murdered
 President would fain marshal "angels and ministers of grace" to
 protect him. Who in all the earth cares now what shall become of him?
@@ -1446,13 +1156,7 @@ every line and in every trench over half the states, that democratic
 government in America might shine forth to cheer and animate and guide
 mankind to the remotest bounds of the world and of time. He ransomed
 four millions of his own countrymen from the thraldom of two
-<pb n="49"/>
-                  <figure><graphic url=""/>
-                     <figDesc>49th page of
-Alex. H. Bullock's Abraham Lincoln: The Just Magistrate, the
-Representative Statesman, the Practical
-Philanthropist.</figDesc>
-                  </figure>
+<pb n="49" facs="bullock49.jpg"/>
 hundred years, and died under the blow of slavery in the ecstacy of
 the sight. No matter when, or where, or how death should come to
 him,--for ABRAHAM LINCOLN has completed the work which GEORGE
