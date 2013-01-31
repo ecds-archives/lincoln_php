@@ -77,12 +77,7 @@ Stereotypers</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15q8n</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of A. D. Gillette's
-God Seen Above All National Calamities.</figDesc>
-               </figure>
-            </p>
+            <pb facs="gillette1.jpg"/>
             <p>God Seen Above all National Calamities.</p>
             <p>A SERMON</p>
             <p>ON THE</p>
@@ -95,22 +90,8 @@ WASHINGTON, D.C.</p>
             <p>McGILL &amp; WITHEROW, PRINTERS AND
 STEREOTYPES.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="gillette2.jpg"/>
+            <pb n="3" facs="gillette3.jpg"/>
             <p>WASHINGTON D.C., <hi rend="italic">April</hi> 24, 1865.</p>
             <p>REV. A.D. GILLETTE, D.D.,
 		<lb/>
@@ -145,14 +126,7 @@ A. D. Gillette's God Seen Above All National
 Calamities.</figDesc>
                </figure>
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="gillette5.jpg"/>
             <div2 xml:id="gillette.002" n="SERMON" type="sermon">
                <head>SERMON.</head>
                <epigraph>
@@ -181,12 +155,7 @@ when they seemed most to need his guiding hand in the affairs which so
 vitally concern their common and individual good.</p>
                <p>We, as a people, wept with weeping Britannia, when the good
 husband of their beloved queen passed from
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="6" facs="gillette6.jpg"/>
 time and Windsor Castle to the shade and solitude of the silent
 tomb. I am sorrowingly mistaken in my estimate of Christian Europe,
 among whose people I spent a few months of my life, if they all, and
@@ -221,12 +190,7 @@ except in the instances of Enoch and Elijah.</p>
                <p>The fathers of our Federal Union, where are they? And the
 signers of our glorious Declaration of Independence, do they live for
 ever? In various States of our
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="7" facs="gillette7.jpg"/>
 great Republic they ended their illustrious mission, and died;
 reverent friends buried them out of their sight.</p>
                <p>The brave legions of our glorious Revolution, were they
@@ -258,12 +222,7 @@ ever-laboring brain was pierced by a bullet, shot from a pistol by the
 hand of a drunken, debased assassin, April 14,1865. Though the wound
 was mortal, he did not die, thank Heaven! amid the unhallowed
 surroundings where he received it. Kind arms bore him to a Chris-
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="8" facs="gillette8.jpg"/>
 tian home, there to terminate his memorable and useful life. His
 breath and spirit went out of its clay tabernacle into the presence of
 his God and Judge from the house of a worthy family, belonging to the
@@ -304,12 +263,7 @@ careful hands, to be borne to their home on the prairies, where in
 less exalted position he was not less loved than here.</p>
                <p>Men of God, in presence of our newly inaugurated Chief
 Magistrate, have given Christian counsel to the living--
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="9" facs="gillette9.jpg"/>
 comforting words to the widow and fatherless children; all has been
 done that a grateful community could do, to respectfully consign the
 casket, from whence the jewel had departed, to the keeping of the
@@ -342,12 +296,7 @@ rejoiced, as well we might; but instead of devout gratitude to him who
 enabled us to triumph, there was the sound of licentious revelry and
 noisy coarseness in our joy. Loosed for a season from the toils of
 routine life, many rushed madly
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="10" facs="gillette10.jpg"/>
 to the intoxicating cup for stimulus to artificial excitement, and
 drowned all seasonable delight in mire, and a poison that not the dumb
 animals will swallow. We heard men say, when Richmond had fallen, they
@@ -379,14 +328,7 @@ those who peril all for our common good, we must see the Lord sitting
 upon a throne, high and lifted up, and to Him we all must look when
 death is at his carnival, and union and freedom are the prey he is
 voraciously seeking to devour.</p>
-               <pb n="11"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page
-of A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
-               </p>
+               <pb n="11" facs="gillette11.jpg"/>
                <p>III. We have depended too entirely on man when we have been
 in dread of our enemies. In triumph we gave too much glory to man, and
 not enough to God. He assures us He will not give His glory to
@@ -418,12 +360,7 @@ soles of their feet in all the realms of existence, and as they cannot
 escape the just judgments of God we dare not speak of their terrible
 hereafter. In life they cannot escape that worse than hell into which
 tiger
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="12" facs="gillette12.jpg"/>
 passions have engulfed them; and ever as consciousness lights up its
 glare in their gloom, each must exclaim, "Myself am hell, and hell
 itself were tolerable if it could but hide me from myself." Every
@@ -457,12 +394,7 @@ we may find at the throne of the heavenly grace, "on which the Lord
 sits high and lifted up." In the greatness of our personal and
 national grief, let us not, like our shamed ancestors in Eden, flee
 away and hide ourselves from God, but pray. Let us not,
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="13" facs="gillette13.jpg"/>
 like Cain, try to dissipate our consciousness of need by building and
 being absorbed in worldly objects, but let us come before the Lord in
 penitent, beseeching prayer. Let us not, like Jonah, be fretful and
@@ -495,12 +427,7 @@ with triumphant joy, and go into the possession of a glorious eternal
 hereafter. With the consecration of the noblest purposes in our
 hearts, and full trust in the merits of Jesus Christ underlying all
 our prospects, if we must
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="14" facs="gillette14.jpg"/>
 needs be occasionally cast down, we shall not be destroyed. In our
 personal and national trials we shall see the Lord on the throne, high
 and lifted up, and His train filling the temple, and we singing
@@ -541,12 +468,7 @@ more than their former lustre and once happy state. May we have peace,
 liberty, and safety, secured upon a solid, impartial, and permanent
 foundation.</p>
                <p>May freedom be given to all the oppressed, health be
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-A. D. Gillette's God Seen Above All National
-Calamities.</figDesc>
-                  </figure>
+<pb n="15" facs="gillette15.jpg"/>
 restored to all sick and wounded, comfort ministered to all who mourn!
 The fatherless and the widow do Thou take into the covenant-keeping of
 Thy everlasting arms. May we all, with hearty repentance and sincere

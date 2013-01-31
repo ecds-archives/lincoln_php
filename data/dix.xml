@@ -70,12 +70,7 @@ Press</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15q43</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Rev. Morgan Dix's The
-Death of President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="dix1.jpg"/>
             <p>The Death of President Lincoln.</p>
             <p>A SERMON</p>
             <p>PREACHED IN SAINT PAUL'S CHAPEL, NEW YORK, ON</p>
@@ -89,22 +84,8 @@ CHURCH.</p>
             <p>CAMBRIDGE:</p>
             <p>PRINTED AT THE RIVERSIDE PRESS.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="dix2.jpg"/>
+            <pb n="3" facs="dix3.jpg"/>
             <p>RESOLUTIONS</p>
             <p>ADOPTED BY THE VESTRY OF TRINITY CHURCH.</p>
             <p>UPON receiving the news of the assassination of the
@@ -130,14 +111,7 @@ received, remain without words adequate to express their sorrow.</p>
                <hi rend="italic">Resolved</hi>, That we recognize in this
 calamitous event one of those visitations, permitted by Almighty God,
 before which</p>
-            <pb n="4"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>4th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="4" facs="dix4.jpg"/>
             <p>RESOLUTIONS.</p>
             <p>a nation can but bow in silence and awe, with the prayer that they
 may be overruled for the good of our country.</p>
@@ -175,14 +149,7 @@ affectionate and tender remembrance.</p>
 to take order that the churches of this parish be draped in mourning,
 in token of our sympathy with the distress and anguish which have been
 caused throughout the length and breadth of the land</p>
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="dix5.jpg"/>
             <p>RESOLUTIONS.</p>
             <p>by the murder of our venerated and beloved Chief Magistrate.</p>
             <p>
@@ -196,14 +163,7 @@ recommendation of the National Government, funeral solemnities were
 held, at 12 o'clock meridian, throughout the United States, in honor
 of the late President. The following Sermon was preached in St. Paul's
 Chapel on that occasion.</p>
-            <pb n="6"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>6th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="6" facs="dix6.jpg"/>
             <div2 xml:id="dix.002" n="SERMON" type="sermon">
                <head>SERMON.</head>
                <epigraph>
@@ -229,14 +189,7 @@ has been, on this side of the world, no sorrow like our sorrow, so far
 as we can read back the history of the men who have dwelt
 here. Regarded in its cause and in its manner of manifestation, it
 stands beyond</p>
-               <pb n="7"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="7" facs="dix7.jpg"/>
                <p>SERMON.</p>
                <p>comparison in its awful grandeur. By that act, to which the sober
 judgment of mankind has awarded the crown in degrees of atrocious
@@ -263,14 +216,7 @@ of the wicked one! That act has been, not the destruction, but the
 immortalizing of the venerated and beloved victim. When or where, at
 any time, in any age, has a man gone to his grave as this ruler of the
 land is going to his, this</p>
-               <pb n="8"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="8" facs="dix8.jpg"/>
                <p>SERMON.</p>
                <p>hour? Who ever saw or dreamed of a manifestation of sorrow, of
 anguish, of interest, of devotion to one human being like that which
@@ -296,14 +242,7 @@ look back to the good Henry IV., and love him for the fate which
 brutal passion inflicted, so will the American people, to their
 remotest generations, speak tenderly and reverently of that good, that
 honest, that kindly-hearted man, their sixteenth President.</p>
-               <pb n="9"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="9" facs="dix9.jpg"/>
                <p>SERMON.</p>
                <p>"He that ruleth over man must be just, ruling in the fear of God."
 How fairly do these words describe him. Who was just, if he was not?
@@ -329,14 +268,7 @@ defeats,--how he could save them mortification and humiliation,--how
 much he could safely give them back of that which they had forfeited,
 who would, I think, have pardoned, if it came to the last, even the
 chief man of the insur-</p>
-               <pb n="10"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="10" facs="dix10.jpg"/>
                <p>SERMON.</p>
                <p>gents; who would have had the blood of no one on his hands; and
 who, if he knew in those last hours what had happened to him, and who
@@ -363,14 +295,7 @@ last shall bring him into our hands, if the months and the days do not
 do it sooner. There is small consolation in the thought; the evil
 cannot be repaired. But that man owes a debt to the nation, and sooner
 or later the hour of</p>
-               <pb n="11"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="11" facs="dix11.jpg"/>
                <p>SERMON.</p>
                <p>its payment will come. Meanwhile we have but to be patient and
 follow.</p>
@@ -397,14 +322,7 @@ concurrent, and deliberate judgment of civilized and enlightened
 nations, assassination is held to be a crime--an act which no
 circumstances can excuse. That was not the Pagan view. The change in
 opinion on this point has come with the</p>
-               <pb n="12"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="12" facs="dix12.jpg"/>
                <p>SERMON.</p>
                <p>acceptance of the teachings of Jesus Christ, and with the spread of
 His religion through the world. To defend assassination is no more
@@ -430,14 +348,7 @@ been forced into contention? We wait to hear what they will say. They
 must speak, and the whole world will listen to every word they
 utter. He who invaded the family circle of the President and did him
 to death; he who, with a dastardly cowardice which</p>
-               <pb n="13"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="13" facs="dix13.jpg"/>
                <p>SERMON.</p>
                <p>must simply be pronounced immense, entered the chamber of that sick
 and helpless man, the Secretary of State, and stabbed him in his
@@ -463,14 +374,7 @@ voice,--assuring us that the weapons of their warfare are and ever
 will be those of honorable, though, as we deem, mistaken, men, and not
 the poisoned chalice, the midnight torch, the secret dagger, the
 muffled pistol. Then might good come even of this awful catas-</p>
-               <pb n="14"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="14" facs="dix14.jpg"/>
                <p>SERMON.</p>
                <p>trophe. We, loving the dead as we do, they, horror-stricken at his
 murder, might yet join hands over his bloody grave, and ask
@@ -496,14 +400,7 @@ calls the midnight murderer a hero, the stealthy killer of the old,
 the sick, the defenceless, a demigod? Is it a work of this age? or is
 it a thing of the past? Is it a system which rests on Gospel
 principles and Christian ideas? or is it a remnant</p>
-               <pb n="15"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="15" facs="dix15.jpg"/>
                <p>SERMON</p>
                <p>of hard old Roman Paganism and an ally and friend of the Thugs? And
 can there be peace while any vestige remains of those peculiarities,
@@ -530,14 +427,7 @@ commander-in chief of the power of the nation; in emancipating from
 the fetters of slavery an entire race of human beings. Let the
 historian write of all these things in his account of that remarkable
 man. Let me rather repeat the</p>
-               <pb n="16"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-Rev. Morgan Dix's The Death of President
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="16" facs="dix16.jpg"/>
                <p>SERMONS</p>
                <p>words of King David, spoken concerning the just ruler that ruleth
 in the fear of God:--For "he shall be as the light of the morning when

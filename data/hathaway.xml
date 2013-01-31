@@ -76,13 +76,7 @@ Warren</author>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qc2</idno></bibl>
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Warren Hathaway's A
-Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="hathaway1.jpg"/>
             <p>A</p>
             <p>DISCOURSE</p>
             <p>OCCASIONED BY THE</p>
@@ -94,14 +88,7 @@ Lincoln.</figDesc>
             <p>ALBANY</p>
             <p>J. MUNSELL, 78 STATE STREET.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Warren Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="hathaway2.jpg"/>
             <p>CORRESPONDENCE.</p>
             <p>COXSACKIE, April 20,
 1865.</p>
@@ -134,14 +121,7 @@ understand the solemn duties of the hour.</p>
             <p>I am, most respectfully yours,</p>
             <p>WARREN
 HATHAWAY.</p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Warren Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="3" facs="hathaway3.jpg"/>
             <div2 xml:id="hathaway.002" n="DISCOURSE" type="sermon">
                <head>DISCOURSE.</head>
                <epigraph>
@@ -170,12 +150,7 @@ the palace and the cottage.</p>
                <p>But when did millions bow in mourning as they bow to-day?
 When before has friend and foe, sire and son, freeman and bondman,
 rich and poor, lofty and lowly,
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="4" facs="hathaway4.jpg"/>
 struck hands in companionship of sorrow, and joined in a concert of
 tears.</p>
                <lg type="stanza">
@@ -212,14 +187,7 @@ and hopes of the nation in this hour of bitter trial--<hi rend="italic">is gone!
                   <l>One day along the electric wire</l>
                   <l>His words of love and mercy sped;</l>
                </lg>
-               <pb n="5"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of
-Warren Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="5" facs="hathaway5.jpg"/>
                <lg type="stanza">
                   <l>We came next morn: that tongue of fire</l>
                   <l>Said only, "He who spake is dead."</l>
@@ -264,12 +232,7 @@ has fallen!</p>
 brilliant victories crowned the efforts of the Federal armies. You
 remember with what breathless anxiety we waited to hear from SHERMAN;
 he reported at last,
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="hathaway6.jpg"/>
 and his <hi rend="italic">bulletin</hi> was the record of a triumph. We
 paused a moment, feeling that the crisis of our nation and the war had
 come; then the "On to Richmond" of four years ago--<hi rend="italic">now</hi> the more sublime--"<hi rend="italic">On to
@@ -297,12 +260,7 @@ amid her Mammon temples the grand old Doxology--the "<hi rend="italic">Te Deum</
                <p>There was no indulging in feelings of vengeance, no gloating
 in gladness over the sorrows and chagrin of a fallen foe; but disposed
 to let "the lifted thunder of
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="hathaway7.jpg"/>
 justice drop," extend the hand of mercy and love, the people
 temperately rejoiced. It was not a Roman saturnalia; but a patriotic,
 Christian jubilee.</p>
@@ -332,12 +290,7 @@ peril. The man who above all others seemed chosen of God to lead us
 through the Red Sea of rebellion, and guide us to the promised land of
 liberty and peace.</p>
                <p>But this is not all; there are noble, devoted patriots
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="hathaway8.jpg"/>
 that we can trust; but alas! we stand in the presence of a mangled
 corse! Our ears tingle with the tidings of a most foul assassination!
 We have pressed upon our attention an awful crime. Our Chief
@@ -369,14 +322,7 @@ plunged the nation in the deepest sorrow.</p>
 infamy, by striking down "the foremost man of all the world." But let
 me plainly state if I can the <hi rend="italic">mean-</hi>
                </p>
-               <pb n="9"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-Warren Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="9" facs="hathaway9.jpg"/>
                <p>
                   <hi rend="italic">ing</hi> and <hi rend="italic">terror</hi> of <hi rend="italic">this</hi> deed of blood. Let me state my feelings and
 convictions. Let me discharge my duty in this solemn hour.</p>
@@ -407,12 +353,7 @@ eclipse himself in this impassioned funeral ode.</p>
 scarcely know which to admire most, his long heart or his princely
 intellect. Irresistible with his sword, sweeping the harp with a
 master's
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="hathaway10.jpg"/>
 hand, unrivalled as poet and king, his greatness is only equalled by
 his goodness, while his virtues outshine his crown.</p>
                <p>You should remember that the only obstacle between David
@@ -442,12 +383,7 @@ cost the patriotism of '76--which was not a parlor, or shoulder-strap
 patriotism merely, but that practical devotion to country that pledged
 life and fortune and sacred honor to the cause of freedom, and
 sanctified the battle fields of the
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="hathaway11.jpg"/>
 Revolution with the best blood of our race. And no person can be more
 sacred in view of cost and principle, sacrifice and freedom, than our
 Chief Magistrate.</p>
@@ -475,12 +411,7 @@ dearest interests of mankind. It was the attempted assassination of
 the principle of Democracy, of the rights of the people. The murderer
 aimed to shoot a truth, a principle, a law of God; between him and
 that truth, that principle, that
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="12" facs="hathaway12.jpg"/>
 law, stood Abraham Lincoln. The ball struck the President, he was
 mortal, but principle, truth, righteousness are
 invulnerable--immortal. He alas! was killed, but <hi rend="italic">not</hi> that at which the shot was aimed.</p>
@@ -514,12 +445,7 @@ office, he was, if possible, doubly sacred to all--save the foul dogs
 of a gigantic, cruel and fiendish rebellion! He and WM. H. SEWARD,
 were perhaps, more than any other two, representative men. The people,
 the Ameri-
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="hathaway13.jpg"/>
 can commonwealth, acknowledged their leadership rather I should say
 regarded them as faithful servants. They were doing the behests of the
 nation. Hence it is solemnly, impressively true, the President falls
@@ -549,12 +475,7 @@ individual and national perdition. When <hi rend="italic">wrong</hi> is
 sanctioned in a political platform, when it becomes organic, it does
 not cease to be iniquitous; and as Christians let us speak
 trumpet-tongued against all
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="hathaway14.jpg"/>
 sin, whether individual or national, whether pertaining to a person or
 a party.</p>
                <p>As Americans, let us cease from party warfare until the
@@ -583,12 +504,7 @@ official duties, his great, tender heart bled for those who shared the
 perils of war. His honesty of purpose and sincerity of life made him
 unsuspicious, and though repeatedly warned, he could not believe he
 was in any danger. 
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="hathaway15.jpg"/>
 Panoplied in kindness and love, he felt safe as though clad in triple
 steel. Forbearance has been noticed as a peculiar trait of his
 character, and seldom has this virtue shone forth more conspicuously
@@ -618,12 +534,7 @@ animosity, mocked at for his official awkwardness, and denounced for
 his steadfast policy by all the democratic section of the loyal
 states, tried by years of failure before that policy achieved a single
 great success, further tried by
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="hathaway16.jpg"/>
 a series of successes so rapid and so brilliant that they would have
 puffed up a smaller mind and overset its balance, embarrassed by the
 boastfulness of his people and of his subordinates, no less than by
@@ -652,12 +563,7 @@ disease that infected our political atmosphere until virtue was almost
 banished from the councils of the nation, and our great men were,
 morally, in a dying condition.</p>
                <p>In other words, his murder is the result of a system
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="hathaway17.jpg"/>
 tolerated and heretofore defended by the American people. It is a
 result of the same cause that murdered a Lovejoy because he dared to
 speak for freedom, that brutally assaulted a Senator in his seat in
@@ -689,12 +595,7 @@ favored nation." He has done its behests, he has obeyed its spirit.</p>
                <p>Again--we find a <hi rend="italic">secondary</hi> cause for
 this sad event in the bitter language, the unjust, ungenerous
 assertions of heated partizans. LINCOLN has been called a
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="18" facs="hathaway18.jpg"/>
 tyrant, a usurper, a murderer. O friends, you have misjudged. He has
 been true to his oath of office, true to the demands of the people. He
 has been no more tyrannical than the loyal, heroic, sacrificing
@@ -723,12 +624,7 @@ patriotism. The rebellion aimed four years ago to destroy our
 President and overthrow our nation, and alas! to-day we mourn the loss
 of our Chief--but the <hi rend="italic">nation</hi>, thank God, is
 vigorous; he dies
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="19" facs="hathaway19.jpg"/>
 by the hands of traitors, but our threatened country lives--</p>
                <lg type="stanza">
                   <l>Round the cold form of death, smiles and roses are
@@ -761,12 +657,7 @@ LADD. The city of Lowell has built a monument for him. That is right;
 but there are thousands as worthy, whose names should not be
 foregotten. It is sad for the dying soldier to think his grave will be
 unmarked and forever unknown; that his lonely tomb
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="20" facs="hathaway20.jpg"/>
 will never be wet with the tears of affection, or adorned by the hands
 of love. On the battle field of Fair Oaks, dying apart by themselves,
 were found four dead soldiers. A paper lay upon the breast of one and
@@ -796,12 +687,7 @@ of American Emancipation.</p>
                <p>He lies before us a <hi rend="italic">martyr</hi>. He fell
 for principle. We cannot but notice the suggestive coincidence that he
 was struck down on Good Friday: a day mem-
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="21" facs="hathaway21.jpg"/>
 orable forever as the anniversary of the sublimest love and most
 costly sacrifice. Day of all others that exhibits Divine mercy and
 forbearance. Our President was betrayed on the night that saw a
@@ -837,14 +723,7 @@ back the glittering sword, ready to fall on those who have left us a
 <hi rend="italic">husbandless</hi> nation; and he in the confidence of a
 victorious people could have bestowed mercy where now bolts of
 vengeance will fall.</p>
-               <pb n="22"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page
-of Warren Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="22" facs="hathaway22.jpg"/>
                <lg type="stanza">
                   <l>The Lord have mercy on the weak,</l>
                   <l>And calm their frenzied ire,</l>
@@ -878,12 +757,7 @@ tinsel of an empty peace--or the "pottage" of an iniquitous
 compromise. We <hi rend="italic">might</hi> have been willing after
 having our fair land ploughed with the burning share of war, and our
 fields
-<pb n="23"/>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of Warren
-Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="23" facs="hathaway23.jpg"/>
 watered with blood, to permit the sowing again of those seeds of woe
 that have resulted in a harvest of death. We may have needed this
 further exhibition of the spirit of slavery, to teach us to detest it
@@ -915,14 +789,7 @@ before us there is a glorious future.</p>
                   <l>While up to God the freedman's prayers</l>
                   <l>Are rising from your deck</l>
                </lg>
-               <pb n="24"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page
-of Warren Hathaway's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="24" facs="hathaway24.jpg"/>
                <lg type="stanza">
                   <l>Sail on! the morning cometh,</l>
                   <l>The port ye yet shall win;</l>

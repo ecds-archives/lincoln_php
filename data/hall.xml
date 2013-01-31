@@ -78,12 +78,7 @@ Mass.</pubPlace>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qbx</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Gordon Hall's President
-Lincoln's Death: Its Voice to the People.</figDesc>
-               </figure>
-            </p>
+            <pb facs="hall1.jpg"/>
             <p>PRESIDENT LINCOLN'S DEATH;</p>
             <p>Its Voice to the People.</p>
             <p>A DISCOURSE</p>
@@ -95,22 +90,8 @@ Lincoln's Death: Its Voice to the People.</figDesc>
             <p>NORTHAMPTON, MASS.</p>
             <p>TRUMBULL &amp; GERE PRINTERS</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Gordon Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Gordon Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="hall2.jpg"/>
+            <pb n="3" facs="hall3.jpg"/>
             <p>NORTHAMPTON, APRIL
 20TH, 1865.</p>
             <p>REV. GORDON HALL, D. D.,</p>
@@ -163,14 +144,7 @@ Gordon Hall's President Lincoln's Death: Its Voice to the
 People.</figDesc>
                </figure>
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-Gordon Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="hall5.jpg"/>
             <div2 xml:id="hall.002" n="PRES. LINCOLN'S DEATH--ITS VOICE T0 THE PEOPLE." type="sermon">
                <head>PRES. LINCOLN'S DEATH--ITS VOICE T0 THE PEOPLE.</head>
                <epigraph>
@@ -196,14 +170,7 @@ us. We realized it. The plot had succeeded. The assassin's weapon had
 done the deed. Murder accomplished--other murders
 attempted--blood-shedding not more extensive, only because frustrated
 by a merciful Providence.</p>
-               <pb n="6"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
-               </p>
+               <pb n="6" facs="hall6.jpg"/>
                <p>Assassination in our Capital! The victim, the nation's
 President! Even so. We had thought, we had feared, he might die of
 over-exertion and fatigue, and of disease thus induced. We had not
@@ -239,14 +206,7 @@ is seen the God of both Moses and Joshua.</p>
 instrumentality--employ it so long as seems good to him--then set it
 aside for another; while we, impotent, astounded, can only behold in
 silence, be still and know that it is God.</p>
-               <pb n="7"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
-               </p>
+               <pb n="7" facs="hall7.jpg"/>
                <p>Not only SOVEREIGN is God's Providence, but UNSEARCHABLE. As it is
 above our power, so is it beyond our comprehension.</p>
                <p>How wonderful the raising up of this man! How few of us had
@@ -281,11 +241,7 @@ great deep.</p>
 sagacity--when great, difficult questions were coming up, calling for
 his wise intuitions. How common was it for our public prints to touch
 upon matters of vast concern soon to demand solu-
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Gordon Hall's
-President Lincoln's Death: Its Voice to the People.</figDesc>
-                  </figure>
+<pb n="8" facs="hall8.jpg"/>
 tion, and then dismiss them with the conclusion, the President's good
 sense will guide him to the right result; better that, even, was
 sometimes said, than the deliberations of Congress.</p>
@@ -319,11 +275,7 @@ of submission, and trust in him. Not a doubt this is a part of the
 instruction God would give us. We are to submit--and it is not to the
 treasonable plot that we submit, to the vindictiveness or malice of
 man, but to the sovereign, un-
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Gordon Hall's
-President Lincoln's Death: Its Voice to the People.</figDesc>
-                  </figure>
+<pb n="9" facs="hall9.jpg"/>
 searchable will of God. "Shall there be evil in a city and the Lord
 hath not done it?" This momentous event has not taken place unbeknown
 to God. He is not surprised or taken at unawares. He has not been
@@ -356,12 +308,7 @@ not only that he might bless, but that he might be blessed. And we
 believe God did bless him, with the divine guidance and acceptance,
 and indwelling grace. That he was a diligent student of the scriptures
 we know. That he committed his
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
+<pb n="10" facs="hall10.jpg"/>
 ways to God in prayer, and loved the Savior, he testified. That he
 rested his hope on the Great Redeemer, we believe, and that he has
 been called up higher,--his warfare accomplished,--the crown of the
@@ -396,12 +343,7 @@ country. You ask too much.</p>
                <p>But how much has this to do with
 Mr. Lincoln's death? I do not know. Perhaps nothing. I do not claim to
 have had
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
+<pb n="11" facs="hall11.jpg"/>
 access to heaven's counsels. Mark me, I do not assert,--I only
 inquire. Would the policy of Mr. LINCOLN have been too lenient? Was he
 tending, out of his great and good heart, to the extreme of mercy?</p>
@@ -437,12 +379,7 @@ policy--well-meant, perhaps, but a mistaken and ruinous policy--one
 which would have brought back upon us a refluent wave of corruption,
 convulsion and distress. Treason was to be passed over as trivial. The
 penalty of confiscation
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
+<pb n="12" facs="hall12.jpg"/>
 was to be remitted. The great plantations were to be untouched. Upon
 these great estates, the blacks, whether free or slave, were to be the
 laborers. The large estate-owners would have immense patronage. They
@@ -476,12 +413,7 @@ dishonorable than some of his followers? He has been the military
 genius and bulwark of the rebellion. Against the country that
 nourished and educated him and made him what he is, he used his every
 talent and resource. He took sides with the traitors
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
+<pb n="13" facs="hall13.jpg"/>
 --protracted the war as long as there was a gleam of hope--did all he
 could to destroy our government, liberties and nation. And was this
 the man to be treated with scrupulous courtesy?--to be dismissed as
@@ -516,12 +448,7 @@ further mischief.</p>
 failing probably will not be a weak leniency.</p>
                <p>We have just had reported to us views of our now President
 Johnson, expressed at a meeting of Iowa citizens in
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
+<pb n="14" facs="hall14.jpg"/>
 Washington, Saturday evening, and communicated to the public through
 Gov. Stone. He would pursue no policy, he said, which would prevent
 the government from visiting condign punishment upon the guilty
@@ -556,12 +483,7 @@ wonderful man. I know not whether I would assign him a place inferior
 even to that of Washington. But no man is infallible. What he would
 have done I do not know. My confidence in him had become so great,
 that it seemed to me 
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
+<pb n="15" facs="hall15.jpg"/>
 he would be guided anything and everything. This much we know. He has
 done his work nobly. And he has not lived to mar it. Had his virtue of
 clemency become his failing--had his magnanimous, tender spirit
@@ -593,12 +515,7 @@ and intent God doubtless has. It is not wrong to do justice. It may be
 wrong to withhold it.</p>
                <p>It may be the duty of the people to hold meetings in their
 respective towns, to frame resolutions or petitions, calm,
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Gordon
-Hall's President Lincoln's Death: Its Voice to the
-People.</figDesc>
-                  </figure>
+<pb n="16" facs="hall16.jpg"/>
 firm, wise, and through their representatives at Washington to make
 their voice heard in our high places.</p>
                <p>You and I shall not live
