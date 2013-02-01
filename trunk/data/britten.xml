@@ -53,7 +53,7 @@ Preservation Office, and Pitts Theology Library.</p>
 with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-***NOTE: at the beginning of this file, I removed some (seemingly) extraneous <p></p> tags. Could you double check that none of these were, in fact, crucial? The numbering also skips from hardinge11 to hardinge13 (there is no hardinge12): OK or oversight?
+***NOTE: at the beginning of this file, I removed some (seemingly) extraneous <p></p> tags. Could you double check that none of these were, in fact, crucial? There is also a MISSING PAGE (page 12) in this file--see the other note I have written in this document.
          <div1 xml:id="britten.001" n="The Great Funeral Oration on Abraham Lincoln" type="text">
             <head> 
                <bibl> 
@@ -326,6 +326,7 @@ store, or, the poor clerk's office! Bright, beautiful, and just
 republicanism, thou knowest thy kings, and never can mistake thy
 princes! And in every step of this great magic ladder cut by his
 hands, erected by
+***PAGE 12 IS MISSING! It is NOT a blank page, as there is nothing commented out, and because the sentence-in-progress that concludes page 11 (". . . cut by his hands, erected by") is NOT completed by the sentence part that begins page 13 ("found in his famous senatorial contest"). This error can be seen on the live website, too, at this URL: http://beck.library.emory.edu/lincoln/sermon.php?id=britten.001
 <pb n="13" facs="hardinge13.jpg"/>
 found in his famous senatorial contest with Judge Douglas. No one can
 fail to perceive, from the entire tenor of Mr. Lincoln's remarkable

@@ -250,7 +250,7 @@ has been mastered, what battles fought, what cities won, what a
 surrender received of the most formidable of the rebel chiefs and
 armies, and how has our loyal land rung with shouts of triumph, and
 leaped for joy in the prospect of re-union
-<pb n="7" facs="dagget7.jpg"/> ***NOTE: in the version of this file found in branches/xml-p4/dagget.xml, this appears to be crane7, NOT dagget7! I guessed that branches/xml-p4/dagget.xml is in error and went with dagget here, as crane is a separate piece altogether. OK? And should the other file be changed...?
+<pb n="7" facs="dagget7.jpg"/> ***NOTE: There is an error in the version of this file found in branches/xml-p4/dagget.xml. Rather than "dagget7," this points to "crane7," which corresponds to the 7th page of an entirely different document. This error is confirmed in the live version of the site, viewable at the URL http://beck.library.emory.edu/lincoln/sermon.php?id=dagget.001 -- at this URL, if you click on the image for "Page 7," it takes you to an image of the 7th page of  Crane's sermon rather than the 7th page of Dagget's. Here, I have changed it to "dagget7," but the error remains live.
 
 and peace! At such a time, for him in whom centered so many hearts and
 hopes, to fall by a murderer's hand,-for the pilot who has steered the
