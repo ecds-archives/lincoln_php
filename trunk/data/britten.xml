@@ -53,7 +53,7 @@ Preservation Office, and Pitts Theology Library.</p>
 with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
    <text>
       <body>
-***NOTE: at the beginning of this file, I removed some (seemingly) extraneous <p></p> tags. Could you double check that none of these were, in fact, crucial? There is also a MISSING PAGE (page 12) in this file--see the other note I have written in this document.
+***NOTE: at the beginning of this file, I removed some (seemingly) extraneous <p></p> tags. Could you double check that none of these were, in fact, crucial? There was also a missing page (page 12) in this file, which I have since added in--see the other note I have written in this document.
          <div1 xml:id="britten.001" n="The Great Funeral Oration on Abraham Lincoln" type="text">
             <head> 
                <bibl> 
@@ -326,7 +326,14 @@ store, or, the poor clerk's office! Bright, beautiful, and just
 republicanism, thou knowest thy kings, and never can mistake thy
 princes! And in every step of this great magic ladder cut by his
 hands, erected by
-***PAGE 12 IS MISSING! It is NOT a blank page, as there is nothing commented out, and because the sentence-in-progress that concludes page 11 (". . . cut by his hands, erected by") is NOT completed by the sentence part that begins page 13 ("found in his famous senatorial contest"). This error can be seen on the live website, too, at this URL: http://beck.library.emory.edu/lincoln/sermon.php?id=britten.001
+***Previously, Page 12 was missing! I've added it in here, but please check to see if I have done this correctly.
+<pb n="12" facs="hardinge12.jpg"/>
+his industry, and trod by the unwearying feet of good Abraham Lincoln, thou didst determine that the lowest round of that ladder, the people's ladder, the ladder of Nature's royalty and God's nobility, was fitly placed in the old Kentucky woods, the last and highest in the New World's presidential mansion.</p>
+<p>Don't you remember, you who are familiar with this wonderful page of human history, how nobly and skillfully the kind young lawyer used one of his first exercises in his subtle profession for the saving of that precious boon of life which has been so savagely wrung from him.</p>
+<p>Oh, how the heart aches at the fearful contrast!</p>
+<p>Young Armstrong, the son of a poor widow, who had once been kind ot the boy Lincoln, stood arraigned on the charge of murder, in danger of his life.</p>
+<p>The young lawyer Lincoln, never forgetful of the least of kindnesses, came forward in the hour of the widow's desolation and her son's dire need, and, without the least expectation of other reward than the applause of his noble heart, tendered his service to the wretched pair. They say on the day of the trial he promised the widow he would give her back her son to life and freedom "before the sun went down." By the keen perception of his lucid mind to perceive his client's innocence, aided by genius, skill, and eloquence to prove it, he kept his word, and, with the last lingering rays of the setting sun gilding his noble brow, he bestowed on the widow her son, "her only son," restored him to life and light and liberty. Such was the youth's career; the statesman's is public history--the history of that mighty struggle in which the noble heart of the man and the clear head of the politician became both alike so remarkably distinguished.</p>
+<p>The most prominent and renowned evidence of this is
 <pb n="13" facs="hardinge13.jpg"/>
 found in his famous senatorial contest with Judge Douglas. No one can
 fail to perceive, from the entire tenor of Mr. Lincoln's remarkable
