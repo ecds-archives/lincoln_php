@@ -80,12 +80,7 @@ Printer</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qn5</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st Rev. Jas. A. McCauley's
-Character and Services of Abraham Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="mccauley1.jpg"/>
             <p>A SERMON</p>
             <p>PREACHED IN THE</p>
             <p>EUTAW METHODIST EPISCOPAL CHURCH,</p>
@@ -98,22 +93,8 @@ Character and Services of Abraham Lincoln.</figDesc>
             <p>BALTIMORE:</p>
             <p>JOHN D. TOY, PRINTER.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="mccauley2.jpg"/>
+            <pb n="3" facs="mccauley3.jpg"/>
             <p>BALTIMORE, <hi rend="italic">June 2d</hi>, 1865.</p>
             <p>REV. J. A. McCAULEY,</p>
             <p>DEAR SIR:
@@ -152,14 +133,7 @@ Rev. Jas. A. McCauley's Character and Services of Abraham
 Lincoln.</figDesc>
                </figure>
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="mccauley5.jpg"/>
             <div2 xml:id="mccauley.002" n="SERMON" type="sermon">
                <head>SERMON.</head>
                <epigraph>
@@ -190,12 +164,7 @@ majesty on the scene of its first humiliation. In fame, and infamy,
 the fourteenth of April will be immortal. Remembered, too, while
 freedom has a friend, will be the day of Richmond's fall, and the days
 of the great surrenders. A day of sadder memory
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="mccauley6.jpg"/>
 will the present be. But one day like it has this nation known. When
 death removed the man, who made our fathers free, the spectacle was
 seen of a nation bathed in tears. But the scene to-day is more
@@ -229,12 +198,7 @@ led the nation to victory and peace. </p>
                <p>The order I propose regards his adaptation for the task
 assigned him to perform; the singleness of mind and steadiness of zeal
 with which he bent himself to its accomplish-
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="mccauley7.jpg"/>
 ment; and the result which crowned his honest and persistent toil. In
 fitness, performance, and success, it is acknowledged now, and the
 years will growingly reveal that he was truly great.</p>
@@ -267,12 +231,7 @@ deep ravines and frowning sides of Midian mountains, he was nurtured
 to a vigor, which bore unhurt the cares and burdens of the Exodus; and
 when, forty years thereafter, he sank to rest on Nebo, "his eye was
 not dim, nor his natural force abated." In that school,
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="mccauley8.jpg"/>
 too--aloof from men, in the loneliness of these grand solitudes
 communing with himself and God--he grew to such a consecration that,
 only once in forty years, a thought of self dishonored God. By
@@ -308,12 +267,7 @@ compromise, for thirty years slavery was content with menacing and
 noise; but these grew angrier with the years, breaking forth at last
 in the traitorous resolve that, if not allowed to overleap its bounds,
 and have the
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="mccauley9.jpg"/>
 soil of freedom for its own, it would take the nation's life. Favoring
 its design was the theory it held, that the States were not component
 parts of one organic whole, but separate sovereignties, entitled at
@@ -348,12 +302,7 @@ years, and was fostered by his fortune, consists the ground-work of
 his fitness, when these were put in peril, to marshal the Nation's
 energies for their preservation. In saying this I do not mean that,
 when hostile hands were lifted
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="mccauley10.jpg"/>
 to cleave down the nation's liberties, no one else of all its sons
 abhorred the traitorous deed as much as he; but only that devotion to
 the cause of freedom, and abhorrence of the system in whose interest
@@ -388,14 +337,7 @@ disaster. Happy for the nation, God had given it a guide possessing
 these abilities in wonderful degree. With intuitive celerity, he saw
 the dangers as they rose, and saw the wisest thing to do; and, with
 steady purpose, rested not till it was done.</p>
-               <pb n="11"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>11th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="11" facs="mccauley11.jpg"/>
                <p>Even his peculiarities were no trivial part of his peculiar
 fitness for the place. Quaint, uncourtly, even droll, many, who wished
 him well, thought his ways and talk sometimes undignified; while foes
@@ -429,14 +371,7 @@ prepared him for the nation's need.</p>
                <p>II. From his fitness, I pass to speak of his performance:
 the singleness of zeal with which he bent himself to meet the nation's
 need.</p>
-               <pb n="12"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>12th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="12" facs="mccauley12.jpg"/>
                <p>He took the Presidential seat with one idea--to save the
 Union of the States. That was the single star that fixed his eye. For
 that he steered. Never from that could he be bent. His personal wish
@@ -471,12 +406,7 @@ immortality--Emancipation. Long before the war, his individual views
 were on the side of universal liberty. No public man had done more
 efficient battle for it, with tongue and pen, than he. But when he
 found himself the
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="mccauley13.jpg"/>
 head of the imperiled nation, and needing to unite the nation's
 strength to wage the battle for its life, he would not travel in the
 line of his desires, faster than the nation signified its wish. None
@@ -509,12 +439,7 @@ great resolve. The earliest light of '63 revealed upon the banner's
 folds, beneath the old device, another word--Emancipation. The world
 read and shouted its approval. And though some among ourselves
 trembled lest that word should prove
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="mccauley14.jpg"/>
 the signal of our doom, a little while revealed that he had rightly
 read the nation's will.</p>
                <p>Thenceforth two stars flamed in his sky: Union--liberty
@@ -548,12 +473,7 @@ that restless spirit which walked the land so long, and which no skill
 of Statesmen could compose, has been laid to sleep to wake no
 more. General Lee is rumored to have said, "the right of a State to
 secede was an open
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="mccauley15.jpg"/>
 question till my failure settled it."  It is settled now. No more will
 rivalries of rule disturb the nation's peace. No more the stars will
 leave the sun. In the Union every State will stay, each pursuing its
@@ -588,12 +508,7 @@ his character and deeds, as uttered in the tributes which have come
 across the sea, seems as warm and loving, if not so universal, in
 other lands, as in the land for which he lived and died. Like
 Washington, he is not ours exclusively: the world
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th
-Rev. Jas. A. McCauley's Character and Services of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="mccauley16.jpg"/>
 claims him. A French historian of fame concludes an able and
 appreciative estimate of the man and his services, in words that echo
 the heart of freedom every where: "And now let him rest by the side of

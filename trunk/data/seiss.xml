@@ -77,12 +77,7 @@ Philadelphia</pubPlace>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15r1s</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Joseph A. Seiss' The
-Assassinated President.</figDesc>
-               </figure>
-            </p>
+            <pb facs="seiss1.jpg"/>
             <p>The Assassinated President,</p>
             <p>OR THE</p>
             <p>DAY OF NATIONAL</p>
@@ -98,13 +93,8 @@ Assassinated President.</figDesc>
             <p>No. 42 NORTH NINTH STREET,</p>
             <p>PHILADELPHIA.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of
-Joseph A. Seiss' The Assassinated President.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="seiss2.jpg"/>
+***NOTE: at this corresponding spot in the file lincoln/branches/xml-p4/seiss.xml, instead of "seiss2," you'll see "seiss1." I assumed that this was an error in the other document and went with seiss2 here, because the previous one is also seiss1 and the subsequent one is seiss3. Could you double check?
             <lg type="stanza">
                <l>"The tyrannous and bloody act is done;</l>
                <l>The most arch
@@ -112,13 +102,7 @@ deed of piteous massacre,</l>
                <l>That ever yet this land was guilty
 of."</l>
             </lg>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Joseph A. Seiss' The Assassinated President.</figDesc>
-               </figure>
-            </p>
+            <pb n="3" facs="seiss3.jpg"/>
             <div2 xml:id="seiss.002" n="I. THE DEVOTIONAL EXERCISES." type="service">
                <head>I. THE DEVOTIONAL EXERCISES.</head>
                <epigraph>
@@ -139,11 +123,7 @@ the more sinful because of the many and great mercies which thou hast
 bestowed upon us. We have sinned, in pride and living to ourselves, in
 covetousness and worldliness of mind, in self-sufficiency and too much
 trusting in man instead of thee. 
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="4" facs="seiss4.jpg"/>
 Profaneness of speech, violation and disregard of thy holy day,
 neglect of thy worship, unbelief and contempt of thy word,
 unfaithfulness to public trusts, dishonesties in worldly business, and
@@ -168,13 +148,7 @@ worlds adore,</l>
                   <l>While nature trembles at thy power," &amp;c.</l>
                </lg>
                <p>SCRIPTURE LESSONS.-Isaiah 59, and Luke 6: 20-38.</p>
-               <pb n="5"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of
-Joseph A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="5" facs="seiss5.jpg"/>
                <p>THE GENERAL PRAYER.</p>
                <p>Almighty and most merciful God, we lift our hearts to thee, the
 hearer of prayer, from whom alone cometh our help. We adore thee as
@@ -195,11 +169,7 @@ us, in darkness and in light, in defeats and in victories, in days of
 discouragements and days of rejoicing, and for. all the lessons which
 thou art in all addressing to us. We bless thee for the steadfast
 devotion and obedience of the people to the Govern-
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="6" facs="seiss6.jpg"/>
 ment, under their many burdens during these years of trial. We thank
 thee that when dangerous conspiracies arose, thou didst bring them to
 nought. We thank thee that no invasions of loyal territory have been
@@ -221,11 +191,7 @@ henceforth in humble obedience to thy word.</p>
 world, in thine all-wise administrations, to permit us to be deprived
 of the presence and further counsels of our late Chief Magistrate, and
 hast so deeply grieved the hearts of the people, turning
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="7" facs="seiss7.jpg"/>
 our songs into mourning and our joy into sorrow; we beseech thee to
 have mercy upon us in this our calamity, and to overrule it to the
 furtherance of our humility and peace, and to thine everlasting
@@ -247,11 +213,7 @@ them, in this cloud of darkness, to see and rejoice in the light of
 life; and lead them by thy heavenly grace to life everlasting.</p>
                <p>And for him who, by this mysterious providence, is now
 called to assume the highest office in the na-
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="8" facs="seiss8.jpg"/>
 tion, we entreat thy protection, support, and guidance. Teach him
 where to look for all he needs under the heavy duties which have come
 upon him, and give him grace so to administer the Government after the
@@ -274,11 +236,7 @@ affectionate participation in the same national privileges; serving
 together in the one faith of thy holy word, working together for the
 advancement of the one glorious kingdom of righteousness and peace,
 and inheritors together of eternal life,
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="9" facs="seiss9.jpg"/>
 through the one sacrifice and mediation of our Lord and Saviour Jesus
 Christ.</p>
                <p>Let it please thee, also, to help and bless all sorts and
@@ -298,13 +256,7 @@ before thy Divine Majesty in the name of Jesus Christ, our Mediator
 and Redeemer, to whom, with thee, and the Holy Ghost, be all honor and
 glory, world without end.</p>
                <p>AMEN.</p>
-               <pb n="10"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Joseph A. Seiss' The
-Assassinated President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="10" facs="seiss10.jpg"/>
                <p>SECOND
 HYMN.</p>
                <lg type="stanza">
@@ -315,13 +267,7 @@ way,</l>
 sea,</l>
                   <l>And rides upon the storm," &amp;c.</l>
                </lg>
-               <pb n="11"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-Joseph A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="11" facs="seiss11.jpg"/>
             </div2>
             <div2 xml:id="seiss.003" n="II. THE DISCOURSE." type="sermon">
                <head>II. THE DISCOURSE.</head>
@@ -345,11 +291,7 @@ midst of their labors and usefulness, just when their presence seems
 most indispensable, and on the very eve of the consummation of their
 most earnest endeavors.</p>
                <p>We here find that from remote antiquity, from
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="12" facs="seiss12.jpg"/>
 some motive of religion, or praiseworthy impulse of justice,
 gratitude, or admiration, it has been the custom of good people to
 take special notice of the deaths of distinguished public servants, to
@@ -371,11 +313,7 @@ and is familiar to the children of almost every home. His origin among
 a people who labored in the brickyards and served the Egyptians, his
 inheritance of hardships deserved neither by him nor his parents, and
 his providential preservation in early infancy, are things which we
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="13" facs="seiss13.jpg"/>
 learned in the first lessons of our childhood. You remember how he was
 committed to his mother to be nursed and reared for Pharaoh's
 daughter, whose maids had found him in the river. You know from whose
@@ -397,11 +335,7 @@ enraged Egypt's haughty aristocrats with his proposals and demands in
 behalf of the oppressed, and in the face of Egypt's armies led out the
 enslaved from the house of bondage, and saw the hosts of Israel's
 oppressors overwhelmed under
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="14" facs="seiss14.jpg"/>
 the waving of his staff, and silenced the murmurs of the rebellious in
 his own camp, and rewrote and reasserted the great laws of right,
 loyalty, and justice, and forced his way through lands which he had
@@ -424,11 +358,7 @@ sound practical wisdom, earnest piety, and great devotion to her son
 and to her influence and teachings, many of the traits which
 distinguished his life are traced by his biographers. A child of
 poverty and hardships, he
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="15" facs="seiss15.jpg"/>
 was early expatriated from the place of his birth, transferred to the
 wilderness, subsisted on scanty fare, and made to serve
 strangers. Though not "learned in all the wisdom of the Egyptians,"
@@ -451,11 +381,7 @@ with results as it was feeble in friends, resources, and promises of
 success. Even the complaint which the Jewish leader uttered with
 reference to the apparent inadequacy of the instrument to the end to
 be ac-
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="16" facs="seiss16.jpg"/>
 complished, had its correspondence in him for whom we this day
 mourn. "Who am I," said he, "that I should go unto Pharoah, and that I
 should bring forth the children of Israel out of Egypt"-" 0 my Lord, I
@@ -479,11 +405,7 @@ circumstances in which the two were called to operate, very
 dissimilar. By some strange forgetfulness of acknowledged rights and
 covenants, there had been a power put forth in Egypt, by which the
 multiplied posterity of Jacob
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="17" facs="seiss17.jpg"/>
 were divested of their freedom, and subjected to rigorous taskmasters,
 "who made their lives bitter with hard bondage, in mortar and in
 brick, and in all manner of service in the field." (Ex. 1: 8-14.)</p>
@@ -507,11 +429,7 @@ nature, a violation of the common rights of man, and was everywhere
 attended more or less with hardships and horrors, for which the
 inexorable requirements of justice demanded that a day of retributive
 revolution should come. To such 
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="18" facs="seiss18.jpg"/>
 a pass had things been carried, that, in some sections of the land,
 there was not a day in which human souls were not bought and
 transported as common chattels, and families severed without
@@ -534,11 +452,7 @@ men who failed in the pronunciation of its Shiboleth, in nearly every
 section of the country, was put under ban, and held obnoxious to all
 the penalties of this world and of that which is to come. Long had,
 the nation sub-
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="19" facs="seiss19.jpg"/>
 mitted and yielded to the ever-multiplying demands of the "peculiar
 institution," until the God of justice said, "<hi rend="italic">It is
 too much</hi>," and gave commission to this angels to strike it down,
@@ -561,13 +475,7 @@ haughty ones had fattened and exulted. But, when God wanted a Moses,
 there was a Moses ready, hidden away far back in the desert of Horeb,
 and who, in due time, received his commission from among the trees of
 the wilderness.</p>
-               <pb n="20"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-Joseph A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="20" facs="seiss20.jpg"/>
                <p>The same has been repeated, in our day, in our country. The
 picture rises to your view without my aid to call it up.</p>
                <p>*		*		*		*		*		*		*		*</p>
@@ -590,11 +498,7 @@ his ideas were shapen, and according to which he honestly sought to
 settle his judgment and direct his course, whether in matters of
 private life or of public policy. All his opinions thus came to
 partake of the nature of religious principles,
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="21" facs="seiss21.jpg"/>
 which no personal hazards or counter motives could induce him for one
 moment to forsake, and for which he was willing to assume any amount
 of responsibility, and to submit to any degree of self-sacrifice. He
@@ -616,11 +520,7 @@ repeal of the Missouri Compromise, his ever-deepening abhorrence of
 the whole system, and his consent to undertake the leadership of an
 effort to withstand its insatiable encroachments, and to carry his
 principles into a national administration which had nei-
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="22" facs="seiss22.jpg"/>
 ther precedents nor records to guide it, and which the great mass of
 those in power stood pledged to resist.</p>
                <p>Nor did he count anything too dear to be laid upon the
@@ -642,11 +542,7 @@ seized upon the furthest posterity. They created a beacon to guide
 their children, and their children's children, and the countless
 myriads who should inhabit the earth in other ages. Wise statesmen as
 they were, they knew the
-<pb n="23"/>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="23" facs="seiss23.jpg"/>
 tendency of prosperity to breed tyrants; and so they established these
 great self-evident truths, that when, in the distant future, some man,
 some faction, some interest, should set up the doctrine that none but
@@ -668,11 +564,7 @@ come back to the truths that are in our chart of liberty. You may do
 anything with me you choose, if you will but heed these sacred
 principles. You may not only defeat me for the Senate, but you may
 take me and put me to death, but do
-<pb n="24"/>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="24" facs="seiss24.jpg"/>
 not destroy that immortal emblem of humanity,--the Declaration of
 American Independence."</p>
                <p>And with what patient steadiness and self-possession did he
@@ -696,11 +588,7 @@ yet, with what earnest but passionless calmness did he grapple with
 them! Look at him; unexpectedly called from an humble sphere in which
 he had been content to remain, and suddenly made the head of a party
 for the first time, and, as it were, by accident,
-<pb n="25"/>
-                  <figure><graphic url=""/>
-                     <figDesc>25th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="25" facs="seiss25.jpg"/>
 coming into power, and as yet wholly without settled habits of
 traditions of official life, charged with the administration and
 maintenance of a government which one powerful state after another had
@@ -723,11 +611,7 @@ tempests, never once giving way to anger, to resentment, to
 despondency under discouragements, or to intemperate exultation over
 the most rapid and brilliant successes, when at last they came. In all
 his extraordinary trials, and notwithstanding
-<pb n="26"/>
-                  <figure><graphic url=""/>
-                     <figDesc>26th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="26" facs="seiss26.jpg"/>
 his great solemn earnestness, his good nature, his generosity, his
 kind feeling, and his wonderful meekness, never once departed from
 him. Uncouth and inexperienced as he was at the beginning, he knew his
@@ -750,11 +634,7 @@ attempt to destroy the most beneficent rule on the face of the earth,
 if daring to use power to save a great and useful nation at a moment
 when the last flames of its life seemed to flicker for extinction, if
 these, and
-<pb n="27"/>
-                  <figure><graphic url=""/>
-                     <figDesc>27th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="27" facs="seiss27.jpg"/>
 such like instances of patriotic and Christian effort, constitute
 tyranny, then Abraham Lincoln was a tyrant.</p>
                <p>But we have not so learned to count usurpation and tyranny.
@@ -777,11 +657,7 @@ forth its emissaries in darkness, to burn unoffending cities unwarned,
 and to erase them, if it can, from the earth; which undertakes, in the
 name of freedom and religion, to subvert the very foundations of
 both, and to rear in
-<pb n="28"/>
-                  <figure><graphic url=""/>
-                     <figDesc>28th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="28" facs="seiss28.jpg"/>
 their places an illegitimate thing, conceived in self-will,
 established by rebellion, and subsisted upon the forced toil of
 millions consigned to brutal degradation and eternal servitude. It is
@@ -804,11 +680,7 @@ of what enters into the composition of the praiseworthy or the base,
 there is in things like these, the very quintessence of tyranny, and
 all its worst and most intolerable infamies. And I pity the man who
 cannot justify, or at least excuse, any stretching of
-<pb n="29"/>
-                  <figure><graphic url=""/>
-                     <figDesc>29th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="29" facs="seiss29.jpg"/>
 official power, however questionable in other circumstances, that may
 be requisite to save a free people, and a government based on equal
 rights, from falling into the hands of such wrongful domination. Rise
@@ -831,11 +703,7 @@ necessary. And if, peradventure, certain provisions of the
 Constitution, repugnant to its framers, and applying only to sections
 which had, by deeds of resistance and assault, forfeited their claims
 to its protection, were ignored, what good man would put his
-<pb n="30"/>
-                  <figure><graphic url=""/>
-                     <figDesc>30th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="30" facs="seiss30.jpg"/>
 country's existence in jeopardy, and imperil the cause of freedom in
 all the earth, by endeavoring to uphold what could but weaken himself,
 and strengthen those who were at the time trampling the whole
@@ -858,13 +726,7 @@ country's unity, with its freedom enlarged, its impurities purged, and
 its greatness augmented, he is denounced as a tyrant, and murdered for
 his devotion. Shame to such shallowness, and woe to the guilt of such
 hypocrisy!</p>
-               <pb n="31"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>31st page of
-Joseph A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="31" facs="seiss31.jpg"/>
                <p>And whilst upon this point, let me quote a sentence or two
 even from that organ of out country's enemies, the London
 Times. "Abraham Lincoln," says that paper, in a recent issue, "was as
@@ -887,11 +749,7 @@ hated and abused in their lifetime. This was remarkably illustrated in
 the history of Moses. How was he sneered at when first he appeared at
 Pharaoh's court! How did all Egypt despise him for his miracles! How
 did his own peo-
-<pb n="32"/>
-                  <figure><graphic url=""/>
-                     <figDesc>32nd page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="32" facs="seiss32.jpg"/>
 ple complain of him in their timidity, when they saw the Egyptians
 coming upon them at Baal-Zephon! How did they murmur against him at
 the waters of Marah, and accuse him in the wilderness of Sin, and cry
@@ -914,11 +772,7 @@ generous, passionless, self-sacrificing, honest-hearted Abraham
 Lincoln, who in the midst of his wonderful achievements for his
 imperilled country, and his great magnanimity towards its foes and
 his, was sought out, and mur-
-<pb n="33"/>
-                  <figure><graphic url=""/>
-                     <figDesc>33rd page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="33" facs="seiss33.jpg"/>
 dered, for no other reason than that he was good and true and
 great.</p>
                <p>He was but a man. God forbid that he should for one moment
@@ -942,11 +796,7 @@ and the great representative of Law at a time when the world had
 become oblivious to its high and immutable obligations. He was the
 great mediator between Jacob's seed and their oppressors, and the
 friend who kept Israel from compromising their
-<pb n="34"/>
-                  <figure><graphic url=""/>
-                     <figDesc>34th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="34" facs="seiss34.jpg"/>
 proper destiny. He was the great instrument in the Divine hand through
 whom deliverance was administered to an enslaved race. He was the
 great collector of the simple traditions of his people, and the
@@ -969,11 +819,7 @@ fail to write him down a great man and a model servant of his
 kind. Though occupying now no very exalted place in some men's
 estimation, his administration will mark a new era in the history of
 this continent, and
-<pb n="35"/>
-                  <figure><graphic url=""/>
-                     <figDesc>35th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="35" facs="seiss35.jpg"/>
 the time will come when his name shall be cherished by freedom's
 children as warmly as that of Washington himself.</p>
                <p>Had he left no other legacy by which to be favorably
@@ -995,11 +841,7 @@ those who serve in their houses, hew their wood, and draw their
 water. There is, after all, an equality among men, too prone to be
 forgotten; and this fresh, instructive, and finished life, now added
 to the treasures of mankind, reopens and recalls the fact, and
-<pb n="36"/>
-                  <figure><graphic url=""/>
-                     <figDesc>36th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="36" facs="seiss36.jpg"/>
 sets it up on high for the everlasting encouragement of the lowly, and
 the thoughtful contemplation of all men.</p>
                <p>This, however, is but a fragment of the case. Think of the
@@ -1021,11 +863,7 @@ overtake the insulting babblings of foreigners touching the follies of
 the North. Think how, in the midst of discouragements and disasters on
 sea and land, the contest for the majesty of law, national unity, and
 equal rights was maintained, until rebellion was defeated in its
-<pb n="37"/>
-                  <figure><graphic url=""/>
-                     <figDesc>37th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="37" facs="seiss37.jpg"/>
 disorganizing aims, disrobed of its pride and usurpations, and bereft
 of its ill-directed power. Consider where this great nation of ours
 this day stands in the estimation of the world, and how sublimely it
@@ -1048,11 +886,7 @@ execution, Alas! for which shall we lament the most,--the loss which
 has been inflicted by the audacious murder, or the awful depravity and
 bloodthirstiness which it shows to be lurking in the hearts of men who
 would
-<pb n="38"/>
-                  <figure><graphic url=""/>
-                     <figDesc>38th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="38" facs="seiss38.jpg"/>
 fain have us believe them to be our country's truest friends? Both are
 subjects for our profound grief; but for both we have this great
 consolation left, that a just God is upon the throne of the universe,
@@ -1075,11 +909,7 @@ politics have ever attained. He believed in God, in Revelation, in
 Christ, in prayer, in the necessity of virtue, in providence, and in
 the habit of settled dependence upon the precepts and administrations
 of Heaven; and his creed was per-
-<pb n="39"/>
-                  <figure><graphic url=""/>
-                     <figDesc>39th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="39" facs="seiss39.jpg"/>
 haps quite as real, as influential, as practical, as that of any who
 venture to sit in judgment upon him, and certainly as much so as that
 of thousands who give tithe of mint, anise, and cummin, but are not
@@ -1101,11 +931,7 @@ landmarks which guided him to greatness. Other monuments will
 perish. The memorials constructed of nature's elements will pass away
 with nature's wastes. At best, they are but mute things, the meaning
 of which may be lost even while they yet
-<pb n="40"/>
-                  <figure><graphic url=""/>
-                     <figDesc>40th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="40" facs="seiss40.jpg"/>
 stand. But great principles and truths, practically wrought into
 immortal minds, and lived into the histories of mankind, will endure
 through all the ages, and keep telling their impressive story
@@ -1130,11 +956,7 @@ withhold from a fellow-being his native rights, and we think him
 entitled to our praise for his consistent and conscientious adherence
 to that belief, we shall praise him most effectually by making it the
 basis of
-<pb n="41"/>
-                  <figure><graphic url=""/>
-                     <figDesc>41st page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="41" facs="seiss41.jpg"/>
 our actions too. If he regarded all men as of one blood, and entitled
 by their Maker to the same rights, and acted out to sublime
 distinction the golden rule, to do to others as we would have them do
@@ -1156,11 +978,7 @@ relations kept to the one great and ever-binding law of right and
 conscience, and you think it meet to give honorable expression to your
 appreciation of such simple integrity, the sublimest thing to be done
 is, conscientiously and always to conform your course to the same
-<pb n="42"/>
-                  <figure><graphic url=""/>
-                     <figDesc>42th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="42" facs="seiss42.jpg"/>
 Divine standard, and live to truth and right and God, in business and
 in politics, the same as in your charities and in your church.</p>
                <p>But whether any are moved or not by such reference to the
@@ -1182,11 +1000,7 @@ which our highest life is to be found.</p>
 of them, we can be ourselves; and by being honestly our true selves in
 humble things, we know not to what high spheres we yet may be
 raised. We have the highest authority for it, that faithful-
-<pb n="43"/>
-                  <figure><graphic url=""/>
-                     <figDesc>43th page of Joseph
-A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
+<pb n="43" facs="seiss43.jpg"/>
 ness in that which is least, is faithfulness also in much. We know by
 whom, and to whom, it was said, "Well done, good and faithful servant;
 thou hast been faithful over a few things, I will make thee ruler over
@@ -1225,13 +1039,7 @@ and to wait."</l>
 Joseph A. Seiss' The Assassinated President.</figDesc>
                   </figure>
                </p> -->
-               <pb n="45"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>45th page of
-Joseph A. Seiss' The Assassinated President.</figDesc>
-                  </figure>
-               </p>
+               <pb n="45" facs="seiss45.jpg"/>
             </div2>
             <div2 xml:id="seiss.004" n="III. THE CLOSING SERVICES." type="service">
                <head>III. THE CLOSING SERVICES.</head>

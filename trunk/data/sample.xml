@@ -79,12 +79,7 @@ Martien</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15r0n</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Rev. Robert
-F. Sample's The Curtained Throne.</figDesc>
-               </figure>
-            </p>
+            <pb facs="sample1.jpg"/>
             <p>THE CURTAINED THRONE.</p>
             <p>A SERMON, SUGGESTED BY THE DEATH OF</p>
             <p>PRESIDENT LINCOLN.</p>
@@ -98,20 +93,8 @@ F. Sample's The Curtained Throne.</figDesc>
 MARTIEN,</p>
             <p>606 CHESTNUT STREET.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="sample2.jpg"/>
+            <pb n="3" facs="sample3.jpg"/>
             <p>BEDFORD, May 1, 1865.</p>
             <p>REV. R. SAMPLE.</p>
             <p>
@@ -147,13 +130,7 @@ G. H. SPANG, Esq., <lb/>Messrs. SHUCK, GETTYS, and others. </p>
 Rev. Robert F. Sample's The Curtained Throne.</figDesc>
                </figure>
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="sample5.jpg"/>
             <div2 xml:id="sample.002" n="SERMON" type="sermon">
                <head>SERMON.</head>
                <epigraph>
@@ -174,13 +151,7 @@ may find it in this doctrine of our holy religion. God grant, that as
 we look upward through the gloom, and toward the curtained throne, we
 may hear the voice of Infinite Love saying, "Be not afraid, only
 believe."</p>
-               <pb n="6"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
-               </p>
+               <pb n="6" facs="sample6.jpg"/>
                <p>We shall speak of the throne itself, the obscurity which surrounds
 it, and its foundations, laid in the righteousness and judgment of
 God.</p>
@@ -202,11 +173,7 @@ sweet influences of Pleiades; He looseth the bands of Orion, and He
 bringeth forth Mazzaroth in his season.</p>
                <p>Thus God's Providence extends from the dewdrop on the
 flower, to the most distant world which
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Rev. Robert
-F. Sample's The Curtained Throne.</figDesc>
-                  </figure>           
+<pb n="7" facs="sample7.jpg"/>         
 moves in the infinite space. As King of Nature we praise Him, and bow
 reverently at His feet.</p>
                <p>This providence embraces the <hi rend="italic">intelligent
@@ -229,11 +196,7 @@ the laws of matter, and read the glorious visions of the skies; to
 Locke those powers of analyzing the human mind, which made him the
 most distinguished intellectual. philosopher of his age.</p>
                <p>Turning to other departments in life, we may
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Rev. Robert
-F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="8" facs="sample8.jpg"/>
 add, that God took David from the field and made the shepherd-boy king
 over Israel, ruling wisely, and reigning long. He raised up Solomon,
 whose name is associated with the highest attainments of the human
@@ -253,11 +216,7 @@ on marble, who acted well their part-whose record is on high.</p>
 States. It is God who moves the vast machinery of national
 affairs-gives prosperity and sends adversity-blesses with peace and
 desolates, with war; who humbles the proud, chastises the
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Rev. Robert
-F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="9" facs="sample9.jpg"/>
 wicked, and exterminates the incorrigible; showing Himself a just and
 holy God, who will exalt a righteous people, but cannot connive at
 iniquity, or suffer a sinful nation to go unpunished. The wages of
@@ -279,12 +238,7 @@ whole earth,--all reveal a righteous God, true to His character, and
 faithful to His word, all the while working out His own eternal
 purpose.</p>
                <p>We trace his pathway through all the centuries
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
-	
+<pb n="10" facs="sample10.jpg"/>
 from the day the sceptre departed from Judah until now. On the
 continent of Europe we see nations rise from small beginnings, advance
 with rapidity in power, influence, and wealth, attain a culmination in
@@ -306,11 +260,7 @@ his Parliament, kept a profound secret for more than a year, yet, had
 they a clearer vision, they <hi rend="italic">would</hi> see it there,
 moving on the mind of one man, and directing to the divulgence of the
 terrible scheme, as certainly as deter-
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="11" facs="sample11.jpg"/>
 mining the course of the winds which destroyed a defiant fleet.</p>
                <p>Again, we see God's overruling hand in the persecutions of
 a later day, which led to the colonization of America, and reared the
@@ -329,11 +279,7 @@ moral darkness of the Middle Ages to gather over Europe; He ordained
 Wickliffe to be the morning star of the Reformation. He permitted the
 slave trade, He ordained the liberation of the oppressed, He permitted
 the assassin to strike the blow which
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="12" facs="sample12.jpg"/>
 suddenly and sadly terminated the life of our lamented Chief
 Magistrate; and we trust He has ordained, by the hand of Joshua, to
 lead the people into the promised land.</p>
@@ -355,11 +301,7 @@ penetrate the mists which gather on the near horizon.</p>
                <p>
                   <hi rend="italic">Redemption</hi> is a mystery. Angels cannot
 read it fully; saints shall study it for ever, and never
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="13" facs="sample13.jpg"/>
 fathom its depths. Is it any wonder, then, that we cannot understand
 the providence of God? One who was admitted to His presence-chamber,
 and held intimate communion with Him; who studied history in the light
@@ -381,11 +323,7 @@ on his way to Bethel, mocked him, saying: "Go up thou bald-head; go up
 thou bald-head!" and God who has, with an awful emphasis, forbidden
 men to harm His prophets, sent wild beasts from the wood to destroy
 them. The blasphemer curses God and dares the vengeance of the
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="14" facs="sample14.jpg"/>
 Almighty, and the next moment the tongue is palsied, or the crashing
 thunderbolt destroys him. The employer defrauds the hireling of his
 wages, grinds the faces of the poor, withholds his tithes from the
@@ -406,11 +344,7 @@ beheaded. The pious Stephen was cast out of the city, and was
 stoned. James, and Peter, and Paul, all suffered violent deaths,
 though their lives had been singularly pure, and their works
 accepted. Walter Lowrie was murdered just on the threshold
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="15" facs="sample15.jpg"/>
 of his usefulness, and in the sea, full many a fathom deep, waits the
 dawning of the resurrection day.</p>
                <p>Neither do great trials demonstrate God's
@@ -431,11 +365,7 @@ trials by the way. "Clouds and darkness are round about Him."</p>
 not know His purpose, and cannot now see the wisdom which has
 permitted the sad event we mourn to-day. Moreover, we do not know the
 relation which one event sustains to another, or the influence
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="16" facs="sample16.jpg"/>
 which one nation is designed to exert upon another. Our vision is
 limited, both as respects space and time. The great God who sits on
 the circle of the earth, takes in all lands in His comprehensive
@@ -457,11 +387,7 @@ to truth. We may speak with great confidence concerning the future
 developements of providence, but God will rebuke our folly--going by
 some other way. "Clouds and darkness are round about Him." As well
 might the savage
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="17" facs="sample17.jpg"/>
 who had never before been beyond the limits of his hunting grounds,
 entering for the first time some vast manufactory, attempt to point
 out the relations of one part of the complicated machinery to another,
@@ -483,11 +409,7 @@ the present will be blessed. Though clouds gather about Him, and
 darkness which we cannot penetrate, yet we are assured that the
 eternal principles of righteousness and judgment are the basis of His
 throne, and in the day of
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="18" facs="sample18.jpg"/>
 sorrow, or anticipated evil, faith takes refuge in the changeless
 perfections of God, saying: "What time I am afraid, I will trust in
 Thee."</p>
@@ -510,11 +432,7 @@ arrives at the central Throne, and sees the hand of Infinite Love
 managing all, and leading on through all changes and revolutions to
 the consummation of great and beneficent ends.</p>
                <p>The field of Providence is not so readily traversed,
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="19" facs="sample19.jpg"/>
 but we should trust when we cannot see. We accept the truth,
 "Righteousness and judgment are the habitation of His throne;" and
 from within the curtained dwelling-place there comes, as of old, that
@@ -537,11 +455,7 @@ its calm, confiding trust, after each darkening sorrow had passed
 by.</p>
                <p>To Paul's imprisonment in Rome we are indebted for those
 noble epistles, scattered abroad like leaves
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="20" facs="sample20.jpg"/>
 plucked from the tree of life. Had John Bunyan been permitted to
 preach, undisturbed, at the little church in Bedford, we should never
 have had the immortal Allegory which has so long directed and
@@ -564,11 +478,7 @@ noon-day,-all say, as they read that strange experience in the
 effulgence of Heaven, "He hath done all things well."</p>
                <p>Notice, lastly, the <hi rend="italic">duty</hi> suggested by
 the text. It
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="21" facs="sample21.jpg"/>
 is to draw from this precious truth the comfort God designed it to
 impart. <hi rend="italic">Jehovah is on the Throne</hi>! This is our
 joy. It is a light in a dark place. It is a refuge in the day of
@@ -591,11 +501,7 @@ seemed a terrible dream, and we have waited for the waking, but it has
 not come. We must accept the sad truth, and write a chapter in our
 national history unlike any that has gone before.</p>
                <p>We admired the man whom Providence led from
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="22" facs="sample22.jpg"/>
 lowly life, step by step, to that position of honor and responsibility
 he filled so well. When the candidates for that high office passed in
 review before us, as Jesse's sons before the prophet; we thought
@@ -621,13 +527,7 @@ enjoyed since the days of Washington. He deserved it well,</p>
                   <p>See funeral sermon of Rev. Dr. Gurley,
 Washington, D. C.</p>
                </note>
-               <pb n="23"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
-               </p>
+               <pb n="23" facs="sample23.jpg"/>
                <p>and deserved it all. He merited it by his character, and by his
 acts, and by the whole tenor, and tone, and spirit of his life. He was
 wise, simple, and sincere; plain and honest, truthful and just. His
@@ -650,11 +550,7 @@ lamented President said to the commanders of our armies, "deal gently
 with the conquered foe;" and the terms of surrender accepted by the
 head of the army of Virginia, were such as few others in the station
 would have suggested. He stood between the indignation of the
-<pb n="24"/>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="24" facs="sample24.jpg"/>
 North, and the people of the South, as if to preserve from promiscuous
 ruin, urging the misguided sons of the Republic to come home; with a
 singular kindliness of heart proffering restoration to the privileges
@@ -677,11 +573,7 @@ and their daughters mingle their lamentations and tears. The wealthy
 drape their homes in mourning, and the poor give their last penny that
 they may exhibit some token of their heart's deep sorrow. Public
 buildings are clad with the insignia
-<pb n="25"/>
-                  <figure><graphic url=""/>
-                     <figDesc>25th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="25" facs="sample25.jpg"/>
 of grief, and starry banners which floated over our homes in our late
 rejoicings, now droop in sympathy with our sadness, and everywhere is
 heard the mournful pealing of funeral bells.</p>
@@ -704,11 +596,7 @@ these lips; that no sympathy with the rebellion that slew him was ever
 cherished in this heart. I know not how any one can be so base-so lost
 to every principle of religion, of patriotism, and humanity, as to
 rejoice over
-<pb n="26"/>
-                  <figure><graphic url=""/>
-                     <figDesc>26th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="26" facs="sample26.jpg"/>
 this murderous deed-this culminating act of rebellion. I would not
 injure such a man, but until he gave evidence of repentance, and of a
 better mind, I could not receive him to my confidence, nor recognize
@@ -730,11 +618,7 @@ save us, and we will ride upon horses." Vain is the help of man.</p>
                <p>We have been a proud, vainglorious people. We have been
 wont to display with unbecoming hauteur the armorial ensigns of the
 three noble races from
-<pb n="27"/>
-                  <figure><graphic url=""/>
-                     <figDesc>27th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="27" facs="sample27.jpg"/>
 which we have descended, and flushed with recent victories, our minds
 returned to the old groove. We said, "We are the people. Our
 government is the strongest under the sun. We fear not the combined
@@ -755,11 +639,7 @@ away in the abyss of ages, continued through <hi rend="italic">seventeen
 centuries</hi>; then, destroyed by a Persian king, assumed other
 forms, declining through other five centuries to its final
 extinction. The origin of Greece dates back to a
-<pb n="28"/>
-                  <figure><graphic url=""/>
-                     <figDesc>28th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="28" facs="sample28.jpg"/>
 period eighteen hundred years before Christ, and the old Grecian
 States were absorbed by the Byzantine Empire at the end of <hi rend="italic">twenty-one centuries</hi>. The Saxton Heptarchy, after
 four centuries, was united under Egbert, and Great Britain, through
@@ -780,11 +660,7 @@ duty to this land or to the heathen world, but it has done even more
 than the Mother Country; it is doing more now than ever before. Will
 not God spare the country for the Church's sake? If He would have
 averted the doom of Sodom had there been ten
-<pb n="29"/>
-                  <figure><graphic url=""/>
-                     <figDesc>29th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="29" facs="sample29.jpg"/>
 righteous men in it, will He not deliver this land out of all its
 troubles, for the sake of the many thousands who are called by His
 name?</p>
@@ -812,11 +688,7 @@ people of this land.</p>
 this country. The signification of <hi rend="italic">Potomac</hi> is
 generally supposed to be, "the river of swans." Count Zinzendorf, who
 was familiar with
-<pb n="30"/>
-                  <figure><graphic url=""/>
-                     <figDesc>30th page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="30" facs="sample30.jpg"/>
 the language of the Aborigines, says this is an error. He relates that
 long ago the Delawares, who had been at war with a southern tribe,
 with the view of securing an amicable adjustment of their
@@ -839,11 +711,7 @@ to another, "Po-to-mac,"--"Lo they come!"</p>
 cloud. There is a flood of light flashing athwart the troubled sky, at
 which we look through our tears. Though we have not cast anchor, we
 are nearing the harbor. Tried patriots who, trusting in
-<pb n="31"/>
-                  <figure><graphic url=""/>
-                     <figDesc>31st page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
+<pb n="31" facs="sample31.jpg"/>
 God, have weathered many a storm, have gone aloft, and overlooking the
 intervening waves they shout down to us, "Land ahead!-Land ahead!"</p>
                <p>Let all be true to God and their country. Let us remember
@@ -876,13 +744,7 @@ country more than their God. Some would rather hear</p>
                <note xml:id="sample.002.n02" n="*" place="foot" anchored="true">
                   <p>President Lincoln's last Inaugural.</p>
                </note>
-               <pb n="32"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>32nd page of
-Rev. Robert F. Sample's The Curtained Throne.</figDesc>
-                  </figure>
-               </p>
+               <pb n="32" facs="sample32.jpg"/>
                <p>patriotic speeches than listen to gospel sermons. Let God be first
 in your regard. Love your country, which is His gift, but never forget
 the giver. Let religion and patriotism go together-one and
