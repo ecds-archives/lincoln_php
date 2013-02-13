@@ -79,13 +79,7 @@ Avery</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qtv</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Rev. S. Reed's A
-Discourse Delivered on the Occasion of the Funeral Obsequies of
-President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="reed1.jpg"/>
             <p>A</p>
             <p>Discourse</p>
             <p>DELIVERED ON THE OCCASION OF</p>
@@ -98,22 +92,8 @@ President Lincoln.</figDesc>
             <p>BOSTON:</p>
             <p>PRESS OF Geo. C. RAND &amp; AVERY, 3 CORNHILL.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="reed2.jpg"/>
+            <pb n="3" facs="reed3.jpg"/>
             <p>CORRESPONDENCE.</p>
             <p>EDGARTOWN, April 19, 1865.</p>
             <p>REV. S. REED.</p>
@@ -158,14 +138,7 @@ Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
 Obsequies of President Lincoln.</figDesc>
                </figure>
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="reed5.jpg"/>
             <div2 xml:id="reed.002" n="DISCOURSE" type="sermon">
                <head>DISCOURSE.</head>
                <epigraph>
@@ -190,12 +163,7 @@ providence were fully unfolded.</p>
                <p>From all the information he then had, it was apparent to him that
 the righteous must perish with the wicked; and the justice of such a
 providence he distrusted. 
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Rev. S. Reed's A
-Discourse Delivered on the Occasion of the Funeral Obsequies of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="reed6.jpg"/>
 This distrust arose from his ignorance of the divine plan; and so do
 men often fall into doubt and disbelief when they attempt to inspect
 and pass judgment upon the doings of the Almighty. They behold but
@@ -224,12 +192,7 @@ to inquire--</p>
 therefore the creation is "right;" and here we see providence. But his
 being man implies the possibility that he may sin. Should God make it
 im-
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Rev. S. Reed's A
-Discourse Delivered on the Occasion of the Funeral Obsequies of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="reed7.jpg"/>
 possible for him to sin, he would make him something else than man.</p>
                <p>"Why," it is often asked, "does not God prevent such and such acts
 of wickedness?" I answer that he could, doubtless, prevent all acts of
@@ -258,12 +221,7 @@ something else than men, yet he does overrule the results of their
 wrong-doing; he does press their wickedness into his own service, and
 "make their wrath to praise him;" he does bring light out of darkness
 and good out of evil. Whatever may
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Rev. S. Reed's A
-Discourse Delivered on the Occasion of the Funeral Obsequies of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="reed8.jpg"/>
 be the malignity of the vicious, however deep the turpitude of their
 crimes, God will not suffer consequences to flow therefrom which he
 cannot control.</p>
@@ -292,12 +250,7 @@ mourning at this hour. As one great family the American people now sit
 in silent grief, bereaved and desolate, a common affliction binding
 all hearts in one universal brotherhood of sorrow; every heart
 feeling, "all thy waves and thy billows are gone over me." 0 God,
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Rev. S. Reed's A
-Discourse Delivered on the Occasion of the Funeral Obsequies of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="reed9.jpg"/>
 what an hour of gloom is this! What sadness we feel! So sudden so
 mysterious, so aggravating, such crushing sadness! We look through our
 tears to thee, 0 God, and we try to discern thee. Oh, may we behold
@@ -324,12 +277,7 @@ designed only to protect human society; it could not meet the claims
 of God's violated law; nor could it come up at all to the measure of
 their guilt. Whether or not those men elude the vigilance of civil
 officers, and the penalties of human laws, thank heaven,
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="reed10.jpg"/>
 there is a Providence "<hi rend="italic">that shall by no means clear
 the guilty</hi>."</p>
                <p>We see God's providence, also, in the restraints which were thrown
@@ -357,12 +305,7 @@ to good, will save us from distrust and despair.</p>
 BEREAVEMENT THIS DAY?</p>
                <p>Mr. Lincoln falls not as a usurper, to indemnify injured
 rights. Kings and emperors have been assassinated;
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="reed11.jpg"/>
 but it was by those whose rights to dominion  had been violated or who
 expected to ascend the throne when it should be vacated. But our
 President was no usurper. He was elected to the chief magistracy by
@@ -391,12 +334,7 @@ people received a welcome to his presence, and a blessing from his
 lips.</p>
                <p>No: it was the spirit, which has drenched our land in blood, the
 spirit that has raised the greatest rebellion
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="12" facs="reed12.jpg"/>
 Booth the murderer is but one among the tens of thousands of his kin;
 and, viewed in reference to the spirit that produced him, he is a most
 insignificant particle, like a flake of black cinder thrown from the
@@ -425,12 +363,7 @@ its service, tears churches in twain, and makes doctors of divinity
 advocate it on their knees. It then seizes the reins of national
 government, unfurling its black banner over this entire land of
 freedom. Because rebuked
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="reed13.jpg"/>
 and checked at this point, it then plots treason; steals the property
 of the Government, bribes her officers, butchers her citizens, knocks
 down her best senators, hangs her ministers and lays its bloody hand
@@ -459,12 +392,7 @@ deed results that shall be glorious to humanity. Such is his
 prerogative, and such his pleasure; and many of the most blessed
 dispensations of mercy to our world have been brought forth from its
 deepest crimes. Great and
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="reed14.jpg"/>
 glorious were the results which God brought out of the wicked sale of
 Joseph by his brethren ; greater, more glorious, the results he
 brought out of the sale of Jesus by Judas, the great prototype of
@@ -492,12 +420,7 @@ struggles, mysteriously directing events so as to preserve our nation;
 and he was not the man to arrogate to himself the glory that belonged
 to God.</p>
                <p>And we are this day reminded that we can lean on
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="reed15.jpg"/>
 no human arm. The greatest and the best of human rulers are as the
 "flower of the field;" in a moment they are cut down, and are hidden
 from our view. But, if in our hearts there is a profound regard for
@@ -526,12 +449,7 @@ now; let me go home."</p>
 a great patriot. There is a grave opened in our land to-day that shall
 have a mightier power, that shall shape vaster destinies. It is the
 grave
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="reed16.jpg"/>
 of a great martyr as well as patriot. WASHINGTON came down to his
 grave calmly, serenely, as the full- glowing sun sinks out of sight at
 evening, leaving in all hearts a feeling of sadness that he had
@@ -559,12 +477,7 @@ event, -A HIGHER APPRECIATION OF JUSTICE.</p>
                <p>When the Lord gave promise to Abraham that he should become a great
 nation, he said, "For I know him that be will command his children,
 and his household after him, to do justice and judgment, that the Lord
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="reed17.jpg"/>
 may bring upon Abraham that which he hath spoken of him."</p>
                <p>Justice is that quality which underlies all right government, which
 secures it from the encroachments of evil, which guards the persons
@@ -593,12 +506,7 @@ injuries, if he were strong enough to do so found surprising growth
 here; so that spontaneous efforts to release the guilty from the hands
 of justice were quite as frequent as like efforts to bring them to
 justice. In some States, capital punishment had
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="18" facs="reed18.jpg"/>
 been abolished and there too the pardoning power had been exercised to
 an alarming degree; so that crime had increased, and Government gave
 less pledge of security to person and property.</p>
@@ -626,12 +534,7 @@ take his stand between the foe and his unarmed victim. Never did the
 war of human elements rage fiercer around a human ruler than around
 him. The mad legions of the foe surged up to the capital; they
 surrounded it; they began to close in;
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="19" facs="reed19.jpg"/>
 enemies were in the city, and traitors in the Government-offices;
 senators trembled; secretaries turned pale; ministers said it was all
 over; and the enemy shouted, "On to the capital!"</p>
@@ -660,12 +563,7 @@ which is dearer to humanity than any that ever floated on the breeze
 of heaven. And now, as that flag floated proudly from his hand,
 floated over the national capital, over the fallen rebel capital, over
 every
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="20" facs="reed20.jpg"/>
 State of the old Union, we hear the voice of our Lincoln shouting "THE
 NATION IS FREE AND SLAVERY IS DEAD!" It is the voice of Lincoln ; but
 it is the voice of Freedom too, and she is shouting her eternal rights
@@ -694,12 +592,7 @@ let them hang!"</p>
 death of the nation as well as of the President who put the dagger to
 the nation's breast, whose deadly aim was for the nation's life? What
 shall we
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="21" facs="reed21.jpg"/>
 do with those men, guilty as Booth, who deliberately planned the
 slaughter of tens of thousands; who urged their rebel hordes on to
 execute their plan; who, like savages starved and murdered our
@@ -727,12 +620,7 @@ upon my garments, for the day of vengeance is in my heart, and the
 year of the redeemed is come."</p>
                <p>In the very presence of the lifeless form of our beloved Lincoln,
 Mr. Johnson says, " I pity the deluded masses
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
+<pb n="22" facs="reed22.jpg"/>
 of the Southern people; <hi rend="italic">but upon the leaders, the
 responsible men of this Rebellion, I would the penalty of the
 law</hi>."</p>
@@ -745,14 +633,7 @@ Johnson! In the name of Heaven's injured innocence, in the name of
 Liberty, so long in chains now rising in her beauty, we say to
 President Johnson, Welcome to the chair of National Government; and
 may the law of eternal justice ever encircle that chair!</p>
-               <pb n="23"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="23" facs="reed23.jpg"/>
                <p>ORDER OF EXERCISES.</p>
                <p>VOLUNTARY.</p>
                <p>A.H. WENZELL, ORGANIST.</p>
@@ -793,14 +674,7 @@ room</l>
                   <l>And the night-wind, without failing,</l>
                   <l>Sadly o'er thee now is wailing</l>
                </lg>
-               <pb n="24"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of
-Rev. S. Reed's A Discourse Delivered on the Occasion of the Funeral
-Obsequies of President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="24" facs="reed24.jpg"/>
                <p>ADDRESS.</p>
                <p>REV. SETH REED.</p>
                <p>PRAYER.</p>

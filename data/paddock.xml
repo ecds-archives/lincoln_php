@@ -78,12 +78,7 @@ Printers</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qqf</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Wilbur F. Paddock's
-A Great Man Fallen!</figDesc>
-               </figure>
-            </p>
+            <pb facs="paddock1.jpg"/>
             <p>A GREAT MAN FALLEN!</p>
             <p>A DISCOURSE</p>
             <p>ON THE</p>
@@ -96,23 +91,11 @@ A Great Man Fallen!</figDesc>
             <p>PHILADELPHIA</p>
             <p>SHERMAN &amp; CO., PRINTERS.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Wilbur F. Paddock's A Great Man Fallen!</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="paddock2.jpg"/>
             <p>This Discourse is published at the request of Governor Pickering,
 Senator Williams, and others of the Funeral Escort of President
 Lincoln, who were present at the time of its delivery.</p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Wilbur F. Paddock's A Great Man Fallen!</figDesc>
-               </figure>
-            </p>
+            <pb n="3" facs="paddock3.jpg"/>
             <div2 xml:id="paddock.002" n="DISCOURSE" type="sermon">
                <head>DISCOURSE.</head>
                <epigraph>
@@ -136,11 +119,7 @@ that were with him, Rend your clothes, and gird you with sackcloth,
 and mourn before Abner. And King David himself followed the bier. And
 they buried Abner in Hebron; and the king lifted up his voice and wept
 at the grave
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="4" facs="paddock4.jpg"/>
 of Abner; and all the people wept. And the king lamented over Abner
 and said, Died Abner as the fool dieth? Thy hands were not bound, nor
 thy feet put into fetters. As a man falleth before wicked men, so
@@ -163,11 +142,7 @@ millions of stricken hearts there went up to Heaven a bitter cry of
 anguish,--the pitiful moan of a crushed and bereaved people. The whole
 land, just before revelling in excess of joy over unparalleled
 military success, glowing with bright
-<pb n="5"/>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="5" facs="paddock5.jpg"/>
 hopes and brilliant revelations of restored peace and prosperity, was
 suddenly plunged into the very depths of woe. The sombre hue of death
 everywhere visible, and the varied language of mourning, told how
@@ -191,11 +166,7 @@ impressions of the great and terrible loss we had sustained. We
 gathered in spirit around the cold and lifeless form of our martyr
 President, and paid, with distressed and weeping hearts, like offices
 with those which were being at the same hour per-
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="6" facs="paddock6.jpg"/>
 formed over his remains in Washington. We then realized as never
 before that our truthful, loving, and noble-hearted friend and
 benefactor had gone. No words could add solemnity or effect to those
@@ -235,13 +206,7 @@ in the cause of human freedom.</p>
                   </lg>
                   <p><hi rend="italic">Extract from Daily Paper.</hi></p>
                </note>
-               <pb n="7"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of
-Wilbur F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
-               </p>
+               <pb n="7" facs="paddock7.jpg"/>
                <p>body calls upon us for a more extended notice of his character and
 services than in this church has heretofore been given; and in so
 doing, I shall not, I am assured, do violence to the proprieties of
@@ -256,13 +221,7 @@ ourselves and to our country. We must speak briefly upon each of these
 points, and cannot, therefore, do more than present a faint outline of
 the virtues and excellences of the illustrious dead, trusting that
 the</p>
-               <pb n="8"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of
-Wilbur F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
-               </p>
+               <pb n="8" facs="paddock8.jpg"/>
                <p>perfectness and moral grandeur of his character, may at least, not
 suffer in your estimation by this necessarily imperfect
 presentation.</p>
@@ -285,11 +244,7 @@ presented to him.</p>
                <p>He was honest with himself, and honest in his dealings with
 others. It shone forth from earliest years. When a mere child, he
 labored for two days to pay for
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="9" facs="paddock9.jpg"/>
 a borrowed book, which he promptly confessed had been by his own
 carelessness destroyed. Veracity and strict integrity marked all his
 boyhood plays, bargains and engagements.</p>
@@ -311,11 +266,7 @@ integrity of his purpose, like a rock he stood courageously and
 heroically beating back every wave, resisting every encroachment,
 withstanding every seductive influence; unmoved alike by blame or
 praise, bribes or threats, reproach, contempt, cajolery, or base
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="10" facs="paddock10.jpg"/>
 insinuations,--true to himself, true to his principles, true to his
 country, and true to his God. Oh, how noble such an exhibition of
 character! How rarely is it seen in the history of public men.</p>
@@ -339,11 +290,7 @@ disinterested devotion to the suffering, the neglected and the
 defamed, he remembers only their needs, and lets the sun of that
 eventful day go down upon him administering to their wants. And this
 was the spirit he ever
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="11" facs="paddock11.jpg"/>
 manifested. No thought of self, no concern for his own fame, no
 feeling of personal pride, no expressions of triumph in the hour of
 success, ever disturbed his heart, or passed his lips so far as we are
@@ -367,11 +314,7 @@ right maintained, justice honored, the bounds of liberty enlarged, and
 the oppressed and afflicted blessed. Oh how grandly his whole heart
 went forth in sympathy for all his race, and how earnestly,
 faithfully and untiringly, did he labor in
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="12" facs="paddock12.jpg"/>
 its behalf. It was not the white man, or the red man, or the black
 man, that he saw. It was humanity, suffering and needy, and
 down-trodden. It was not numbers, rank, wealth or position, that
@@ -395,11 +338,7 @@ masterly direction of affairs, is largely shaping the future of other
 nations as well as our own?</p>
                <p>Yes, even so. With Abraham Lincoln nothing was small or
 unimportant which his sense of justice and
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="13" facs="paddck13.jpg"/>
 kind heart told him ought to be done; and nothing for the amelioration
 and elevation of his race was too great or too difficult for him to
 undertake to do that demanded of him the effort. In speaking to a
@@ -422,11 +361,7 @@ the influence of slavery in the North, and in the practical liberation
 of an entire race from its thraldom in the South. The wisdom of his
 course has been clearly demonstrated by the progress of events. Thank
 God that he lived to see his views and his efforts sustained
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="14" facs="paddock14.jpg"/>
 by the great body of the people of this land; and to behold the dawn
 of a new era of privilege and blessing to the oppressed race, which,
 in the midst of peril and difficulty, he stretched forth his brave
@@ -450,11 +385,7 @@ single-hearted devotion to the land of his birth. An intense,
 all-comprehensive patriotism, as has been said, was the constant
 stimulus of all his public exertions. It grew into the very
 constitution
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="15" facs="paddock15.jpg"/>
 of his soul, and operated like a natural function, continuously,
 spontaneously, and almost as it were, unconsciously. It pervaded and
 vivified all that he said and formed the prime incentive of all that
@@ -476,11 +407,7 @@ life. It preserved him from those vices which too often disgrace men
 in place and power. It made him a pattern of goodness even to those
 who made greater professions. It opened fountains of comfort,
 encouragement and support to his soul, and gave him that grand and
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="16" facs="paddock16.jpg"/>
 abiding trust in the final overthrow of the rebellion, which, amid all
 the vicissitudes and varied fortune which attended our arms never
 wavered, and enabled him to guide, with a firm and steady hand, the
@@ -503,11 +430,7 @@ threatening, and prospects very dark, I still hope that some way which
 man cannot see, all will be well in the end; because our cause is
 just, and God is on our side." And so again, when the rebel army
 invaded this State, and all confidence seemed for a time gone in our
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="17" facs="paddock17.jpg"/>
 ability to beat back the foe, we learn the manner in which he met the
 trial, and how his fears were overcome. "I rolled on God," he said,
 "the burden of my country, and I rose from my knees lightened of my
@@ -533,11 +456,7 @@ one! greater in thy devotion to truth, to country and to God, than
 Wolsey ever could have believed of man, or Cromwell ever was capable
 of being! And thou art a martyr blessed! Blessed with the honors of
 Heaven, the smile of God, the gratitude of the rescued and the
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="18" facs="paddock18.jpg"/>
 saved, and the love of the good and true, the loyal and the brave, in
 whatever clime thy name and thy history is known. We thank our God
 to-day for what thou hast been to us.</p>
@@ -560,11 +479,7 @@ the murderers of our noble-hearted President? Have we found the real
 culprit yet? No, my friends, though all we have mentioned may be
 guilty, and I believe they are of <hi rend="italic">this</hi> crime, as
 well as the hundred
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="19" facs="paddock19.jpg"/>
 others with which they are charged, yet the originator and the
 executer of this fearful murder is to be found, not in one traitor or
 in a band of them, but in that great Evil against which Abraham
@@ -587,11 +502,7 @@ out the very manhood of those whom God made in His own image, and
 Christ died to redeem. It has debauched the conscience of the South,
 so that the broad distinctions between right and wrong, virtue and
 crime, loyalty and treason, are not clearly seen but
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="20" facs="paddock20.jpg"/>
 by few, the large proportion of the people upholding and defending
 upon the authority of Holy Writ, that which the plain letter of the
 law of God and man clearly declares to be a sin and a crime. It has
@@ -614,11 +525,7 @@ destruction, and soon, if we mistake not, so far as its outward
 presence is concerned, it will be seen no more on this continent. But
 it has a Spirit which will not so easily die. And it is this Spirit,
 as we have said, which drank the life-blood of our Presi-
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="21" facs="paddock21.jpg"/>
 dent. Here we find the real author and perpetrator of this horrid
 crime. This is the criminal which we arraign in the sight of high
 Heaven, and charge with this foul murder, and with the agony of heart
@@ -640,11 +547,7 @@ hate treason and rebellion with a perfect hatred, because they are
 sins against God and crimes against the State. Let us make such
 distinctions between the guilty and the innocent as truth and justice
 demand. Let us require that the guilty and unrepentant be punished;
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="22" facs="paddock22.jpg"/>
 but let us pardon and forgive those who have been misled and are
 penitent. Let us frown down the mean and sordid spirit that would
 barter away the true dignity of manhood for gold, whether it be
@@ -668,13 +571,7 @@ that are coming to a nation which God has preserved for a great work,
 and in which they are to act a most important part? Are they preparing
 themselves for it by a full dedication to their Lord and Saviour as
 well as their country?</p>
-               <pb n="23"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of
-Wilbur F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
-               </p>
+               <pb n="23" facs="paddock23.jpg"/>
                <p>Would God I could answer these questions in the
 affirmative, even as regards the young men of my own beloved
 flock. There are some who realize these times as they ought. Some who
@@ -697,11 +594,7 @@ foolish prejudice and every false notion, and by the power of God,
 destroy their influence upon ourselves, and as far as we can, upon
 others. If we cowardly shrink from our duty, and say as did David,
 "These sons of Zeruiah be too hard for me," like him we may be
-<pb n="24"/>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of Wilbur
-F. Paddock's A Great Man Fallen!</figDesc>
-                  </figure>
+<pb n="24" facs="paddock24.jpg"/>
 called hereafter to lament our weakness, and suffer punishment again
 for our sins.</p>
                <p>This day, when the body of our noble and sainted President

@@ -76,13 +76,7 @@ New York</pubPlace>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15qp9</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of John McClintock's
-Discourse Delivered on the Day of the Funeral of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="mcclintock1.jpg"/>
             <p>DISCOURSE</p>
             <p>DELIVERED ON THE DAY OF THE FUNERAL</p>
             <p>OF</p>
@@ -95,28 +89,14 @@ Lincoln.</figDesc>
             <p>NEW YORK:</p>
             <p>PRESS OF J.M. BRADSTREET &amp; SON.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page
-of John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="mcclintock2.jpg"/>
             <p>Entered according to Act of Congress, in the year 1865,</p>
             <p>BY
 BOWLES COLGATE,</p>
             <p>In the Clerk's Office of the District Court of
 the United States for the Southern District of New York; in behalf of
 the Young Men's Christian Association of St. Paul's M.E. Church.</p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page
-of John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="3" facs="mcclintock3.jpg"/>
             <p>NEW YORK, <hi rend="italic">April</hi> 20,1865.</p>
             <p>THE REV. JOHN McCLINTOCK, D.D.,</p>
             <p>
@@ -143,14 +123,7 @@ of John McClintock's Discourse Delivered on the Day of the Funeral of
 President Lincoln.</figDesc>
                </figure>
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page
-of John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="mcclintock5.jpg"/>
             <p>NEW YORK, <hi rend="italic">April</hi> 21, 1865.</p>
             <p>
                <hi rend="italic">Gentlemen</hi>:</p>
@@ -170,14 +143,7 @@ of John McClintock's Discourse Delivered on the Day of the Funeral of
 President Lincoln.</figDesc>
                </figure>
             </p> -->
-            <pb n="7"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>7th page
-of John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="7" facs="mcclintock7.jpg"/>
             <div2 xml:id="mcclintock.002" n="DISCOURSE" type="sermon">
                <head>DISCOURSE.</head>
                <epigraph>
@@ -193,14 +159,7 @@ can still only say, "His way is in the sea, and His path in the deep
 waters." We shall know hereafter what He doeth; but we know not
 now.</p>
                <p>"<hi rend="italic">Remember</hi>," says our text, and "<hi rend="italic">follow</hi>."</p>
-               <pb n="8"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of
-John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="8" facs="mcclintock8.jpg"/>
                <p>There is little fear of our forgetting--there is little
 fear of the world forgetting the name of ABRAHAM LINCOLN. It was the
 remark of Heine, the German poet and satirist, that "men preserve the
@@ -222,14 +181,7 @@ life,</l>
 true heroes in the progress of humanity, and before the eye of
 God. And to this heroic class belongs the name of Abraham Lincoln, who
 fell, if ever man did, fighting the battles of humanity.</p>
-               <pb n="9"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of
-John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="9" facs="mcclintock9.jpg"/>
                <p>A voice came to us ten days ago from beyond the sea. Here
 is what it says of Abraham Lincoln: "When the heats of party passion
 and international jealousy have abated, when detraction has spent its
@@ -248,12 +200,7 @@ stood in a half a century, had the blow of the assassin never
 fallen. Party spirit, for the time at least, is dead. Who thinks of
 party now? There are doubtless, in this congregation, many men who
 voted against Abra-
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="mcclintock10.jpg"/>
 ham Lincoln; is there one of them who does not mourn him to-day? When
 you heard that Abraham Lincoln was dead--you, who a year ago, perhaps,
 made his name an object of abuse and calumny; you, whose lips were
@@ -273,12 +220,7 @@ the Union, from Portland to San Francisco, are clad in mourning. I
 have been struck, in going through the poorer streets of this city, to
 find the emblems of sorrow more general, if possible, on the abodes of
 the humble and the
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="mcclintock11.jpg"/>
 lowly, than on the stately dwellings of the rich in the grand
 avenues. All over this land, and over all the civilized world, I dare
 say, there shall be grief and mourning in the hearts and homes of
@@ -297,12 +239,7 @@ the peculiar attributes of what are called high birth and
 breeding--has passed away from earth. For they were just learning that
 he loved peace next to justice, and, in the vague terror of their
 conscious guilt, as abettors of the slaveholders' rebellion, they
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="12" facs="mcclintock12.jpg"/>
 looked to the gentle ruler, whom they had so vilely traduced, to avert
 the war which their consciences told them ought to come.</p>
                <p>But while, for this reason, there will be real grief among
@@ -324,12 +261,7 @@ woodman's cabin of the Black Forest--in many a miner's hut of the
 Hartz Mountains--in many a cottage in Italy, for there, as well as
 here, the poor had learned to look upon him as the anointed of God for
 the redemption of the liberties of mankind. It is
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="mcclintock13.jpg"/>
 but lately that Garibaldi named one of his grandchildren Lincoln,
 little dreaming how soon that name was to be enrolled among the
 immortals. Oh! how his great heart will throb, how the tears will roll
@@ -348,12 +280,7 @@ mightiest and most rapid tide of events that ever swept over a nation,
 he guided her safely, and was within sight of the harbor, when he was
 struck down at the helm. Even in his speeches and writings, where
 defects of form reveal the want of
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="mcclintock14.jpg"/>
 early culture and give room for the carping of petty critics who can
 see no farther than the form, I do not fear to say that the calm
 criticism of history will find marks of the highest power of mind. Do
@@ -373,12 +300,7 @@ their fine rhetoric, could only talk around it.</p>
 qualities of the man that we loved him. It is a wise order of
 Providence that it is so that men are drawn. We never love cold
 intellect. We may
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="mcclintock15.jpg"/>
 admire it; we may wonder at it; sometimes we may even worship it, but
 we never love it. The hearts of men leap out only after the image of
 God in man, and the image of God in man is love. Oh! what a large and
@@ -396,12 +318,7 @@ through those portals of his soul and saw the infinite wealth of
 tenderness that was there, they yielded to the spell. Illustrations of
 the tenderness of his nature abound. A colonel in the army was telling
 a friend the other day, of a time in 1862, when he had command of
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="mcclintock16.jpg"/>
 one of the posts, and the President visited the place for a few
 days. This officer had never met the President, and had no very
 exalted opinion of him, "but at the end of those ten days," said he,
@@ -420,12 +337,7 @@ political, was one of the ripe fruits of Lincoln's native
 tenderness. Did you ever hear of his saying a hard thing of his
 opponents? After all the vile calumnies heaped upon him at home and
 abroad, did you ever know him to utter a
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="mcclintock17.jpg"/>
 single word showing personal hate, or even personal feeling? It is a
 marvellous record. Test our public men by this standard, and you will
 see how loftily he towers above them in moral dignity. He lived as he
@@ -444,12 +356,7 @@ not simply a general recognition of the law of order in the universe,
 but a profound faith in a Personal God. He once remarked to me, at a
 sudden turn in conversation, "Ah, Providence is stronger than you or
 I," and he said it in such a 
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="18" facs="mcclintock18.jpg"/>
 tone as to reveal a habit of thought. It was out of the abundance of
 the heart that the mouth spoke. We were discussing at the time the
 relations of this country with Europe, and the effects of his
@@ -467,14 +374,7 @@ prayer the throne of divine grace, as a believer in Jesus Christ, and
 that from that time he classed himself with believers. Oh! what
 prayers those must have been in the dark days of '63, and how
 wondrously has God answered them.</p>
-               <pb n="19"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page
-of John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="19" facs="mcclintock19.jpg"/>
                <p>I shall not speak of the patriotism of Abraham Lincoln, though
 it is one of the points of which I had intended to speak, but you know
 all about it. You know what a tremendous duty fell to him, and how he
@@ -492,12 +392,7 @@ was he the peer of any nobleman in manners. When you shall learn to be
 as easy, as gentle, as truly unaffected, as free from all thought of
 yourself, as Abraham Lincoln was, then indeed will you have finished
 manners. What if there were a few accidental remnants of his
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="20" facs="mcclintock20.jpg"/>
 former habits? Of all people in the world, we are the very last that
 should think of these.</p>
                <p>Just now, across the sea, men are grieving over the death
@@ -517,12 +412,7 @@ then. Early the next morning I went to him, and said, "Are you enough
 interested in the American question to have a few words?"
 "Interested!" said he, "interested!" and the tears started to his
 eyes. "My God! 
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="21" facs="mcclintock21.jpg"/>
 sir, I do not sleep at night!" We then talked over all the probable
 phases of this great question and its tremendous issues. Never, until
 I came home and sat down alone with Abraham Lincoln, as I had sat down
@@ -540,12 +430,7 @@ Cobden bowed the neck of the proudest aristocracy in the world. In
 five years Lincoln destroyed and buried the most cruel, the most
 dangerous aristocracy that ever sought to establish itself in a
 civilized nation. The two representa-
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="22" facs="mcclintock22.jpg"/>
 tive men of the spirit of the age have passed away from earth
 together.</p>
                <p>We had no fear about Abraham Lincoln, except the fear that
@@ -564,12 +449,7 @@ him, except that he had <hi rend="italic">too much</hi> love.</p>
                <p>Last Friday, we are told, President Lincoln asked General
 Grant if he had heard from General Sherman? General Grant replied that
 he had not; but that he was hourly in expectation
-<pb n="23"/>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="23" facs="mcclintock23.jpg"/>
 of receiving dispatches announcing the surrender of Johnston. "Well,"
 said the President, "you will hear very soon now, and the news will be
 important." "Why do you think so?" said the General. "Because," said
@@ -587,12 +467,7 @@ ship sail in? Shattered and sinking, with sails all torn and rent? No,
 dear friends, God ordered it otherwise. Not a mark of the storm was on
 the noble vessel; the hull was sound, the spars were strong, the sails
 were spread, with the broad flag flying again as it
-<pb n="24"/>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="24" facs="mcclintock24.jpg"/>
 never waved before, and with pennants of red, white and blue streaming
 gloriously and triumphantly over all, the ship sailed into port, and
 the angels of God said their glad "All hail!" So now say I--and I
@@ -612,12 +487,7 @@ thousand Englishmen. I ventured to say to them, what in my heart I
 believed to be true, that whatever might be the result of civil war
 elsewhere, and however a single battle might turn in the United
 States, the Government of the
-<pb n="25"/>
-                  <figure><graphic url=""/>
-                     <figDesc>25th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="25" facs="mcclintock25.jpg"/>
 United States was impregnable; that the great Republic would come
 forth out of the trial stronger than ever; that however the first
 battle might go, we should win the last, and the Rebellion would be
@@ -636,12 +506,7 @@ who seemed to look upon it as the harbinger of a golden harvest; men
 who, if allowed by any chance to pass the gates of the Celestial City,
 would go with their eyes bent downward studying some plan to pluck up
 the golden pavement. Naturally
-<pb n="26"/>
-                  <figure><graphic url=""/>
-                     <figDesc>26th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="26" facs="mcclintock26.jpg"/>
 enough, these men mistook the mighty import of passing events, and
 bought gold for a rise. On Monday gold was ten per cent. lower than on
 Saturday.</p>
@@ -661,12 +526,7 @@ ourselves and our children. Hatred of assassination is one of these
 lessons, if, indeed, we needed to learn it. The work that Brutus did
 to Caesar was just as bad a work as that of Booth to Lincoln. It was
 centuries before humanity recovered from
-<pb n="27"/>
-                  <figure><graphic url=""/>
-                     <figDesc>27th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="27" facs="mcclintock27.jpg"/>
 the poisoned wound it received from the stroke of the dagger that
 pierced the breast of Caesar. Teach your children, moreover, not only
 to hate assassination, but treason as well; for treason breeds
@@ -685,14 +545,7 @@ watch your generals and soldiers, your admirals and sailors; watch
 even Andrew Johnson, though of that I apprehend there will be no
 need. Watch them all, if need be, and see to it that this sprout of
 hell never shoots up again in the American soil.</p>
-               <pb n="28"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>28th page
-of John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="28" facs="mcclintock28.jpg"/>
                <p>One more lesson, and not the least. If anything I have
 said, or anything that you read or hear in these sad days, breeds
 within you a single revengeful feeling, even towards the leaders of
@@ -711,12 +564,7 @@ not always right. Indulge this spirit, and you may hear next that this
 man's house or that man's should be mobbed. Mobs are alien to our
 northern soil; they belong to another atmosphere than that of free
 schools and free men. The
-<pb n="29"/>
-                  <figure><graphic url=""/>
-                     <figDesc>29th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="29" facs="mcclintock29.jpg"/>
 region of slavery was their natural home; let us have none of
 them. And soon, when the last shackles shall have fallen, and
 throughout our land, from sea to sea, there shall be no master and no
@@ -725,14 +573,7 @@ prayed, and fought so long, when the Republic shall be established
 upon the eternal foundations of Freedom and Justice, to stand, we
 trust, by the blessing of God, down to the last syllable of recorded
 Time.</p>
-               <pb n="30"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>30th page
-of John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="30" facs="mcclintock30.jpg"/>
                <p>THE SECOND INAUGURAL.</p>
                <p>"FELLOW COUNTRYMEN:</p>
                <p>At this second appearing to take the oath of the
@@ -751,12 +592,7 @@ for the future, no prediction in regard to it is ventured.</p>
 thoughts were anxiously directed to an impending civil war. All
 dreaded it; all sought to avoid it. While the inaugural address was
 being delivered from this place, devoted altogether to
-<pb n="31"/>
-                  <figure><graphic url=""/>
-                     <figDesc>31st page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="31" facs="mcclintock31.jpg"/>
 saving the Union without war, insurgent agents were in the city
 seeking to destroy it without war--seeking to dissolve the Union and
 divide the effects by negotiation. Both parties deprecated war, but
@@ -776,12 +612,7 @@ cause of the conflict might cease with, or even before the conflict
 itself should cease. Each looked for an easier triumph, and a result
 less fundamental and astounding.</p>
                <p>Both read the same Bible and pray to the same
-<pb n="32"/>
-                  <figure><graphic url=""/>
-                     <figDesc>32nd page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="32" facs="mcclintock32.jpg"/>
 God, and each invokes His aid against the other. It may seem strange
 than any men should dare to ask a just God's assistance in wringing
 their bread from the sweat of other men's faces, but let us judge not,
@@ -799,12 +630,7 @@ God always ascribe to Him?  Fondly do we hope, fervently do we pray,
 that this mighty scourge of war may soon pass away. Yet, if God wills
 that it continue until all the wealth piled by the bondman's two
 hundred and fifty years of unrequited toil shall be sunk,
-<pb n="33"/>
-                  <figure><graphic url=""/>
-                     <figDesc>33rd page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="33" facs="mcclintock33.jpg"/>
 and until every drop of blood drawn with the lash shall be paid with
 another drawn with the sword, as was said three thousand years ago;
 so, still it must be said, "The judgments of the Lord are true and
@@ -815,14 +641,7 @@ on to finish the work we are in, to bind up the nation's wounds, to
 care for him who shall have borne the battle, and for his widow and
 his orphans, to do all which may achieve and cherish a just and
 lasting peace among ourselves and with all nations."</p>
-               <pb n="34"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>34th page
-of John McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="34" facs="mcclintock34.jpg"/>
                <p>THE SPEECH AT GETTYSBURG.</p>
                <p>"Fourscore and seven years ago our fathers brought forth
 upon this continent a new nation, conceived in liberty, and dedicated
@@ -841,12 +660,7 @@ the living, rather to be dedicated here to the unfinished work which
 they who fought here have thus far so nobly advanced. It is rather for
 us to be here dedicated to the great task remaining before us, that
 from these
-<pb n="35"/>
-                  <figure><graphic url=""/>
-                     <figDesc>35th page of John
-McClintock's Discourse Delivered on the Day of the Funeral of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="35" facs="mcclintock34.jpg"/>
 honored dead we take increased devotion to that cause for which they
 gave the last full measure of devotion; that we here highly resolve
 that these dead shall not have died in vain; that this nation, under

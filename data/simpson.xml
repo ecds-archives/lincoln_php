@@ -77,13 +77,7 @@ Porter</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15r2x</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Rev. Matthew
-Simpson's Funeral Address Delivered at the Burial of President
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="simpson1.jpg"/>
             <p>FUNERAL ADDRESS</p>
             <p>Delivered at the Burial of</p>
             <p>PRESIDENT LINCOLN,</p>
@@ -97,22 +91,8 @@ METHODIST EPISCOPAL CHURCH.</p>
             <p>200
 MULBERRY-STREET.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="simpson2.jpg"/>
+            <pb n="3" facs="simpson3.jpg"/>
             <div2 xml:id="simpson.002" n="FUNERAL ADDRESS" type="sermon">
                <head>FUNERAL ADDRESS.</head>
                <p>FELLOW-CITIZENS OF ILLINOIS, AND OF MANY PARTS OF  OUR ENTIRE
@@ -134,12 +114,7 @@ than any which had fallen upon any man since the days of Washington,
 the people would offer up prayers that God would aid and sustain him
 in the work which they had given him to do. His company left your
 quiet city, but as it went snares
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of Rev. Matthew
-Simpson's Funeral Address Delivered at the Burial of President
-Lincoln.</figDesc>
-                  </figure>	
+<pb n="4" facs="simpson4.jpg"/>	
 were in waiting for the chief magistrate. Scarcely did he escape the
 dangers of the way or the hands of the assassin as he neared
 Washington; and I believe he escaped only through the vigilance of
@@ -165,12 +140,7 @@ accompanied this funeral procession, and has gathered around the
 mortal remains of him who was our loved one, and who now sleeps among
 us. If we glance at the procession which followed him, we see how the
 nation stood aghast. 
-<pb n="5"/>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of Rev. Matthew
-Simpson's Funeral Address Delivered at the Burial of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="5" facs="simpson5.jpg"/>
 Tears filled the eyes of manly, sun-burnt faces.  Strong men, as they
 clasped the hands of their friends, were not able in words to find
 vent for their grief. Women and little children caught up the tidings
@@ -196,12 +166,7 @@ and whose race have been freed from their chains by him whom they
 mourn as their deliverer. More persons have gazed on the face of the
 departed than ever looked upon the face of any other departed
 man. More have
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Rev. Matthew
-Simpson's Funeral Address Delivered at the Burial of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="simpson6.jpg"/>
 looked on the procession for sixteen hundred miles, by night and by
 day, by sunlight, dawn, twilight, and by torchlight, than ever before
 watched the progress of a procession.</p>
@@ -227,12 +192,7 @@ in which our country was placed. Many said, "Is it possible to save
 our nation?" Some in our country, and nearly all the leading men in
 other countries, declared it to be impossible to maintain the Union;
 and many an honest and patri-
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Rev. Matthew
-Simpson's Funeral Address Delivered at the Burial of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="simpson7.jpg"/>
 otic heart was deeply pained with apprehensions of common ruin; and
 many, in grief and almost in despair, anxiously inquired, What shall
 the end of these things be? In addition to this wives had given their
@@ -257,12 +217,7 @@ drove the combined armies of the rebels before him, while the honored
 Lieutenant-General held Lee and his hosts in a death-grasp.</p>
                <p>Then the tidings came that Richmond was evacuated, and that
 Lee had surrendered. The bells rang
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Rev. Matthew
-Simpson's Funeral Address Delivered at the Burial of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="simpson8.jpg"/>
 merrily all over the land. The booming of cannon was heard;
 illuminations and torchlight processions manifested the general joy,
 and families were looking for the speedy return of their loved ones
@@ -288,12 +243,7 @@ life were before him. There was a cabinet meeting that day, said to
 have been the most cheerful and happy of any held since the beginning
 of the rebellion. After this meeting he talked with his friends, and
 spoke of the four years of tempest, of the storm
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Rev. Matthew
-Simpson's Funeral Address Delivered at the Burial of President
-Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="simpson9.jpg"/>
 being over, and of the four years of pleasure and joy now awaiting
 him, as the weight of care and anxiety would be taken from his mind,
 and he could have happy days with his family again. In the midst of
@@ -319,12 +269,7 @@ people, understanding their feelings because he was one of them, and
 connected with them in their movements and life. His education was
 simple. A few months spent in the school-house gave him the elements
 of 
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>	
+<pb n="10" facs="simpson10.jpg"/>	
 education. He read few books, but mastered all he read. Pilgrim's
 Progress, Aesop's Fables, and the Life of Washington, were his
 favorites. In these we recognize the works which gave the bias to his
@@ -351,12 +296,7 @@ rested, I answer, On a quick and ready perception of facts; on a
 memory, unusually tenacious and retentive; and on a logical turn of
 mind, which followed sternly and unwaveringly every link in the chain
 of thought on every subject which he
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="simpson11.jpg"/>
 was called to investigate. I think there have been minds more broad in
 their character, more comprehensive in their scope, but I doubt if
 ever there has been a man who could follow step by step, with more
@@ -382,12 +322,7 @@ honest man led them to yield to his guidance. As has been said of
 Cobden, whom he greatly resembled, he made all men feel a <hi rend="italic">sense of himself;</hi> a recognition of individuality; a
 self-relying power. They saw in him a man whom they believed would do
 what is right, regardless of all consequences. It was this moral
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>	
+<pb n="12" facs="simpson12.jpg"/>	
 feeling which gave him the greatest hold on the people, and made his
 utterances almost oracular. When the nation was angered by the perfidy
 of foreign nations in allowing privateers to be fitted out, he uttered
@@ -413,12 +348,7 @@ army has been enlarged into a force which, for skill, intelligence,
 efficiency, and bravery, surpasses any which the world had ever
 seen. Before its veterans the fame of even the renowned veterans of
 Napoleon shall pale, and the
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="simpson13.jpg"/>
 mothers and sisters on these hillsides, and all over the land, shall
 take to their arms again braver sons and brothers than ever fought in
 European wars. The reason is obvious. Money, or a desire for fame,
@@ -444,12 +374,7 @@ spread, in spite of monarchs, all over this earth.</p>
                <p>I turn from the army to the navy. What was it when the war
 commenced? Now we have our ships-of-war at home and abroad, to guard
 privateers in foreign sympathizing ports, as well as to care for
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="simpson14.jpg"/>
 every part of our own coast. They have taken forts that military men
 said could not be taken; and a brave admiral, for the first time in
 the world's history, lashed himself to the mast, there to remain as
@@ -475,12 +400,7 @@ his proclamation, liberated more enslaved people than ever Moses set
 free, and those not of his kindred or his race. Such a power, or such
 an opportunity, God has seldom given to man. When other events shall
 have been forgotten; when this
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="simpson15.jpg"/>
 world shall have become a network of republics; when every throne
 shall be swept from the face of the earth; when literature shall
 enlighten all minds; when the claims of humanity shall be recognized
@@ -505,12 +425,7 @@ never spoke unkindly of any man. Even the rebels received no word of
 anger from him; and his last day illustrated in a remarkable manner
 his forgiving disposition. A dispatch was received that afternoon that
 Thompson and Tucker were trying to make
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>	
+<pb n="16" facs="simpson16.jpg"/>	
 their escape through Maine, and it was proposed to arrest
 them. Mr. Lincoln, however, preferred rather to let them quietly
 escape. He was seeking to save the very men who had been plotting his
@@ -536,12 +451,7 @@ presidential term he lost his second son, Willie. To an officer of the
 army he said, not long since, "Do you ever find yourself talking with
 the dead?" and added, "Since Willie's death I catch myself every day
 involuntarily talking with him, as
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="simpson17.jpg"/>
 if he were with me." On his widow, who is unable to be here, I need
 only invoke the blessing of Almighty God that she may be comforted and
 sustained. For his son, who has witnessed the exercises of this hour,
@@ -567,12 +477,7 @@ struggle ought not to deter us from the support of a cause which I
 deem to be just. It shall not deter me. If ever I feel the soul within
 me elevate and expand to those dimensions not wholly unworthy of its
 Almighty architect, it is when I
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>	
+<pb n="18" facs="simpson18.jpg"/>	
 contemplate the cause of my country, deserted by all the world
 besides, and I standing up boldly and alone, and hurling defiance at
 her victorious oppressors. Here, without contemplating consequences,
@@ -599,12 +504,7 @@ brand of traitor on his brow.</p>
                <p>Standing, as, we do to-day, by his coffin and his
 sepulcher, let us resolve to carry forward the policy which he so
 nobly begun. Let us do right to all
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="19" facs="simpson19.jpg"/>
 men. Let us vow, in the sight of Heaven, to eradicate every vestige of
 human slavery; to give every human being his true position before God
 and man; to crush every form of rebellion, and to stand by the flag
@@ -630,14 +530,7 @@ two after Mr. Lincoln's death, another leader, under constitutional
 forms, occupied his chair, and the government moved forward without
 one single jar. The world will learn that republics are the strongest
 governments on earth.</p>
-               <pb n="20"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="20" facs="simpson20.jpg"/>
                <p>And now, my friends, in the words of the departed, "with
 malice toward none," free from all feelings of personal vengeance, yet
 believing that the sword must not be borne in vain, let us go forward
@@ -663,12 +556,7 @@ destiny.</p>
 whose lips are now forever sealed, "The mystic cords of memory,
 stretching from every battlefield and patriot grave to every living
 heart and hearthstone all over this broad land, will yet swell
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of
-Rev. Matthew Simpson's Funeral Address Delivered at the Burial of
-President Lincoln.</figDesc>
-                  </figure>
+<pb n="21" facs="simpson21.jpg"/>
 the chorus of the Union, when again touched, as surely they will be,
 by the better angels of our nature."</p>
                <p>Chieftain, farewell! The nation mourns thee. Mothers shall
