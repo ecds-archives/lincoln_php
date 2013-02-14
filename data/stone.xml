@@ -77,13 +77,7 @@ Boston</pubPlace>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15r5b</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Andrew L. Stone's A
-Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="stone1.jpg"/>
             <p>A DISCOURSE</p>
             <p>OCCASIONED BY THE DEATH OF</p>
             <p>Abraham Lincoln,</p>
@@ -97,21 +91,8 @@ Lincoln.</figDesc>
             <p>300 COPIES PRINTED FOR</p>
             <p>F. K. WIGGIN, BOSTON:</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Andrew L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of Andrew L. Stone's A Discourse Occasioned by the Death of Abraham Lincoln.</figDesc>
-               </figure>
-            </p>
-
+            <pb n="2" facs="stone2.jpg"/>
+            <pb n="3" facs="stone3.jpg"/>
             <div2 xml:id="stone.002" n="[Discourse]" type="sermon">
                <head>[Discourse]</head>
                <epigraph>
@@ -134,12 +115,7 @@ in the spring season, when the great venture of the harvest was at
 hazard, and all the uncertainties of elemental blight and blessing
 hung poised in the scales of Providence. If there were confession,
 forsaking of sin,--as was always true,--it was as a
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="4" facs="stone4.jpg"/>
 preparation of heart for availing prayer, that "the early and the
 latter rain" might fall, each in its time; the hand of the reaper bind
 and gather its sheaves with joy, and the autumn granaries be
@@ -166,14 +142,7 @@ thee, oh, weeping April! oh, month of tears! Pour down all thy warm
 showers : from our eyes the rain falls faster yet! Evermore, from
 henceforth, at thy return, thou and the sorrowing nation shall weep
 together.</p>
-               <pb n="5"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of
-Andrew L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="5" facs="stone5.jpg"/>
                <p>How sudden the changes of the April sky,--sunshine! shower! And
 beneath, on our faces and in our hearts, how faithfully copied! What
 glad days they were that followed those two memorable sabbaths,
@@ -199,12 +168,7 @@ feet. Washington died leaving that one peerless title behind
 him,--"The Father of his Country." Harrison and Taylor died, sinking
 wearily down from that chair toward whose great vacancy our dim eyes
 look to-day. Our two great Massachusetts statesmen and orators passed
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="stone6.jpg"/>
 away leaving us to feel that the world was less rich and grand since
 they were gone. But these were all led gently from our presence, by a
 messenger hand, whose power and whose right none of us could
@@ -230,12 +194,7 @@ prayers can find acceptance, and before the divine hand will take from
 our suppliant hand the loose-lying reins of state. God help us to say
 out of the depths of this great grief, without a doubt, without any
 reserve, with our yearning affections still clinging around that 
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="stone7.jpg"/>
 pale, dead form, lying in the chamber of the White House, "Thy will be
 done!"</p>
                <p>How dear he was to the people! That thought comes first after the
@@ -262,12 +221,7 @@ substance.</p>
                <p>How we confided in him! He was a man to build trust upon. His
 honesty was a pillared rock. The pleasant air, with which, against
 whatever importunity,
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="stone8.jpg"/>
 he kept his purposes, covered and mantled the sternest
 conscientiousness. The careless step with which he walked toward his
 objects in the country's welfare, neither wealth nor favor could make
@@ -294,12 +248,7 @@ kind feeling, if not persuasion,--generally both.</p>
                <p>His goodness was his greatness. His honest heart helped his
 straight-forward mind. He saw truth and duty more clearly by this
 inward illumination. His
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="stone9.jpg"/>
 reach of genuine desire carried out his reach of intellect, and became
 genius. He was more sagacious than his advisers, partly because he was
 more single-hearted. He sought so earnestly the best means to the
@@ -326,12 +275,7 @@ through both the Red Sea and the desert beyond, to the Canaan of our
 future. But the dastard hand of treason struck,--struck as cowards
 always strike, from behind,--struck, with the confession of weakness
 and desperate inferiority which the assassin
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="stone10.jpg"/>
 and his cause always make in the very act that gluts their hate, and
 the good, the great, the gentle, the kind, the large-hearted, the
 beloved President is no more! Whatever else may be dark about this
@@ -358,12 +302,7 @@ shedding of blood like the pouring out of water; the cries of
 famishing men as whisperings of the idle wind; the striking down of
 senatorial dignity in its own place of privilege and unsuspecting
 safety, a deed of chivalrous gallantry; and
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="stone11.jpg"/>
 now the cold-blooded murder of one who has led in the great marches of
 liberty to a whole race, and is hailed as deliverer and saviour by
 four millions of souls whose fetters have fallen at his word, and has
@@ -389,14 +328,7 @@ sentiment and will with the loyal people; the blotting out of the
 great victories of the fortnight past; aught but a crimson hand whose
 stain strikes all through the soul, and the curse of earth and heaven?
 It has bought its revenge dear.</p>
-               <pb n="12"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-Andrew L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="12" facs="stone12.jpg"/>
                <p>And what, we may ask, is the extent of this revenge? or, rather, in
 what aspects may we view it, that shall help us bear our loss, and
 show us the divine hand mingling in it?</p>
@@ -422,12 +354,7 @@ the bending heavens with saluting angels sent it back to all our dusky
 homes, " Be Free!"--and the echo rose in unnumbered voices of lonely
 lips, toned with wondrous gratitude, " Free, Free, Free!" That word
 has been spoken. In that word the murdered
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="stone13.jpg"/>
 President "though dead still speaketh." That voice can never be
 silenced, though those pale lips shall never part again. The work that
 has been done, and so well done, by this faithful worker, cannot be
@@ -454,12 +381,7 @@ excellences. He is dead. All pens that write of him will write
 forbearingly, if not tenderly and admiringly. And those of us who
 loved and honored him before will take his name and image into some
 more interior cham-
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="stone14.jpg"/>
 ber of our hearts, within some more sacred shrine, and guard them
 there. It was not Abraham Lincoln, it was our cause, the cause of
 liberty, the cause of humanity, the cause of government, the cause of
@@ -486,12 +408,7 @@ reconstruction, as over the tempestuous sea of civil strife? Could he
 have gained such wide assent and cheerful support to his measures, in
 the new exigencies of ruling, as in those through which he has safely
 brought us? Might not some, who have been
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="stone15.jpg"/>
 his friends, have turned against him possibly, as the new questions of
 the hour, and of coming hours, came into sharp debate? Already there
 were fears that he would not prove stern enough for the stern work of
@@ -517,12 +434,7 @@ capital paid him for all. He did not die like the old prophets
 consummation, for which, with such grandeur of constancy and
 diligence, through four years whose weight would have crushed a weaker
 man, and would have crushed him but that he leaned on
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="stone16.jpg"/>
 Heaven, he had been toiling. If the assassin had struck before the
 rebel banner fell at Richmond, and the sword of Lee was yielded to the
 hand of Grant, if the sun of the President had gone down before the
@@ -549,12 +461,7 @@ or dying. It is not invested in any vulnerable, human life. It is not
 something material which bludgeon or steel may strike to the
 earth. Its citadel is not within frail human flesh, or within the
 truest and noblest human heart. It is a
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="stone17.jpg"/>
 kingdom of truth,--a life of ideas, invisible, invulnerable,--on all
 the air,--in the faith and testimony of millions of confessors,--in
 God's imperishable word,--linked with his invincible providence,-in
@@ -580,12 +487,7 @@ pile. Through our tears let us look up and confide in that Supreme
 Leader.</p>
                <p>He has mingled mercy even with this great tragedy. Part of the
 bloody conspiracy was foiled. The Secretary
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="18" facs="stone18.jpg"/>
 of State, and those smitten in his defence, we may hope will
 survive. The arm that conquered in the field, doomed in the foul plot
 with those who were stricken, the arm of our hero, Grant, is nerved
@@ -612,12 +514,7 @@ Christ."</p>
                <p>We feel, many of us, that we could have wished, for him whom we
 mourn, a different scene for the last hour of his health and
 consciousness on earth, that he could
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="19" facs="stone19.jpg"/>
 have met the fatal missive on some stage of official duty, or in the
 retirement of home, or in the circle of religious worship, rather than
 within those festal walls. Yes, it would have been better.</p>
@@ -644,14 +541,7 @@ our head."</p>
 history and destiny, on which turn issues more momentous than we can
 now discern. But our future is with God, and not at the mercy of human
 scheming and human crime.</p>
-               <pb n="20"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-Andrew L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="20" facs="stone20.jpg"/>
                <p>We shall not have much time for tears even over so great a
 sorrow. Our work is stern and pressing. One thing is beyond
 contradiction. Yielding rebellion has lost its most lenient
@@ -677,12 +567,7 @@ utter extermination. Let us crush it quickly, and forever.</p>
                <p>And so, bereft of this one helper in whom we have felt strong, let
 us turn to God with a new spirit of dependence on his Almighty arm,
 and make our tears of
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21th page of Andrew
-L. Stone's A Discourse Occasioned by the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="21" facs="stone21.jpg"/>
 mourning the waters of a new baptismal consecration to the service of
 our country and humanity, the supremacy of law, and the safety, honor,
 and perpetuity of this Union, for which we have paid so great a

@@ -78,12 +78,7 @@ Express Office</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15rb1</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Thomas Tousey's
-Discourse on the Death of Abraham Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="tousey1.jpg"/>
             <p>Discourse</p>
             <p>ON THE DEATH OF</p>
             <p>Abraham Lincoln</p>
@@ -96,22 +91,8 @@ Discourse on the Death of Abraham Lincoln.</figDesc>
             <p>ROCHESTER, N. Y.</p>
             <p>C. D. TRACY &amp; CO., PRINTERS, EVENING EXPRESS OFFICE.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Thomas Tousey's Discourse on the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Thomas Tousey's Discourse on the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="tousey2.jpg"/>
+            <pb n="3" facs="tousey3.jpg"/>
             <div2 xml:id="tousey.002" n="DISCOURSE." type="sermon">
                <head>DISCOURSE.</head>
                <epigraph>
@@ -138,11 +119,7 @@ think," says Dr. South, " that every letter was written with a tear
 every word the sound of a breaking heart; that the author was
 compacted of sorrows, disciplined to grief-one who never breathed but
 in sighs, nor spoke but in a groan. 
-<pb n="4"/>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="4" facs="tousey4.jpg"/>
 Nor can we too much admire the full and graceful flow of that pathetic
 eloquence in which the author pours forth the effusions of a <hi rend="italic">patriotic</hi> heart, and piously weeps over the disasters
 of his beloved country. Misery has no expression which the author of
@@ -167,11 +144,7 @@ deliverance through the mercy of God.</p>
                <p>A like object seems befitting a minister of God at such a time as
 this. It is no part of his duty to flatter the pride or quiet the
 consciences of godless men. Nor is he at
-<pb n="5"/>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="5" facs="tousey5.jpg"/>
 liberty to be silent when God commands him to speak. There are times
 and circumstances when silence even is <hi rend="italic">treason</hi>. The professed minister of Jesus who
 neglects, from any. motive to speak, as the oracles of God speak, is
@@ -198,11 +171,7 @@ purified the, soil which had been polluted by traitors. The flying foe
 were pursued by the nation's chosen general and his brave subordinates
 and soldiers, day after day, with untiring tenacity and perseverance,
 until the great rebel
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="tousey6.jpg"/>
 chieftain struck his colors and surrendered to the indomitable
 GRANT.</p>
                <p>As the cheering news sped on the wings of lightning, in the still
@@ -227,11 +196,7 @@ The night--the long dark night had passed away. The glorious morning
 had dawned. The sun in full-orbed glory sprung to the mid-heaven, and
 his beams flashed light into every darkened cell. <hi rend="italic">Treason was dead</hi>, and her demon sister, <hi rend="italic">Slavery</hi>, had ceased to breathe. For four long years
 we had struggled, and fought, and bled, and watched, and
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="tousey7.jpg"/>
 mourned, and waited, and prayed. Battles, and slaughter, and death,
 and funerals, and woe, had become our everyday experiences. But now it
 was all past. No more long, and dreary marches-no more deadly assaults
@@ -263,11 +228,7 @@ suspended. The relish for trade was gone. Even young children wept as
 though their hearts would break, and tears flowed freely from eyes
 unused to weep. Mourning, lamentation and woe, spread a funeral pall
 over a stricken nation. The
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="tousey8.jpg"/>
 people wandered with aimless tread along the streets, They knew not
 what to do, or what to say, or where to <hi rend="italic">go</hi>. Shocked, stunned, overwhelmed, they seemed like
 sheep without a shepherd. "The shepherd was smitten and the flock was
@@ -294,11 +255,7 @@ is written with fearful distinctness on our memory. We have hardly yet
 recovered from the horror and amazement, which almost froze the vital
 current of the nation, and settled in sullen gloom and despair upon
 every countenance. ABRAHAM LINCOLN appeared upon the scene
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="tousey9.jpg"/>
 and the first words that fell from his lips on taking leave of his
 friends in Springfield were "fitly spoken," and like apples of gold in
 pictures of silver: "A duty devolves upon me, which is, perhaps,
@@ -324,11 +281,7 @@ character, or to write his eulogy. I believe he was raised up for the
 duties and responsibilities of his day by the same hand which is so
 clearly visible in all the past of our history-that in answer to the
 prayers and supplications 
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="tousey10.jpg"/>
 of a prostrate people, he has been divinely guided in the discharge of
 those duties. The careful prudence, the almost omniscient sagacity,
 the firm decision, and the invincible integrity which have
@@ -355,11 +308,7 @@ monuments, more enduring than brass or marble, and on them re-written
 this determination. Still with many, even in Christian lands, this
 doctrine is a mere "theoretic abstraction, a soulless idea, judged to
 be necessary, perhaps, to complete the symmetry
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="tousey11.jpg"/>
 of their ideal system, but of no practical utility in the
 matter-of-fact occurrences of every day life. Their God is a God
 without a sceptre, without an empire, without a moral law, and without
@@ -386,11 +335,7 @@ must result from any given course pursued by any people. "Woe unto us,
 that we have sinned", is the inspired rule which connects cause and
 effect, and binds them together with the chains of God's
 omnipotence. In case of continual sin and impeni-
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="12" facs="tousey12.jpg"/>
 tence, it is as vain to endeavor to escape the everlasting
 consequences of our course as to dethrone the Eternal. "Human skill
 cannot match infinite wisdom, and what sinful finite will measure arms
@@ -416,11 +361,8 @@ past it has required no prophet's ken to discover unmistakable
 indications of the gathering storm which has swept the land with such
 wide wasting ruin. Any one who had any just conception of God as a
 Ruler and Judge, who has declared that He "will be exalted in the
-earth," <pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+earth," 
+<pb n="13" facs="tousey13.jpg"/>
 could have discovered premonitions of coming and terrible
 judgments. The countless evidences of political corruption, the
 shameless disregard of the simplest morals by men high in official
@@ -447,11 +389,7 @@ were permitted to repose on the basis of a free constitution, enjoy
 privileges bought with blood, and a prosperity which contrasted
 strongly with the afflictions of our youth, was lit honorable in us to
 forget we were children of Providence,
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="tousey14.jpg"/>
 and that we turned against our foster-mother, true religion, and
 talked and acted as though we no longer needed her aid? At various
 stages of our history the angel of retribution passed over the
@@ -477,11 +415,7 @@ the terrible enormity, the deep and damning guilt of American slavery
 could never have been fully realized, or the glaring crime adequately
 atoned for, or the heart of the nation. sufficiently aroused to wipe
 out the foul stain upon her
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="tousey15.jpg"/>
 escutcheon, only by the blasting scourge of war. God saw this and
 hence His red, right hand of vengeance was called forth to the
 accomplishment of the work.</p>
@@ -508,11 +442,7 @@ unto the world because of offences, for it must needs be that offences
 come, but woe to that man by whom the offence, cometh.' We may suppose
 that American slavery is one of these offences, which in the
 Providence of God must needs come, but which, having continued through
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="tousey16.jpg"/>
 His appointed time, He now wills to remove; and He gives to both North
 and South this terrible war as the woe due to those by whom the
 offence came. Shall we discern that there is any departure from those
@@ -539,11 +469,7 @@ this generation are dead, and read with rapture by millions yet
 unborn. From the hut of poverty--from the palace of wealth--from the
 gloomy dungeon-from the hall of justice--by the oppressed and
 down-trodden--by the free and
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="tousey17.jpg"/>
 prosperous-wherever God is known and His law regarded, a voice of
 gratitude and melody will be heard rising to heaven in thankfulness
 that their author ever lived. <hi rend="italic">But he is dead!</hi> The
@@ -571,11 +497,7 @@ raised up ABRAHAM LINCOLN to guide our ship of state over the stormy
 sea of political strife, and through the terrible breakers of
 secession and civil war to the quiet and safe harbor of peace,
 union. and liberty. Let us not forget that He gave us such a man, at
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="18" facs="tousey18.jpg"/>
 such a time, and that He preserved him alive until the death knell of
 rebellion was sounded--, and the angel of peace, with her wings of
 light, was hovering over a regenerated land.</p>
@@ -603,11 +525,7 @@ I will not call them men, who have for years past rioted in wealth,
 wrought from the tears, groans, sighs, blood, and outraged virtue of
 their fellow-man-who have been schooled in lowest vice, and educated
 in blackest
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="19" facs="tousey19.jpg"/>
 crime from their infancy--whose heart is treason, and breath
 pollution. Men who can deliberately, and with set purpose, murder by
 the slow torture of starvation tens of thousands of innocent prisoners
@@ -634,11 +552,7 @@ trust men guilty of murder and treason for devils are devils still in
 hell or heaven. When God shall welcome Satan back to heaven, <hi rend="italic">then</hi> it may be safe; <hi rend="italic">but not till
 then!</hi> When nature's laws can be broken and the offender escape
 the penalty--when the eternal principles of mercy and
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="20" facs="tousey20.jpg"/>
 justice can be overthrown and no calamities result-when law and order
 give place to anarchy and disorder, and no evil ensue-then it may be
 safe to let leading traitors go unhung-but not till then.</p>
@@ -663,11 +577,7 @@ my ear, I said the American people will yet learn that <hi rend="italic">treason
 alter or amend that opinion. There was danger before. We were "losing
 a just appreciation of the awful crimes of this rebellion." It seemed
 doubtful whether Gen. GRANT or
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="21" facs="tousey21.jpg"/>
 Gen. LEE was to be the hero of our times. But this fresh and horrible
 outbreak of the Satanic character of the rebellion has already aroused
 anew the American heart and kindled afresh the slumbering fires of our
@@ -694,11 +604,7 @@ overtake them.</p>
                <p>Too well we know that "we can never secure indemnity for the past,
 for our wasted treasure and blood more precious than gold;" but by the
 help of God, we will "exact
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="22" facs="tousey22.jpg"/>
 ample security for the future." Security for the future--that is
 all. Nothing from malice, nothing from revenge. I have no personal
 hate towards even a rebel. I would feed him and bind up his wounds,
@@ -725,11 +631,7 @@ undeviating course. All that I have, life, limb and property, have
 been put at the disposal of the country in this great struggle. I have
 been in camp, I have been in the field, I have been, everywhere where
 this
-<pb n="23"/>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="23" facs="tousey23.jpg"/>
 great rebellion is; I have pursued it till I believe I can now see,
 its termination. Since the world began, there has never been a
 rebellion of such gigantic proportions, so infamous in character, so
@@ -756,11 +658,7 @@ thus indicated!</p>
 hour-amid the tears and sighs of a stricken nation--around the open
 grave of our murdered but glorified President--with the spirits of
 Washington,
-<pb n="24"/>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of Thomas
-Tousey's Discourse on the Death of Abraham Lincoln.</figDesc>
-                  </figure>
+<pb n="24" facs="tousey24.jpg"/>
 ADAMS and JEFFERSON, and a host of other worthies of, Revolutionary
 days looking down upon us, and the eye of the world intently
 glazing--nay, with the Searcher of Hearts scanning our motives and

@@ -77,13 +77,7 @@ Clark</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15rc5</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of J. T. Tucker's A
-Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="tucker1.jpg"/>
             <p>A</p>
             <p>DISCOURSE</p>
             <p>IN MEMORY OF OUR LATE PRESIDENT,</p>
@@ -96,14 +90,7 @@ Lincoln.</figDesc>
             <p>HOLLISTON:</p>
             <p>PLIMPTON &amp; CLARK.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="tucker2.jpg"/>
             <p>NOTE.</p>
             <p>Fully satisfied as I am of the justness of the conclusions reached
 in this discourse, my purpose in giving it to the public is not so
@@ -115,14 +102,7 @@ pages are sent to the press.</p>
             <p>LAWNSIDE,</p>
             <p>Holliston,</p>
             <p>June 5th, 1865.</p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="3" facs="tucker3.jpg"/>
             <div2 xml:id="tucker.002" n="DISCOURSE." type="sermon">
                <head>DISCOURSE.</head>
                <epigraph>
@@ -156,14 +136,7 @@ nations."<ref target="#tucker.002.n01">*</ref></p>
 Jews. All other nations, <hi rend="italic">ethnoi</hi>, to them were
 heathen. V. LXX. <hi rend="italic">in loco</hi>.</p>
                </note>
-               <pb n="4"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>4th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="4" facs="tucker4.jpg"/>
                <p>to all the loyal people of this Republic, by its present Executive,
 summoning us to a memorial service for him, the late occupant of that
 high station, so ruthlessly cut off in the midst of his days. In the
@@ -196,14 +169,7 @@ to-day build up a monument of honest, truthful words commemorative of
 our last great chief, which shall also help to keep his virtues, and
 his noble quarrel with gigantic wrong, fresh and fragrant in the
 memories of our children, and our children's children.</p>
-               <pb n="5"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>5th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="5" facs="tucker5.jpg"/>
                <p>If the labor which we thus assume be difficult, it is not because
 the subject in itself is either intricate or obscure. Within the whole
 range of my historical reading, I know of no public character more
@@ -236,12 +202,7 @@ its glorious summit.</p>
                <p>The nation felt it, and loved and honored the man who had taken off
 the stricture from their lungs, the bandage from their eyes. It is a
 grand thing to look at--how heartily the
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of J. T. Tucker's
-A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="tucker6.jpg"/>
 millions will rally around a leader who shows himself worthy of their
 trust. They have been cheated so often and so bitterly, from the days
 of Saul to the last Napoleon, that you would think they never would
@@ -275,12 +236,7 @@ same manly probity and purity.</p>
                <p>A few years include all that history will claim of Mr. Lincoln's
 career. Within a decade his name begun to meet our eye in the public
 journals, as a shrewd, popular, self educated
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of J. T. Tucker's
-A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="tucker7.jpg"/>
 Illinois attorney, who was taking the field as a political antagonist
 of slave-extension in our country. Since then, his life has been a
 unit in its purpose, law and end. He entered the lists against the
@@ -313,12 +269,7 @@ took his oath of office to hold the Republic safe and intact against
 all foes. He was put in trust of this by the people of the land who
 love it as their home; and his heart and head had taught him the
 duties of a trustee, for one--for myriads of men. Had the Republic
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of J. T. Tucker's
-A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="tucker8.jpg"/>
 been imperrilled by a foreign invader, he would have set its whole
 strength in motion to repel the assault. Had Massachusetts attempted
 rebellion and secession, or all the North combined in such unholy
@@ -351,12 +302,7 @@ and this, against the pleadings of his own natural pity, against the
 peaceful tendencies and sentiments of a progressive Christian
 civilization, against every thing human and divine, save that most
 humane and
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of J. T. Tucker's
-A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="tucker9.jpg"/>
 sacred duty of preventing a gigantic conspiracy of treason and of
 wickedness from doing the very thing for our Republic which it did
 succeed, in an evil hour, in doing for its honored head. The President
@@ -389,12 +335,7 @@ could not be saved without it. That he had sworn to do, if done it
 could be. When he had tried all else to effect it, he let slip the one
 last thunderbolt. He did it, not because as a man he was anti-slavery
 in sentiment, not because he was ready to use his
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="tucker10.jpg"/>
 public power to break up what he knew was unutterably evil and
 troublesome, that he might so gratify the compassion of' his own
 nature or the wishes of partizans, or gain applause from spectators
@@ -427,12 +368,7 @@ police. His flight to a foreign obscurity would never have been
 hindered. How well nigh impossible it was to procure the presidential
 consent to a death-sentence by court-martial, has become
 proverbial. Says Mr. Speaker Colfax,
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="tucker11.jpg"/>
 in his Chicago oration: "No man, in our era, clothed with such vast
 power, has ever used it so mercifully. No ruler, holding the keys of
 life and death, ever pardoned so many and so easily. When friends said
@@ -465,12 +401,7 @@ chief.</p>
                <p>Some doleful censor has compared Mr. Lincoln's indulgence in
 story-telling and a genial laugh to Nero's fiddling, up in that little
 grim tower, while Rome was burning. Verily, the
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="12" facs="tucker12.jpg"/>
 running of historical parallels is "a sharp razor working deceitfully"
 in not a few hands. Our President's humor was as natural as his
 pulse. It never could have welled up so sweetly and richly from a
@@ -503,12 +434,7 @@ kind of Poor Richard honesty which is only the best policy. It was an
 honesty which feared God. What commended itself, at first, as a lofty
 moral conscientiousness, had taken on, at length, the profounder depth
 of a religious affection. What had long ap-
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="tucker13.jpg"/>
 proved itself as doing justly and loving mercy, had manifestly
 advanced to the loftier eminence of walking humbly with its God. There
 was no cant nor pretension about this, but, a sedate, fixed,
@@ -541,12 +467,7 @@ industrial nation, and to fit it with warlike resources equal to the
 conquest of one half the republic which had been organizing for
 rebellion during a quarter of a century; all this with no notice and
 in the very presence of the
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="tucker14.jpg"/>
 enemy actually besieging his capital. Did he, and his generals, and
 his cabinet do some unwise things? Let writers and speakers criticize
 these, who have no sight to see approvingly that the Washington, which
@@ -583,14 +504,7 @@ What ruler, through the ages, has left a worthier record?</p>
                   <p>Hon. George Bancroft's Oration in New York,
 April, 1865.</p>
                </note>
-               <pb n="15"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="15" facs="tucker15.jpg"/>
                <p>The topic is alluring, but it is time for its concluding
 suggestions. Our annals are enriched with another rare model for
 youthful study and imitation, second only to that of the Father of our
@@ -621,12 +535,7 @@ help to lift our national character and name to the loftiest point of
 a manly and a Christian honor.</p>
                <p>Another view: Divine Providence is furnishing, through the progress
 and end of this rebellion, a more palpable
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="tucker16.jpg"/>
 illustration of the self-defeating doom of enormous iniquity, than
 history records since the crucifixion of our Lord. Every success which
 the South has won has been a defeat. Bull Run was the Bunker Hill of
@@ -659,12 +568,7 @@ act. The London Times demanded, with a well-set scowl of rebuke, that
 the South should wash its hands of the crimson stain. Has it been
 done? Not a beginning of it. Even Mr. Mason's weak disavowal,
 compelled by
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="tucker17.jpg"/>
 public decency, has found no echo from a rebel statesman or newspaper
 or convention that I have beard of. The spirit of the rebellion
 sanctions it, and of course can not eschew it. Mr. Davis even is not
@@ -697,12 +601,7 @@ definition, for all time, in the bloodiest of tragedies, and the most
 grotesque of farces.</p>
                <p>Again: The Sovereign of us all is teaching us a lesson of the
 sacredness of legitimate government, and the necessity of
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="18" facs="tucker18.jpg"/>
 executing its sanctions. The enormity of the assassination of our
 President lies not, after all, in his personal qualities as a good
 ruler, nor in the justness of the cause for which he fell a
@@ -736,12 +635,7 @@ to let this conspiracy of traitors and assassins live. Their blood
 must vindicate the majesty of law, in mercy to this nation and to the
 world. We are in charge, at this time, of the safe-keeping of that
 great barrier which is built
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="19" facs="tucker19.jpg"/>
 up of the penalties of the statute-book against the floods of outlawry
 ever threatening the public security. And we must hold that barrier
 firmly, sternly, in these days when "evil men and seducers are waxing
@@ -775,12 +669,7 @@ outraged righteousness, justice, mercy and truth. Humanity demands it,
 as God's own sentence against guilt like this.</p>
                <p>Finally: The vast difficulty of securing our present vantage, in
 this conflict, should put the nation on its guard lest
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="20" facs="tucker20.jpg"/>
 it lose in peace what it has gained in war.<ref target="#tucker.002.n03">*</ref> We have broken up the
 military power of the rebellion by hard fighting; but now we shall
 have a more troublesome task--to hold the ground thus fairly won, in
@@ -817,14 +706,7 @@ the author's Fast Day sermon, April 13, 1865; which was requested for
 publication, but the next day's tidings absorbed all other
 interests.</p>
                </note>
-               <pb n="21"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of
-J. T. Tucker's A Discourse in Memory of our Late President, Abraham
-Lincoln.</figDesc>
-                  </figure>
-               </p>
+               <pb n="21" facs="tucker21.jpg"/>
                <p>criminals, will never want apologists. We have suffered too much to
 give an inch of ground here. If the administration needs instructions,
 it should have them, in a voice of millions, to make no terms
