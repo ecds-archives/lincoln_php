@@ -78,13 +78,7 @@ Printer</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15r6g</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Morris C. Sutphen's
-Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb facs="sutphen1.jpg"/>
             <p>ON THE OCCASION OF THE DEATH OF</p>
             <p>ABRAHAM LINCOLN,</p>
             <p>LATE</p>
@@ -97,22 +91,8 @@ Lincoln.</figDesc>
             <p>JAS.  B. RODGERS, PRINTER, 52 &amp; 54 NORTH
 SIXTH STREET.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>2nd page of
-Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="sutphen2.jpg"/>
+            <pb n="3" facs="sutphen3.jpg"/>
             <p>Philadelphia, Sabbath, April 16th, 1865.</p>
             <p>Rev. Morris
 C. Sutphen:</p>
@@ -150,14 +130,7 @@ Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
 Lincoln.</figDesc>
                </figure>
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-Morris C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="sutphen5.jpg"/>
             <div2 xml:id="sutphen.002" n="DISCOURSE." type="sermon">
                <head>DISCOURSE.</head>
                <epigraph>
@@ -177,12 +150,7 @@ to-day they fall gloomily at half-mast. A funeral pall has suddenly
 settled upon city and country, like that which shrouded Egypt on the
 memorable night of the universal slaughter of her first-born--from the
 first-born of Pharaoh on the throne, to the first-born of the
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="6" facs="sutphen6.jpg"/>
 captive in the dungeon, and the first-born of the cattle in the
 stall. In one short hour silence and sorrow, darkness and distress,
 weeping and wailing, have supplanted light and life, happiness and
@@ -206,12 +174,7 @@ the loved head of a nation.</p>
 Magistrate is so suddenly dashed from the high place of power, that
 the people mourn. This heavy blow we have felt once and again
 before. Two Pre-
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="7" facs="sutphen7.jpg"/>
 sidents have been removed while still in office, since the foundation
 of the Republic. General William Henry Harrison was called away after
 a month's service; General Zachary Taylor, after a little more than a
@@ -235,12 +198,7 @@ overwhelming as to be almost unprecedented, were evidence that on him,
 above all his countrymen, rested the popular confidence. The painful
 solicitude, also, which filled our hearts, on the occasion of his
 first and second inauguration, argues that to him
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="8" facs="sutphen8.jpg"/>
 all eyes were looking. And if further testimony to this point were
 needed, we might find it in the anxiety, and I may almost say alarm,
 which was experienced when the recent infirmity of his health was
@@ -264,12 +222,7 @@ our affairs during the four years of difficulty recently
 ended</hi>. For, recall the troubles that beset him at the time of his
 entrance upon office. The capital swarmed with traitors, and approach
 to it was barred by armed assassins lurking for his life. Secretly
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="9" facs="sutphen9.jpg"/>
 was he hurried at the dead hour of night, through the bullets and
 bowie knives of his would-be murderers, to Washington. Protected by
 hastily summoned detachments of soldiery, he was safely inducted into
@@ -292,12 +245,7 @@ people. Thanks to God, that he was permitted to see the surrender of
 the army, in which treason specially trusted and boasted, and to order
 the suspension of conscription throughout the land.  Thanks to God, he
 was permitted to
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="10" facs="sutphen10.jpg"/>
 lead the people he loved to the verge of the promised land, and
 himself to behold it, if not to enter it. Truly, as, in token of
 vindicated federal authority throughout the land, the national banner
@@ -321,12 +269,7 @@ human nature. And he proved his sagacity in the men he called to be
 his counsellors; as also in the measures he originated, perfected, and
 executed. The manner, too, in which he moderated the bitter passions
 of opposing partisans, and mediated between
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="11" facs="sutphen11.jpg"/>
 the warring factions of friendly supporters, and educated the
 slow-moving masses up to the desire and the determination, of the
 perpetuity of the Union, and the universal prevalence of liberty,
@@ -349,12 +292,7 @@ at least to his loss. Instance's could be produced, in which he
 discouraged litigation on the part of his clients, at the expense of
 profitable employment. Truly, if an honest man is the noblest work of
 God, the dispassionate judgment of mankind will
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="12" facs="sutphen12.jpg"/>
 enroll Abraham Lincoln among the princes of the race.</p>
                <p>And if he had honesty as a citizen, he had <hi rend="italic">integrity</hi> as a ruler. In all his official acts he
 showed most praiseworthy disinterestedness. I am not aware that he has
@@ -375,12 +313,7 @@ the country derived high expectation.</p>
                <p>Another eminent quality of the lamented dead, which made him so
 largely the nation's delight and dependence, was his broad-hearted <hi rend="italic">benevolence</hi>.  Indeed, he was by common consent kind
 to a fault; and it may well be questioned whether to his overflow-
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="13" facs="sutphen13.jpg"/>
 ing tenderness, we owe not indirectly, our sore bereavement. He seemed
 incapable of revenge or hatred, or even suspicion. Look at the lenity
 he has exhibited towards treason. Verily, the leaders of this most
@@ -403,12 +336,7 @@ to the interests intrusted to him would allow. Yea more, the very last
 speech he delivered was a plea for his liberal plan of state, instead
 of territorial, reconstruction. Rarely, if ever, did a human heart
 beat with purer, kindlier impulses; and no won-
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="14" facs="sutphen14.jpg"/>
 der that the nation loved him, and looked to him, as to no other
 functionary, civil or military, for the reduction of the rebellion of
 Southern hearts, as well as the rebellion of Southern hands.</p>
@@ -431,12 +359,7 @@ disappointment of the crowd collected in promise of the presence of
 the absent Lieutenant-General, I find it not impossible to think of
 him among the blood-bought throng of martyrs--himself a martyr in one
 of the holiest causes that ever demanded the sacrifice of
-<pb n="15"/>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="15" facs="sutphen15.jpg"/>
 human life. But whether he was a possessor of piety or not, he was
 unquestionably a believer in prayer. Indeed, it is asserted that it
 was his custom to spend an early hour each morning in private
@@ -459,12 +382,7 @@ honesty, in wisdom, and in experience of the conduct of troubled
 affairs of state, was the destruction of the nation's hope. No wonder
 that at this seemingly irreparable loss, lion-hearted men, as well as
 timid-hearted women, are moved to fears, as well as melted
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="16" facs="sutphen16.jpg"/>
 to tears, and that doubt, and despondency, and dismay, should depict
 themselves on all faces throughout the land.</p>
                <p>But should we yield to discouragement and despair, because of this
@@ -490,12 +408,7 @@ there is light in this dark dispensation.</p>
                </lg>
                <p>It is his province and prerogative to bring good out of evil; and
 how often has he turned the gloomi-
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="17" facs="sutphen17.jpg"/>
 ness of his people into gladness. How perplexing the providence which
 removed Moses, the distinguished leader and lawgiver of Israel, just
 as the chosen people were about to enter the land of promise, and
@@ -518,12 +431,7 @@ consistency with his glory and our good, without breaking this strong
 staff upon which we were leaning? If he had been spared to complete
 our deliverance, would not much of the glory due to the Creator have
 been ac
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="18" facs="sutphen18.jpg"/>
 corded to the creature; and. has not the Most High, in destroying our
 human hope, answered the prayers which from the beginning the church
 has offered, that He would so signally interpose for our rescue, that
@@ -546,12 +454,7 @@ murderer, until he had finished the particular work for which he was
 fitted, until he had seen the banner of the Union elevated in triumph
 over both the cradle and the capital of secession, took him up to the
 higher duties and delights of the heavenly world,
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of Morris
-C. Sutphen's Discourse on the Occasion of the Death of Abraham
-Lincoln.</figDesc>
-                  </figure>
+<pb n="19" facs="sutphen19.jpg"/>
 that one educated among the Southern people, well acquainted with
 their peculiar prejudices, and already largely experienced in the work
 of reconstruction, might accomplish this delicate and difficult task?

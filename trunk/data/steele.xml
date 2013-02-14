@@ -77,12 +77,7 @@ Anglen's Press</publisher>
                    
                <idno type="ark">http://pid.emory.edu/ark:/25593/15r46</idno></bibl> 
             </head>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of Rev. Richard
-H. Steele's Victory and Mourning.</figDesc>
-               </figure>
-            </p>
+            <pb facs="steele1.jpg"/>
             <p>Victory and Mourning.</p>
             <p>A</p>
             <p>SERMON</p>
@@ -100,20 +95,8 @@ H. Steele's Victory and Mourning.</figDesc>
             <p>TERHUNE &amp; VAN ANGLEN'S PRESS,
 ALBANY ST.</p>
             <p>1865.</p>
-            <pb n="2"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>1st page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-               </figure>
-            </p>
-            <pb n="3"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>3rd page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-               </figure>
-            </p>
+            <pb n="2" facs="steele2.jpg"/>
+            <pb n="3" facs="steele3.jpg"/>
             <p>Correspondence.</p>
             <p>NEW-BRUNSWICK, JUNE 1ST, 1865.</p>
             <p>REV. RICHARD H. STEELE,</p>
@@ -154,13 +137,7 @@ H. STEELE.</p>
 Rev. Richard H. Steele's Victory and Mourning.</figDesc>
                </figure>
             </p> -->
-            <pb n="5"/>
-            <p>
-               <figure><graphic url=""/>
-                  <figDesc>5th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-               </figure>
-            </p>
+            <pb n="5" facs="steele5.jpg"/>
             <div2 xml:id="steele.002" n="SERMON" type="sermon">
                <head>SERMON.</head>
                <epigraph>
@@ -185,11 +162,7 @@ and his whole army--The work of Palm Sunday. This was the climax of
 glad tidings, and after the four long dark dreary years, years in
 which the heart staggered under its great burden of wo, we do not
 wonder, that the people almost ran wild with excitement. The
-<pb n="6"/>
-                  <figure><graphic url=""/>
-                     <figDesc>6th page of Rev. Richard
-H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="6" facs="steele6.jpg"/>
 official congratulation from the Secretary of War to the commander of
 our armies, "Thanks be to Almighty God for the great victory with
 which he has this day crowned you and the gallant armies under your
@@ -215,11 +188,7 @@ territories; that the pestilence was stayed in its ravages; and the
 thunder cloud of war was rolling away from our political skies as the
 exhausted storm dies along the heavens. We felt that the weary nation
 would now start again in its career of greatness, purified by
-<pb n="7"/>
-                  <figure><graphic url=""/>
-                     <figDesc>7th page of Rev. Richard
-H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="7" facs="steele7.jpg"/>
 suffering, and make its way through the ages. All these emotions, and
 even more, than the most exuberant fancy could kindle, sent their
 surge of joy over the soul.</p>
@@ -246,11 +215,7 @@ was now prostrated in the dust, speaking in hushed voice and with
 bated breath. During all day long we could not realize the greatness
 of the calamity, in the greatness of our grief. We could only ask, can
 it be that the Presi
-<pb n="8"/>
-                  <figure><graphic url=""/>
-                     <figDesc>8th page of Rev. Richard
-H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="8" facs="steele8.jpg"/>
 dent of the United States, the honored representative of the dignity
 and authority of our government; the chosen man of the people after
 four years of severe trial; the man whose unfaltering integrity had
@@ -275,11 +240,7 @@ funeral marches; and in the place of long processions moving through
 our streets beneath gaily decorated banners and exulting with glad
 voices, lo! yonder funeral train starting from the capital, bearing
 with them, as in ancient days the children of Israel did the body of
-<pb n="9"/>
-                  <figure><graphic url=""/>
-                     <figDesc>9th page of Rev. Richard
-H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="9" facs="steele9.jpg"/>
 Joseph, the remains of our Chief Magistrate through the cities and
 villages of the land to his distant place of burial, among the people
 who knew and loved him well, and a nation following the bier as
@@ -306,11 +267,7 @@ which has followed the funeral march of Abraham Lincoln to his burial
 place at Springfield. In yonder city I stood for two hours beholding
 the funeral pageant following the train of the dead chieftain. And as
 his remains were born past the throng,
-<pb n="10"/>
-                  <figure><graphic url=""/>
-                     <figDesc>10th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="10" facs="steele10.jpg"/>
 with uncovered head, and reverent mien, and moistened eye, the whole
 great crowd bowed down in grief. The heart of the nation was touched,
 and every household felt the sad shock of personal bereavement. "Far
@@ -338,11 +295,7 @@ more especially during the closing months of his life. There was
 something peculiar in the cast of his mind; and the elements that went
 to make up his character were of such a remarkable type, that he won
 largely the popular heart.  In forming an
-<pb n="11"/>
-                  <figure><graphic url=""/>
-                     <figDesc>11th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="11" facs="steele11.jpg"/>
 estimate of the man there are some things that we are to take into the
 account, which do not come into the calculation in weighing other
 characters. We must take our estimate from the circumstances of his
@@ -369,11 +322,7 @@ Lincoln. He was in close sympathy with the people, and had an openness
 of heart which won for him the deepest affections of those who were
 around him; and going beyond that circle for the same reason, there
 were thousands who knew the
-<pb n="12"/>
-                  <figure><graphic url=""/>
-                     <figDesc>12th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="12" facs="steele12.jpg"/>
 man only by his life, who felt toward him all the warmth of personal
 attachment.</p>
                <p>In the character of his mind, and modes of thought and expression,
@@ -400,11 +349,7 @@ style of his composition was formed after no model, and is not marked
 out by the rules of the rhetorician, yet we cannot fail to trace in
 those terse, shrewd sentences, a resemblance to the great Christian
 dreamer.  There is
-<pb n="13"/>
-                  <figure><graphic url=""/>
-                     <figDesc>13th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="13" facs="steele13.jpg"/>
 nothing elegant in them as a whole, yet now and then a thought would
 break from his lips with all the sparkling freshness of Addison; and
 although it sometimes lacked a precision such as we look for in close
@@ -430,11 +375,7 @@ remarkable man from an obscure family subsisting by manual toil,
 laboring with his own hands for daily maintenance, having few
 advantages of education, and of a fixed integrity of heart, combined
 with rare native talents, is first heard of as a diligent and suc
-<pb n="14"/>
-                  <figure><graphic url=""/>
-                     <figDesc>14th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="14" facs="steele14.jpg"/>
 cessful village lawyer; then takes his seat in the lower house of
 Congress; is next seen canvassing his adopted State in rivalship with
 the accomplished orator Stephen A. Douglas for the Senate of the
@@ -461,13 +402,7 @@ rebellion of the world; and the future sculptor will place high up on
 the pedestal of fame the perhaps externally ungraceful, but truly
 noble figure of Abraham Lincoln, as the great vindicator and conserver
 of our popular form of free institutions.</p>
-               <pb n="15"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>15th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
-               </p>
+               <pb n="15" facs="steele15.jpg"/>
                <p>Passing from the man himself to the <hi rend="italic">position that
 he occupied</hi>, and the <hi rend="italic">circumstances of his
 death</hi>, we justify the mourning of the nation when we reflect that
@@ -494,11 +429,7 @@ leave our brave boys prisoners in their power to starve, and perish by
 idiotcy induced by cruelties at which a savage would shudder, as at
 Andersonville and Saulsbury, and Belle Island, and Libby Prison; I
 believe
-<pb n="16"/>
-                  <figure><graphic url=""/>
-                     <figDesc>16th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="16" facs="steele16.jpg"/>
 that the men who could approve the massacre at Fort Pillow in which
 men in the service of their country, disarmed and unresisting
 prisoners, were buried alive, and shot down like wild beasts; I
@@ -524,11 +455,7 @@ the overthrow of a Government which they could not accomplish by the
 system of honorable warfare.</p>
                <p>While we know that there are thousands at the South who look upon
 this closing drama of rebellion
-<pb n="17"/>
-                  <figure><graphic url=""/>
-                     <figDesc>17th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="17" facs="steele17.jpg"/>
 with the same horror that we do at, the North; yet the men who stand
 connected with the deeds I have enumerated are today exulting in this
 deed of blood. It was a plan of long standing, and now in the
@@ -556,11 +483,7 @@ difficult questions about reconstruction, which will need the wisest
 statesmanship to carry us successfully through.  But I leave it to
 others to discuss the various measures which seem the best adapted to
 promote
-<pb n="18"/>
-                  <figure><graphic url=""/>
-                     <figDesc>18th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="18" facs="steele18.jpg"/>
 the restoration of our beloved land,--and I find that many are lavish
 in their recommendations to our Chief Magistrate as to what course he
 bad better pursue. We are very willing to leave all these questions in
@@ -586,11 +509,7 @@ confidence in our cause, in Government, in Justice, in God: but how
 near did we come to ruin. What terrible disasters have we experienced!
 What wholesale jealousy among our officers, amounting almost to
 treachery! What incompetent generals at the head of our armies! 
-<pb n="19"/>
-                  <figure><graphic url=""/>
-                     <figDesc>19th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="19" facs="steele19.jpg"/>
 We were sorely tried and sometimes painfully discouraged. We cannot
 forget the gloom which hung over the loyal North during the first
 years of the struggle, the sadness that attended the repulse of our
@@ -616,11 +535,7 @@ hosts on our Northern soil in the darkest day of the rebellion; we
 beheld with astonishment the noble Sherman sweeping down from
 Chattanooga, fighting his way through passes and defiles which the
 engineers of Napoleon's army on their way over the
-<pb n="20"/>
-                  <figure><graphic url=""/>
-                     <figDesc>20th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="20" facs="steele20.jpg"/>
 Alps never encountered, opening through the gates of Atlanta the key
 to the heart of the Confederacy, then marching through Georgia to
 Savannah, and upward through the Carolinas, sweeping the chivalry of
@@ -648,11 +563,7 @@ alone maketh us to triumph.</p>
                </p>
                <p>If any man has lingering doubt on the subject, the recent Amnesty
 Proclamation of President Johnson
-<pb n="21"/>
-                  <figure><graphic url=""/>
-                     <figDesc>21st page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="21" facs="steele21.jpg"/>
 must be the last argument, and it will bring conviction to even the
 most reluctant understanding. Slavery is dead, and buried so deep that
 it can never be raised again.  This is now an accepted fact, and one
@@ -678,11 +589,7 @@ had been removed gradually and by the arts of peace. But if its end is
 near at hand, violently if it must be so, let all the people say
 Amen. To President Lincoln will belong the honor of giving to four
 millions of slaves the station of freemen, and
-<pb n="22"/>
-                  <figure><graphic url=""/>
-                     <figDesc>22nd page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="22" facs="steele22.jpg"/>
 they are among the chief mourners to-day, all over the land. It has
 long been the settled conviction of the great mass of people in this
 country, that a system like this cannot stand. The framers of our
@@ -710,11 +617,7 @@ of what he would do if they dared so much as whisper treason, and they
 knew the man too well to lift so much as their little finger against
 the government. But all this did not destroy this spirit of
 secession. It still lived, and it has been
-<pb n="23"/>
-                  <figure><graphic url=""/>
-                     <figDesc>23rd page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="23" facs="steele23.jpg"/>
 vexing this nation in every political contest for these thirty five
 years. And now it is dead--twice dead and plucked up by the roots. It
 has given us a hard struggle, millions on millions of property, and
@@ -740,11 +643,7 @@ been fighting with desperate men engaged in a desperate, cause; and
 had it succeeded it would have been for all time the darkest page in
 the world's history. But it has not lived. The surrender of great
 armies has been its dying gasp; and the work by
-<pb n="24"/>
-                  <figure><graphic url=""/>
-                     <figDesc>24th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="24" facs="steele24.jpg"/>
 President Lincoln under God, has been so complete, that we are left to
 gaze in perfect wonder on the dissolving scene.</p>
                <p>4. <hi rend="italic">God means to show us that he alone gives the
@@ -771,13 +670,7 @@ inspiration from above. In every decisive conflict of the world they
 win who are on the righteous side; and it matters not what skill of
 generalship, what prowess of concentrated hosts, what desperate valor
 is arrayed against the right.  The victory is the Lord's.</p>
-               <pb n="25"/>
-               <p>
-                  <figure><graphic url=""/>
-                     <figDesc>25th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
-               </p>
+               <pb n="25" facs="steele25.jpg"/>
                <p>More times than commanders of armies are willing to acknowledge has
 it been shown, that the race is not to the swift, nor the battle to
 the strong. The feeble David's have crushed the mighty Golioth's, and
@@ -803,11 +696,7 @@ completed work; and he whom we lament to day acknowledged that while
 he labored with a patient heart, the result was the Lord's. All honor
 to our noble armies on their homeward march, and soon to mingle with
 us in the
-<pb n="26"/>
-                  <figure><graphic url=""/>
-                     <figDesc>26th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="26" facs="steele26.jpg"/>
 peaceful scenes of industrial life. But while they fought so valiantly
 in the field, to them as to the Prophet of Israel, the mountain was
 covered with horses and chariots of fire, and God was in the
@@ -836,11 +725,7 @@ might pierce his heart.</p>
                <p>But the leaders of the nation during that awful night did not waver
 for a moment in their allegiance to the government. In a short time
 after the death
-<pb n="27"/>
-                  <figure><graphic url=""/>
-                     <figDesc>27th page of
-Rev. Richard H. Steele's Victory and Mourning.</figDesc>
-                  </figure>
+<pb n="27" facs="steele27.jpg"/>
 of the President, they assembled in the presence of Andrew Johnson,
 and gave him the same loyal support which they had rendered to his
 martyred predecessor. The dignity and glory of our institutions
