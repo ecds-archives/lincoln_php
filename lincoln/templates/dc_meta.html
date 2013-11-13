@@ -1,0 +1,15 @@
+{% comment %}Output Dublin Core metadata in html header format
+expects a dictionary named dc_fields with dc field names for keys and list of values
+NOTE: template tags are grouped below to reduce unnecessary whitespace/blank lines
+{% endcomment %}
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<meta name="DC.title" content="{{dc_fields.title}}" />
+<meta name="DC.creator" content="{{dc_fields.author}}" />
+<meta name="DC.publisher" content="{{dc_fields.doct.publisher}}" />
+<meta name="DC.date" content="{{dc_fields.doct.publication_date}}" />
+<meta name="DC.rights" content="{{dc_fields.doct.rights}}" />
+<meta name="DC.source" content="{{dc_fields.doct.source}}" />
+<meta name="DC.relation" content="{{dc_fields.doct.relation}}" />
+<meta name="DC.description" content="{{dc_fields.doct.project_desc}}" />
+<meta name="DC.identifier" content="{{dc_fields.identifier}}" />
