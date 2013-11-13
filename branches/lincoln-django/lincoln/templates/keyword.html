@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block pagetitle %} Search Results: Keyword in Context {% endblock %}
+
+{% block content %}
+<div class="content">
+<div class="title"><a href="{% url home %}"></a></div>
+<h2>Keyword in Context</h2>
+<div class="kwic"><p><a href="{% url doc_display doc.id %}">{{doc.title }}, {{doc.author}}.</a>
+
+{% if doc %}
+  {% if format %}
+    {{ format|safe }}
+  {% else %}
+    <p>No format</p>
+  {% endif %}
+{% else %}
+    <p>Nothing found</p>
+{% endif %}
+
+<p class="clear">&nbsp;</p>
+</div>
+
+{% endblock %}

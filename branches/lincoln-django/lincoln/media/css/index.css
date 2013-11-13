@@ -1,0 +1,100 @@
+ @import "lincoln.css";
+
+ div.index {
+           text-align:left;      
+           border: 3px solid #000033;
+           width:8in;
+           height: 4.5in;
+           margin:auto;
+           margin-top:1in
+           }
+           
+body {
+     text-align:center;
+     }
+
+* html div.index {
+                 /* This is the Tan Hack for IE */
+                 height: 4.7in;
+                 h\eight: 4.5in;
+                 } 
+     
+ div.nav {
+        float: left;
+        font-family: "Book Antiqua", "Times",serif;
+        font-size: 175%;
+        color: #000033;
+        margin-left: 0.5in;
+        }
+        
+div.nav p {
+           border-left: 4px solid #000033;
+           padding-left:5px;
+           margin-top: 2.25in;
+           }
+  
+  a {
+    text-decoration: none
+    }
+
+div.img {
+        float:left;
+        margin-top: 1in;
+        padding-left: 0.25in;
+        padding-right: 0.25in;
+       margin-bottom:0.1in;
+        }
+
+p#resources {
+            clear: both;
+            border: 2px solid #000033;
+            margin: 0.25in;
+            margin-bottom: -12px;
+            text-align: center;
+            }
+
+p#libraries {
+            float: left;
+            margin-left:0.25in;
+            margin-top: 0.25in;
+           /* border: 2px solid #FF0000;*/
+            }
+
+p#emory {
+        float: right;
+        margin-right:0.25in;
+        margin-top: 0.25in;
+        /*border: 2px solid #FF0000;*/
+        }
+        
+p#indexsearchbox{
+          width:2in;
+          w/idth: 1.5in;
+          text-align:center;
+          /*margin-top:0.25in; margin-bottom:0.25in;*/
+          margin: 0.25in 0.5in 0.25in 0.5in;
+          
+                  
+          }
+
+p.links a {
+          font-size: 125%
+          }
+
+div.title h1 {
+             font-family: "Book Antiqua", "Times",serif;
+             font-size: 50pt;
+             margin-top: 0.25in;
+             line-height:45pt;
+             }
+
+h2 {
+   font-family: "Book Antiqua", "Times",serif;
+   width: 2.25in;
+   float:right;
+   margin-top:-23px;
+   margin-right: 0.25in;
+   font-size:17pt;
+   line-height:17pt;}
+
+

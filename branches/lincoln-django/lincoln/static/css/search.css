@@ -1,0 +1,9 @@
+@import "lincoln.css";
+
+/*setting to disable the keyword searchbox in the header */
+div#headersearchbox {display:none;}
+
+table.searchresults { width:90%;  border-collapse: collapse; }
+table.searchresults td { border-bottom: 1px solid #cccccc; }
+td.count { width:15%; text-align: center; }
+th.tip { font-size: 85%; font-weight: normal; font-style: italic; text-align: center; }

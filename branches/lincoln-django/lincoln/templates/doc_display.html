@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block meta%}
+{# embed Dublin Core metadata for this finding aid in the html header #}
+  {% with doc  as dc_fields %}
+    {% include "dc_meta.html" %}
+  {% endwith %}
+{% endblock %}
+
+{% block pagetitle %} Sermon: {{doc.author}} - {{doc.title}} {% endblock %}
+
+{% block content %}
+<div class="content">
+
+{% if doc %}
+  {% if format %}
+    {{ format|safe }}
+  {% else %}
+    <p>No format</p>
+  {% endif %}
+{% else %}
+    <p>Nothing found</p>
+{% endif %}
+
+<p class="clear">&nbsp;</p>
+</div>
+
+{% endblock %}

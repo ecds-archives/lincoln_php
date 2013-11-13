@@ -1,0 +1,89 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+      <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<title>The Martyred President: Sermons Given on the Occassion of the
+      Assassination of Abraham Lincoln</title>
+<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/index.css">
+<link rel="shortcut icon" href="{{ STATIC_URL }}images/lincoln.ico">
+<!-- dublin core metadata about the project -->
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+  <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+  <meta name="DC.title" content="The Martyred President: Sermons Given on the Occassion of the  Assassination of Abraham Lincoln"/>
+  <meta name="DC.creator" content="Lewis H. Beck Center for Electronic Collections"/>
+  <meta name="DC.publisher" content="Lewis H. Beck Center for Electronic Collections"/>
+  <meta name="DC.subject" content="Lincoln, Abraham, 1809-1865--Sermons."/>
+  <meta name="DC.subject" content="Lincoln, Abraham, 1809-1865--Death and burial."/>
+  <meta name="DC.subject" content="Sermons, American--19th century."/>
+  <meta name="DC.description" content="Electronic version of 57 sermons written in 1865 after the assassination of Abraham Lincoln."/>
+  <meta name="DC.type" scheme="DCTERMS.DCMIType" content="text"/>
+  <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+  <meta name="DC.identifier" content="http://beck.library.emory.edu/lincoln/"/>
+  <meta name="DC.date" content=""/>
+
+</head>
+<body>
+
+<div class="index">
+
+<div class="nav">
+
+<!-- To add a new link to the list on the left, add the link below and remember to
+change the margin-top property in index.css for div.nav p to lower than 2.25 in to fit the additonal link.-->
+
+    <p>
+        <a href="{% url 'overview' %}">Overview</a>
+        <br>
+       <a href="{% url 'search' %}">Search</a>
+        <br>
+       <a href="{% url 'contents' %}">Contents</a>
+        
+    </p>
+
+</div>
+
+<div class= "img">
+    <img src="{{ STATIC_URL }}images/linc-index-head.gif" width="190" height="241" />
+</div>
+     
+    <div class="title">
+        <h1>The Martyred President</h1>
+        <h2>Sermons Given on the Occasion of the Assassination of Abraham Lincoln</h2>
+    </div>
+
+
+    <p class="links" id="resources">A Joint Project By:
+        <a href="http://www.pitts.emory.edu">Pitts Theology Library</a>
+        <img src="{{ STATIC_URL }}images/star-trans.gif" width="10" height="10" alt="*">
+        <a href="http://web.library.emory.edu/preservation/">Preservation Office</a>
+        <img src="{{ STATIC_URL }}images/star-trans.gif" width="10" height="10" alt="*">
+        <a href="http://beck.library.emory.edu/">Beck Center</a>
+    </p>
+
+    <p class="links" id="libraries">
+        <a href="http://www.emory.edu/libraries.cfm">University Libraries</a>
+    </p>
+    <p class="links" id="emory">
+        <a href="http://www.emory.edu/">Emory University</a>
+    </p>
+    <p id="indexsearchbox">
+    <form name="keywordsearch" action="{# {% url 'search' %} #}" method="get"><p class="searchbox"><b>Search:</b><input id="key" type="text" size="20" name="keyword"><input id="go" type='submit' size="20" value='Go'></p></form>
+    </p>
+
+</div>
+<div class="tracking">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11023816-7");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div>
+</body>
+
+</html>
+ 
